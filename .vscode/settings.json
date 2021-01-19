@@ -1,5 +1,5 @@
 {
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
-    "python.pythonPath": "/home/sidefxs/anaconda3/bin/python"
+    "python.pythonPath": "/opt/conda/bin/python"
 }

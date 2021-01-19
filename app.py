@@ -14,7 +14,7 @@ data = pd.read_csv('ST1.csv')
 
 #Create Dropdown by Licensee
 licensee = data.LICENSEE.unique()
-option = st.selectbox('Select Operator from the list below to update locations', licensee)
+option = st.selectbox('Select Operator from the list below to update locations', sorted(licensee))
 filter_data = data[data['LICENSEE'] == option]
 
 #Map from selected Licensee
