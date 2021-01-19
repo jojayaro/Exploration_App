@@ -1,0 +1,337 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 17 April 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    PEYTO SUNDANCE 1-4-54-22             0497990   ALBERTA CROWN        1024.4M                         
+    100/01-04-054-22W5/00  N   35.3M  W  245.5M    DRAYTON VALLEY       3650.0M                         
+    DEV (C)                              SUNDANCE                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               01-29-054-22W5                  
+                                                                                                        
+    PEYTO SUNDANCE 1-20-54-22            0497991   ALBERTA CROWN        1024.4M                         
+    104/01-20-054-22W5/00  N   35.3M  W  245.5M    DRAYTON VALLEY       3650.0M                         
+    DEV (C)                              SUNDANCE                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               01-29-054-22W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    7GEN HZ KAKWA 3-22-62-4               0493980    UWI:                                               
+    00/15-11-062-04W6/2                              00/05-14-062-04W6/2                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 5-14-62-4                            
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.09                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    RSO HZ 102 HAYTER 15-29-41-1          0494063    UWI:                                               
+    02/15-29-041-01W4/0                              00/14-29-041-01W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     RSO HZ 102 HAYTER 14-29-41-1                       
+
+    ECA HZ WEMBLEY 4-35-71-9              0494854    GROUND ELEVATION                                   
+    100/04-35-071-09W6/00                            745.6                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0633.3 W 0620.7                                  
+
+    ECA HZ 102 WEMBLEY 4-35-71-9          0494855    GROUND ELEVATION                                   
+    102/04-35-071-09W6/00                            745.6                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0633.3 W 0630.7                                  
+
+    ECA HZ 103 WEMBLEY 4-35-71-9          0494866    GROUND ELEVATION                                   
+    103/04-35-071-09W6/00                            745.6                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0633.3 W 0640.7                                  
+
+    ECA HZ WEMBLEY 13-26-71-9             0494874    GROUND ELEVATION                                   
+    100/13-26-071-09W6/00                            745.5                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0633.3 W 0665.7                                  
+
+    SPL 15-35 HZ MARTENH 16-2-74-25       0495267    UWI:                                               
+    00/16-02-074-25W4/2                              03/15-02-074-25W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-35 HZ MARTENH 15-2-74-25                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 15-35 HZ MARTENH 16-2-74-25       0495267    UWI:                                               
+    00/16-02-074-25W4/0                              03/15-02-074-25W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-35 HZ MARTENH 15-2-74-25                    
+
+    SPL 15-35 HZ 102 MARTENH 16-2-74-25   0495268    UWI:                                               
+    02/16-02-074-25W4/2                              03/14-02-074-25W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-35 HZ 102 MARTENH 14-2-74-25                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 15-35 HZ 102 MARTENH 16-2-74-25   0495268    UWI:                                               
+    02/16-02-074-25W4/0                              04/15-02-074-25W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-35 HZ 102 MARTENH 15-2-74-25                
+
+    SPL 15-35 HZ 102 MARTENH 16-2-74-25   0495590    UWI:                                               
+    02/14-02-074-25W4/6                              02/15-02-074-25W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-35 HZ 102 MARTENH 15-2-74-25                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 15-35 HZ 102 MARTENH 14-2-74-25   0495590    UWI:                                               
+    02/14-02-074-25W4/5                              02/15-02-074-25W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-35 HZ 102 MARTENH 15-2-74-25                
+
+    SCL HZ FC705B MCKINLEY 11-29-64-22    0495755    GROUND ELEVATION                                   
+    100/11-29-064-22W5/00                            846.5                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     7050.20                                            
+
+    SCL HZ FC705C ANTEN 14-11-65-23       0495756    UWI:                                               
+    00/14-11-065-23W5/0                              00/11-11-065-23W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     SCL HZ FC705C ANTEN 11-11-65-23                    
+
+                                                     GROUND ELEVATION                                   
+                                                     846.5                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     6732.10                                            
+
+    SCL HZ FC705D MCKINLEY 5-29-64-22     0495757    GROUND ELEVATION                                   
+    100/05-29-064-22W5/00                            846.5                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     6895.60                                            
+
+    SCL HZ FC705E ANTEN 16-10-65-23       0495758    GROUND ELEVATION                                   
+    100/16-10-065-23W5/00                            846.5                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     7269.70                                            
+
+    SCL HZ FC705F MCKINLEY 1-30-64-22     0495759    GROUND ELEVATION                                   
+    100/01-30-064-22W5/00                            846.6                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     6889.50                                            
+
+    SPL 6-31 HZ MARTEN 4-30-76-6          0495882    UWI:                                               
+    00/02-30-076-06W5/6                              00/03-30-076-06W5/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 6-31 HZ MARTEN 3-30-76-6                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2600.00                                  
+
+    ARTIS HZ TWINING 2-2-32-25            0496512    UWI:                                               
+    00/02-02-032-25W4/0                              02/07-02-032-25W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     ARTIS HZ TWINING 7-2-32-25                         
+
+    TAC 8-10 HZ PENNY 13-16-9-23          0496752    UWI:                                               
+    00/13-16-009-23W4/2                              00/11-16-009-23W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     TAC 8-10 HZ PENNY 11-16-9-23                       
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM BANFF FM                            
+
+                                                     DRILL CUTTINGS:                                    
+                                                     1075.00 TO 5245.00                                 
+
+    SUMMERLAND HZ FIGURE 11-21-64-16      0496780    UWI:                                               
+    00/03-21-064-16W4/7                              00/07-21-064-16W4/7                                
+
+                                                     WELL NAME:                                         
+                                                     SUMMERLAND HZ FIGURE 7-21-64-16                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     420.00 TO 565.00                                   
+
+    SUMMERLAND HZ FIGURE 3-21-64-16       0496780    UWI:                                               
+    00/03-21-064-16W4/6                              00/11-21-064-16W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     SUMMERLAND HZ FIGURE 11-21-64-16                   
+
+    BAYTEX HZ 100 SLAVE 14-23-84-15       0496864    WELL NAME:                                         
+    100/12-23-084-15W5/05                            BAYTEX HZ 100 SLAVE 12-23                          
+
+    BAYTEX HZ 100 SLAVE 14-23-84-15       0496864    WELL NAME:                                         
+    100/14-23-084-15W5/04                            BAYTEX HZ 100 SLAVE 12-23                          
+
+    BAYTEX HZ SLAVE 3-32-84-15            0496882    UWI:                                               
+    00/02-32-084-15W5/9                              00/03-32-084-15W5/9                                
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM BLUESKY FM                      
+
+    BAYTEX HZ SLAVE 2-32-84-15            0496882    UWI:                                               
+    00/02-32-084-15W5/8                              00/03-32-084-15W5/8                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX HZ SLAVE 3-32-84-15                         
+
+    DELTASTREAM CANAL 14-20-70-23         0496921    UWI:                                               
+    02/13-20-070-23W4/4                              00/14-20-070-23W4/4                                
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.02                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    WLEC MHZ 2B4 PROVOST 1-5-39-2         0497233    UWI:                                               
+    S0/04-04-039-02W4/8                              00/16-32-038-02W4/8                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC MHZ 2B4 PROVOST 16-32-38-2                    
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GENERAL PETROLEUM MBR               
+
+    WLEC 8HZ 1A15 SWIMMING 2-25-52-7      0497330    UWI:                                               
+    02/15-24-052-07W4/5                              00/02-25-052-07W4/5                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM REX MBR                             
+
+    WLEC 8HZ 1A15 SWIMMING 15-24-52-7     0497330    UWI:                                               
+    02/15-24-052-07W4/3                              00/02-25-052-07W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC 8HZ 1A15 SWIMMING 2-25-52-7                   
+
+    CANAMAX HZ CECIL 13-27-84-7           0497362    UWI:                                               
+    00/13-27-084-07W6/0                              00/14-27-084-07W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     CANAMAX HZ CECIL 14-27-84-7                        
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.05                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CHARLIE LAKE FM                     
+
+    NEP 103 HZ LEDUC-WB 12-16-50-26       0497447    UWI:                                               
+    03/12-16-050-26W4/0                              05/13-16-050-26W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     NEP 103 HZ LEDUC-WB 13-16-50-26                    
+
+    RSO 106 PROVOST 16-21-39-6            0497506    UWI:                                               
+    06/16-21-039-06W4/0                              02/01-28-039-06W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     RSO 106 PROVOST 1-28-39-6                          
+
+    RIDGEBACK HZ BONANZA 4-10-83-11       0497597    UWI:                                               
+    00/04-10-083-11W6/0                              00/11-15-083-11W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     RIDGEBACK HZ BONANZA 11-15-83-11                   
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.08                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CHARLIE LAKE FM                     
+
+                                                     DRILL CUTTINGS:                                    
+                                                     1150.00 TO 1745.00 965.00 TO 1690.00               
+
+    SCL FC705M ANTEN 11-1-65-23           0497871    PROJECTED DEPTH:                                   
+    100/11-01-065-23W5/00                            3744.30                                            
+
+                                                     TERMINATING ZONE:                                  
+                                                     MUSKEG FM                                          
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     1.13                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM DUVERNAY FM                               
+
+                                                     DRILL CUTTINGS:                                    
+                                                     1230.00 TO 3744.00                                 
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    OBE 102 HZ WILLGR 7-24-42-8           0488820                                                       
+    102/07-24-042-08W5/00                                                                               
+
+    TOURMALINE HZ EDSON 15-30-50-18       0488822                                                       
+    100/15-30-050-18W5/00                                                                               
+
+    TOURMALINE HZ ANSELL 14-6-51-18       0488823                                                       
+    100/14-06-051-18W5/00                                                                               
+
+    TOURMALINE HZ 102 EDSON 13-30-50-18   0488824                                                       
+    102/13-30-050-18W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,121 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 14 August 2020                                                                                
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CANAMAX PUSKWA 2-22-74-1             0498262   ALBERTA CROWN        629.3M                          
+    100/02-22-074-01W6/00  N  728.4M  E  357.5M    GRANDE PRAIRIE       3200.0M                         
+    DEV (NC)                             PUSKWASKAU                     WINTERBURN GRP                  
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    CANAMAX ENERGY LTD.                                                 05-14-074-01W6                  
+                                                                                                        
+    CANAMAX PUSKWA 6-15-74-1             0498263   ALBERTA CROWN        629.3M                          
+    100/06-15-074-01W6/00  N  728.4M  E  372.5M    GRANDE PRAIRIE       3200.0M                         
+    DEV (NC)                             PUSKWASKAU                     WINTERBURN GRP                  
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    CANAMAX ENERGY LTD.                                                 05-14-074-01W6                  
+                                                                                                        
+    CANAMAX 02 PUSKWA 16-10-74-1         0498264   ALBERTA CROWN        629.3M                          
+    102/16-10-074-01W6/00  N  728.4M  E  342.5M    GRANDE PRAIRIE       3200.0M                         
+    DEV (NC)                             PUSKWASKAU                     WINTERBURN GRP                  
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    CANAMAX ENERGY LTD.                                                 05-14-074-01W6                  
+                                                                                                        
+    CANAMAX 03 PUSKWA 14-15-74-1         0498265   ALBERTA CROWN        629.3M                          
+    103/14-15-074-01W6/00  N  728.4M  E  312.5M    GRANDE PRAIRIE       3300.0M                         
+    DEV (NC)                             PUSKWASKAU                     WINTERBURN GRP                  
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    CANAMAX ENERGY LTD.                                                 05-14-074-01W6                  
+                                                                                                        
+    PETRUS HZ KAKWA 14-31-63-6           0498266   ALBERTA CROWN        1040.4M                         
+    100/14-31-063-06W6/00  S  278.8M  E  559.4M    GRANDE PRAIRIE       4050.0M                         
+    XPL (C)                              KAKWA                          DUNVEGAN FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PETRUS RESOURCES CORP.                                              14-30-063-06W6                  
+                                                                                                        
+    WESTBRICK HZ BRAZR 1-23-44-12        0498267   ALBERTA CROWN        1053.5M                         
+    102/01-23-044-12W5/00  S  548.7M  W  181.2M    DRAYTON VALLEY       5350.0M                         
+    DEV (C)                              BRAZEAU RIVER                  UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WESTBRICK ENERGY LTD.                                               09-26-044-12W5                  
+                                                                                                        
+    WESTBRICK HZ BRAZR 3-23-44-12        0498268   ALBERTA CROWN        1054M                           
+    100/03-23-044-12W5/00  S  540.2M  W  175.7M    DRAYTON VALLEY       5500.0M                         
+    DEV (C)                              BRAZEAU RIVER                  UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WESTBRICK ENERGY LTD.                                               09-26-044-12W5                  
+                                                                                                        
+    WESTBRICK HZ BRAZR 4-24-44-12        0498269   ALBERTA CROWN        1052.8M                         
+    102/04-24-044-12W5/00  S  557.1M  W  186.7M    DRAYTON VALLEY       5450.0M                         
+    DEV (C)                              BRAZEAU RIVER                  UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WESTBRICK ENERGY LTD.                                               09-26-044-12W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CNUL CADOTTE 13-5-85-17               0455247    UWI:                                               
+    03/12-05-085-17W5/9                              02/09-05-085-17W5/9                                
+
+                                                     WELL NAME:                                         
+                                                     CNUL CADOTTE 9-5-85-17                             
+
+    CANAMAX 02 PUSKWA 9-15-74-1           0495957    SURFACE CO-ORDINATES:                              
+    102/09-15-074-01W6/00                            N 0728.4 E 0302.5                                  
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    PIPE 104 HZ DIMSD 2-27-71-7           0490392                                                       
+    104/02-27-071-07W6/00                                                                               
+
+    PIPE 100 HZ DIMSD 7-27-71-7           0490393                                                       
+    100/07-27-071-07W6/00                                                                               
+
+    PIPE 102 HZ WEMBLEY 13-4-72-7         0490395                                                       
+    100/13-04-072-07W6/00                                                                               
+
+    PIPE 102 HZ WEMBLEY 14-4-72-7         0490396                                                       
+    102/14-04-072-07W6/00                                                                               
+
+    PIPE 103 HZ WEMBLEY 14-4-72-7         0490397                                                       
+    103/14-04-072-07W6/00                                                                               
+
+    PIPE 100 HZ WEMBLEY 15-4-72-7         0490398                                                       
+    100/15-04-072-07W6/00                                                                               
+
+    PIPE 102 HZ WEMBLEY 15-4-72-7         0490399                                                       
+    102/15-04-072-07W6/00                                                                               
+
+    PIPE 100 HZ WEMBLEY 16-4-72-7         0490400                                                       
+    100/16-04-072-07W6/00                                                                               
+
+    PIPE 102 HZ WEMBLEY 16-4-72-7         0490401                                                       
+    102/16-04-072-07W6/00                                                                               
+
+    PIPE 100 HZ WEMBLEY 13-4-72-7         0490402                                                       
+    102/13-04-072-07W6/00                                                                               
+
+    COREX HZNTL CECIL 15-36-83-8          0490404                                                       
+    100/15-36-083-08W6/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

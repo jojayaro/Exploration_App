@@ -1,0 +1,20 @@
+Report Number: ST-49                                                                              Alberta Energy Regulator                                                                                      Page 1 of 1
+Run Date: 31 Oct 2020                                                                           DAILY DRILLING ACTIVITY LIST                                                                                               
+                                                                                   For the Notification Period 30 Oct 2020 To 31 Oct 2020                                                                                  
+
+      WELL ID                    WELL NAME               LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                                  BA ID               NAME              NUMBER                                                                                     TOTAL DEPTH     TYPE    
+------------------- ------------------------------------ -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------------------- ------------- -----------
+05/09-30-036-04W4/0 SURGE ENERGY 105HZ PROVOST 9-30-36-4  0498258 0WR7   H & R Drilling Ltd.                 1 29 Oct 2020 05:00:00 PM Wainwright     0YK4  Surge Energy Inc.                                   Set Surface
+00/15-19-048-11W5/0 RIDGEBACK PEMBINA 15-19-48-11         0491088 0Y52   Precision Drilling Corporation    309 30 Oct 2020 10:00:00 PM Drayton Valley A7G2  Ridgeback Resources Inc.                            Drill To LD
+00/04-07-055-20W5/0 PEYTO SUNDANCE 4-7-55-20              0498133 0Z41   Ensign Drilling Inc.             T438 31 Oct 2020 05:30:00 AM Drayton Valley 0YA2  Peyto Exploration & Development Corp.               Drill To LD
+00/13-27-068-25W5/0 ARC HZ ANTEN 13-27-68-25              0498326 0Y52   Precision Drilling Corporation    465 30 Oct 2020 05:00:00 PM Grande Prairie 0G30  ARC Resources Ltd.                                  Set Surface
+
+                                                                         TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 2                                                                         
+                                                                         TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                         
+                                                                         TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                         
+                                                                         TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 2                                                                         
+
+                                                                                             TOTAL NUMBER OF WELLS LISTED = 4                                                                                              
+                                                                                                   *** END OF REPORT ***                                                                                                   
+

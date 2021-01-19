@@ -1,0 +1,55 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 20 August 2020                                                                                
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    TOURMALINE HZ SMOKY 3-31-58-1        0498278   ALBERTA CROWN        1194M                           
+    100/03-31-058-01W6/00  N  657.9M  E  360.3M    DRAYTON VALLEY       5530.0M                         
+    DEV (NC)                             SMOKY                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                05-06-059-01W6                  
+                                                                                                        
+    TOURMALINE HZ SMOKY 4-31-58-1        0498279   ALBERTA CROWN        1194M                           
+    100/04-31-058-01W6/00  N  661.4M  E  356.9M    DRAYTON VALLEY       5315.0M                         
+    DEV (NC)                             SMOKY                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                05-06-059-01W6                  
+                                                                                                        
+    CVE 100 HZ EDSON 4-17-50-16          0498280   ALBERTA CROWN        1081.9M                         
+    100/04-17-050-16W5/00  N  155.7M  W  740.2M    DRAYTON VALLEY       5943.0M                         
+    DEV (NC)                             EDSON                          WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CENOVUS ENERGY INC.                                                 02-29-050-16W5                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL HZ 102 SMITH 2-12-73-25          0490487                                                       
+    102/02-12-073-25W4/00                                                                               
+
+    CNRL NE04-1A SANDY 1-1-83-20          0490503                                                       
+    104/01-01-083-20W4/00                                                                               
+
+    CNRL NE04-8D SANDY 8-13-83-20         0490504                                                       
+    103/08-13-083-20W4/00                                                                               
+
+    CPEC HZ GPINE 14-30-33-22             0495472                                                       
+    100/14-30-033-22W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

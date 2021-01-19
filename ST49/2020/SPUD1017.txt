@@ -1,0 +1,24 @@
+Report Number: ST-49                                                                              Alberta Energy Regulator                                                                                      Page 1 of 1
+Run Date: 17 Oct 2020                                                                           DAILY DRILLING ACTIVITY LIST                                                                                               
+                                                                                   For the Notification Period 16 Oct 2020 To 17 Oct 2020                                                                                  
+
+      WELL ID                    WELL NAME               LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                                  BA ID               NAME              NUMBER                                                                                     TOTAL DEPTH     TYPE    
+------------------- ------------------------------------ -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------------------- ------------- -----------
+00/01-07-055-20W5/0 PEYTO SUNDANCE 1-7-55-20              0498132 0Z41   Ensign Drilling Inc.             T438 17 Oct 2020 04:30:00 AM Drayton Valley 0YA2  Peyto Exploration & Development Corp.               Drill To LD
+00/02-31-056-25W5/0 TOURMALINE HZ WILD RIV 2-31-56-25     0498189 0Z41   Ensign Drilling Inc.               39 17 Oct 2020 01:08:00 AM Drayton Valley A573  Tourmaline Oil Corp.                                Resumption 
+02/01-34-065-05W6/0 PARA HZ 102 KARR 1-34-65-5            0498187 A5DR   Fox Drilling Inc.                   7 17 Oct 2020 04:30:00 AM Grande Prairie 0AW4  Paramount Resources Ltd.                            Drill To LD
+00/13-01-075-25W4/0 DELTASTREAM MARTENH 13-1-75-25        0497319 A0KC   Horizon Drilling Inc.              14 16 Oct 2020 08:30:00 PM St. Albert     A6YA  Deltastream Energy Corporation                      Resumption 
+00/03-26-078-08W6/0 GRL 100 HZ VALHALLA 3-26-78-8         0493508 A2CL   Komat Drilling Ltd.                 3 17 Oct 2020 12:45:00 PM Grande Prairie A0TX  Grizzly Resources Ltd.                              Set Surface
+02/16-34-078-08W6/0 GRL 16-27 HZ 102 PROGRESS 16-34-78-8  0498520 0Y52   Precision Drilling Corporation    182 17 Oct 2020 05:37:00 AM Grande Prairie A0TX  Grizzly Resources Ltd.                              Drill To LD
+02/09-36-078-08W6/0 GRL 102 HZ PROGRESS 9-36-78-8         0489201 A2CL   Komat Drilling Ltd.                 3 17 Oct 2020 01:00:00 AM Grande Prairie A0TX  Grizzly Resources Ltd.                              Set Surface
+04/04-35-094-06W4/0 SUNCOR P122S3 FIREBAG 4-35-94-6       0496402 0X84   Nabors Drilling Limited           102 17 Oct 2020 04:00:00 PM Bonnyville     0054  Suncor Energy Inc.                                  Resumption 
+
+                                                                         TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 3                                                                         
+                                                                         TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                         
+                                                                         TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 3                                                                         
+                                                                         TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 2                                                                         
+
+                                                                                             TOTAL NUMBER OF WELLS LISTED = 8                                                                                              
+                                                                                                   *** END OF REPORT ***                                                                                                   
+

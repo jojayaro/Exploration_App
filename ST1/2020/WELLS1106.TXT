@@ -1,0 +1,112 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 06 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CHECKENERGY KENT 3-18-60-2           0498667   ALBERTA CROWN        591.8M                          
+    100/03-18-060-02W4/00  N  156.0M  E  733.0M    BONNYVILLE           569.0M                          
+    DEV (NC)                             KENT                           MANNVILLE GRP                   
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CHECK ENERGY LTD.                                                   03-18-060-02W4                  
+                                                                                                        
+    CHECKENERGY KENT 3-18-60-2           0498668   ALBERTA CROWN        591.7M                          
+    102/03-18-060-02W4/00  N  142.0M  E  733.0M    BONNYVILLE           450.0M                          
+    DEV (NC)                             KENT                           MANNVILLE GRP                   
+    VERTICAL                             NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CHECK ENERGY LTD.                                                   03-18-060-02W4                  
+                                                                                                        
+    VESTA 100 CYGNET 16-36-38-28         0498669   BOTH                 947.7M                          
+    100/16-36-038-28W4/00  S  666.9M  E  742.1M    RED DEER             6500.0M                         
+    DEV (NC)                             CYGNET                         DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VESTA ENERGY LTD.                                                   11-34-038-28W4                  
+                                                                                                        
+    VESTA 102 CYGNET 16-36-38-28         0498670   BOTH                 947.7M                          
+    102/16-36-038-28W4/00  S  676.9M  E  742.1M    RED DEER             6500.0M                         
+    DEV (NC)                             CYGNET                         DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VESTA ENERGY LTD.                                                   11-34-038-28W4                  
+                                                                                                        
+    VESTA 100 CYGNET 9-36-38-28          0498671   BOTH                 947.7M                          
+    100/09-36-038-28W4/00  S  686.9M  E  742.1M    RED DEER             6500.0M                         
+    DEV (NC)                             CYGNET                         DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VESTA ENERGY LTD.                                                   11-34-038-28W4                  
+                                                                                                        
+    VESTA 102 CYGNET 8-36-38-28          0498672   BOTH                 947.6M                          
+    102/08-36-038-28W4/00  S  696.9M  E  742.1M    RED DEER             6500.0M                         
+    DEV (NC)                             CYGNET                         DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VESTA ENERGY LTD.                                                   11-34-038-28W4                  
+                                                                                                        
+    VESTA 103 CYGNET 8-36-38-28          0498673   BOTH                 947.7M                          
+    103/08-36-038-28W4/00  S  706.8M  E  742.1M    RED DEER             6500.0M                         
+    DEV (NC)                             CYGNET                         DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VESTA ENERGY LTD.                                                   11-34-038-28W4                  
+                                                                                                        
+    VESTA 100 CYGNET 1-36-38-28          0498674   BOTH                 947.6M                          
+    100/01-36-038-28W4/00  S  716.8M  E  742.1M    RED DEER             6500.0M                         
+    DEV (NC)                             CYGNET                         DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VESTA ENERGY LTD.                                                   11-34-038-28W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    OBE HZ WILLGR 3-33-43-8               0497493    UWI:                                               
+    00/03-33-043-08W5/0                              02/04-33-043-08W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     OBE 102 HZ WILLGR 4-33-43-8                        
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5600.00                                            
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CARDIUM FM                          
+
+    OBE 102 HZ WILLGR 6-33-43-8           0497494    UWI:                                               
+    02/06-33-043-08W5/0                              00/05-33-043-08W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     OBE HZ WILLGR 5-33-43-8                            
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5600.00                                            
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CARDIUM FM                          
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    ECA HZ 102 WEMBLEY 9-20-71-8          0491738                                                       
+    102/09-20-071-08W6/00                                                                               
+
+    ECA HZ 103 WEMBLEY 9-20-71-8          0491739                                                       
+    103/09-20-071-08W6/00                                                                               
+
+    ECA HZ 103 WEMBLEY 1-20-71-8          0491750                                                       
+    103/01-20-071-08W6/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,22 @@
+Report Number: ST-49                                                                      Alberta Energy Regulator                                                                              Page 1 of 1
+Run Date: 16 Aug 2020                                                                   DAILY DRILLING ACTIVITY LIST                                                                                       
+                                                                           For the Notification Period 15 Aug 2020 To 16 Aug 2020                                                                          
+
+      WELL ID                   WELL NAME             LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID         LICENSEE         NEW PROJECTED  ACTIVITY  
+                                                               BA ID               NAME              NUMBER                                                                        TOTAL DEPTH     TYPE    
+------------------- --------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------ ------------- -----------
+00/15-07-058-25W5/0 TOURMALINE HZ WILD RIV 15-7-58-25  0498095 0Z41   Ensign Drilling Inc.               39 15 Aug 2020 07:00:00 PM Drayton Valley A573  Tourmaline Oil Corp.                   Resumption 
+00/03-16-062-19W5/0 CHEVRON HZ FOXCK 3-16-62-19        0490416 0Z41   Ensign Drilling Inc.              770 16 Aug 2020 09:30:00 AM St. Albert     0045  Chevron Canada Limited                 Drill To LD
+00/05-10-062-03W6/0 STRATH HZ KAKWA 5-10-62-3          0498107 0Y52   Precision Drilling Corporation    529 16 Aug 2020 09:00:00 AM Grande Prairie A7GW  Strath Resources Ltd.                  Drill To LD
+00/15-06-077-13W6/0 AVN HZ PCOUPES 15-6-77-13          0498085 A0KC   Horizon Drilling Inc.              30 15 Aug 2020 09:30:00 PM Grande Prairie 0TD9  Advantage Oil & Gas Ltd.               Drill To LD
+02/13-26-094-06W4/0 SUNCOR P122S6 FIREBAG 13-26-94-6   0496405 A6PR   Nabors Drilling Canada Limited    102 15 Aug 2020 07:30:00 PM Bonnyville     0054  Suncor Energy Inc.                     Set Surface
+03/13-26-094-06W4/0 SUNCOR P122S7 FIREBAG 13-26-94-6   0496406 A6PR   Nabors Drilling Canada Limited    102 16 Aug 2020 10:45:00 AM Bonnyville     0054  Suncor Energy Inc.                     Set Surface
+
+                                                                 TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 3                                                                 
+                                                                 TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                 
+                                                                 TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 1                                                                 
+                                                                 TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 2                                                                 
+
+                                                                                     TOTAL NUMBER OF WELLS LISTED = 6                                                                                      
+                                                                                           *** END OF REPORT ***                                                                                           
+

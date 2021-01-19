@@ -1,0 +1,46 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 14 April 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    PEYTO NOSEHILL 1-3-55-20             0497984   ALBERTA CROWN        1185.2M                         
+    100/01-03-055-20W5/00  S  497.6M  W  704.6M    DRAYTON VALLEY       5325.0M                         
+    DEV (NC)                             NOSEHILL                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               10-10-055-20W5                  
+                                                                                                        
+    PEYTO NOSEHILL 3-3-55-20             0497985   ALBERTA CROWN        1185.2M                         
+    100/03-03-055-20W5/00  S  497.6M  W  709.3M    DRAYTON VALLEY       5250.0M                         
+    DEV (NC)                             NOSEHILL                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               10-10-055-20W5                  
+                                                                                                        
+    IMP 20 N01W 735 LEMING 8-35-66-3     0497986   ALBERTA CROWN        650.9M                          
+    103/08-35-066-03W4/00  S  720.4M  E    1.9M    BONNYVILLE           466.0M                          
+    DSW (NC)                             UNDEFINED                      GRAND RAPIDS FM                 
+    SLANT                                NEW       OBSERVATION          NONE                            
+    IMPERIAL OIL RESOURCES LIMITED                                      12-36-066-03W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    IMP 20 N02W2 245 LEMING 5-36-66-3     0497843    PROJECTED DEPTH:                                   
+    102/05-36-066-03W4/00                            561.00                                             
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

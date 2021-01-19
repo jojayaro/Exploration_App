@@ -1,0 +1,79 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 16 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    FREE REIN 103 GSPIKE 9-27-51-27      0498721   ALBERTA CROWN        706.8M                          
+    102/09-27-051-27W4/00  S  459.0M  W  167.1M    ST. ALBERT           1600.0M                         
+    DEV (C)                              GOLDEN SPIKE                   IRETON FM                       
+    VERTICAL                             NEW       PRODUCTION           CRUDE OIL                       
+    FREE REIN RESOURCES LTD.                                            09-27-051-27W4                  
+                                                                                                        
+    CNRL 6D HZ LA COREY 6-17-63-6        0498722   ALBERTA CROWN        555.9M                          
+    100/06-17-063-06W4/00  S  710.4M  E  338.0M    BONNYVILLE           2193.0M                         
+    DEV (NC)                             LA COREY                       SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  12-20-063-06W4                  
+                                                                                                        
+    CNRL 9D HZ LA COREY 9-17-63-6        0498723   ALBERTA CROWN        556M                            
+    100/09-17-063-06W4/00  S  687.4M  E  337.9M    BONNYVILLE           2328.0M                         
+    DEV (NC)                             LA COREY                       SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  12-20-063-06W4                  
+                                                                                                        
+    CNRL 8C2 HZ GARTH 8-29-63-6          0498724   ALBERTA CROWN        555.9M                          
+    105/08-29-063-06W4/00  S  702.4M  E  338.0M    BONNYVILLE           1949.0M                         
+    DEV (NC)                             GARTH                          SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  12-20-063-06W4                  
+                                                                                                        
+    TOURMALINE HZ BRAZR 14-22-44-14      0498725   ALBERTA CROWN        1070.6M                         
+    100/14-22-044-14W5/00  N  242.7M  W  166.4M    DRAYTON VALLEY       4450.0M                         
+    DEV (NC)                             BRAZEAU RIVER                  VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                01-22-044-14W5                  
+                                                                                                        
+    CNRL 6D2 HZ LA COREY 6-17-63-6       0498726   ALBERTA CROWN        556M                            
+    102/06-17-063-06W4/00  S  679.4M  E  337.9M    BONNYVILLE           2221.0M                         
+    DEV (NC)                             LA COREY                       GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  12-20-063-06W4                  
+                                                                                                        
+    CNRL 9D2 HZ LA COREY 9-17-63-6       0498727   ALBERTA CROWN        556M                            
+    102/09-17-063-06W4/00  S  671.4M  E  337.9M    BONNYVILLE           2329.0M                         
+    DEV (NC)                             LA COREY                       GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  12-20-063-06W4                  
+                                                                                                        
+    CNRL 8C3 HZ GARTH 8-29-63-6          0498728   ALBERTA CROWN        556M                            
+    106/08-29-063-06W4/00  S  663.4M  E  337.8M    BONNYVILLE           1949.0M                         
+    DEV (NC)                             GARTH                          GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  12-20-063-06W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CRESTWYND HZ JILES 5-16-63-21         0498460    UWI:                                               
+    00/03-16-063-21W4/5                              00/05-16-063-21W4/5                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM UPPER MANNVILLE FM                  
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

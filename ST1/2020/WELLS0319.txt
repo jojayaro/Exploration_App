@@ -1,0 +1,67 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 19 March 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    NUVISTA 100 HZ C ELM 4-15-70-8       0497900   ALBERTA CROWN        685.2M                          
+    100/04-15-070-08W6/00  N  368.5M  E  122.2M    GRANDE PRAIRIE       4940.0M                         
+    DEV (NC)                             ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    NUVISTA ENERGY LTD.                                                 04-21-070-08W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SPL 16-6 HZ MARTEN 16-8-76-5          0495881    UWI:                                               
+    00/16-08-076-05W5/8                              00/09-08-076-05W5/8                                
+
+                                                     WELL NAME:                                         
+                                                     SPL MARTEN 9-8-76-5                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     900.00 TO 2700.00                                  
+
+    SPL 1-5 HZ 102 MARTEN 4-3-77-6        0496050    UWI:                                               
+    02/04-03-077-06W5/0                              00/04-04-077-06W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 1-5 HZ 102 MARTEN 4-4-77-6                     
+
+    SPL 1-5 HZ NIPISI 3-6-77-6            0496053    UWI:                                               
+    00/15-31-076-06W5/4                              00/03-06-077-06W5/4                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2900.00                                  
+
+    SPL 3-19 HZ 104 MARTENH 2-30-73-24    0496145    UWI:                                               
+    04/02-30-073-24W4/5                              00/01-30-073-24W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 3-19 HZ 104 MARTENH 1-30-73-24                 
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

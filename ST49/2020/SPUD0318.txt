@@ -1,0 +1,21 @@
+Report Number: ST-49                                                                             Alberta Energy Regulator                                                                                     Page 1 of 1
+Run Date: 18 Mar 2020                                                                          DAILY DRILLING ACTIVITY LIST                                                                                              
+                                                                                  For the Notification Period 17 Mar 2020 To 18 Mar 2020                                                                                 
+
+      WELL ID                   WELL NAME              LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                                BA ID               NAME              NUMBER                                                                                     TOTAL DEPTH     TYPE    
+------------------- ---------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------------------- ------------- -----------
+02/05-27-047-20W4/0 ROBUS HZ 102 JOARCAM 5-27-47-20     0497875 A1TW   Bonanza Drilling Inc.               3 18 Mar 2020 01:30:00 AM St. Albert     A7G9  Robus Resources Inc.                                Drill To LD
+00/16-16-056-24W5/0 PEYTO WILD RIV 16-16-56-24          0497458 0Z41   Ensign Drilling Inc.             T401 18 Mar 2020 01:00:00 AM Drayton Valley 0YA2  Peyto Exploration & Development Corp.               Drill To LD
+02/01-25-078-07W6/0 TOURMALINE HZ 102 MIRAGE 1-25-78-7  0497672 0Y52   Precision Drilling Corporation    541 17 Mar 2020 05:00:00 PM Grande Prairie A573  Tourmaline Oil Corp.                                Resumption 
+03/10-18-079-12W6/0 BIR HZ 103 PCOUPE 10-18-79-12       0497660 0Z41   Ensign Drilling Inc.              137 18 Mar 2020 12:18:00 PM Grande Prairie A12R  Birchcliff Energy Ltd.                              Drill To LD
+00/13-03-095-07W4/0 HUSKY OB-218 STEEPBK 13-3-95-7      0497696 0Y52   Precision Drilling Corporation    238 18 Mar 2020 12:30:00 AM Bonnyville     0R46  Husky Oil Operations Limited                        Drill To LD
+
+                                                                        TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 4                                                                        
+                                                                        TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                        
+                                                                        TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 1                                                                        
+                                                                        TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 0                                                                        
+
+                                                                                            TOTAL NUMBER OF WELLS LISTED = 5                                                                                             
+                                                                                                  *** END OF REPORT ***                                                                                                  
+

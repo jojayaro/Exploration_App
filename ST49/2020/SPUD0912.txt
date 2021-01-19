@@ -1,0 +1,21 @@
+Report Number: ST-49                                                                                    Alberta Energy Regulator                                                                                            Page 1 of 1
+Run Date: 12 Sep 2020                                                                                 DAILY DRILLING ACTIVITY LIST                                                                                                     
+                                                                                         For the Notification Period 11 Sep 2020 To 12 Sep 2020                                                                                        
+
+      WELL ID                  WELL NAME            LICENCE  +-------------------------CONTRACTOR--------------------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID           LICENSEE           NEW PROJECTED  ACTIVITY  
+                                                             BA ID                            NAME                           NUMBER                                                                            TOTAL DEPTH     TYPE    
+------------------- ------------------------------- -------- ------ -------------------------------------------------------- ------ ----------------------- -------------- ----- ---------------------------- ------------- -----------
+00/03-05-037-07W5/0 YANGARRA HZ FERRIER 3-5-37-7     0498346 A801   Stampede Drilling A Division Of Matrix Energy Technologi      5 12 Sep 2020 05:30:00 AM Red Deer       0LN7  Yangarra Resources Corp.                   Drill To LD
+00/01-11-041-05W5/0 BEC HZ WILLGR 1-11-41-5          0498245 A08C   Savanna Drilling Corp.                                      655 12 Sep 2020 10:00:00 AM Red Deer       A5RX  Bonavista Energy Corporation               Drill To LD
+00/14-14-057-18W4/0 SPL 15-11 HZ UKALTA 14-14-57-18  0498310 A2CL   Komat Drilling Ltd.                                           4 12 Sep 2020 01:00:00 PM St. Albert     A7GR  Spur Petroleum Ltd.                        Set Surface
+00/13-29-062-19W5/0 CHEVRON HZ FOXCK 13-29-62-19     0496505 0Z41   Ensign Drilling Inc.                                        770 12 Sep 2020 10:45:00 AM St. Albert     0045  Chevron Canada Limited                     Drill To LD
+00/13-03-076-13W6/0 AVN HZ PCOUPES 13-3-76-13        0498127 A0KC   Horizon Drilling Inc.                                        30 12 Sep 2020 04:40:00 PM Grande Prairie 0TD9  Advantage Oil & Gas Ltd.                   Drill To LD
+
+                                                                               TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 4                                                                               
+                                                                               TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                               
+                                                                               TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                               
+                                                                               TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                                               
+
+                                                                                                   TOTAL NUMBER OF WELLS LISTED = 5                                                                                                    
+                                                                                                         *** END OF REPORT ***                                                                                                         
+

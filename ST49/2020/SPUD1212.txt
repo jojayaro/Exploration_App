@@ -1,0 +1,25 @@
+Report Number: ST-49                                                                            Alberta Energy Regulator                                                                                    Page 1 of 1
+Run Date: 12 Dec 2020                                                                         DAILY DRILLING ACTIVITY LIST                                                                                             
+                                                                                 For the Notification Period 11 Dec 2020 To 12 Dec 2020                                                                                
+
+      WELL ID                    WELL NAME               LICENCE  +---------------CONTRACTOR---------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID           LICENSEE           NEW PROJECTED  ACTIVITY  
+                                                                  BA ID                 NAME                 NUMBER                                                                            TOTAL DEPTH     TYPE    
+------------------- ------------------------------------ -------- ------ ----------------------------------- ------ ----------------------- -------------- ----- ---------------------------- ------------- -----------
+03/04-29-034-07W4/0 TAC 7-19 HZ 103 PROVOST 4-29-34-7     0498618 A8AF   Hertz & Paluck Energy Services Inc.      1 12 Dec 2020 10:45:00 AM Wainwright     A5TT  Tamarack Acquisition Corp.                 Set Surface
+00/05-28-046-13W5/0 WESTBRICK HZ BRAZR 5-28-46-13         0498521 A08C   Savanna Drilling Corp.                 652 11 Dec 2020 09:15:00 PM Drayton Valley A5WB  Westbrick Energy Ltd.                      Drill To LD
+00/08-12-048-11W5/0 RIDGEBACK HZ PEMBINA 8-12-48-11       0498621 0Y52   Precision Drilling Corporation         309 11 Dec 2020 09:00:00 PM Drayton Valley A7G2  Ridgeback Resources Inc.                   Drill To LD
+00/13-15-050-17W5/0 BEC HZ EDSON 13-15-50-17              0498653 A08C   Savanna Drilling Corp.                 631 12 Dec 2020 03:30:00 AM Drayton Valley A5RX  Bonavista Energy Corporation               Drill To LD
+03/02-35-058-17W4/0 Caltex_Res 103 INJ BELLIS 2-35-58-17  0498881 A08C   Savanna Drilling Corp.                 437 12 Dec 2020 02:41:00 PM Bonnyville     A60R  Caltex Resources Ltd.                      Drill To LD
+00/02-06-066-04W6/0 PARA HZ KARR 2-6-66-4                 0498452 A5DR   Fox Drilling Inc.                        7 12 Dec 2020 03:51:00 AM Grande Prairie 0AW4  Paramount Resources Ltd.                   Set Surface
+00/04-20-067-24W5/0 ARC HZ ANTEN 4-20-67-24               0498606 0Y52   Precision Drilling Corporation         465 12 Dec 2020 11:30:00 AM Grande Prairie 0G30  ARC Resources Ltd.                         Set Surface
+05/04-23-072-09W6/0 ECA HZ 105 WEMBLEY 4-23-72-9          0495356 0Y52   Precision Drilling Corporation         534 11 Dec 2020 01:30:00 PM Grande Prairie 0026  Ovintiv Canada ULC                         Drill To LD
+00/09-06-079-09W6/0 R S R HZ GORD 9-6-79-9                0498837 0Y52   Precision Drilling Corporation         185 12 Dec 2020 04:00:00 AM Grande Prairie A7CZ  Rising Star Resources Ltd.                 Drill To LD
+
+                                                                       TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 6                                                                       
+                                                                       TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                       
+                                                                       TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                       
+                                                                       TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 3                                                                       
+
+                                                                                           TOTAL NUMBER OF WELLS LISTED = 9                                                                                            
+                                                                                                 *** END OF REPORT ***                                                                                                 
+

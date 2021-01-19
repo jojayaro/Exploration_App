@@ -1,0 +1,217 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 02 October 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CLC 202INF05 DIVIDE 7-13-82-12       0498288   ALBERTA CROWN        744.5M                          
+    114/07-13-082-12W4/00  S   74.9M  E  141.0M    BONNYVILLE           1622.0M                         
+    DEV (NC)                             DIVIDE                         MCMURRAY FM                     
+    HORIZONTAL                           DEEPENING PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CONNACHER OIL AND GAS LIMITED                                       13-18-082-11W4                  
+                                                                                                        
+    CNUL WDW01 LIEGE 6-12-88-21          0498502   ALBERTA CROWN        532.7M                          
+    102/06-12-088-21W4/00  N  531.9M  E  465.1M    BONNYVILLE           554.0M                          
+    OTH (NC)                             UNDEFINED                      COOKING LAKE FM                 
+    VERTICAL                             NEW       DISPOSAL             WATER                           
+    CANADIAN NATURAL UPGRADING LIMITED                                  06-12-088-21W4                  
+                                                                                                        
+    TOURMALINE HZ VALHALLA 1-2-76-8      0498503   ALBERTA CROWN        924.7M                          
+    100/01-02-076-08W6/00  N  763.7M  W  337.2M    GRANDE PRAIRIE       5600.0M                         
+    DEV (C)                              VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TOURMALINE OIL CORP.                                                08-04-076-08W6                  
+                                                                                                        
+    TOURMALINE HZ VALHALLA 16-9-76-8     0498504   ALBERTA CROWN        924.7M                          
+    100/16-09-076-08W6/00  N  761.4M  W  328.8M    GRANDE PRAIRIE       4500.0M                         
+    DEV (C)                              VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TOURMALINE OIL CORP.                                                08-04-076-08W6                  
+                                                                                                        
+    CVE 100 HZ EDSON 4-10-51-16          0498505   ALBERTA CROWN        1048.4M                         
+    100/04-10-051-16W5/00  N  743.6M  W  153.7M    DRAYTON VALLEY       5867.0M                         
+    DEV (NC)                             EDSON                          WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CENOVUS ENERGY INC.                                                 08-11-051-16W5                  
+                                                                                                        
+    CVE 100 HZ EDSON 12-10-51-16         0498506   ALBERTA CROWN        1048.1M                         
+    100/12-10-051-16W5/00  N  755.6M  W  153.7M    DRAYTON VALLEY       5788.0M                         
+    DEV (NC)                             EDSON                          WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CENOVUS ENERGY INC.                                                 08-11-051-16W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    7GEN HZ KAKWA 15-1-64-5               0466490    UWI:                                               
+    00/15-01-064-05W6/0                              02/04-14-064-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 4-14-64-5                            
+
+    VESTA JOFFRE 14-11-40-27              0489504    UWI:                                               
+    00/14-11-040-27W4/0                              02/06-26-040-27W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     VESTA JOFFRE 6-26-40-27                            
+
+    CNRL 102 HZ WEMBLEY 4-16-72-8         0492101    PROJECTED DEPTH:                                   
+    102/04-16-072-08W6/00                            5933.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0247.7 E 0325.2                                  
+
+    CNRL HZ WEMBLEY 1-17-72-8             0492102    PROJECTED DEPTH:                                   
+    100/01-17-072-08W6/00                            6209.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0267.7 E 0325.2                                  
+
+    CNRL 102 HZ WEMBLEY 1-17-72-8         0492103    PROJECTED DEPTH:                                   
+    102/01-17-072-08W6/00                            6039.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0257.7 E 0325.2                                  
+
+    CNRL HZ WEMBLEY 3-16-72-8             0492104    PROJECTED DEPTH:                                   
+    100/03-16-072-08W6/00                            6004.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0277.7 E 0325.2                                  
+
+    CNRL HZ WEMBLEY 2-16-72-8             0492105    PROJECTED DEPTH:                                   
+    100/02-16-072-08W6/00                            6129.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0287.7 E 0325.2                                  
+
+    HALO HZ MCKINLEY 5-21-65-22           0493043    UWI:                                               
+    00/05-21-065-22W5/0                              00/05-22-065-22W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     HALO HZ MCKINLEY 5-22-65-22                        
+
+    7GEN HZ 105 KAKWA 5-9-63-5            0496206    UWI:                                               
+    05/05-09-063-05W6/0                              04/04-09-063-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 105 KAKWA 4-9-63-5                         
+
+    SUNCOR ET AL HANGSTN 1-19-85-10       0496361    UWI:                                               
+    AA/01-19-085-10W4/0                              00/01-19-085-10W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     531.0                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0294.7 W 0035.7                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    TOURMALINE HZ MINEHEAD 15-34-49-19    0496802    PROJECTED DEPTH:                                   
+    100/15-34-049-19W5/00                            5900.00                                            
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM WILRICH MBR                               
+
+    TOURMALINE 02HZ MINEHEAD 15-34-49-19  0496803    PROJECTED DEPTH:                                   
+    102/15-34-049-19W5/00                            5700.00                                            
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM NOTIKEWIN MBR                             
+
+    PEYTO ANSELL 4-17-51-19               0498048    UWI:                                               
+    00/04-17-051-19W5/0                              00/12-17-051-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     PEYTO ANSELL 12-17-51-19                           
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+    CRESTWYND HZ MEANOOK 15-19-63-21      0498088    UWI:                                               
+    S0/16-18-063-21W4/2                              00/08-19-063-21W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND HZ MEANOOK 8-19-63-21                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    HIGH GROUND HZ PROVOST 13-5-35-2      0491185                                                       
+    100/13-05-035-02W4/00                                                                               
+
+    HIGH GROUND HZ PROVOST 14-5-35-2      0491186                                                       
+    100/14-05-035-02W4/00                                                                               
+
+    HIGH GROUND HZ 02 PROVOST 15-5-35-2   0491188                                                       
+    102/15-05-035-02W4/00                                                                               
+
+    CNRL 1B FROG LK 1-15-58-3             0491191                                                       
+    100/01-15-058-03W4/00                                                                               
+
+    CNRL 2B FROG LK 2-15-58-3             0491192                                                       
+    100/02-15-058-03W4/00                                                                               
+
+    CNRL 7B FROG LK 7-15-58-3             0491193                                                       
+    100/07-15-058-03W4/00                                                                               
+
+    CNRL 8B FROG LK 8-15-58-3             0491194                                                       
+    100/08-15-058-03W4/00                                                                               
+
+    CNRL 3B BEAVRDM 3-1-59-3              0491195                                                       
+    100/03-01-059-03W4/00                                                                               
+
+    CNRL 2A BEAVRDM 2-1-59-3              0491196                                                       
+    100/02-01-059-03W4/00                                                                               
+
+    CNRL 5A BEAVRDM 5-1-59-3              0491197                                                       
+    100/05-01-059-03W4/00                                                                               
+
+    CNRL 6A BEAVRDM 6-1-59-3              0491198                                                       
+    102/06-01-059-03W4/00                                                                               
+
+    CNRL 9B LNDBRGH 9-30-53-4             0491212                                                       
+    100/09-30-053-04W4/00                                                                               
+
+    CNRL 15B LNDBRGH 15-30-53-4           0491213                                                       
+    100/15-30-053-04W4/00                                                                               
+
+    CNRL 16B LNDBRGH 16-30-53-4           0491214                                                       
+    100/16-30-053-04W4/00                                                                               
+
+    CNRL 13B LNDBRGH 13-29-53-4           0491216                                                       
+    100/13-29-053-04W4/00                                                                               
+
+    ECA HZ 107 WEMBLEY 11-13-72-9         0491217                                                       
+    107/11-13-072-09W6/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

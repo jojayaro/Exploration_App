@@ -1,0 +1,21 @@
+Report Number: ST-49                                                                    Alberta Energy Regulator                                                                            Page 1 of 1
+Run Date: 22 Aug 2020                                                                 DAILY DRILLING ACTIVITY LIST                                                                                     
+                                                                         For the Notification Period 21 Aug 2020 To 22 Aug 2020                                                                        
+
+      WELL ID                   WELL NAME             LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID       LICENSEE       NEW PROJECTED  ACTIVITY  
+                                                               BA ID               NAME              NUMBER                                                                    TOTAL DEPTH     TYPE    
+------------------- --------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- -------------------- ------------- -----------
+00/06-16-046-15W5/0 TOURMALINE HZ COLUMBIA 6-16-46-15  0498101 0Z41   Ensign Drilling Inc.             T038 22 Aug 2020 06:49:00 AM Drayton Valley A573  Tourmaline Oil Corp.               Resumption 
+00/05-20-051-21W5/0 TOURMALINE HZ MEDLOD 5-20-51-21    0498039 A6PR   Nabors Drilling Canada Limited     58 21 Aug 2020 08:00:00 PM Drayton Valley A573  Tourmaline Oil Corp.               Resumption 
+00/04-16-061-04W6/0 TOURMALINE HZ KAKWA 4-16-61-4      0497846 0Y52   Precision Drilling Corporation    531 22 Aug 2020 06:30:00 AM Grande Prairie A573  Tourmaline Oil Corp.               Drill To LD
+05/13-26-094-06W4/0 SUNCOR P122P6 FIREBAG 13-26-94-6   0496414 0X84   Nabors Drilling Limited           102 22 Aug 2020 12:00:00 AM Bonnyville     0054  Suncor Energy Inc.                 Set Surface
+06/13-26-094-06W4/0 SUNCOR P122P7 FIREBAG 13-26-94-6   0496415 A6PR   Nabors Drilling Canada Limited    102 22 Aug 2020 08:45:00 AM Bonnyville     0054  Suncor Energy Inc.                 Set Surface
+
+                                                               TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 1                                                               
+                                                               TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                               
+                                                               TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 2                                                               
+                                                               TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 2                                                               
+
+                                                                                   TOTAL NUMBER OF WELLS LISTED = 5                                                                                    
+                                                                                         *** END OF REPORT ***                                                                                         
+

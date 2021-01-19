@@ -1,0 +1,55 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 25 July 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    PEYTO BRAZR 4-24-42-13                0490057                                                       
+    100/04-24-042-13W5/00                                                                               
+
+    GAIN 102 HZ WAPITI 15-33-67-8         0490059                                                       
+    102/15-33-067-08W6/00                                                                               
+
+    CNRL NE05-3A GRANOR 3-6-83-19         0490097                                                       
+    103/03-06-083-19W4/00                                                                               
+
+    CNRL NE05-6D GRANOR 6-18-83-19        0490098                                                       
+    103/06-18-083-19W4/00                                                                               
+
+    CNRL BP21-13C BRINT 13-35-81-22       0490099                                                       
+    104/13-35-081-22W4/00                                                                               
+
+    CNRL BP21-14C BRINT 14-35-81-22       0490100                                                       
+    100/14-35-081-22W4/00                                                                               
+
+    PERSTA HZ LOVETTR 5-4-46-19           0495162                                                       
+    100/05-04-046-19W5/00                                                                               
+
+    XTO H02 KAYBOBS 14-23-60-20           0495168                                                       
+    100/14-23-060-20W5/00                                                                               
+
+    XTO H01 KAYBOBS 13-23-60-20           0495169                                                       
+    102/13-23-060-20W5/00                                                                               
+
+    XTO H03 KAYBOBS 7-26-60-20            0495170                                                       
+    102/07-26-060-20W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,121 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 08 January 2021                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    ARTIS HZ TWINING 10-31-30-24         0499197   ALBERTA CROWN        888.2M                          
+    100/10-31-030-24W4/00  S  114.9M  E  768.9M    RED DEER             6300.0M                         
+    DEV (NC)                             TWINING                        DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ARTIS EXPLORATION LTD.                                              14-08-031-24W4                  
+                                                                                                        
+    ARTIS HZ 102 TWINING 15-20-31-24     0499198   BOTH                 888M                            
+    103/15-20-031-24W4/00  S  114.9M  E  780.9M    RED DEER             6000.0M                         
+    DEV (NC)                             TWINING                        DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ARTIS EXPLORATION LTD.                                              14-08-031-24W4                  
+                                                                                                        
+    VEI HZ WESTPEM 1-31-49-13            0499199   ALBERTA CROWN        993.1M                          
+    100/01-31-049-13W5/00  S  110.0M  W  412.8M    DRAYTON VALLEY       5232.0M                         
+    DEV (NC)                             WESTPEM                        NOTIKEWIN MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    VERMILION ENERGY INC.                                               15-06-050-13W5                  
+                                                                                                        
+    KARVE HZ PROVOST 1-32-35-2           0499200   ALBERTA CROWN        757.4M                          
+    100/01-32-035-02W4/00  N   40.0M  E   70.3M    WAINWRIGHT           2641.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    KARVE ENERGY INC.                                                   04-28-035-02W4                  
+                                                                                                        
+    SYNCRUDE 21-4902 DAPHNE 9-13-96-11   0499201   ALBERTA CROWN        287.5M                          
+    1AA/09-13-096-11W4/00  S  695.6M  W  158.7M    BONNYVILLE           151.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SYNCRUDE CANADA LTD.                                                09-13-096-11W4                  
+                                                                                                        
+    KARVE HZ PROVOST 1-20-35-2           0499202   ALBERTA CROWN        757.5M                          
+    100/01-20-035-02W4/00  N   40.0M  E   80.3M    WAINWRIGHT           2283.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    KARVE ENERGY INC.                                                   04-28-035-02W4                  
+                                                                                                        
+    TAC 9-23 HZ 102 NIPISI 9-22-76-7     0499203   ALBERTA CROWN        750.2M                          
+    100/09-22-076-07W5/00  S  527.5M  W  224.4M    ST. ALBERT           2522.0M                         
+    DEV (NC)                             NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          09-23-076-07W5                  
+                                                                                                        
+    SYNCRUDE 21-4903 DAPHNE 6-13-96-11   0499204   ALBERTA CROWN        282.8M                          
+    1AB/06-13-096-11W4/00  N  604.1M  E  550.0M    BONNYVILLE           134.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SYNCRUDE CANADA LTD.                                                06-13-096-11W4                  
+                                                                                                        
+    TAC 9-23 HZ NIPISI 9-22-76-7         0499205   ALBERTA CROWN        750.3M                          
+    102/09-22-076-07W5/00  S  521.0M  W  216.8M    ST. ALBERT           2367.0M                         
+    DEV (NC)                             NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          09-23-076-07W5                  
+                                                                                                        
+    SYNCRUDE 21-4905 DAPHNE 7-13-96-11   0499206   ALBERTA CROWN        284.9M                          
+    1AB/07-13-096-11W4/00  N  409.8M  W  528.6M    BONNYVILLE           123.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SYNCRUDE CANADA LTD.                                                07-13-096-11W4                  
+                                                                                                        
+    SYNCRUDE 21-4908 DAPHNE 16-12-96-11  0499207   ALBERTA CROWN        289.8M                          
+    1AC/16-12-096-11W4/00  S  166.1M  W  147.5M    BONNYVILLE           125.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SYNCRUDE CANADA LTD.                                                16-12-096-11W4                  
+                                                                                                        
+    SYNCRUDE 21-4909 DAPHNE 8-1-96-11    0499208   ALBERTA CROWN        282.9M                          
+    1AC/08-01-096-11W4/00  N  450.7M  W  321.1M    BONNYVILLE           99.0M                           
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SYNCRUDE CANADA LTD.                                                08-01-096-11W4                  
+                                                                                                        
+    SYNCRUDE 21-4910 DAPHNE 2-1-96-11    0499209   ALBERTA CROWN        276.7M                          
+    1AA/02-01-096-11W4/00  N  246.5M  W  719.0M    BONNYVILLE           47.0M                           
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SYNCRUDE CANADA LTD.                                                02-01-096-11W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL WSW EMP03 KIRBY 11-28-74-9       0490560                                                       
+    1F5/11-28-074-09W4/00                                                                               
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CS HZNTL BRINTNELL 5-23-81-22          0199566   SURFACE LOCATION:                                  
+    100/05-23-081-22W4/00                            12-11-081-22W4                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

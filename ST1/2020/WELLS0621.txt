@@ -1,0 +1,37 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 21 June 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AVN HZ PCOUPES 8-9-76-13             0498125   ALBERTA CROWN        832M                            
+    105/08-09-076-13W6/00  N   69.9M  W   12.4M    GRANDE PRAIRIE       5400.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ADVANTAGE OIL & GAS LTD.                                            01-03-076-13W6                  
+                                                                                                        
+    AVN HZ PCOUPES 12-3-76-13            0498126   ALBERTA CROWN        832.3M                          
+    100/12-03-076-13W6/00  N   49.9M  W   12.0M    GRANDE PRAIRIE       4400.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ADVANTAGE OIL & GAS LTD.                                            01-03-076-13W6                  
+                                                                                                        
+    AVN HZ PCOUPES 13-3-76-13            0498127   ALBERTA CROWN        832M                            
+    100/13-03-076-13W6/00  N   59.9M  W   12.2M    GRANDE PRAIRIE       4700.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ADVANTAGE OIL & GAS LTD.                                            01-03-076-13W6                  
+                                                                                                        
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,193 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 20 October 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SUNCOR P4P8B FIREBAG 4-2-95-6        0291139   ALBERTA CROWN        599.5M                          
+    100/04-02-095-06W4/02  N   66.6M  E  328.6M    BONNYVILLE           1505.3M                      
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  04-11-095-06W4                  
+                                                                                                        
+    HUSKY RE 3HZ Q1 WILDMERE 9-19-48-5   0496541   FREEHOLD             662.6M                          
+    102/09-19-048-05W4/04  S  340.2M  W  197.9M    WAINWRIGHT           2342.0M                         
+    DEV (NC)                             WILDMERE                       GENERAL PETROLEUM MBR           
+    HORIZONTAL                           RESUMPTIONPRODUCTION           CRUDE OIL                       
+    HUSKY OIL OPERATIONS LIMITED                                        16-24-048-06W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    GRL 102 HZ VALHALLA 12-31-78-7        0489430    GROUND ELEVATION                                   
+    102/12-31-078-07W6/00                            680.0                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     1942.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0682.4 E 0120.0                                  
+
+                                                     SURFACE LOCATION:                                  
+                                                     05-32-078-07W6                                     
+
+    SURGE ENERGY HZ PROVOST 2-9-39-2      0496536    GROUND ELEVATION                                   
+    100/02-09-039-02W4/00                            657.5                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     2520.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0116.1 W 0402.7                                  
+
+                                                     SURFACE LOCATION:                                  
+                                                     01-16-039-02W4                                     
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM SPARKY MBR                          
+
+    SURGE ENERGY 102 HZ PROVOST 2-9-39-2  0496537    GROUND ELEVATION                                   
+    102/02-09-039-02W4/00                            657.4                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0116.1 W 0432.7                                  
+
+                                                     SURFACE LOCATION:                                  
+                                                     02-16-039-02W4                                     
+
+    PEYTO SUNDANCE 1-7-55-20              0498132    GROUND ELEVATION                                   
+    100/01-07-055-20W5/00                            1170.3                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0035.4 W 0550.9                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM WILRICH MBR                               
+
+    PEYTO SUNDANCE 3-7-55-20              0498133    GROUND ELEVATION                                   
+    100/03-07-055-20W5/00                            1170.5                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0035.7 W 0555.8                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM WILRICH MBR                               
+
+    CPEC HZ JUDYCK 14-16-64-11            0498544    GROUND ELEVATION                                   
+    100/14-16-064-11W5/00                            1006.7                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0239.8 E 0729.4                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM SLAVE POINT FM                      
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL 13A2 LNDBRGH 13-12-58-6          0491428                                                       
+    102/13-12-058-06W4/00                                                                               
+
+    CNRL 15C LNDBRGH 15-12-58-6           0491431                                                       
+    100/15-12-058-06W4/00                                                                               
+
+    CNRL 13C LNDBRGH 13-12-58-6           0491432                                                       
+    103/13-12-058-06W4/00                                                                               
+
+    CNRL 16C WOLF LK 16-24-65-6           0491440                                                       
+    100/16-24-065-06W4/00                                                                               
+
+    CNRL 1C WOLF LK 1-25-65-6             0491441                                                       
+    100/01-25-065-06W4/00                                                                               
+
+    CNRL 2A3 WOLF LK 2-25-65-6            0491442                                                       
+    100/02-25-065-06W4/00                                                                               
+
+    CNRL 8C3 WOLF LK 8-25-65-6            0491443                                                       
+    103/08-25-065-06W4/00                                                                               
+
+    GAIN HZ 102 PEMBINA 14-24-42-5        0491463                                                       
+    102/14-24-042-05W5/00                                                                               
+
+    GAIN HZ 102 PEMBINA 16-24-42-5        0491464                                                       
+    102/16-24-042-05W5/00                                                                               
+
+    MEG DD 7-6 HARDY 7-6-77-4             0492561                                                       
+    1AC/07-06-077-04W4/00                                                                               
+
+    MEG HARDY 13-6-77-4                   0492562                                                       
+    1AB/13-06-077-04W4/00                                                                               
+
+    MEG HARDY 15-6-77-4                   0492564                                                       
+    1AB/15-06-077-04W4/00                                                                               
+
+    MEG HARDY 15-6-77-4                   0492565                                                       
+    1AC/15-06-077-04W4/00                                                                               
+
+    MEG HARDY 16-6-77-4                   0492566                                                       
+    1AB/16-06-077-04W4/00                                                                               
+
+    MEG HARDY 3-8-77-4                    0492567                                                       
+    1AC/03-08-077-04W4/00                                                                               
+
+    MEG HARDY 4-8-77-4                    0492578                                                       
+    1AD/04-08-077-04W4/00                                                                               
+
+    MEG HARDY 9-1-77-5                    0492579                                                       
+    1AC/09-01-077-05W4/00                                                                               
+
+    MEG HARDY 10-1-77-5                   0492581                                                       
+    1AB/10-01-077-05W4/00                                                                               
+
+    MEG DD 5-5 HARDY 5-5-77-4             0492630                                                       
+    1AC/05-05-077-04W4/00                                                                               
+
+    MEG HARDY 14-5-77-4                   0492631                                                       
+    1AB/14-05-077-04W4/00                                                                               
+
+    MEG HARDY 7-35-77-6                   0492632                                                       
+    1AA/07-35-077-06W4/00                                                                               
+
+    MEG HARDY 6-34-76-5                   0492727                                                       
+    1AB/06-34-076-05W4/00                                                                               
+
+    MEG HARDY 4-8-77-5                    0492728                                                       
+    1AB/04-08-077-05W4/00                                                                               
+
+    MEG HARDY 11-26-77-6                  0492729                                                       
+    1AA/11-26-077-06W4/00                                                                               
+
+    MEG HARDY 13-35-77-6                  0492754                                                       
+    1AA/13-35-077-06W4/00                                                                               
+
+    MEG DD 6-34 HARDY 11-34-76-5          0492755                                                       
+    1AC/11-34-076-05W4/00                                                                               
+
+    MEG LEISMER 14-34-77-6                0492758                                                       
+    1AA/14-34-077-06W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

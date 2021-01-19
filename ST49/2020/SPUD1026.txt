@@ -1,0 +1,18 @@
+Report Number: ST-49                                                                      Alberta Energy Regulator                                                                              Page 1 of 1
+Run Date: 26 Oct 2020                                                                   DAILY DRILLING ACTIVITY LIST                                                                                       
+                                                                           For the Notification Period 25 Oct 2020 To 26 Oct 2020                                                                          
+
+      WELL ID                    WELL NAME              LICENCE  +-----------CONTRACTOR------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID         LICENSEE         NEW PROJECTED  ACTIVITY  
+                                                                 BA ID              NAME             NUMBER                                                                        TOTAL DEPTH     TYPE    
+------------------- ----------------------------------- -------- ------ ---------------------------- ------ ----------------------- -------------- ----- ------------------------ ------------- -----------
+02/15-13-040-07W4/0 LONGSHORE HZ 102 PROVOST 15-13-40-7  0498556 0GE9   Tempco Drilling Company Inc.      3 26 Oct 2020 02:45:00 PM Wainwright     A76W  Longshore Resources Ltd.               Drill To LD
+00/01-01-076-12W6/0 AVN HZ PCOUPES 1-1-76-12             0496463 A0KC   Horizon Drilling Inc.            30 25 Oct 2020 07:30:00 PM Grande Prairie 0TD9  Advantage Oil & Gas Ltd.               Drill To LD
+
+                                                                 TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 2                                                                 
+                                                                 TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                 
+                                                                 TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                 
+                                                                 TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 0                                                                 
+
+                                                                                     TOTAL NUMBER OF WELLS LISTED = 2                                                                                      
+                                                                                           *** END OF REPORT ***                                                                                           
+

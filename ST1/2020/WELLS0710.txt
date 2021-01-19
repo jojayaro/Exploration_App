@@ -1,0 +1,67 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 10 July 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    PEYTO WILD RIV 15-5-56-24            0498154   ALBERTA CROWN        1150.4M                         
+    102/15-05-056-24W5/00  S   40.8M  W  345.8M    DRAYTON VALLEY       3850.0M                         
+    DEV (C)                              WILD RIVER                     CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               16-32-055-24W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    HIGHWOOD NIPISI 16-25-76-7            0496203    UWI:                                               
+    00/16-25-076-07W5/7                              03/15-25-076-07W5/7                                
+
+                                                     WELL NAME:                                         
+                                                     HIGHWOOD NIPISI 15-25-76-7                         
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL PS44 OBS PS FISHER 13-16-67-5    0489904                                                       
+    100/13-16-067-05W4/00                                                                               
+
+    CNRL PS45 OBS PS FISHER 11-16-67-5    0489905                                                       
+    100/11-16-067-05W4/00                                                                               
+
+    CNRL PS46 OBS PS LEMING 9-10-67-5     0489906                                                       
+    106/09-10-067-05W4/00                                                                               
+
+    CNRL PS47 OBS PS LEMING 14-8-67-5     0489907                                                       
+    100/14-08-067-05W4/00                                                                               
+
+    CNRL PS48 OBS PS LEMING 16-8-67-5     0489908                                                       
+    100/16-08-067-05W4/00                                                                               
+
+    CNRL PS49 OBS PS LEMING 9-3-67-5      0489909                                                       
+    100/09-03-067-05W4/00                                                                               
+
+    TOURMALINE HZ 102 ANSELL 15-29-50-19  0489942                                                       
+    102/15-29-050-19W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

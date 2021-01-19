@@ -1,0 +1,91 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 11 May 2020                                                                                   
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    TOURMALINE HZ BASING 9-10-49-21      0498034   ALBERTA CROWN        1211M                           
+    100/09-10-049-21W5/00  N  193.6M  W  531.8M    DRAYTON VALLEY       3900.0M                         
+    DEV (C)                              BASING                         CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                02-11-049-21W5                  
+                                                                                                        
+    TOURMALINE HZ BASING 8-10-49-21      0498035   ALBERTA CROWN        1211M                           
+    102/08-10-049-21W5/00  N  189.6M  W  534.7M    DRAYTON VALLEY       5000.0M                         
+    XPL (C)                              BASING                         SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                02-11-049-21W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SUNCOR P122S10 FIREBAG 14-27-94-6     0496341    UWI:                                               
+    00/14-27-094-06W4/0                              03/11-27-094-06W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SUNCOR P122S10 FIREBAG 11-27-94-6                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.19                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     WASTE FROM MCMURRAY FM                             
+
+    SUNCOR P122P10 FIREBAG 14-27-94-6     0496390    UWI:                                               
+    02/14-27-094-06W4/0                              04/11-27-094-06W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SUNCOR P122P10 FIREBAG 11-27-94-6                  
+
+    CNRL HZ 102 ALDSON 6-23-18-10         0496532    UWI:                                               
+    02/06-23-018-10W4/0                              00/03-23-018-10W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL HZ 102 ALDSON 3-23-18-10                      
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.04                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM SUNBURST SD                         
+
+    SPL 6-31 HZ MARTEN 4-30-76-6          0497393    WELL NAME:                                         
+    102/04-30-076-06W5/06                            SPL 6-31 HZ 102 NIPISI 4-                          
+
+    SPL 6-31 HZ MARTEN 4-30-76-6          0497393    WELL NAME:                                         
+    102/04-30-076-06W5/05                            SPL 6-31 HZ 102 NIPISI 4-                          
+
+                                                     WELL NAME:                                         
+                                                     SPL 6-31 HZ 102 NIPISI 4-30-76-6                   
+
+    CREW HZ 102 SWIMMING 4-23-52-7        0497817    UWI:                                               
+    02/04-23-052-07W4/7                              00/07-23-052-07W4/7                                
+
+                                                     WELL NAME:                                         
+                                                     CREW HZ 102 SWIMMING 7-23-52-7                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM REX MBR                             
+
+    CREW HZ 102 SWIMMING 4-23-52-7        0497817    UWI:                                               
+    02/04-23-052-07W4/6                              00/02-23-052-07W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     CREW HZ 102 SWIMMING 2-23-52-7                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,23 @@
+Report Number: ST-49                                                                            Alberta Energy Regulator                                                                                     Page 1 of 1
+Run Date: 18 Nov 2020                                                                         DAILY DRILLING ACTIVITY LIST                                                                                              
+                                                                                 For the Notification Period 17 Nov 2020 To 18 Nov 2020                                                                                 
+
+      WELL ID                    WELL NAME               LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID              LICENSEE              NEW PROJECTED  ACTIVITY  
+                                                                  BA ID               NAME              NUMBER                                                                                  TOTAL DEPTH     TYPE    
+------------------- ------------------------------------ -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ---------------------------------- ------------- -----------
+05/09-30-036-04W4/0 SURGE ENERGY 105HZ PROVOST 9-30-36-4  0498258 0Y52   Precision Drilling Corporation    145 17 Nov 2020 05:55:00 AM Wainwright     0YK4  Surge Energy Inc.                                Drill To LD
+02/02-28-046-07W5/0 BONTERRA HZ 102 PEMBINA 2-28-46-7     0498210 A2EN   Ironhand Drilling Inc.              1 17 Nov 2020 04:00:00 PM Drayton Valley 0XZ4  Bonterra Energy Corp.                            Drill To LD
+02/04-20-065-08W6/0 CNRL HZ WAPITI 4-20-65-8              0498425 A0KC   Horizon Drilling Inc.              48 18 Nov 2020 05:00:00 AM Grande Prairie 0HE9  Canadian Natural Resources Limited               Drill To LD
+00/04-15-070-08W6/0 NUVISTA 100 HZ C ELM 4-15-70-8        0497900 A6PR   Nabors Drilling Canada Limited    79E 18 Nov 2020 06:00:00 AM Grande Prairie A0A7  NuVista Energy Ltd.                              Resumption 
+07/04-23-072-09W6/0 ECA HZ 107 WEMBLEY 4-23-72-9          0495358 0Y52   Precision Drilling Corporation    535 17 Nov 2020 09:30:00 PM Grande Prairie 0026  Ovintiv Canada ULC                               Drill To LD
+00/13-25-077-13W6/0 KELT EXP HZ PCOUPES 13-25-77-13       0498629 A08C   Savanna Drilling Corp.            656 17 Nov 2020 10:00:00 PM Grande Prairie A6D7  Kelt Exploration Ltd.                            Drill To LD
+00/05-19-087-13W5/0 CRESTWYND HZ EVI 5-19-87-13           0498518 0Y52   Precision Drilling Corporation    187 18 Nov 2020 03:08:00 AM St. Albert     A7MT  Crestwynd Exploration Ltd.                       Drill To LD
+
+                                                                       TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 6                                                                        
+                                                                       TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                        
+                                                                       TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 1                                                                        
+                                                                       TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 0                                                                        
+
+                                                                                            TOTAL NUMBER OF WELLS LISTED = 7                                                                                            
+                                                                                                 *** END OF REPORT ***                                                                                                  
+

@@ -1,0 +1,18 @@
+Report Number: ST-49                                                            Alberta Energy Regulator                                                                     Page 1 of 1
+Run Date: 11 Oct 2020                                                         DAILY DRILLING ACTIVITY LIST                                                                              
+                                                                 For the Notification Period 10 Oct 2020 To 11 Oct 2020                                                                 
+
+      WELL ID                  WELL NAME             LICENCE  +-------CONTRACTOR-------+  RIG        ACTIVITY DATE      FIELD CENTRE BA ID      LICENSEE       NEW PROJECTED  ACTIVITY  
+                                                              BA ID         NAME         NUMBER                                                                 TOTAL DEPTH     TYPE    
+------------------- -------------------------------- -------- ------ ------------------- ------ ----------------------- ------------ ----- ------------------- ------------- -----------
+03/06-22-073-24W4/0 SPL 9-20 HZ 103 SMITH 6-22-73-24  0498409 A2CL   Komat Drilling Ltd.      4 10 Oct 2020 06:00:00 PM St. Albert   A7GR  Spur Petroleum Ltd.               Set Surface
+00/11-22-073-24W4/0 SPL 9-20 HZ SMITH 11-22-73-24     0498407 A2CL   Komat Drilling Ltd.      4 11 Oct 2020 04:00:00 AM St. Albert   A7GR  Spur Petroleum Ltd.               Set Surface
+
+                                                       TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 0                                                        
+                                                       TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                        
+                                                       TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                        
+                                                       TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 2                                                        
+
+                                                                            TOTAL NUMBER OF WELLS LISTED = 2                                                                            
+                                                                                 *** END OF REPORT ***                                                                                  
+

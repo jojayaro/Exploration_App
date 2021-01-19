@@ -1,0 +1,88 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 08 July 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    WESTBRICK HZ PEMBINA 16-18-45-11     0498151   ALBERTA CROWN        988.1M                          
+    100/16-18-045-11W5/00  S  228.6M  W    2.0M    DRAYTON VALLEY       4100.0M                         
+    DEV (C)                              PEMBINA                        UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WESTBRICK ENERGY LTD.                                               16-07-045-11W5                  
+                                                                                                        
+    WESTBRICK HZ BRAZR 1-6-45-11         0498152   ALBERTA CROWN        988.2M                          
+    104/01-06-045-11W5/00  S  228.6M  W   12.0M    DRAYTON VALLEY       5385.0M                         
+    DEV (C)                              BRAZEAU RIVER                  UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WESTBRICK ENERGY LTD.                                               16-07-045-11W5                  
+                                                                                                        
+    WESTBRICK HZ PEMBINA 14-18-45-11     0498153   ALBERTA CROWN        988.6M                          
+    100/14-18-045-11W5/00  S  228.6M  W   32.0M    DRAYTON VALLEY       4360.0M                         
+    DEV (C)                              PEMBINA                        UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WESTBRICK ENERGY LTD.                                               16-07-045-11W5                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL 10A FROG LK 10-28-56-2           0489853                                                       
+    102/10-28-056-02W4/00                                                                               
+
+    CNRL 9C FROG LK 9-28-56-2             0489854                                                       
+    100/09-28-056-02W4/00                                                                               
+
+    CNRL 8D FROG LK 8-28-56-2             0489855                                                       
+    100/08-28-056-02W4/00                                                                               
+
+    CNRL 7C FROG LK 7-28-56-2             0489856                                                       
+    100/07-28-056-02W4/00                                                                               
+
+    CNRL 9A FROG LK 9-28-56-2             0489857                                                       
+    102/09-28-056-02W4/00                                                                               
+
+    CNRL 10B FROG LK 10-28-56-2           0489858                                                       
+    103/10-28-056-02W4/00                                                                               
+
+    CNRL 5A FROG LK 5-14-55-3             0489860                                                       
+    100/05-14-055-03W4/00                                                                               
+
+    CNRL 7B FROG LK 7-14-55-3             0489861                                                       
+    102/07-14-055-03W4/00                                                                               
+
+    CNRL 11A FROG LK 11-14-55-3           0489862                                                       
+    100/11-14-055-03W4/00                                                                               
+
+    CNRL 11C FROG LK 11-14-55-3           0489863                                                       
+    102/11-14-055-03W4/00                                                                               
+
+    CNRL 12B FROG LK 12-14-55-3           0489864                                                       
+    100/12-14-055-03W4/00                                                                               
+
+    CNRL 13D FROG LK 13-14-55-3           0489865                                                       
+    102/13-14-055-03W4/00                                                                               
+
+    CNRL 11B BNNYVLLE 11-30-62-7          0489867                                                       
+    100/11-30-062-07W4/00                                                                               
+
+    CNRL 14A BNNYVLLE 14-30-62-7          0489868                                                       
+    100/14-30-062-07W4/00                                                                               
+
+    CNRL 15A BNNYVLLE 15-30-62-7          0489869                                                       
+    102/15-30-062-07W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

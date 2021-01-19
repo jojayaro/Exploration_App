@@ -1,0 +1,58 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 21 July 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL 12A LIND 12-18-58-5             0498178   ALBERTA CROWN        677.7M                          
+    103/12-18-058-05W4/00  S  348.6M  E  607.4M    BONNYVILLE           831.0M                          
+    DEV (NC)                             LINDBERGH                      CUMMINGS MBR                    
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  14-18-058-05W4                  
+                                                                                                        
+    CNRL 14A LIND 14-18-58-5             0498179   ALBERTA CROWN        677.7M                          
+    105/14-18-058-05W4/00  S  333.8M  E  593.1M    BONNYVILLE           670.0M                          
+    DEV (NC)                             LINDBERGH                      DINA MBR                        
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  14-18-058-05W4                  
+                                                                                                        
+    CNRL 14B LIND 14-18-58-5             0498180   ALBERTA CROWN        677.7M                          
+    106/14-18-058-05W4/00  S  341.0M  E  600.1M    BONNYVILLE           666.0M                          
+    DEV (NC)                             LINDBERGH                      DINA MBR                        
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  14-18-058-05W4                  
+                                                                                                        
+    TAC 5-25 HZ 1F1 PROVOST 7-36-34-8    0498181   ALBERTA CROWN        771.6M                          
+    1F1/07-36-034-08W4/00  N  608.6M  E  230.7M    WAINWRIGHT           2334.0M                         
+    OTH (NC)                             PROVOST                        BASAL BELLY RIVER SD            
+    HORIZONTAL                           NEW       PRODUCTION           WATER                           
+    TAMARACK ACQUISITION CORP.                                          05-25-034-08W4                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    XTO H04 KAYBOBS 8-26-60-20            0495136                                                       
+    104/08-26-060-20W5/00                                                                               
+
+    CLEO ENERGY 8D HZ WAINWR 8-8-45-7     0495137                                                       
+    100/08-08-045-07W4/00                                                                               
+
+    CLEO ENERGY 8C HZ WAINWR 8-8-45-7     0495138                                                       
+    102/08-08-045-07W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

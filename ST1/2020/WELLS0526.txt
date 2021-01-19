@@ -1,0 +1,223 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 26 May 2020                                                                                   
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    PEYTO WILD RIV 14-28-56-24           0498065   ALBERTA CROWN        1048.7M                         
+    100/14-28-056-24W5/00  S  200.0M  E  801.4M    DRAYTON VALLEY       3750.0M                         
+    DEV (NC)                             WILD RIVER                     CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               14-21-056-24W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    OVV HZ 104 WEMBLEY 12-15-72-9         0490069    SURFACE CO-ORDINATES:                              
+    104/12-15-072-09W6/00                            S 0220.1 E 0593.3                                  
+
+    OVV HZ 103 WEMBLEY 12-15-72-9         0490073    GROUND ELEVATION                                   
+    103/12-15-072-09W6/00                            808.7                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0165.1 E 0593.3                                  
+
+    MEG HARDY 13-5-77-5                   0492622    UWI:                                               
+    AC/13-05-077-05W4/0                              00/13-05-077-05W4/0                                
+
+                                                     PROJECTED DEPTH:                                   
+                                                     432.00                                             
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0189.9 E 0108.5                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    MEG HARDY 1-33-76-5                   0492726    UWI:                                               
+    AC/01-33-076-05W4/0                              00/01-33-076-05W4/0                                
+
+                                                     PROJECTED DEPTH:                                   
+                                                     405.00                                             
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE B1 LEISMER 1-18-77-6              0495653    UWI:                                               
+    AA/01-18-077-06W4/0                              00/01-18-077-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     561.9                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE D10 LEISMER 10-19-77-6            0495684    UWI:                                               
+    AB/10-19-077-06W4/0                              02/10-19-077-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     573.5                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0426.7 W 0446.9                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE B14 LEISMER 14-19-77-6            0495687    UWI:                                               
+    AC/14-19-077-06W4/0                              00/14-19-077-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     569.6                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE D2-25 B15 FISHER 15-26-70-6       0496267    UWI:                                               
+    AA/15-26-070-06W4/2                              AA/05-25-070-06W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CVE D2-25 B15 FISHER 5-25-70-6                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    MEG HARDY 15-1-77-5                   0496610    UWI:                                               
+    AC/15-01-077-05W4/0                              00/15-01-077-05W4/0                                
+
+                                                     PROJECTED DEPTH:                                   
+                                                     406.00                                             
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0295.2 W 0651.2                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CRESTWYND RADWAY 14-23-59-20          0496782    WELL NAME:                                         
+    100/13-23-059-20W4/03                            CRESTWYND RADWAY 13-23-59                          
+
+    CNRL 4A FT KENT 4-15-63-4             0497555    UWI:                                               
+    00/04-15-063-04W4/0                              00/13-10-063-04W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL 13C COLD LK 13-10-63-4                        
+
+                                                     PROJECTED DEPTH:                                   
+                                                     592.00                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0386.5 W 0055.0                                  
+
+                                                     SURFACE LOCATION:                                  
+                                                     01-16-063-04W4                                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM WASECA MBR                      
+
+    CNRL 15C FT KENT 15-9-63-4            0497556    UWI:                                               
+    00/15-09-063-04W4/0                              02/01-16-063-04W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL 1D COLD LK 1-16-63-4                          
+
+                                                     PROJECTED DEPTH:                                   
+                                                     404.00                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0395.9 W 0066.7                                  
+
+                                                     SURFACE LOCATION:                                  
+                                                     01-16-063-04W4                                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM WASECA MBR                      
+
+    CNRL 16B FT KENT 16-9-63-4            0497558    UWI:                                               
+    02/16-09-063-04W4/0                              02/04-15-063-04W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL 4D COLD LK 4-15-63-4                          
+
+                                                     PROJECTED DEPTH:                                   
+                                                     665.00                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0414.6 W 0090.1                                  
+
+                                                     SURFACE LOCATION:                                  
+                                                     08-16-063-04W4                                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM WASECA MBR                      
+
+    OVV HZ 104 WEMBLEY 13-15-72-9         0497746    GROUND ELEVATION                                   
+    104/13-15-072-09W6/00                            808.1                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0140.2 E 0593.3                                  
+
+    OVV HZ WEMBLEY 12-15-72-9             0497748    GROUND ELEVATION                                   
+    100/12-15-072-09W6/00                            809.3                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0195.1 E 0593.3                                  
+
+    OVV HZ 102 WEMBLEY 12-15-72-9         0497749    GROUND ELEVATION                                   
+    102/12-15-072-09W6/00                            809.1                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0185.1 E 0593.3                                  
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

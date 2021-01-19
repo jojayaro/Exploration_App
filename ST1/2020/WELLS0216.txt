@@ -1,0 +1,37 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 16 February 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CABOT ENERGY 102 SOUSA 1-12-112-6    0497733   ALBERTA CROWN        328.5M                          
+    102/01-12-112-06W6/00  N  266.7M  E  416.4M    HIGH LEVEL           1700.0M                         
+    DEV (NC)                             SOUSA                          KEG RIVER FM                    
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    CABOT ENERGY INC.                                                   03-07-112-05W6                  
+                                                                                                        
+    CABOT ENERGY RAINBOW 14-32-111-5     0497734   ALBERTA CROWN        346.7M                          
+    100/14-32-111-05W6/00  N  122.4M  E  439.4M    HIGH LEVEL           1700.0M                         
+    DEV (NC)                             RAINBOW                        KEG RIVER FM                    
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    CABOT ENERGY INC.                                                   03-05-112-05W6                  
+                                                                                                        
+    CABOT ENERGY RAINBOW 8-31-111-5      0497735   ALBERTA CROWN        341.7M                          
+    100/08-31-111-05W6/00  S  697.7M  W  333.3M    HIGH LEVEL           1750.0M                         
+    DEV (NC)                             RAINBOW                        KEG RIVER FM                    
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    CABOT ENERGY INC.                                                   09-31-111-05W6                  
+                                                                                                        
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

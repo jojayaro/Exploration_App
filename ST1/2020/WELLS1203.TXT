@@ -1,0 +1,118 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 03 December 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    ACCELEWARE 106 MHZ MARW 7-18-53-1    0498876   ALBERTA CROWN        605.4M                          
+    105/07-18-053-01W4/00  N  497.7M  W  298.9M    BONNYVILLE           1800.0M                         
+    EX (C)                               MARWAYNE                       LOWER GRAND RAPIDS              
+    HORIZONTAL                           NEW       EXPERIMENTAL         NONE                            
+    ACCELEWARE LTD.                                                     08-13-053-02W4                  
+                                                                                                        
+    VESTA 100 CYGNET 1-28-38-28          0498877   ALBERTA CROWN        940.8M                          
+    103/01-28-038-28W4/00  N  576.5M  E  430.2M    RED DEER             6800.0M                         
+    DEV (C)                              CYGNET                         DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VESTA ENERGY LTD.                                                   06-30-037-28W4                  
+                                                                                                        
+    VESTA 102 CYGNET 1-28-37-28          0498878   ALBERTA CROWN        940.8M                          
+    100/01-28-037-28W4/00  N  576.9M  E  440.2M    RED DEER             6800.0M                         
+    DEV (C)                              CYGNET                         DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VESTA ENERGY LTD.                                                   06-30-037-28W4                  
+                                                                                                        
+    CALTEX_RES 100 INJ BELLIS 2-35-58-17 0498879   ALBERTA CROWN        643.4M                          
+    100/02-35-058-17W4/00  N  184.9M  E  769.2M    BONNYVILLE           2450.0M                         
+    DSW (NC)                             BELLIS                         SPARKY MBR                      
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    CALTEX RESOURCES LTD.                                               03-01-059-17W4                  
+                                                                                                        
+    CALTEX_RES 102 HZ BELLIS 2-35-58-17  0498880   ALBERTA CROWN        643.2M                          
+    102/02-35-058-17W4/00  N  184.9M  E  761.2M    BONNYVILLE           2300.0M                         
+    DEV (NC)                             BELLIS                         SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CALTEX RESOURCES LTD.                                               03-01-059-17W4                  
+                                                                                                        
+    CALTEX_RES 103 INJ BELLIS 2-35-58-17 0498881   ALBERTA CROWN        643M                            
+    103/02-35-058-17W4/00  N  184.8M  E  753.1M    BONNYVILLE           2300.0M                         
+    DSW (NC)                             BELLIS                         SPARKY MBR                      
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    CALTEX RESOURCES LTD.                                               03-01-059-17W4                  
+                                                                                                        
+    TAC 16-24 HZ 102 PROVOST 15-18-34-9  0498882   ALBERTA CROWN        777M                            
+    102/15-18-034-09W4/00  S  255.1M  W  175.0M    WAINWRIGHT           2805.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          16-24-034-10W4                  
+                                                                                                        
+    TAC 16-24 HZ 104  PROVOST 1-19-34-9  0498883   ALBERTA CROWN        777.1M                          
+    104/01-19-034-09W4/00  S  235.1M  W  175.0M    WAINWRIGHT           2822.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          16-24-034-10W4                  
+                                                                                                        
+    TAC 16-24 HZ 102 PROVOST 13-25-34-10 0498884   ALBERTA CROWN        777M                            
+    102/13-25-034-10W4/00  S  245.1M  W  175.0M    WAINWRIGHT           2911.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          16-24-034-10W4                  
+                                                                                                        
+    TAC 16-24 HZ PROVOST 16-26-34-10     0498885   ALBERTA CROWN        777.2M                          
+    100/16-26-034-10W4/00  S  265.1M  W  175.0M    WAINWRIGHT           2937.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          16-24-034-10W4                  
+                                                                                                        
+    TXNE 16D-13 HZ BANTRY 16-19-16-13    0498886   FREEHOLD             740.9M                          
+    102/16-19-016-13W4/00  S   82.3M  W  101.5M    MEDICINE HAT         3075.0M                         
+    DEV (NC)                             BANTRY                         ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  16-13-016-14W4                  
+                                                                                                        
+    KARVE HZ PROVOST 3-4-36-8            0498887   ALBERTA CROWN        802.9M                          
+    100/03-04-036-08W4/00  S  173.9M  E  328.9M    WAINWRIGHT           2578.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    KARVE ENERGY INC.                                                   13-03-036-08W4                  
+                                                                                                        
+    ATH L6N5 LEISMER 1-33-78-10          0498888   ALBERTA CROWN        648.3M                          
+    112/01-33-078-10W4/00  S  286.7M  W   89.6M    BONNYVILLE           1568.0M                         
+    DEV (NC)                             LEISMER                        MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    ATHABASCA OIL CORPORATION                                           16-33-078-10W4                  
+                                                                                                        
+    ATH L6N4 LEISMER 4-34-78-10          0498889   ALBERTA CROWN        648.3M                          
+    122/04-34-078-10W4/00  S  335.2M  W   77.5M    BONNYVILLE           1576.0M                         
+    DEV (NC)                             LEISMER                        MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    ATHABASCA OIL CORPORATION                                           16-33-078-10W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CNRL 4D LNDBRGH 4-4-55-4               0488658   UWI:                                               
+    00/04-04-055-04W4/0                              02/03-04-055-04W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL 3C LIND 3-4-55-4                              
+
+    CNRL VERMIL 11-14-50-6                 0493451   PROJECTED DEPTH:                                   
+    100/11-14-050-06W4/00                            619.00                                             
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

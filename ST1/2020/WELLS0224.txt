@@ -1,0 +1,55 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 24 February 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    RAMPART PARKLDNE 1-27-14-26          0497777   FREEHOLD             979.5M                          
+    100/01-27-014-26W4/00  N  134.0M  W   80.3M    MIDNAPORE            2120.0M                         
+    DEV (C)                              PARKLAND NORTHEAST             MANNVILLE GRP                   
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    RAMPART OIL INC.                                                    01-27-014-26W4                  
+                                                                                                        
+    GEAR 2HZ WILDMERE 1-18-48-5          0497778   ALBERTA CROWN        689.9M                          
+    100/01-18-048-05W4/00  S   50.0M  W  149.9M    WAINWRIGHT           2400.0M                         
+    DEV (NC)                             WILDMERE                       GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    GEAR ENERGY LTD.                                                    16-12-048-06W4                  
+                                                                                                        
+    GEAR 2HZ 102 WILDMERE 1-18-48-5      0497779   ALBERTA CROWN        688.7M                          
+    102/01-18-048-05W4/00  S   78.0M  W  149.9M    WAINWRIGHT           2400.0M                         
+    DEV (NC)                             WILDMERE                       GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    GEAR ENERGY LTD.                                                    16-12-048-06W4                  
+                                                                                                        
+    GEAR 4HZ 103 WILDMERE 1-18-48-5      0497780   ALBERTA CROWN        689M                            
+    103/01-18-048-05W4/00  S   64.0M  W  149.8M    WAINWRIGHT           2400.0M                         
+    DEV (NC)                             WILDMERE                       SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    GEAR ENERGY LTD.                                                    16-12-048-06W4                  
+                                                                                                        
+    OUC HZ KAKWA 14-12-63-6              0497781   ALBERTA CROWN        1031.3M                         
+    100/14-12-063-06W6/00  N  723.3M  W  460.2M    GRANDE PRAIRIE       6360.0M                         
+    DEV (NC)                             KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ORLEN UPSTREAM CANADA LTD.                                          07-10-063-06W6                  
+                                                                                                        
+    OUC 102 HZ KAKWA 14-12-63-6          0497782   ALBERTA CROWN        1031.3M                         
+    102/14-12-063-06W6/00  N  711.3M  W  460.2M    GRANDE PRAIRIE       6275.0M                         
+    DEV (NC)                             KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ORLEN UPSTREAM CANADA LTD.                                          07-10-063-06W6                  
+                                                                                                        
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

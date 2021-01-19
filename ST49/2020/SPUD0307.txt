@@ -1,0 +1,22 @@
+Report Number: ST-49                                                                        Alberta Energy Regulator                                                                                 Page 1 of 1
+Run Date: 07 Mar 2020                                                                     DAILY DRILLING ACTIVITY LIST                                                                                          
+                                                                             For the Notification Period 06 Mar 2020 To 07 Mar 2020                                                                             
+
+      WELL ID                  WELL NAME             LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID            LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                              BA ID               NAME              NUMBER                                                                              TOTAL DEPTH     TYPE    
+------------------- -------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------------ ------------- -----------
+02/08-19-038-11W4/0 KARVE 102 HZ PROVOST 8-19-38-11   0497391 A1TW   Bonanza Drilling Inc.               3 06 Mar 2020 11:45:00 AM Wainwright     A7BT  Karve Energy Inc.                            Resumption 
+02/16-19-048-05W4/0 HUSKY 3HZ Q1 WILDMERE 16-19-48-5  0496541 0Y52   Precision Drilling Corporation    151 06 Mar 2020 09:00:00 PM Wainwright     0R46  Husky Oil Operations Limited                 Drill To LD
+00/16-08-062-20W5/0 CHEVRON HZ KAYBOBS 16-8-62-20     0489950 0Z41   Ensign Drilling Inc.              770 07 Mar 2020 01:00:00 AM St. Albert     0045  Chevron Canada Limited                       Drill To LD
+AA/10-19-077-06W4/0 CVE B10 LEISMER 10-19-77-6        0495683 0Y52   Precision Drilling Corporation    254 07 Mar 2020 05:44:00 AM Bonnyville     A5D4  Cenovus Energy Inc.                          Drill To LD
+02/10-18-079-12W6/0 BIR HZ 102 PCOUPE 10-18-79-12     0497655 0Z41   Ensign Drilling Inc.              137 06 Mar 2020 08:30:00 PM Grande Prairie A12R  Birchcliff Energy Ltd.                       Drill To LD
+AB/12-06-084-10W4/0 JACOS HANGSTN 12-6-84-10          0496592 A6F5   Foraco Canada Ltd.                104 06 Mar 2020 09:30:00 PM Bonnyville     0NY5  Japan Canada Oil Sands Limited               Resumption 
+
+                                                                   TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 4                                                                    
+                                                                   TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                    
+                                                                   TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 2                                                                    
+                                                                   TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 0                                                                    
+
+                                                                                        TOTAL NUMBER OF WELLS LISTED = 6                                                                                        
+                                                                                             *** END OF REPORT ***                                                                                              
+

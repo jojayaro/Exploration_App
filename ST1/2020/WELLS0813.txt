@@ -1,0 +1,91 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 13 August 2020                                                                                
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    VEI HZ FERRIER 4-6-42-10             0498261   ALBERTA CROWN        1039.5M                         
+    100/04-06-042-10W5/00  S  532.7M  W  279.5M    RED DEER             5102.0M                         
+    DEV (NC)                             FERRIER                        NOTIKEWIN MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    VERMILION ENERGY INC.                                               09-12-042-11W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    KEV ET AL ACHESON 5-12-53-26          0103780    DRILLING OPERATION:                                
+    100/05-12-053-26W4/00                            DIRECTIONAL                                        
+
+                                                     PROJECTED DEPTH:                                   
+                                                     1479.00                                            
+
+                                                     TERMINATING ZONE:                                  
+                                                     LEDUC FM                                           
+
+                                                     SURFACE LOCATION:                                  
+                                                     08-11-053-26W4                                     
+
+                                                     SURFACE RIGHTS:                                    
+                                                     FREEHOLD                                           
+
+                                                     WELL TYPE:                                         
+                                                     PRODUCTION                                         
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM LEDUC FM                            
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL 4W BEAVRDM 4-13-61-2             0490387                                                       
+    102/04-13-061-02W4/00                                                                               
+
+    CNRL 5A BEAVRDM 5-13-61-2             0490388                                                       
+    102/05-13-061-02W4/00                                                                               
+
+    CNRL 4A BEAVRDM 4-13-61-2             0490389                                                       
+    103/04-13-061-02W4/00                                                                               
+
+    CNRL 9A WOLF LK 9-22-65-6             0490405                                                       
+    100/09-22-065-06W4/00                                                                               
+
+    CNRL 10D WOLF LK 10-22-65-6           0490406                                                       
+    100/10-22-065-06W4/00                                                                               
+
+    CNRL 14A2 WOLF LK 14-22-65-6          0490407                                                       
+    102/14-22-065-06W4/00                                                                               
+
+    CNRL 15D WOLF LK 15-22-65-6           0490408                                                       
+    100/15-22-065-06W4/00                                                                               
+
+    CNRL 16A WOLF LK 16-22-65-6           0490409                                                       
+    102/16-22-065-06W4/00                                                                               
+
+    CNRL 13D WOLF LK 13-23-65-6           0490410                                                       
+    100/13-23-065-06W4/00                                                                               
+
+    CNRL 1A WOLF LK 1-27-65-6             0490411                                                       
+    100/01-27-065-06W4/00                                                                               
+
+    CNRL 7A2 WOLF LK 7-27-65-6            0490412                                                       
+    102/07-27-065-06W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

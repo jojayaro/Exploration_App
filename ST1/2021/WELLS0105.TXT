@@ -1,0 +1,145 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 05 January 2021                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    YANGARRA HZ 104 FERRIER 1-5-37-7     0499179   ALBERTA CROWN        1062.2M                         
+    104/01-05-037-07W5/00  N  362.3M  E  105.8M    RED DEER             5622.0M                         
+    DEV (NC)                             FERRIER                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    YANGARRA RESOURCES CORP.                                            04-16-037-07W5                  
+                                                                                                        
+    NEP LEDUC-WB 16-28-48-25             0499180   ALBERTA CROWN        756.9M                          
+    100/16-28-048-25W4/00  S  100.0M  W  100.0M    ST. ALBERT           1675.0M                         
+    XPL (C)                              LEDUC-WOODBEND                 IRETON FM                       
+    VERTICAL                             NEW       PRODUCTION           CRUDE OIL                       
+    NEP CANADA ULC                                                      16-28-048-25W4                  
+                                                                                                        
+    CEQUENCE 12-26 HZ SMOKY 14-33-61-27  0499181   ALBERTA CROWN        1183.8M                         
+    100/14-33-061-27W5/00  S  610.3M  E  434.7M    GRANDE PRAIRIE       6700.0M                         
+    DEV (C)                              SMOKY                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CEQUENCE ENERGY LTD.                                                11-26-061-27W5                  
+                                                                                                        
+    CEQUENCE 12-26 HZ SMOKY 15-33-61-27  0499182   ALBERTA CROWN        1183.8M                         
+    100/15-33-061-27W5/00  S  596.3M  E  429.3M    GRANDE PRAIRIE       6500.0M                         
+    DEV (C)                              SMOKY                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CEQUENCE ENERGY LTD.                                                11-26-061-27W5                  
+                                                                                                        
+    ACCELEWARE HZ MARW 7-18-53-2         0499183   ALBERTA CROWN        604.5M                          
+    100/07-18-053-02W4/00  N  512.6M  W  298.9M    BONNYVILLE           1800.0M                         
+    EX (C)                               MARWAYNE                       LOWER GRAND RAPIDS              
+    HORIZONTAL                           NEW       EXPERIMENTAL         NONE                            
+    ACCELEWARE LTD.                                                     08-13-053-02W4                  
+                                                                                                        
+    RHE 100 WESTLOCK 13-34-61-26         0499184   ALBERTA CROWN        625.1M                          
+    100/13-34-061-26W4/00  N   60.0M  W  233.0M    ST. ALBERT           2685.0M                         
+    DEV (C)                              WESTLOCK                       CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ROLLING HILLS ENERGY LTD.                                           01-05-062-26W4                  
+                                                                                                        
+    TQN FERRIER 4-28-44-10               0499185   FREEHOLD             949.3M                          
+    102/04-28-044-10W5/00  N   95.0M  W  125.0M    RED DEER             3940.0M                         
+    DEV (NC)                             FERRIER                        SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TAQA NORTH LTD.                                                     01-28-044-10W5                  
+                                                                                                        
+    TXNE 8D-31 HZ ALDSON 6-4-15-13       0499186   FREEHOLD             748.5M                          
+    100/06-04-015-13W4/00  N  734.7M  W   44.9M    MEDICINE HAT         3100.0M                         
+    DEV (NC)                             ALDERSON                       ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  08-31-014-13W4                  
+                                                                                                        
+    TXNE 15A-5 HZ ALDSON 11-9-15-14      0499187   FREEHOLD             786.4M                          
+    100/11-09-015-14W4/00  S  385.9M  W  528.4M    MEDICINE HAT         2750.0M                         
+    DEV (NC)                             ALDERSON                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  15-05-015-14W4                  
+                                                                                                        
+    TXNE 15A-5 HZ ALDSON 11-30-14-14     0499188   FREEHOLD             786.7M                          
+    100/11-31-014-14W4/00  S  385.9M  W  540.4M    MEDICINE HAT         3100.0M                         
+    DEV (NC)                             ALDERSON                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  15-05-015-14W4                  
+                                                                                                        
+    WINSLOW 102 HZ PEMBINA 16-23-45-9    0499189   ALBERTA CROWN        895.6M                          
+    102/16-23-045-09W5/00  S  351.0M  E   90.9M    DRAYTON VALLEY       5000.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WINSLOW RESOURCES INC.                                              13-12-045-09W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    TOURMALINE HZ KAKWA 2-15-61-4          0499014   UWI:                                               
+    00/02-15-061-04W6/0                              00/05-11-061-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ KAKWA 5-11-61-4                      
+
+                                                     PROJECTED DEPTH:                                   
+                                                     6192.00                                            
+
+    TOURMALINE HZ KAKWA 3-15-61-4          0499015   UWI:                                               
+    02/03-15-061-04W6/0                              00/06-10-061-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ KAKWA 6-10-61-4                      
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5534.00                                            
+
+    LONGSHORE HZ PROGRESS 8-20-78-9        0499132   GROUND ELEVATION                                   
+    100/08-20-078-09W6/00                            757.70                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0780.3 W 0142.6                                  
+
+    TXNE 15A-5 HZ ALDSON 11-30-14-14       0499188   UWI:                                               
+    00/11-30-014-14W4/0                              00/11-31-014-14W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TXNE 15A-5 HZ  ALDSON 11-31-14-14                  
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    VELVET HZ WESTPEM 16-35-51-14          0498720   UWI:                                               
+    00/16-35-051-14W5/0                              00/07-25-051-14W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     VELVET HZ PEMBINA 07-25-51-14                      
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     07-25-051-14W5                                     
+
+    VELVET HZ WESTPEM 16-35-51-14          0498720   UWI:                                               
+    00/16-35-051-14W5/2                              00/01-02-052-14W5/2                                
+
+                                                     WELL NAME:                                         
+                                                     VELVET HZ WESTPEM 1-2-52-14                        
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     01-02-052-14W5                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,241 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 28 October 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    KXL RE CROSS 6-36-26-2               0432762   ALBERTA CROWN        1224.5M                         
+    100/06-36-026-02W5/02  N  708.2M  E  464.2M    MIDNAPORE            4088.0M                         
+    NPW (NC)                             CROSSFIELD                     VIKING SANDSTONE                
+    HORIZONTAL                           RESUMPTIONPRODUCTION           GAS                             
+    KAISER EXPLORATION LTD.                                             06-01-027-02W5                  
+                                                                                                        
+    WOODCOTE HZ MARTEN 5-13-76-5         0498615   ALBERTA CROWN        829.4M                          
+    100/05-13-076-05W5/00  N  803.5M  E  233.3M    ST. ALBERT           2500.0M                         
+    XPL (C)                              MARTEN                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WOODCOTE OIL CORP.                                                  05-18-076-04W5                  
+                                                                                                        
+    TAC 7-19 HZ PROVOST 13-20-34-7       0498616   ALBERTA CROWN        764.5M                          
+    100/13-20-034-07W4/00  N  471.2M  W  751.7M    WAINWRIGHT           2370.0M                         
+    DSW (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    TAMARACK ACQUISITION CORP.                                          07-19-034-07W4                  
+                                                                                                        
+    TAC 7-19 HZ PROVOST 9-13-34-8        0498617   ALBERTA CROWN        763.8M                          
+    100/09-13-034-08W4/00  N  483.7M  W  731.2M    WAINWRIGHT           2360.0M                         
+    DSW (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    TAMARACK ACQUISITION CORP.                                          07-19-034-07W4                  
+                                                                                                        
+    TAC 7-19 HZ 103 PROVOST 4-29-34-7    0498618   ALBERTA CROWN        764.3M                          
+    103/04-29-034-07W4/00  N  475.3M  W  744.9M    WAINWRIGHT           2387.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          07-19-034-07W4                  
+                                                                                                        
+    TAC 7-19 HZ 102 PROVOST 9-13-34-8    0498619   ALBERTA CROWN        764.1M                          
+    102/09-13-034-08W4/00  N  479.5M  W  738.0M    WAINWRIGHT           2418.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          07-19-034-07W4                  
+                                                                                                        
+    RIDGEBACK HZ PEMBINA 1-12-48-11      0498620   ALBERTA CROWN        908.3M                          
+    100/01-12-048-11W5/00  N  455.0M  W   65.0M    DRAYTON VALLEY       3547.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    RIDGEBACK RESOURCES INC.                                            08-11-048-11W5                  
+                                                                                                        
+    RIDGEBACK HZ PEMBINA 8-12-48-11      0498621   ALBERTA CROWN        908.6M                          
+    100/08-12-048-11W5/00  N  475.0M  W   65.0M    DRAYTON VALLEY       3388.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    RIDGEBACK RESOURCES INC.                                            08-11-048-11W5                  
+                                                                                                        
+    RIDGEBACK HZ 102 PEMBINA 8-12-48-11  0498622   ALBERTA CROWN        908.6M                          
+    102/08-12-048-11W5/00  N  495.0M  W   65.0M    DRAYTON VALLEY       3467.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    RIDGEBACK RESOURCES INC.                                            08-11-048-11W5                  
+                                                                                                        
+    SPL 12-32 HZ NIPISI 9-36-76-8        0498623   ALBERTA CROWN        717.3M                          
+    100/09-36-076-08W5/00  S  417.0M  E  184.2M    ST. ALBERT           2900.0M                         
+    DEV (C)                              UNDEFINED                      CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SPUR PETROLEUM LTD.                                                 12-32-076-07W5                  
+                                                                                                        
+    NUVISTA 100 HZ D ELM 3-15-70-8       0498624   ALBERTA CROWN        684.9M                          
+    100/03-15-070-08W6/00  N  378.5M  E  122.2M    GRANDE PRAIRIE       5105.0M                         
+    DEV (NC)                             ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    NUVISTA ENERGY LTD.                                                 04-21-070-08W6                  
+                                                                                                        
+    NUVISTA 102 HZ B ELM 3-15-70-8       0498625   ALBERTA CROWN        684.9M                          
+    102/03-15-070-08W6/00  N  388.5M  E  122.2M    GRANDE PRAIRIE       5229.0M                         
+    DEV (NC)                             ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    NUVISTA ENERGY LTD.                                                 04-21-070-08W6                  
+                                                                                                        
+    NUVISTA 103 HZ C ELM 3-15-70-8       0498626   ALBERTA CROWN        684.7M                          
+    103/03-15-070-08W6/00  N  398.5M  E  122.2M    GRANDE PRAIRIE       5338.0M                         
+    DEV (NC)                             ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    NUVISTA ENERGY LTD.                                                 04-21-070-08W6                  
+                                                                                                        
+    NUVISTA 100 HZ D ELM 2-15-70-8       0498627   ALBERTA CROWN        684.5M                          
+    100/02-15-070-08W6/00  N  408.5M  E  122.2M    GRANDE PRAIRIE       5547.0M                         
+    DEV (NC)                             ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    NUVISTA ENERGY LTD.                                                 05-21-070-08W6                  
+                                                                                                        
+    NUVISTA 102 HZ D ELM 4-15-70-8       0498628   ALBERTA CROWN        684.8M                          
+    102/04-15-070-08W6/00  N  418.5M  E  122.2M    GRANDE PRAIRIE       4884.0M                         
+    DEV (NC)                             ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    NUVISTA ENERGY LTD.                                                 05-21-070-08W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    7GEN HZ 103 KAKWA 13-4-63-5           0496212    UWI:                                               
+    03/13-04-063-05W6/2                              03/12-04-063-05W6/2                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 103 KAKWA 12-4-63-5                        
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    PEYTO SUNDANCE 12-7-55-20             0496876    UWI:                                               
+    02/12-07-055-20W5/0                              00/13-06-055-20W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     PEYTO SUNDANCE 13-6-55-20                          
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM WILRICH MBR                               
+
+    7GEN HZ 102 KAKWA 5-4-63-5            0497466    UWI:                                               
+    02/05-04-063-05W6/0                              00/05-02-063-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 102 KAKWA 5-2-63-5                         
+
+    PEYTO SUNDANCE 13-7-55-20             0497603    UWI:                                               
+    02/13-07-055-20W5/0                              03/12-07-055-20W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     PEYTO SUNDANCE 12-7-55-20                          
+
+                                                     PROJECTED DEPTH:                                   
+                                                     4900.00                                            
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM WILRICH MBR                               
+
+    CRESTWYND HZ JILES 15-20-63-21        0498086    TARGET SUBSTANCE(1)                                
+    1S0/15-20-063-21W4/00                            CRUDE OIL FROM CLEARWATER                          
+
+    CRESTWYND HZ MEANOOK 15-30-63-21      0498087    UWI:                                               
+    S0/14-30-063-21W4/7                              02/11-30-063-21W4/7                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND HZ MEANOOK 11-30-63-21                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    CRESTWYND HZ MEANOOK 14-30-63-21      0498087    UWI:                                               
+    S0/14-30-063-21W4/6                              00/15-30-063-21W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND HZ MEANOOK 15-30-63-21                   
+
+    CRESTWYND HZ MEANOOK 14-30-63-21      0498087    UWI:                                               
+    S0/14-30-063-21W4/5                              00/15-30-063-21W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND HZ MEANOOK 15-30-63-21                   
+
+    CANAMAX 03 PUSKWA 14-15-74-1          0498265    UWI:                                               
+    03/14-15-074-01W6/0                              00/13-15-074-01W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     CANAMAX 03 PUSKWA 13-15-74-1                       
+
+    SPL 15-11 HZ 102 UKALTA 16-14-57-18   0498308    UWI:                                               
+    02/16-14-057-18W4/4                              03/15-14-057-18W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-11 HZ 102 UKALTA 15-14-57-18                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    SPL 15-11 HZ 102 UKALTA 10-11-57-18   0498311    UWI:                                               
+    02/02-11-057-18W4/8                              00/03-11-057-18W4/8                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-11 HZ 102 UKALTA 3-11-57-18                 
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    SPL 15-11 HZ 102 UKALTA 2-11-57-18    0498311    UWI:                                               
+    02/02-11-057-18W4/7                              00/03-11-057-18W4/7                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-11 HZ 102 UKALTA 3-11-57-18                 
+
+    SPL 15-11 HZ 102 UKALTA 2-11-57-18    0498311    UWI:                                               
+    02/02-11-057-18W4/6                              00/03-11-057-18W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-11 HZ 102 UKALTA 3-11-57-18                 
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL 9B BNNYVLLE 9-1-61-5             0491576                                                       
+    100/09-01-061-05W4/00                                                                               
+
+    CNRL 9D BNNYVLLE 9-1-61-5             0491577                                                       
+    102/09-01-061-05W4/00                                                                               
+
+    CNRL 16B BNNYVLLE 16-1-61-5           0491578                                                       
+    100/16-01-061-05W4/00                                                                               
+
+    CNRL 16D BNNYVLLE 16-1-61-5           0491579                                                       
+    102/16-01-061-05W4/00                                                                               
+
+    CNRL 13B BEAVRDM 13-6-61-4            0491580                                                       
+    102/13-06-061-04W4/00                                                                               
+
+    CRESTWYND EVI 8-4-87-11               0496135                                                       
+    102/08-04-087-11W5/00                                                                               
+
+    JACOS HANGSTN 1-6-84-10               0496138                                                       
+    1AA/01-06-084-10W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

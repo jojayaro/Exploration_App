@@ -1,0 +1,211 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 20 February 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    IPCCAN 6V-33 SUFFIELD 6-33-19-8      0497763   ALBERTA CROWN        777.3M                          
+    102/06-33-019-08W4/00  N  646.5M  E  659.2M    MEDICINE HAT         1448.0M                         
+    OTH (NC)                             SUFFIELD                       LEDUC FM                        
+    VERTICAL                             NEW       DISPOSAL             WATER                           
+    IPC CANADA LTD.                                                     06-33-019-08W4                  
+                                                                                                        
+    IPCCAN 6B-33 HZ SUFFIELD 9-33-19-8   0497764   ALBERTA CROWN        777.5M                          
+    105/09-33-019-08W4/00  N  643.6M  E  668.7M    MEDICINE HAT         2050.0M                         
+    OTH (NC)                             SUFFIELD                       BANFF FM                        
+    HORIZONTAL                           NEW       DISPOSAL             WATER                           
+    IPC CANADA LTD.                                                     06-33-019-08W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    GRL 102 HZ VALHALLA 8-20-78-7         0492921    WELL NAME:                                         
+    102/08-20-078-07W6/00                            GRL 12-20 HZ 102 VALHALLA                          
+
+                                                     WELL TYPE:                                         
+                                                     PRODUCTION                                         
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM DOE CREEK MBR                       
+
+    CRESTWYND JILES 5-20-63-21            0495217    UWI:                                               
+    02/05-20-063-21W4/4                              00/04-20-063-21W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND JILES 4-20-63-21                         
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    7GEN HZ KAKWA 5-6-64-5                0495478    UWI:                                               
+    00/05-06-064-05W6/0                              07/06-06-064-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 6-6-64-5                             
+
+    7GEN HZ KAKWA 1-10-62-4               0496040    UWI:                                               
+    00/01-10-062-04W6/0                              02/12-11-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 12-11-62-4                           
+
+    7GEN HZ 102 KAKWA 8-13-64-5           0496156    UWI:                                               
+    02/08-13-064-05W6/0                              03/07-13-064-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 102 KAKWA 7-13-64-5                        
+
+    7GEN HZ KAKWA 4-1-64-7                0496197    UWI:                                               
+    00/04-01-064-07W6/0                              00/16-02-064-07W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 16-2-64-7                            
+
+    ARTIS HZ TWINING 10-14-31-25          0496511    PROJECTED DEPTH:                                   
+    100/10-14-031-25W4/00                            6000.00                                            
+
+    ARTIS HZ TWINING 2-2-32-25            0496512    PROJECTED DEPTH:                                   
+    100/02-02-032-25W4/00                            6000.00                                            
+
+    TQN HZ FERRIER 8-34-43-11             0496515    UWI:                                               
+    S0/08-34-043-11W5/0                              00/03-35-043-11W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TQN HZ FERRIER 3-35-43-11                          
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM NOTIKEWIN MBR                             
+
+    CNRL 1AA KIRBY 11-7-73-6              0496558    DRILLING OPERATION:                                
+    1AA/11-07-073-06W4/00                            DIRECTIONAL                                        
+
+                                                     PROJECTED DEPTH:                                   
+                                                     564.00                                             
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    GEAR 4HZ 103 LIND 15-10-54-6          0496620    UWI:                                               
+    03/15-10-054-06W4/0                              02/16-03-054-06W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     GEAR 4HZ 103 LNDBRGH 16-3-54-6                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CUMMINGS MBR                    
+
+    POC 02 HZ UKALTA 13-2-57-18           0496661    UWI:                                               
+    02/13-02-057-18W4/3                              02/14-02-057-18W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     POC 02 HZ UKALTA 14-2-57-18                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    VEI HZ PEMBINA 16-35-50-13            0497214    UWI:                                               
+    02/16-35-050-13W5/0                              02/01-35-050-13W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     VEI HZ PEMBINA 1-35-50-13                          
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5933.00                                            
+
+    PIPE HZ ELM 12-17-71-8                0497560    UWI:                                               
+    00/12-17-071-08W6/0                              00/12-17-071-07W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     PIPE HZ DIMSD 12-17-71-7                           
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.28                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    PIPE HZ ELM 5-17-71-8                 0497561    UWI:                                               
+    00/05-17-071-08W6/0                              00/05-17-071-07W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     PIPE DIMSD 5-17-71-7                               
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.28                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    PIPE 102 HZ ELM 5-17-71-8             0497562    UWI:                                               
+    02/05-17-071-08W6/0                              02/05-17-071-07W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     PIPE 102 HZ DIMSD 5-17-71-7                        
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.28                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    PIPE 103 HZ ELM 5-17-71-8             0497563    UWI:                                               
+    03/05-17-071-08W6/0                              03/05-17-071-07W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     PIPE 103 HZ DIMSD 5-17-71-7                        
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.28                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    PIPE 104 HZ ELM 5-17-71-8             0497564    UWI:                                               
+    04/05-17-071-08W6/0                              04/05-17-071-07W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     PIPE 104 HZ DIMSD 5-17-71-7                        
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.28                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    ENTRADA HZ WILLGR 3-28-42-6           0482918                                                       
+    100/03-28-042-06W5/00                                                                               
+
+    PEYTO SUNDANCE 5-3-56-21              0488322                                                       
+    100/05-03-056-21W5/00                                                                               
+
+    PEYTO SUNDANCE 3-10-56-21             0488325                                                       
+    100/03-10-056-21W5/00                                                                               
+
+    CEQUENCE 16-3 HZ SIMON 9-2-62-26      0488334                                                       
+    100/09-02-062-26W5/00                                                                               
+
+    CEQUENCE 16-3 HZ SIMON 15-14-62-26    0488335                                                       
+    100/15-14-062-26W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

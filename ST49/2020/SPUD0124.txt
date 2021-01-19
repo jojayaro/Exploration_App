@@ -1,0 +1,39 @@
+Report Number: ST-49                                                                                Alberta Energy Regulator                                                                                         Page 1 of 1
+Run Date: 24 Jan 2020                                                                             DAILY DRILLING ACTIVITY LIST                                                                                                  
+                                                                                     For the Notification Period 23 Jan 2020 To 24 Jan 2020                                                                                     
+
+      WELL ID                    WELL NAME               LICENCE  +---------------CONTRACTOR---------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                                  BA ID                 NAME                 NUMBER                                                                                     TOTAL DEPTH     TYPE    
+------------------- ------------------------------------ -------- ------ ----------------------------------- ------ ----------------------- -------------- ----- ------------------------------------- ------------- -----------
+00/16-05-020-18W4/0 TXNE 13C-4 DV COUNTESS 16-5-20-18     0497185 A77K   Star Valley Drilling Ltd.              102 24 Jan 2020 01:30:00 PM Midnapore      A7NW  Torxen Energy Ltd.                                  Drill To LD
+02/14-36-034-03W4/0 RHE 102 PROVOST 14-36-34-3            0496167 0GE9   Tempco Drilling Company Inc.             6 23 Jan 2020 11:30:00 PM Wainwright     A6W2  Rolling Hills Energy Ltd.                           Drill To LD
+00/13-15-034-08W4/0 TAC 6-22 HZ PROVOST 13-15-34-8        0497283 A1TW   Bonanza Drilling Inc.                    3 23 Jan 2020 09:00:00 PM Wainwright     A5TT  Tamarack Acquisition Corp.                          Drill To LD
+00/06-29-034-09W4/0 TAC 16-30 HZ PROVOST 6-29-34-9        0494719 A8AF   Hertz & Paluck Energy Services Inc.      1 24 Jan 2020 02:00:00 PM Wainwright     A5TT  Tamarack Acquisition Corp.                          Set Surface
+02/06-29-034-09W4/0 TAC 16-30 HZ 102 PROVOST 6-29-34-9    0494720 A8AF   Hertz & Paluck Energy Services Inc.      1 23 Jan 2020 04:30:00 PM Wainwright     A5TT  Tamarack Acquisition Corp.                          Set Surface
+00/07-23-035-09W4/0 KARVE HZ PROVOST 7-23-35-9            0496649 A57H   Predator Drilling Inc.                  27 24 Jan 2020 03:07:00 PM Wainwright     A7BT  Karve Energy Inc.                                   Set Surface
+00/16-19-036-04W4/0 SURGE ENERGY HZ PROVOST 16-19-36-4    0496659 A08C   Savanna Drilling Corp.                 431 24 Jan 2020 12:00:00 PM Wainwright     0YK4  Surge Energy Inc.                                   Resumption 
+S0/04-04-039-02W4/0 WLEC MHZ 2B4 PROVOST 4-4-39-2         0497233 A1TW   Bonanza Drilling Inc.                    4 24 Jan 2020 05:00:00 PM Wainwright     A7H7  West Lake Energy Corp.                              Drill To LD
+03/13-22-044-14W5/0 TOURMALINE 103 HZ BRAZR 13-22-44-14   0496846 0Z41   Ensign Drilling Inc.                    38 24 Jan 2020 10:45:00 AM Drayton Valley A573  Tourmaline Oil Corp.                                Set Surface
+00/12-11-048-12W5/0 BACCALIEU HZ BRAZR 12-11-48-12        0494379 A0KC   Horizon Drilling Inc.                    2 23 Jan 2020 10:00:00 PM Drayton Valley A73C  Baccalieu Energy Inc.                               Drill To LD
+00/15-14-052-17W5/0 CNRL HZ EDSON 15-14-52-17             0492557 0Z41   Ensign Drilling Inc.                   419 23 Jan 2020 09:30:00 PM Drayton Valley 0HE9  Canadian Natural Resources Limited                  Drill To LD
+00/13-32-054-20W5/0 PEYTO SUNDANCE 13-32-54-20            0496368 0Z41   Ensign Drilling Inc.                  T438 24 Jan 2020 03:45:00 AM Drayton Valley 0YA2  Peyto Exploration & Development Corp.               Drill To LD
+00/04-32-059-20W5/0 2214896AB HZ KAYBOBS 4-32-59-20       0497415 A6NZ   Lasso Drilling Corporation               2 24 Jan 2020 03:15:00 AM Drayton Valley A88A  2214896 Alberta Ltd.                                Drill To LD
+00/12-01-059-02W6/0 TOURMALINE HZ SMOKY 12-1-59-2         0496522 0Y52   Precision Drilling Corporation         531 23 Jan 2020 06:05:00 PM Drayton Valley A573  Tourmaline Oil Corp.                                Resumption 
+00/02-24-068-07W6/0 NUVISTA HZ ELM 2-24-68-7              0496227 A0F8   Patterson-UTI Drilling Co. Canada      16E 24 Jan 2020 05:30:00 AM Grande Prairie A0A7  NuVista Energy Ltd.                                 Resumption 
+00/10-10-069-08W6/0 NUVISTA 100 HZ C ELM 10-10-69-8       0495586 A6PR   Nabors Drilling Canada Limited         127 24 Jan 2020 07:26:00 AM Grande Prairie A0A7  NuVista Energy Ltd.                                 Resumption 
+03/05-30-072-09W6/0 NUVISTA HZ 103 D WEMBLEY 5-30-72-9    0497215 A6PR   Nabors Drilling Canada Limited          79 24 Jan 2020 11:00:00 AM Grande Prairie A0A7  NuVista Energy Ltd.                                 Resumption 
+02/16-29-077-11W6/0 INSIGNIAENERGY 2 PCOUPES 16-29-77-11  0497273 A0KC   Horizon Drilling Inc.                   45 24 Jan 2020 11:00:00 AM Grande Prairie A1FX  Insignia Energy Ltd.                                Drill To LD
+00/07-07-079-10W4/0 ATH OBS LEISMER 7-7-79-10             0496551 0Y52   Precision Drilling Corporation         238 23 Jan 2020 11:15:00 PM Bonnyville     A28L  Athabasca Oil Corporation                           Drill To LD
+AB/03-20-082-11W4/0 CLC HANGSTN 3-20-82-11                0496749 0Y52   Precision Drilling Corporation         293 24 Jan 2020 12:00:00 AM Bonnyville     0A9H  Connacher Oil And Gas Limited                       Drill To LD
+AA/16-31-092-08W4/0 SUNCOR LEWIS 16-31-92-8               0496734 0Z41   Ensign Drilling Inc.                   403 23 Jan 2020 06:00:00 PM Bonnyville     0054  Suncor Energy Inc.                                  Drill To LD
+AC/12-33-094-06W4/0 SUNCOR OB236 FIREBAG 12-33-94-6       0496563 A57H   Predator Drilling Inc.                   3 24 Jan 2020 08:00:00 AM Bonnyville     0054  Suncor Energy Inc.                                  Resumption 
+AB/02-18-097-09W4/0 FHEC 20-WR699-MR2-PW 2-18-97-9        0497204 A1YG   Big Country Drilling Ltd.                2 23 Jan 2020 01:00:00 PM Bonnyville     0XP9  Fort Hills Energy Corporation                       Drill To LD
+
+                                                                           TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 13                                                                           
+                                                                           TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  =  0                                                                           
+                                                                           TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well =  6                                                                           
+                                                                           TOTAL  - Set Surface - Drilling to Set Surface Casing Only            =  4                                                                           
+
+                                                                                               TOTAL NUMBER OF WELLS LISTED = 23                                                                                                
+                                                                                                     *** END OF REPORT ***                                                                                                      
+

@@ -1,0 +1,67 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 29 December 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    TAC 13-26 HZ NIPISI 5-25-76-7        0499148   ALBERTA CROWN        755.1M                          
+    100/05-25-076-07W5/00  S  213.6M  E  249.4M    ST. ALBERT           2850.0M                         
+    DEV (NC)                             NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          13-26-076-07W5                  
+                                                                                                        
+    TAC 13-26 HZ 102 NIPISI 12-25-76-7   0499149   ALBERTA CROWN        755M                            
+    103/12-25-076-07W5/00  S  219.7M  E  252.9M    ST. ALBERT           2525.0M                         
+    DEV (NC)                             NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          13-26-076-07W5                  
+                                                                                                        
+    SPL 9-18 HZ MARTENH 7-7-76-3         0499150   ALBERTA CROWN        863.8M                          
+    102/07-07-076-03W5/00  S  560.6M  W  269.7M    ST. ALBERT           2900.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 09-18-076-03W5                  
+                                                                                                        
+    TAC 13-26 HZ 102 NIPISI 16-34-76-7   0499151   ALBERTA CROWN        755M                            
+    102/16-34-076-07W5/00  S  207.6M  E  245.9M    ST. ALBERT           2735.0M                         
+    DEV (NC)                             NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          13-26-076-07W5                  
+                                                                                                        
+    TAC 15-24 HZ 102 NIPISI 3-26-76-7    0499152   ALBERTA CROWN        736.1M                          
+    102/03-26-076-07W5/00  S  251.9M  W  757.3M    ST. ALBERT           2510.0M                         
+    DEV (NC)                             NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          15-24-076-07W5                  
+                                                                                                        
+    TAC 15-24 HZ NIPISI 6-26-76-7        0499153   ALBERTA CROWN        736.1M                          
+    100/06-26-076-07W5/00  S  244.9M  W  757.4M    ST. ALBERT           2540.0M                         
+    DEV (NC)                             NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          15-24-076-07W5                  
+                                                                                                        
+    TAC 15-24 HZ 103 NIPISI 16-25-76-7   0499154   ALBERTA CROWN        736.1M                          
+    103/16-25-076-07W5/00  S  237.9M  W  757.5M    ST. ALBERT           2590.0M                         
+    DEV (NC)                             NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          15-24-076-07W5                  
+                                                                                                        
+    TAC 15-24 HZ 104 NIPISI 15-25-76-7   0499155   ALBERTA CROWN        736.2M                          
+    104/15-25-076-07W5/00  S  230.9M  W  757.5M    ST. ALBERT           2281.0M                         
+    DEV (NC)                             NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          15-24-076-07W5                  
+                                                                                                        
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,55 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 07 January 2021                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SHALE PETROLEUM RICINUS 16-26-35-9   0499194   ALBERTA CROWN        1231.7M                         
+    100/16-26-035-09W5/00  N  502.4M  W  505.7M    RED DEER             4425.0M                         
+    DEV (C)                              RICINUS                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHALE PETROLEUM LTD.                                                07-25-035-09W5                  
+                                                                                                        
+    SHALE PETROLEUM RICINUS 5-36-35-9    0499195   ALBERTA CROWN        1232.6M                         
+    100/05-36-035-09W5/00  N  494.9M  W  505.1M    RED DEER             4425.0M                         
+    DEV (C)                              RICINUS                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHALE PETROLEUM LTD.                                                07-25-035-09W5                  
+                                                                                                        
+    RHE 100 WESTLOCK 13-34-61-26         0499196   ALBERTA CROWN        625.1M                          
+    102/13-34-061-26W4/00  N   60.0M  W  233.0M    ST. ALBERT           2685.0M                         
+    XPL (C)                              WESTLOCK                       CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ROLLING HILLS ENERGY LTD.                                           01-05-062-26W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    IMP H58-PSW LEMING 16-9-66-4           0493594   PROJECTED DEPTH:                                   
+    107/16-09-066-04W4/00                            411.00                                             
+
+    CNRL 2D KENT 2-12-61-2                 0497507   UWI:                                               
+    00/02-12-061-02W4/0                              02/07-12-061-02W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL 7A KENT 7-12-61-2                             
+
+                                                     PROJECTED DEPTH:                                   
+                                                     655.00                                             
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

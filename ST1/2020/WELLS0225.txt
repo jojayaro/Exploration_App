@@ -1,0 +1,58 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 25 February 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL 5C LIND 5-4-56-1                0497783   ALBERTA CROWN        696.5M                          
+    100/05-04-056-01W4/00  N  655.9M  E  113.9M    BONNYVILLE           658.0M                          
+    DEV (NC)                             LINDBERGH                      MCMURRAY FM                     
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  05-04-056-01W4                  
+                                                                                                        
+    GRL 1-4 HZ 100 PROGRESS 1-3-79-8     0497784   ALBERTA CROWN        705M                            
+    100/01-03-079-08W6/00  N  235.0M  W   70.0M    GRANDE PRAIRIE       1850.0M                         
+    DEV (NC)                             PROGRESS                       DOE CREEK MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    GRIZZLY RESOURCES LTD.                                              01-04-079-08W6                  
+                                                                                                        
+    JUPITER HZ KAKWA 12-15-62-5          0497785   ALBERTA CROWN        975.9M                          
+    100/12-15-062-05W6/00  S  211.4M  E  372.2M    GRANDE PRAIRIE       6252.0M                         
+    DEV (NC)                             KAKWA                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    JUPITER RESOURCES INC.                                              13-02-062-05W6                  
+                                                                                                        
+    JUPITER HZ KAKWA 14-15-62-5          0497786   ALBERTA CROWN        971.7M                          
+    102/14-15-062-05W6/00  S  202.7M  E  360.0M    GRANDE PRAIRIE       6277.0M                         
+    DEV (NC)                             KAKWA                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    JUPITER RESOURCES INC.                                              13-02-062-05W6                  
+                                                                                                        
+    WLEC 2A11 HZ PROVOST 11-7-40-2       0497787   FREEHOLD             692.5M                          
+    104/11-07-040-02W4/00  N  593.0M  E  499.2M    WAINWRIGHT           2800.0M                         
+    DSW (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    WEST LAKE ENERGY CORP.                                              06-17-040-02W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CNUL PS CADOTTE 8-24-85-19            0494166    SURFACE CO-ORDINATES:                              
+    104/08-24-085-19W5/00                            N 0458.0 W 0374.0                                  
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

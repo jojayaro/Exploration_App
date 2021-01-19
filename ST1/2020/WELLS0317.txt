@@ -1,0 +1,199 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 17 March 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL NE01-5D SANDY 5-14-83-20        0497892   ALBERTA CROWN        612.2M                          
+    103/05-14-083-20W4/00  N  479.9M  E  354.0M    BONNYVILLE           2250.0M                         
+    DEV (NC)                             UNDEFINED                      WABISKAW MBR                    
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  05-11-083-20W4                  
+                                                                                                        
+    CNRL 16D COLDLK 16-18-63-3           0497893   ALBERTA CROWN        546.4M                          
+    100/16-18-063-03W4/00  N  387.5M  W  641.6M    BONNYVILLE           895.0M                          
+    DEV (NC)                             COLD LAKE                      GENERAL PETROLEUM MBR           
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  02-19-063-03W4                  
+                                                                                                        
+    CNRL 16C COLDLK 16-19-63-3           0497894   ALBERTA CROWN        546.4M                          
+    100/16-19-063-03W4/00  N  429.7M  W  656.1M    BONNYVILLE           1172.0M                         
+    DEV (NC)                             COLD LAKE                      REX MBR                         
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  07-19-063-03W4                  
+                                                                                                        
+    CNRL 1C COLDLK 1-19-63-3             0497895   ALBERTA CROWN        546.4M                          
+    100/01-19-063-03W4/00  N  402.3M  W  643.9M    BONNYVILLE           506.0M                          
+    DEV (NC)                             COLD LAKE                      REX MBR                         
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  02-19-063-03W4                  
+                                                                                                        
+    CNRL 1D COLDLK 1-19-63-3             0497896   ALBERTA CROWN        546.4M                          
+    102/01-19-063-03W4/00  N  416.0M  W  650.0M    BONNYVILLE           713.0M                          
+    DEV (NC)                             COLD LAKE                      SPARKY MBR                      
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  07-19-063-03W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SPL 10-36 HZ MARTENH 16-1-74-25       0494563    UWI:                                               
+    00/10-01-074-25W4/6                              00/15-01-074-25W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 10-36 HZ MARTENH 15-1-74-25                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 10-36 HZ MARTENH 10-1-74-25       0494563    UWI:                                               
+    00/10-01-074-25W4/5                              00/15-01-074-25W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 10-36 HZ MARTENH 15-1-74-25                    
+
+    SPL 10-36 HZ MARTENH 16-1-74-25       0494564    UWI:                                               
+    00/09-01-074-25W4/6                              02/16-01-074-25W4/6                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 10-36 HZ MARTENH 9-1-74-25        0494564    UWI:                                               
+    00/09-01-074-25W4/5                              02/16-01-074-25W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 10-36 HZ MARTENH 16-1-74-25                    
+
+    SPL 10-24 HZ MARTEN 6-23-76-6         0494995    UWI:                                               
+    00/05-23-076-06W5/3                              00/06-23-076-06W5/3                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     750.00 TO 2700.00                                  
+
+    SPL 16-6 HZ MARTEN 16-8-76-5          0495881    UWI:                                               
+    00/16-08-076-05W5/6                              00/09-08-076-05W5/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 16-6 HZ MARTEN 9-8-76-5                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     900.00 TO 2700.00                                  
+
+    SPL 16-6 HZ MARTEN 16-8-76-5          0495881    UWI:                                               
+    00/16-08-076-05W5/3                              00/15-08-076-05W5/3                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 16-6 HZ MARTEN 15-8-76-5                       
+
+    SPL 1-5 HZ NIPISI 15-31-76-6          0496053    UWI:                                               
+    00/15-31-076-06W5/3                              00/03-06-077-06W5/3                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 1-5 HZ NIPISI 3-6-77-6                         
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2900.00                                  
+
+    RHE 100 EDWAND 6-14-62-16             0496779    UWI:                                               
+    00/03-14-062-16W4/6                              00/05-14-062-16W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     RHE 100 EDWAND 5-14-62-16                          
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    SPL 2-16 HZ MARTENH 7-21-76-3         0496927    UWI:                                               
+    00/06-21-076-03W5/5                              00/15-16-076-03W5/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 2-16 HZ MARTENH 15-16-76-3                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    GEAR 4HZ PROVOST 5-32-35-4            0497477    UWI:                                               
+    00/05-32-035-04W4/3                              02/07-32-035-04W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     GEAR 4HZ PROVOST 7-32-35-4                         
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM SPARKY MBR                          
+
+    PIPE HZ DIMSD 12-17-71-7              0497560    UWI:                                               
+    00/12-17-071-07W6/0                              00/06-17-071-07W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     PIPE HZ DIMSD 6-17-71-7                            
+
+                                                     GROUND ELEVATION                                   
+                                                     726.1                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5866.90                                            
+
+    PIPE 103 HZ DIMSD 5-17-71-7           0497563    UWI:                                               
+    03/05-17-071-07W6/0                              02/04-17-071-07W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     PIPE HZ DIMSD 4-17-71-7                            
+
+                                                     GROUND ELEVATION                                   
+                                                     726.0                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5590.00                                            
+
+    PIPE 104 HZ DIMSD 5-17-71-7           0497564    UWI:                                               
+    04/05-17-071-07W6/0                              00/01-18-071-07W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     PIPE HZ DIMSD 1-18-71-7                            
+
+                                                     GROUND ELEVATION                                   
+                                                     726.0                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5762.60                                            
+
+    PIPE HZ DIMSD 4-17-71-7               0497565    GROUND ELEVATION                                   
+    100/04-17-071-07W6/00                            726.0                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5710.10                                            
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    TXNR 10-33 DD BANTRY 11-33-16-13      0493957                                                       
+    102/11-33-016-13W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

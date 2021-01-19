@@ -1,0 +1,199 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 06 August 2020                                                                                
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    ECA HZ 104 WEMBLEY 4-35-71-9          0494868    UWI:                                               
+    04/04-35-071-09W6/0                              05/13-26-071-09W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     OVV HZ 104 WEMBLEY 13-26-71-9                      
+
+    CVE D7 HARDY 7-3-77-6                 0495610    UWI:                                               
+    AC/07-03-077-06W4/0                              00/07-03-077-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     557.2                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0662.4 W 0545.0                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE C8 LEISMER 8-24-77-7              0495665    UWI:                                               
+    AA/08-24-077-07W4/0                              00/08-24-077-07W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     566.3                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0680.3 W 0209.8                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE D5 LEISMER 5-19-77-6              0495681    UWI:                                               
+    AC/05-19-077-06W4/0                              00/05-19-077-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     569.8                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0666.6 E 0365.1                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE A11 LEISMER 11-19-77-6            0495685    UWI:                                               
+    AA/11-19-077-06W4/0                              00/11-19-077-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     571.5                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE B11 HARDY 11-30-76-5              0495705    UWI:                                               
+    AB/11-30-076-05W4/0                              00/11-30-076-05W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     557.2                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0763.3 E 0404.4                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    7GEN HZ KAKWA 1-16-62-4               0496042    UWI:                                               
+    00/04-11-062-04W6/2                              00/11-10-062-04W6/2                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 11-10-62-4                           
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    PFC HZ HOOLE 15-33-79-25              0497573    UWI:                                               
+    00/15-33-079-25W4/0                              00/10-33-079-25W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     PFC HZ HOOLE 10-33-79-25                           
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM WABISKAW MBR                    
+
+    PEYTO LAWRNC 11-30-42-12              0498013    UWI:                                               
+    00/11-30-042-12W5/0                              00/08-30-042-12W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     PEYTO LAWRNC 8-30-42-12                            
+
+    JUPITER HZ SMOKY 15-23-59-1           0498061    PROJECTED DEPTH:                                   
+    102/15-23-059-01W6/00                            5071.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0170.1 E 0768.3                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM WILRICH MBR                               
+
+    WESTBRICK HZ PEMBINA 2-28-44-11       0498122    UWI:                                               
+    00/02-28-044-11W5/0                              00/09-28-044-11W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     WESTBRICK HZ PEMBINA 9-28-44-11                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM UPPER MANNVILLE FM                        
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL HZ 102 MARTENH 8-14-73-25        0490259                                                       
+    102/08-14-073-25W4/00                                                                               
+
+    CNRL HZ 103 MARTENH 8-14-73-25        0490260                                                       
+    103/08-14-073-25W4/00                                                                               
+
+    CNRL HZ MARTENH 1-14-73-25            0490261                                                       
+    100/01-14-073-25W4/00                                                                               
+
+    CNRL HZ SMITH 2-12-73-25              0490262                                                       
+    100/02-12-073-25W4/00                                                                               
+
+    CNRL HZ SMITH 1-12-73-25              0490263                                                       
+    100/01-12-073-25W4/00                                                                               
+
+    CNRL HZ 102 SMITH 5-17-73-24          0490264                                                       
+    102/05-17-073-24W4/00                                                                               
+
+    CNRL HZ 103 SMITH 5-17-73-24          0490265                                                       
+    103/05-17-073-24W4/00                                                                               
+
+    CNRL HZ SMITH 4-17-73-24              0490266                                                       
+    100/04-17-073-24W4/00                                                                               
+
+    CNRL HZ 102 SMITH 4-17-73-24          0490267                                                       
+    102/04-17-073-24W4/00                                                                               
+
+    SITKA EXPL HZ CAROL 3-14-34-5         0495333                                                       
+    100/03-14-034-05W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

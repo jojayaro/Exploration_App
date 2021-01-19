@@ -1,0 +1,20 @@
+Report Number: ST-49                                                                        Alberta Energy Regulator                                                                                 Page 1 of 1
+Run Date: 08 Sep 2020                                                                     DAILY DRILLING ACTIVITY LIST                                                                                          
+                                                                             For the Notification Period 07 Sep 2020 To 08 Sep 2020                                                                             
+
+      WELL ID                   WELL NAME             LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID           LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                               BA ID               NAME              NUMBER                                                                             TOTAL DEPTH     TYPE    
+------------------- --------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ----------------------------- ------------- -----------
+00/04-05-062-03W6/0 STRATH HZ KAKWA 4-5-62-3           0498106 0Y52   Precision Drilling Corporation    529 06 Sep 2020 11:30:00 AM Grande Prairie A8FG  Strathcona Resources Ltd.                   Resumption 
+03/10-28-062-04W6/0 7GEN HZ 103 KAKWA 10-28-62-4       0498199 A6GJ   Dc Drilling Inc.                   1E 08 Sep 2020 09:00:00 AM Grande Prairie A54C  Seven Generations Energy Ltd.               Drill To LD
+13/01-24-077-06W4/0 MEG T2N HARDY 1-24-77-6            0498290 0Y52   Precision Drilling Corporation    140 08 Sep 2020 11:45:00 AM Bonnyville     0Z9C  MEG Energy Corp.                            Drill To LD
+00/13-15-078-08W6/0 TOURMALINE HZ VALHALLA 13-15-78-8  0497442 0Y52   Precision Drilling Corporation    541 08 Sep 2020 01:15:00 AM Grande Prairie A573  Tourmaline Oil Corp.                        Resumption 
+
+                                                                   TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 2                                                                    
+                                                                   TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                    
+                                                                   TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 2                                                                    
+                                                                   TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 0                                                                    
+
+                                                                                        TOTAL NUMBER OF WELLS LISTED = 4                                                                                        
+                                                                                             *** END OF REPORT ***                                                                                              
+

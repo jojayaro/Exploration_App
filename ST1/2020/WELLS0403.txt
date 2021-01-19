@@ -1,0 +1,229 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 03 April 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    HARVEST HZ KAKWA 4-18-64-6           0497972   ALBERTA CROWN        894.9M                          
+    1W2/04-18-064-06W6/00  N  489.6M  W  784.5M    GRANDE PRAIRIE       6779.0M                         
+    DEV (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    HARVEST OPERATIONS CORP.                                            07-25-064-07W6                  
+                                                                                                        
+    HARVEST HZ KAKWA 16-36-64-7          0497973   ALBERTA CROWN        895.4M                          
+    102/16-36-064-07W6/00  N  493.7M  W  775.4M    GRANDE PRAIRIE       6036.0M                         
+    DEV (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    HARVEST OPERATIONS CORP.                                            07-25-064-07W6                  
+                                                                                                        
+    HARVEST HZ KAKWA 1-13-64-7           0497974   ALBERTA CROWN        896.1M                          
+    102/01-13-064-07W6/00  N  499.9M  W  761.7M    GRANDE PRAIRIE       6712.0M                         
+    DEV (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    HARVEST OPERATIONS CORP.                                            07-25-064-07W6                  
+                                                                                                        
+    KCK 7-21 102 HZ KAKWA 1-19-62-5      0497975   ALBERTA CROWN        1116.2M                         
+    102/01-19-062-05W6/00  N  663.0M  W  613.4M    GRANDE PRAIRIE       6850.0M                         
+    DEV (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    KICKING HORSE OIL & GAS LTD.                                        07-21-062-05W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    ASPENLEAF HZ 102 SWANH 2-10-68-8      0492660    UWI:                                               
+    03/02-10-068-08W5/0                              00/15-03-068-08W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     ASPENLEAF HZ 102 SWANH 15-3-68-8                   
+
+    SPL 15-35 HZ MARTENH 15-2-74-25       0495589    UWI:                                               
+    00/15-02-074-25W4/0                              03/16-02-074-25W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-35 HZ MARTENH 16-2-74-25                    
+
+    SPL 15-35 HZ 102 MARTENH 14-2-74-25   0495590    UWI:                                               
+    02/14-02-074-25W4/2                              04/16-02-074-25W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-35 HZ 102 MARTENH 16-2-74-25                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    CVE D12-1 A12 HARDY 12-1-77-6         0495603    UWI:                                               
+    AB/12-01-077-06W4/0                              00/12-01-077-06W4/0                                
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE A13-2 D13 HARDY 14-2-77-6         0495607    UWI:                                               
+    AC/14-02-077-06W4/0                              00/14-02-077-06W4/0                                
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE A15 LEISMER 15-9-77-6             0495619    UWI:                                               
+    AA/15-09-077-06W4/0                              00/15-09-077-06W4/0                                
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE D5-14 A12 HARDY 12-14-77-6        0495630    UWI:                                               
+    AB/12-14-077-06W4/2                              00/12-14-077-06W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CVE D5 HARDY 12-14-77-6                            
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE C15 LEISMER 15-19-77-6            0495688    UWI:                                               
+    AB/15-19-077-06W4/0                              00/15-19-077-06W4/0                                
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE D9-19 C8 HARDY 9-19-76-5          0495698    UWI:                                               
+    AC/08-19-076-05W4/3                              AA/09-19-076-05W4/3                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    CVE A16-19 B13 HARDY 13-20-76-5       0495702    UWI:                                               
+    03/13-20-076-05W4/2                              AB/09-19-076-05W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CVE A16-19 B13 HARDY 9-19-76-5                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    CVE A8-30 A8 HARDY 8-30-76-5          0495704    UWI:                                               
+    AD/08-30-076-05W4/2                              02/08-30-076-05W4/2                                
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SPL 6-31 HZ MARTEN 2-30-76-6          0495882    UWI:                                               
+    00/02-30-076-06W5/0                              00/04-30-076-06W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 6-31 HZ MARTEN 4-30-76-6                       
+
+    SPL 1-5 HZ 102 MARTEN 4-4-77-6        0496050    UWI:                                               
+    02/04-03-077-06W5/6                              00/03-04-077-06W5/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 1-5 HZ 102 MARTEN 3-4-77-6                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2900.00                                  
+
+    SPL 1-5 HZ 102 MARTEN 4-3-77-6        0496050    UWI:                                               
+    02/04-03-077-06W5/5                              00/03-04-077-06W5/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 1-5 HZ 102 MARTEN 3-4-77-6                     
+
+    BAYTEX HZ 100 SLAVE 14-23-84-15       0496864    UWI:                                               
+    00/15-15-084-15W5/4                              00/14-23-084-15W5/4                                
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM BLUESKY FM                      
+
+    SPL 2-16 HZ MARTENH 7-21-76-3         0496927    WELL NAME:                                         
+    100/02-21-076-03W5/08                            SPL 2-16 HZ MARTENH 2-21-                          
+
+    WLEC MHZ 2B4 PROVOST 4-4-39-2         0497233    UWI:                                               
+    S0/04-04-039-02W4/2                              00/01-05-039-02W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC MHZ 2B4 PROVOST 1-5-39-2                      
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GENERAL PETROLEUM MBR               
+
+    POC 02 HZ UKALTA 11-10-57-18          0497337    UWI:                                               
+    02/08-10-057-18W4/7                              00/09-10-057-18W4/7                                
+
+                                                     WELL NAME:                                         
+                                                     POC 02 HZ UKALTA 9-10-57-18                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL 12B LNDBRGH 12-32-53-4           0483318                                                       
+    100/12-32-053-04W4/00                                                                               
+
+    CNRL 13C LNDBRGH 13-32-53-4           0483319                                                       
+    100/13-32-053-04W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

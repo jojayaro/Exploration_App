@@ -1,0 +1,271 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 27 October 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    FORGE 102 THREEHCK 14-8-36-25        0227761   FREEHOLD             980.9M                          
+    1F1/14-08-036-25W4/03  S   41.7M  E  720.8M    RED DEER             1072.0M                         
+    DEV (NC)                             THREE HILLS CREEK              BELLY RIVER GROUP               
+    VERTICAL                             RESUMPTIONPRODUCTION           WATER                           
+    FORGE OIL & GAS LIMITED                                             14-08-036-25W4                  
+                                                                                                        
+    SUNCOR P7P7B FIREBAG 8-11-95-6       0365823   ALBERTA CROWN        596.5M                          
+    102/08-11-095-06W4/02  S  577.9M  W  500.5M    BONNYVILLE           1596.5M                      
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  10-02-095-06W4                  
+                                                                                                        
+    SUNCOR P116P6B FIREBAG 13-3-95-6     0421716   ALBERTA CROWN        587.9M                          
+    102/13-03-095-06W4/02  S  221.6M  W  737.0M    BONNYVILLE           1338.4M                       
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  15-04-095-06W4                  
+                                                                                                        
+    SUNCOR P109P6B FIREBAG 15-6-95-5     0457369   ALBERTA CROWN        584.5M                          
+    104/15-06-095-05W4/02  S  604.5M  W  565.5M    BONNYVILLE           1396.4M                       
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  10-07-095-05W4                  
+                                                                                                        
+    BIR 4-4 HZ PCOUPES 15-6-78-13        0498599   ALBERTA CROWN        844.8M                          
+    100/15-06-078-13W6/00  N  230.0M  E   83.5M    GRANDE PRAIRIE       4950.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              DOIG FM                         
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              04-04-078-13W6                  
+                                                                                                        
+    BIR 4-4 HZ PCOUPES 7-6-78-13         0498600   ALBERTA CROWN        845.2M                          
+    100/07-06-078-13W6/00  N  220.1M  E   83.0M    GRANDE PRAIRIE       4730.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              DOIG FM                         
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              04-04-078-13W6                  
+                                                                                                        
+    BIR 4-4 HZ 102 PCOUPES 15-7-78-13    0498601   ALBERTA CROWN        849.4M                          
+    102/15-07-078-13W6/00  N  236.9M  E  143.9M    GRANDE PRAIRIE       6100.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              DOIG FM                         
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              04-04-078-13W6                  
+                                                                                                        
+    BIR 4-4 HZ PCOUPES 7-7-78-13         0498602   ALBERTA CROWN        850.8M                          
+    100/07-07-078-13W6/00  N  216.9M  E  142.9M    GRANDE PRAIRIE       5370.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              DOIG FM                         
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              04-04-078-13W6                  
+                                                                                                        
+    BIR 4-4 HZ PCOUPES 10-7-78-13        0498603   ALBERTA CROWN        850.5M                          
+    100/10-07-078-13W6/00  N  226.9M  E  143.4M    GRANDE PRAIRIE       5730.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              DOIG FM                         
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              04-04-078-13W6                  
+                                                                                                        
+    ARC HZ ANTEN 9-20-67-24              0498604   ALBERTA CROWN        757.6M                          
+    100/09-20-067-24W5/00  N  706.9M  E  681.4M    GRANDE PRAIRIE       4647.0M                         
+    DEV (NC)                             ANTE CREEK NORTH               MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ARC RESOURCES LTD.                                                  06-30-067-24W5                  
+                                                                                                        
+    ARC HZ ANTEN 7-20-67-24              0498605   ALBERTA CROWN        757.7M                          
+    100/07-20-067-24W5/00  N  696.9M  E  681.5M    GRANDE PRAIRIE       4358.0M                         
+    DEV (NC)                             ANTE CREEK NORTH               MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ARC RESOURCES LTD.                                                  06-30-067-24W5                  
+                                                                                                        
+    ARC HZ ANTEN 4-20-67-24              0498606   ALBERTA CROWN        758M                            
+    100/04-20-067-24W5/00  N  686.9M  E  681.6M    GRANDE PRAIRIE       4132.0M                         
+    DEV (NC)                             ANTE CREEK NORTH               MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ARC RESOURCES LTD.                                                  06-30-067-24W5                  
+                                                                                                        
+    MODERN HZ KAKWA 1-5-64-8             0498607   ALBERTA CROWN        1007.6M                         
+    100/01-05-064-08W6/00  N  734.6M  W  176.7M    GRANDE PRAIRIE       6276.0M                         
+    DEV (C)                              KAKWA                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    MODERN RESOURCES INC.                                               08-01-064-09W6                  
+                                                                                                        
+    MODERN HZ KAKWA 16-5-64-8            0498608   ALBERTA CROWN        1007.5M                         
+    100/16-05-064-08W6/00  N  739.5M  W  177.9M    GRANDE PRAIRIE       6059.0M                         
+    DEV (C)                              KAKWA                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    MODERN RESOURCES INC.                                               08-01-064-09W6                  
+                                                                                                        
+    DELTASTREAM MARTENH 4-19-74-24       0498609   ALBERTA CROWN        688.9M                          
+    100/04-19-074-24W4/00  N  184.9M  E  426.8M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    DELTASTREAM ENERGY CORPORATION                                      03-30-074-24W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 4-19-74-24       0498610   ALBERTA CROWN        689.1M                          
+    102/04-19-074-24W4/00  N  184.8M  E  436.8M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    DELTASTREAM ENERGY CORPORATION                                      03-30-074-24W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 3-19-74-24       0498611   ALBERTA CROWN        689.1M                          
+    100/03-19-074-24W4/00  N  184.8M  E  446.8M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    DELTASTREAM ENERGY CORPORATION                                      03-30-074-24W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 3-19-74-24       0498612   ALBERTA CROWN        689M                            
+    102/03-19-074-24W4/00  N  184.7M  E  456.8M    ST. ALBERT           2500.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    DELTASTREAM ENERGY CORPORATION                                      03-30-074-24W4                  
+                                                                                                        
+    OBE HZ WILLGR 3-25-43-8              0498613   ALBERTA CROWN        1004.4M                         
+    100/03-25-043-08W5/00  N  368.3M  E  369.6M    RED DEER             5400.0M                         
+    DEV (C)                              WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    OBSIDIAN ENERGY LTD.                                                04-35-043-08W5                  
+                                                                                                        
+    WOODCOTE NIPISI 8-13-76-8            0498614   ALBERTA CROWN        712.7M                          
+    100/08-13-076-08W5/00  S  645.1M  W  158.5M    ST. ALBERT           2500.0M                         
+    DEV (C)                              UNDEFINED                      CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WOODCOTE OIL CORP.                                                  09-18-076-07W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    BACCALIEU HZ 102 PEMBINA 16-16-51-12  0491939    SURFACE CO-ORDINATES:                              
+    102/16-16-051-12W5/00                            S 0175.7 E 0172.8                                  
+
+    SCL HZ FC705F MCKINLEY 1-30-64-22     0495759    UWI:                                               
+    00/01-30-064-22W5/0                              02/05-29-064-22W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     SCL HZ FC705F MCKINLEY 5-29-64-22                  
+
+    7GEN HZ 103 KAKWA 13-4-63-5           0496212    UWI:                                               
+    03/13-04-063-05W6/0                              00/12-03-063-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 103 KAKWA 12-3-63-5                        
+
+    SURGE ENERGY 102HZ PROVOST 5-27-39-2  0496643    GROUND ELEVATION                                   
+    102/05-27-039-02W4/00                            703.2                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0433.1 E 0060.0                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM SPARKY MBR                          
+
+    PIPE 100 HZ ELM 13-11-71-8            0497194    UWI:                                               
+    00/13-11-071-08W6/0                              03/12-11-071-08W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     PIPE 100 HZ ELM 12-11-71-8                         
+
+    TOURMALINE HZ LAMBERT 5-30-50-22      0497489    UWI:                                               
+    00/05-30-050-22W5/0                              00/09-19-050-22W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ LAMBERT 9-19-50-22                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM CARDIUM FM                                
+
+    CRESTWYND HZ MEANOOK 15-30-63-21      0498087    UWI:                                               
+    S0/14-30-063-21W4/4                              00/15-30-063-21W4/4                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    CRESTWYND HZ MEANOOK 14-30-63-21      0498087    UWI:                                               
+    S0/14-30-063-21W4/3                              00/15-30-063-21W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND HZ MEANOOK 15-30-63-21                   
+
+    CRESTWYND HZ MEANOOK 15-19-63-21      0498088    WELL NAME:                                         
+    100/02-19-063-21W4/09                            CRESTWYND HZ MEANOOK 2-19                          
+
+    CRESTWYND HZ MEANOOK 15-19-63-21      0498088    WELL NAME:                                         
+    100/15-18-063-21W4/08                            CRESTWYND HZ MEANOOK 2-19                          
+
+    STRATH HZ KAKWA 5-10-62-3             0498107    UWI:                                               
+    00/05-10-062-03W6/0                              00/08-09-062-03W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     STRATH-CONA KAKWA 8-9-62-3                         
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM WILRICH MBR                               
+
+    PEYTO SUNDANCE 3-7-55-20              0498133    UWI:                                               
+    00/03-07-055-20W5/0                              00/04-07-055-20W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     PEYTO SUNDANCE 4-7-55-20                           
+
+    7GEN HZ 103 KARR 4-8-65-5             0498205    UWI:                                               
+    03/04-08-065-05W6/0                              04/13-05-065-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 103 KARR 13-5-65-5                         
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    SPL 15-11 HZ 102 UKALTA 2-11-57-18    0498311    UWI:                                               
+    02/02-11-057-18W4/5                              02/10-11-057-18W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-11 HZ 102 UKALTA 10-11-57-18                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    CVE 100 HZ PEMBINA 3-12-46-10         0498415    GROUND ELEVATION                                   
+    100/03-12-046-10W5/00                            882.8                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0565.8 W 0581.1                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM NOTIKEWIN MBR                             
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    PARA TONY CKN 3-25-63-21              0491496                                                       
+    100/03-25-063-21W5/00                                                                               
+
+    PARA HZ TONY CKN 4-25-63-21           0491497                                                       
+    100/04-25-063-21W5/00                                                                               
+
+    ATH HZ PLACID 13-11-61-23             0491498                                                       
+    100/13-11-061-23W5/00                                                                               
+
+    CNRL 102 GRDFKS 12-19-12-13           0491515                                                       
+    102/12-19-012-13W4/00                                                                               
+
+    NOVUS 102 COMPEER 4-19-34-2           0496108                                                       
+    102/04-19-034-02W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

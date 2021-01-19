@@ -1,0 +1,58 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 25 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    PEYTO SUNDANCE 12-1-56-21              0498801   GROUND ELEVATION                                   
+    100/12-01-056-21W5/00                            1257.30                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0661.4 W 0217.4                                  
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    PEYTO SUNDANCE 1-4-54-22              0497990                                                       
+    100/01-04-054-22W5/00                                                                               
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CNRL HZ WEMBLEY 2-34-72-9              0493402   UWI:                                               
+    00/02-34-072-09W6/0                              00/15-34-072-09W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL HZ WEMBLEY 15-34-72-9                         
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     15-34-072-09W6                                     
+
+    PEYTO SUNDANCE 15-10-56-21             0498138   SURFACE LOCATION:                                  
+    100/15-10-056-21W5/00                            15-03-056-21W5                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,97 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 10 August 2020                                                                                
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    POC UKALTA 9-36-56-18                0498237   ALBERTA CROWN        633.3M                          
+    100/09-36-056-18W4/00  N  227.5M  W  730.9M    ST. ALBERT           3200.0M                         
+    DEV (NC)                             UKALTA                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PERPETUAL OPERATING CORP.                                           02-12-057-18W4                  
+                                                                                                        
+    POC 03 HZ UKALTA 10-36-56-18         0498238   ALBERTA CROWN        633.3M                          
+    103/10-36-056-18W4/00  N  212.5M  W  730.9M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             UKALTA                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PERPETUAL OPERATING CORP.                                           02-12-057-18W4                  
+                                                                                                        
+    POC 02 HZ UKALTA 3-1-57-18           0498239   ALBERTA CROWN        633.3M                          
+    100/03-01-057-18W4/00  N  212.5M  W  745.9M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             UKALTA                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PERPETUAL OPERATING CORP.                                           02-12-057-18W4                  
+                                                                                                        
+    POC 02 HZ UKALTA 4-1-57-18           0498240   ALBERTA CROWN        633.4M                          
+    100/04-01-057-18W4/00  N  227.5M  W  745.9M    ST. ALBERT           2600.0M                         
+    DEV (NC)                             UKALTA                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PERPETUAL OPERATING CORP.                                           02-12-057-18W4                  
+                                                                                                        
+    POC 03 HZ UKALTA 1-2-57-18           0498241   ALBERTA CROWN        635.7M                          
+    100/01-02-057-18W4/00  N  212.5M  W  439.1M    ST. ALBERT           2600.0M                         
+    DEV (NC)                             UKALTA                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PERPETUAL OPERATING CORP.                                           02-11-057-18W4                  
+                                                                                                        
+    POC 02  HZ UKALTA 1-2-57-18          0498242   ALBERTA CROWN        635.8M                          
+    102/01-02-057-18W4/00  N  202.5M  W  439.1M    ST. ALBERT           2350.0M                         
+    DEV (NC)                             UKALTA                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PERPETUAL OPERATING CORP.                                           02-11-057-18W4                  
+                                                                                                        
+    POC HZ UKALTA 2-2-57-18              0498243   ALBERTA CROWN        636M                            
+    100/02-02-057-18W4/00  N  192.5M  W  439.1M    ST. ALBERT           2350.0M                         
+    DEV (NC)                             UKALTA                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PERPETUAL OPERATING CORP.                                           02-11-057-18W4                  
+                                                                                                        
+    BEC HZ WILLGR 8-11-41-5              0498244   ALBERTA CROWN        1061.4M                         
+    100/08-11-041-05W5/00  N  320.0M  W  711.2M    RED DEER             6080.0M                         
+    DEV (NC)                             WILLESDEN GREEN                GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BONAVISTA ENERGY CORPORATION                                        02-09-041-05W5                  
+                                                                                                        
+    BEC HZ WILLGR 1-11-41-5              0498245   ALBERTA CROWN        1062.1M                         
+    100/01-11-041-05W5/00  N  300.0M  W  711.3M    RED DEER             6055.0M                         
+    DEV (NC)                             WILLESDEN GREEN                GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BONAVISTA ENERGY CORPORATION                                        02-09-041-05W5                  
+                                                                                                        
+    OUC HZ KAKWA 4-5-63-5                0498246   ALBERTA CROWN        1049M                           
+    100/04-05-063-05W6/00  N  203.3M  W  171.4M    GRANDE PRAIRIE       6536.0M                         
+    DEV (NC)                             KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ORLEN UPSTREAM CANADA LTD.                                          01-18-063-05W6                  
+                                                                                                        
+    OUC 102 HZ KAKWA 1-6-63-5            0498247   ALBERTA CROWN        1049.8M                         
+    102/01-06-063-05W6/00  N  210.2M  W  181.2M    GRANDE PRAIRIE       6590.0M                         
+    DEV (NC)                             KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ORLEN UPSTREAM CANADA LTD.                                          01-18-063-05W6                  
+                                                                                                        
+    PEYTO CHAMBERS 1-23-41-11            0498248   ALBERTA CROWN        1083M                           
+    100/01-23-041-11W5/00  S  287.7M  W  158.7M    RED DEER             4150.0M                         
+    DEV (C)                              CHAMBERS                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               16-22-041-11W5                  
+                                                                                                        
+    PEYTO CHAMBERS 9-23-41-11            0498249   ALBERTA CROWN        1083.1M                         
+    100/09-23-041-11W5/00  S  286.0M  W  163.3M    RED DEER             3900.0M                         
+    DEV (C)                              CHAMBERS                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               16-22-041-11W5                  
+                                                                                                        
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,23 @@
+Report Number: ST-49                                                                       Alberta Energy Regulator                                                                                Page 1 of 1
+Run Date: 29 Nov 2020                                                                    DAILY DRILLING ACTIVITY LIST                                                                                         
+                                                                            For the Notification Period 28 Nov 2020 To 29 Nov 2020                                                                            
+
+      WELL ID                  WELL NAME             LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID           LICENSEE           NEW PROJECTED  ACTIVITY  
+                                                              BA ID               NAME              NUMBER                                                                            TOTAL DEPTH     TYPE    
+------------------- -------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ---------------------------- ------------- -----------
+00/12-23-048-06W4/0 HUSKY 3HZ T1 WILDMERE 12-23-48-6  0497590 0Y52   Precision Drilling Corporation    197 28 Nov 2020 06:30:00 PM Wainwright     0R46  Husky Oil Operations Limited               Drill To LD
+00/04-35-052-13W5/0 VEI HZ CARROT 4-35-52-13          0498444 A2EN   Ironhand Drilling Inc.              5 28 Nov 2020 11:30:00 PM Drayton Valley A6FW  Vermilion Energy Inc.                      Drill To LD
+02/01-22-072-09W6/0 ECA HZ 102 WEMBLEY 1-22-72-9      0495359 0Y52   Precision Drilling Corporation    535 29 Nov 2020 03:00:00 PM Grande Prairie 0026  Ovintiv Canada ULC                         Drill To LD
+00/03-12-075-25W4/0 SPL 3-13 HZ MARTENH 3-12-75-25    0498557 A2CL   Komat Drilling Ltd.                 3 29 Nov 2020 03:00:00 AM St. Albert     A7GR  Spur Petroleum Ltd.                        Set Surface
+00/13-25-076-06W5/0 SPL 11-24 HZ MARTEN 13-25-76-6    0498809 A2CL   Komat Drilling Ltd.                 3 28 Nov 2020 07:45:00 AM St. Albert     A7GR  Spur Petroleum Ltd.                        Set Surface
+00/13-30-082-12W5/0 ISLANDER SLAVE 13-30-82-12        0498712 0Y52   Precision Drilling Corporation    144 27 Nov 2020 08:00:00 PM St. Albert     A8A9  Islander Oil & Gas Inc.                    Drill To LD
+00/08-35-087-12W5/0 CRESTWYND HZ EVI 8-35-87-12       0498427 0Y52   Precision Drilling Corporation    187 29 Nov 2020 02:30:00 AM St. Albert     A7MT  Crestwynd Exploration Ltd.                 Drill To LD
+
+                                                                  TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 5                                                                   
+                                                                  TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                   
+                                                                  TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                   
+                                                                  TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 2                                                                   
+
+                                                                                       TOTAL NUMBER OF WELLS LISTED = 7                                                                                       
+                                                                                            *** END OF REPORT ***                                                                                             
+

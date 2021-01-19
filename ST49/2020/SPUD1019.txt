@@ -1,0 +1,22 @@
+Report Number: ST-49                                                                                  Alberta Energy Regulator                                                                                          Page 1 of 1
+Run Date: 19 Oct 2020                                                                               DAILY DRILLING ACTIVITY LIST                                                                                                   
+                                                                                       For the Notification Period 18 Oct 2020 To 19 Oct 2020                                                                                      
+
+      WELL ID                  WELL NAME             LICENCE  +----------------------CONTRACTOR----------------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID            LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                              BA ID                        NAME                        NUMBER                                                                              TOTAL DEPTH     TYPE    
+------------------- -------------------------------- -------- ------ ------------------------------------------------- ------ ----------------------- -------------- ----- ------------------------------ ------------- -----------
+00/15-33-034-08W4/0 TAC 7-32 HZ PROVOST 15-33-34-8    0498525 0GE9   Tempco Drilling Company Inc.                           5 18 Oct 2020 12:30:00 AM Wainwright     A5TT  Tamarack Acquisition Corp.                   Drill To LD
+00/13-23-045-07W5/0 TAC 14-20 HZ PEMBINA 13-23-45-7   0498492 A6EC   Twilight Drilling Ltd.                                 2 18 Oct 2020 02:15:00 PM Drayton Valley A5TT  Tamarack Acquisition Corp.                   Drill To LD
+00/16-26-046-16W5/0 TOURMALINE HZ PECO 16-26-46-16    0498173 0Z41   Ensign Drilling Inc.                                T038 18 Oct 2020 11:00:00 PM Drayton Valley A573  Tourmaline Oil Corp.                         Resumption 
+02/14-09-075-25W4/0 DELTASTREAM MARTENH 14-9-75-25    0498341 A2CL   Komat Drilling Ltd.                                    3 18 Oct 2020 07:30:00 PM St. Albert     A6YA  Deltastream Energy Corporation               Set Surface
+05/04-35-094-06W4/0 SUNCOR P122S4 FIREBAG 4-35-94-6   0496403 0X84   Nabors Drilling Limited                              102 19 Oct 2020 10:30:00 AM Bonnyville     0054  Suncor Energy Inc.                           Resumption 
+16/10-05-095-06W4/2 SUNCOR P112P7B FIREBAG 10-5-95-6  0462748 0FZ8   Precision Drilling Technology Services Group Inc.    151 18 Oct 2020 02:00:00 PM Bonnyville     0054  Suncor Energy Inc.                           Resumption 
+
+                                                                             TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 2                                                                             
+                                                                             TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                             
+                                                                             TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 3                                                                             
+                                                                             TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                                             
+
+                                                                                                 TOTAL NUMBER OF WELLS LISTED = 6                                                                                                  
+                                                                                                       *** END OF REPORT ***                                                                                                       
+

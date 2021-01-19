@@ -1,0 +1,283 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 17 December 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SUNCOR P5P13B FIREBAG 8-3-95-6       0381779   ALBERTA CROWN        598.9M                          
+    107/08-03-095-06W4/02  N  125.1M  W  510.8M    BONNYVILLE           1335.0M                         
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  02-10-095-06W4                  
+                                                                                                        
+    SUNCOR P6P8B FIREBAG 13-10-95-6      0409268   ALBERTA CROWN        592.5M                          
+    107/13-10-095-06W4/02  N  126.4M  E  207.7M    BONNYVILLE           1572.0M                         
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  04-10-095-06W4                  
+                                                                                                        
+    CVE J07P02 KIRBY 16-2-76-6           0473168   ALBERTA CROWN        604.3M                          
+    106/16-02-076-06W4/02  S 1620.2M  W  495.4M    BONNYVILLE           1758.0M                         
+    DEV (NC)                             KIRBY                          MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 02-02-076-06W4                  
+                                                                                                        
+    CVE L02P08 LEISMER 10-22-76-6        0483196   ALBERTA CROWN        572.1M                          
+    106/10-22-076-06W4/03  N   75.4M  E  787.9M    BONNYVILLE           1901.0M                         
+    DEV (NC)                             LEISMER                        MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 03-23-076-06W4                  
+                                                                                                        
+    CVE J15P01 KIRBY 1-34-75-6           0484714   ALBERTA CROWN        599.8M                          
+    102/01-34-075-06W4/02  N  365.1M  E  632.5M    BONNYVILLE           2206.0M                         
+    DEV (NC)                             KIRBY                          MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 03-02-076-06W4                  
+                                                                                                        
+    CVE J17P05 KIRBY 13-26-75-6          0484725   ALBERTA CROWN        599.8M                          
+    104/13-26-075-06W4/02  N  388.4M  E  749.9M    BONNYVILLE           2418.6M                       
+    DEV (NC)                             KIRBY                          MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 03-02-076-06W4                  
+                                                                                                        
+    BIR 14-6 HZ PCOUPE 2-31-78-12        0499066   ALBERTA CROWN        685.3M                          
+    100/02-31-078-12W6/00  S  308.2M  E  705.8M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             POUCE COUPE                    MOULTON SD                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-06-079-12W6                  
+                                                                                                        
+    BIR 14-6 HZ PCOUPE 3-31-78-12        0499067   ALBERTA CROWN        685.3M                          
+    100/03-31-078-12W6/00  S  308.2M  E  695.8M    GRANDE PRAIRIE       5470.0M                         
+    DEV (NC)                             POUCE COUPE                    MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-06-079-12W6                  
+                                                                                                        
+    BIR 14-6 HZ PCOUPE 4-31-78-12        0499068   ALBERTA CROWN        685.2M                          
+    100/04-31-078-12W6/00  S  308.1M  E  675.8M    GRANDE PRAIRIE       5275.0M                         
+    DEV (NC)                             POUCE COUPE                    MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-06-079-12W6                  
+                                                                                                        
+    BIR 14-6 HZ PCOUPES 8-36-78-13       0499069   ALBERTA CROWN        685.1M                          
+    103/08-36-078-13W6/00  S  308.1M  E  665.8M    GRANDE PRAIRIE       4800.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-06-079-12W6                  
+                                                                                                        
+    BIR 14-6 HZ 102 PCOUPE 3-31-78-12    0499070   ALBERTA CROWN        685.3M                          
+    102/03-31-078-12W6/00  S  308.2M  E  685.8M    GRANDE PRAIRIE       5450.0M                         
+    DEV (NC)                             POUCE COUPE                    MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-06-079-12W6                  
+                                                                                                        
+    CVE A12 MARTENH 12-35-74-25          0499071   ALBERTA CROWN        695M                            
+    1F1/12-35-074-25W4/00  S  788.5M  E  278.9M    ST. ALBERT           1054.0M                         
+    OTH (NC)                             MARTEN HILLS                   IRETON FM                       
+    VERTICAL                             NEW       OBSERVATION          WATER                           
+    CENOVUS ENERGY INC.                                                 12-35-074-25W4                  
+                                                                                                        
+    WLEC 11HZ 2B7 PROVOST 7-32-39-5      0499072   ALBERTA CROWN        673.6M                          
+    100/07-32-039-05W4/00  N  480.0M  E  690.0M    WAINWRIGHT           2950.0M                         
+    DEV (NC)                             PROVOST                        REX MBR                         
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WEST LAKE ENERGY CORP.                                              06-33-039-05W4                  
+                                                                                                        
+    TXNE 3A-33 HZ ALDSON 3-29-15-15      0499073   FREEHOLD             771.5M                          
+    100/03-29-015-15W4/00  N   43.2M  E  778.6M    MEDICINE HAT         3450.0M                         
+    DEV (NC)                             ALDERSON                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  03-33-015-15W4                  
+                                                                                                        
+    SURGE ENERGY HZ WAINWR 3-33-44-7     0499074   ALBERTA CROWN        679M                            
+    100/03-33-044-07W4/00  N  154.3M  W  519.8M    WAINWRIGHT           2650.0M                         
+    DEV (NC)                             WAINWRIGHT                     SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   02-04-045-07W4                  
+                                                                                                        
+    JUPITER HZ RESTHA 4-4-60-2           0499075   ALBERTA CROWN        1305.8M                         
+    103/04-04-060-02W6/00  N  414.4M  E  428.1M    GRANDE PRAIRIE       5036.0M                         
+    DEV (NC)                             RESTHAVEN                      SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    JUPITER RESOURCES INC.                                              06-03-060-02W6                  
+                                                                                                        
+    JUPITER HZ RESTHA 12-4-60-2          0499076   ALBERTA CROWN        1305.8M                         
+    104/12-04-060-02W6/00  N  417.7M  E  424.5M    GRANDE PRAIRIE       5007.0M                         
+    DEV (NC)                             RESTHAVEN                      SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    JUPITER RESOURCES INC.                                              06-03-060-02W6                  
+                                                                                                        
+    CVE 100 HZ PEMBINA 1-10-46-9         0499077   ALBERTA CROWN        864.6M                          
+    100/01-10-046-09W5/00  N   97.1M  W  451.9M    DRAYTON VALLEY       4750.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CENOVUS ENERGY INC.                                                 02-22-046-09W5                  
+                                                                                                        
+    SPL 4-1 HZ GODIN 4-35-80-3           0499078   ALBERTA CROWN        595.5M                          
+    100/04-35-080-03W5/00  N  365.5M  E   14.4M    ST. ALBERT           2600.0M                         
+    DEV (NC)                             UNDEFINED                      CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 04-01-081-03W5                  
+                                                                                                        
+    WLEC 11HZ 2B7 PROVOST 7-32-39-5      0499079   ALBERTA CROWN        673.6M                          
+    102/07-32-039-05W4/00  N  480.0M  E  690.0M    WAINWRIGHT           2950.0M                         
+    DEV (NC)                             PROVOST                        REX MBR                         
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WEST LAKE ENERGY CORP.                                              06-33-039-05W4                  
+                                                                                                        
+    WLEC 9HZ 4B4 PROVOST 4-20-39-5       0499080   ALBERTA CROWN        669.6M                          
+    100/04-20-039-05W4/00  N  185.2M  E  736.2M    WAINWRIGHT           2950.0M                         
+    DEV (NC)                             PROVOST                        REX MBR                         
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WEST LAKE ENERGY CORP.                                              03-21-039-05W4                  
+                                                                                                        
+    CPEC 102 HZ PEMBINA 5-22-47-2        0499081   BOTH                 913.7M                          
+    102/05-22-047-02W5/00  S  120.0M  W  409.0M    DRAYTON VALLEY       5810.0M                         
+    XPL (C)                              PEMBINA                        DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESCENT POINT ENERGY CORP.                                         15-29-047-02W5                  
+                                                                                                        
+    SIFTON ET AL WILLGR 7-28-43-6        0499082   ALBERTA CROWN        979.6M                          
+    100/07-28-043-06W5/00  N  559.4M  W  581.5M    RED DEER             1450.0M                         
+    DEV (C)                              WILLESDEN GREEN                LEA PARK FM                     
+    VERTICAL                             NEW       PRODUCTION           CRUDE OIL                       
+    SIFTON PETROLEUM INC.                                               07-28-043-06W5                  
+                                                                                                        
+    WHITECAP PEMBINA 16-20-49-11         0499083   ALBERTA CROWN        954.4M                          
+    103/16-20-049-11W5/00  S  326.3M  W  374.7M    DRAYTON VALLEY       4930.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WHITECAP RESOURCES INC.                                             16-32-049-11W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    ECA HZ WEMBLEY 2-22-72-9               0493801   CATEGORY:                                          
+    102/02-22-072-09W6/00                            C360                                               
+
+    ECA HZ 102 WEMBLEY 2-22-72-9           0493802   CATEGORY:                                          
+    103/02-22-072-09W6/00                            C360                                               
+
+    ECA HZ 104 WEMBLEY 2-22-72-9           0493804   CATEGORY:                                          
+    105/02-22-072-09W6/00                            C360                                               
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5678.00                                            
+
+    ECA HZ 105 WEMBLEY 2-22-72-9           0493805   CATEGORY:                                          
+    106/02-22-072-09W6/00                            C360                                               
+
+    ECA HZ 106 WEMBLEY 2-22-72-9           0493806   CATEGORY:                                          
+    107/02-22-072-09W6/00                            C360                                               
+
+    ECA HZ WEMBLEY 3-22-72-9               0493807   CATEGORY:                                          
+    100/03-22-072-09W6/00                            C360                                               
+
+    ECA HZ 102 WEMBLEY 3-22-72-9           0493808   CATEGORY:                                          
+    102/03-22-072-09W6/00                            C360                                               
+
+    SURGE ENERGY HZ 102 WAINWR 2-33-44-7   0496424   GROUND ELEVATION                                   
+    102/02-33-044-07W4/00                            679.00                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0154.3 W 0509.8                                  
+
+    SURGE ENERGY HZ 103 WAINWR 2-33-44-7   0496425   GROUND ELEVATION                                   
+    103/02-33-044-07W4/00                            679.00                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0154.3 W 0499.8                                  
+
+    SURGE ENERGY HZ 102 WAINWR 13-4-45-7   0498660   GROUND ELEVATION                                   
+    102/13-04-045-07W4/00                            677.60                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0061.1 E 0187.4                                  
+
+    TOURMALINE HZ VALHALLA 8-2-76-8        0498676   UWI:                                               
+    00/08-02-076-08W6/0                              00/10-02-076-08W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ VALHALLA 10-2-76-8                   
+
+                                                     PROJECTED DEPTH:                                   
+                                                     4900.00                                            
+
+    CHEVRON 102 HZ KAYBOBS 4-23-61-19      0499027   WELL NAME:                                         
+    100/04-23-061-19W5/00                            CHEVRON HZ KAYBOBS 4-23-61-19                      
+
+                                                     CATEGORY:                                          
+                                                     C280                                               
+
+                                                     PROJECTED DEPTH:                                   
+                                                     7219.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0775.2 E 0645.4                                  
+
+    CHEVRON HZ KAYBOBS 4-23-61-19          0499028   WELL NAME:                                         
+    102/04-23-061-19W5/00                            CHEVRON 102 HZ KAYBOBS 4-23-61-19                  
+
+                                                     CATEGORY:                                          
+                                                     C280                                               
+
+                                                     PROJECTED DEPTH:                                   
+                                                     7248.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0777.4 E 0638.5                                  
+
+    CHEVRON 102 HZ KAYBOBS 6-24-61-19      0499034   WELL NAME:                                         
+    100/06-24-061-19W5/00                            CHEVRON HZ KAYBOBS 6-24-61-19                      
+
+                                                     CATEGORY:                                          
+                                                     C280                                               
+
+                                                     PROJECTED DEPTH:                                   
+                                                     6980.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0759.6 E 0694.3                                  
+
+    CHEVRON HZ KAYBOBS 6-24-61-19          0499035   WELL NAME:                                         
+    102/06-24-061-19W5/00                            CHEVRON 102 HZ KAYBOBS 6-24-61-19                  
+
+                                                     CATEGORY:                                          
+                                                     C280                                               
+
+                                                     PROJECTED DEPTH:                                   
+                                                     6617.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0761.8 E 0687.3                                  
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    HUSKY 3HZ Q2 WILDMERE 15-25-48-6       0496542   UWI:                                               
+    00/15-25-048-06W4/4                              04/16-25-048-06W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     HUSKY 3HZ Q2 WILDMERE 16-25-48-6                   
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     16-25-048-06W4                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

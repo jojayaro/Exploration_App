@@ -1,0 +1,100 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 28 February 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    BAYTEX 200N HZ SEAL 11-17-82-15      0497805   ALBERTA CROWN        705.8M                          
+    100/11-17-082-15W5/00  S   82.3M  E  417.1M    ST. ALBERT           2400.0M                         
+    DEV (C)                              SEAL                           BLUESKY FM                      
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    BAYTEX ENERGY LTD.                                                  14-09-082-15W5                  
+                                                                                                        
+    CABOT ENERGY RAINBOW 11-5-110-4      0497806   ALBERTA CROWN        406.6M                          
+    100/11-05-110-04W6/00  S  736.9M  W  447.7M    HIGH LEVEL           1850.0M                         
+    DEV (NC)                             RAINBOW                        KEG RIVER FM                    
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    CABOT ENERGY INC.                                                   10-05-110-04W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    ECA HZ 102 WEMBLEY 16-24-72-9         0490069    UWI:                                               
+    02/16-24-072-09W6/0                              04/12-15-072-09W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     OVV HZ 103 WEMBLEY 12-15-72-9                      
+
+                                                     GROUND ELEVATION                                   
+                                                     809.7                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5920.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0220.2 E 0593.3                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.58                                               
+
+    TXNE 2B-26 HZ  ALDSON 7-36-15-14      0496987    UWI:                                               
+    02/07-36-015-14W4/0                              00/14-25-015-14W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TXNE 2B-26 HZ ALDSON 14-25-15-14                   
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM BASAL QUARTZ SD                     
+
+    TXNE 1A-32 HZ ALDSON 2-29-14-13       0497205    UWI:                                               
+    02/02-29-014-13W4/0                              00/07-29-014-13W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TXNE 1A-32 HZ ALDSON 7-29-14-13                    
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM LOWER MANNVILLE FM                  
+
+    OVV HZ WEMBLEY 12-15-72-9             0497748    GROUND ELEVATION                                   
+    100/12-15-072-09W6/00                            810.0                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0240.2 E 0593.3                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.58                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    OVV HZ 102 WEMBLEY 12-15-72-9         0497749    SURFACE CO-ORDINATES:                              
+    102/12-15-072-09W6/00                            S 0230.1 E 0593.3                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.58                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

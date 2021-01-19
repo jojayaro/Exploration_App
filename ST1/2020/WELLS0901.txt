@@ -1,0 +1,265 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 01 September 2020                                                                             
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    YANGARRA HZ FERRIER 1-5-37-7         0498342   ALBERTA CROWN        1071.8M                         
+    103/01-05-037-07W5/00  N  224.4M  W  436.9M    RED DEER             5565.0M                         
+    DEV (NC)                             FERRIER                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    YANGARRA RESOURCES CORP.                                            02-17-037-07W5                  
+                                                                                                        
+    YANGARRA HZ FERRIER 2-5-37-7         0498343   ALBERTA CROWN        1070.9M                         
+    100/02-05-037-07W5/00  N  243.6M  W  427.8M    RED DEER             5612.0M                         
+    DEV (NC)                             FERRIER                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    YANGARRA RESOURCES CORP.                                            02-17-037-07W5                  
+                                                                                                        
+    YANGARRA HZ 102 FERRIER 2-5-37-7     0498344   ALBERTA CROWN        1072.1M                         
+    102/02-05-037-07W5/00  N  246.0M  W  457.7M    RED DEER             5610.0M                         
+    DEV (NC)                             FERRIER                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    YANGARRA RESOURCES CORP.                                            02-17-037-07W5                  
+                                                                                                        
+    YANGARRA HZ 103 FERRIER 2-5-37-7     0498345   ALBERTA CROWN        1072.2M                         
+    103/02-05-037-07W5/00  N  235.2M  W  447.3M    RED DEER             5650.0M                         
+    DEV (NC)                             FERRIER                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    YANGARRA RESOURCES CORP.                                            02-17-037-07W5                  
+                                                                                                        
+    YANGARRA HZ FERRIER 3-5-37-7         0498346   ALBERTA CROWN        1071.2M                         
+    100/03-05-037-07W5/00  N  254.5M  W  438.1M    RED DEER             5652.0M                         
+    DEV (NC)                             FERRIER                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    YANGARRA RESOURCES CORP.                                            02-17-037-07W5                  
+                                                                                                        
+    KCK 13-30 HZ KAKWA 1-32-62-5         0498347   ALBERTA CROWN        1102.9M                         
+    100/01-32-062-05W6/00  S   32.2M  E   84.6M    GRANDE PRAIRIE       6830.0M                         
+    XPL (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    KICKING HORSE OIL & GAS LTD.                                        13-30-062-05W6                  
+                                                                                                        
+    KCK 13-30 HZ KAKWA 13-18-62-5        0498348   ALBERTA CROWN        1103M                           
+    102/13-18-062-05W6/00  S   32.0M  E   74.6M    GRANDE PRAIRIE       6950.0M                         
+    XPL (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    KICKING HORSE OIL & GAS LTD.                                        13-30-062-05W6                  
+                                                                                                        
+    ANEGADA HZ 4B WEMBLEY 4-34-72-7      0498349   ALBERTA CROWN        673.6M                          
+    100/04-34-072-07W6/00  S   65.0M  E  398.9M    GRANDE PRAIRIE       4980.0M                         
+    DEV (C)                              WEMBLEY                        CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ANEGADA OIL CORP.                                                   13-03-073-07W6                  
+                                                                                                        
+    ANEGADA HZ 3B WEMBLEY 3-34-72-7      0498350   ALBERTA CROWN        673.8M                          
+    100/03-34-072-07W6/00  S   65.0M  E  423.9M    GRANDE PRAIRIE       4980.0M                         
+    DEV (C)                              WEMBLEY                        CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ANEGADA OIL CORP.                                                   14-03-073-07W6                  
+                                                                                                        
+    DELTASTREAM MARTENH 15-30-74-24      0498351   ALBERTA CROWN        688.7M                          
+    103/15-30-074-24W4/00  S  176.6M  W  570.4M    ST. ALBERT           2300.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      15-19-074-24W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 16-30-74-24      0498352   ALBERTA CROWN        688.7M                          
+    104/16-30-074-24W4/00  S  184.6M  W  570.3M    ST. ALBERT           2300.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      15-19-074-24W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 16-30-74-24      0498353   ALBERTA CROWN        688.7M                          
+    105/16-30-074-24W4/00  S  192.6M  W  570.3M    ST. ALBERT           2300.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      15-19-074-24W4                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    IMP OV THORNB 15-25-80-11             0490627                                                       
+    1AA/15-25-080-11W4/00                                                                               
+
+    IMP OV LEISMER 13-18-80-9             0490628                                                       
+    1AA/13-18-080-09W4/00                                                                               
+
+    IMP OV CORNER 11-19-80-9              0490629                                                       
+    1AA/11-19-080-09W4/00                                                                               
+
+    IMP OV CORNER 9-32-80-10              0490630                                                       
+    1AA/09-32-080-10W4/00                                                                               
+
+    IMP OV CORNER 2-33-80-10              0490631                                                       
+    1AA/02-33-080-10W4/00                                                                               
+
+    IMP OV CORNER 16-33-80-10             0490632                                                       
+    1AA/16-33-080-10W4/00                                                                               
+
+    IMP OV CORNER 9-28-80-10              0490633                                                       
+    1AA/09-28-080-10W4/00                                                                               
+
+    IMP OV CORNER 13-27-80-10             0490634                                                       
+    1AA/13-27-080-10W4/00                                                                               
+
+    IMP OV CORNER 4-3-81-10               0490635                                                       
+    1AA/04-03-081-10W4/00                                                                               
+
+    IMP OV CORNER 5-34-80-10              0490636                                                       
+    1AB/05-34-080-10W4/00                                                                               
+
+    IMP OV CORNER 14-34-80-10             0490637                                                       
+    1AA/14-34-080-10W4/00                                                                               
+
+    IMP OV CORNER 6-27-80-10              0490638                                                       
+    1AA/06-27-080-10W4/00                                                                               
+
+    IMP OV CORNER 3-22-80-10              0490639                                                       
+    1AA/03-22-080-10W4/00                                                                               
+
+    IMP OV CORNER 10-22-80-10             0490640                                                       
+    1AA/10-22-080-10W4/00                                                                               
+
+    IMP OV CORNER 15-22-80-10             0490641                                                       
+    1AA/15-22-080-10W4/00                                                                               
+
+    IMP OV CORNER 2-27-80-10              0490642                                                       
+    1AA/02-27-080-10W4/00                                                                               
+
+    IMP OV CORNER 15-34-80-10             0490643                                                       
+    1AA/15-34-080-10W4/00                                                                               
+
+    IMP OV CORNER 9-27-80-10              0490644                                                       
+    1AA/09-27-080-10W4/00                                                                               
+
+    IMP OV CORNER 5-26-80-10              0490645                                                       
+    1AA/05-26-080-10W4/00                                                                               
+
+    IMP OV CORNER 9-15-80-10              0490646                                                       
+    1AA/09-15-080-10W4/00                                                                               
+
+    IMP CORNER 4-35-80-10                 0490647                                                       
+    1AA/04-35-080-10W4/00                                                                               
+
+    IMP OV CORNER 12-23-80-10             0490648                                                       
+    1AA/12-23-080-10W4/00                                                                               
+
+    IMP OV CORNER 4-26-80-10              0490649                                                       
+    1AA/04-26-080-10W4/00                                                                               
+
+    IMP OV CORNER 3-14-80-10              0490650                                                       
+    1AA/03-14-080-10W4/00                                                                               
+
+    IMP OV CORNER 11-26-80-10             0490651                                                       
+    1AA/11-26-080-10W4/00                                                                               
+
+    IMP OV CORNER 11-23-80-10             0490652                                                       
+    1AA/11-23-080-10W4/00                                                                               
+
+    IMP OV CORNER 3-26-80-10              0490653                                                       
+    1AA/03-26-080-10W4/00                                                                               
+
+    IMP OV CORNER 8-34-80-10              0490654                                                       
+    1AA/08-34-080-10W4/00                                                                               
+
+    IMP OV CORNER 1-34-80-10              0490655                                                       
+    1AA/01-34-080-10W4/00                                                                               
+
+    IMP OV CORNER 3-23-80-10              0490656                                                       
+    1AA/03-23-080-10W4/00                                                                               
+
+    IMP OV CORNER 13-14-80-10             0490657                                                       
+    1AA/13-14-080-10W4/00                                                                               
+
+    IMP CORNER 2-35-80-10                 0490659                                                       
+    1AA/02-35-080-10W4/00                                                                               
+
+    IMP OV CORNER 7-35-80-10              0490660                                                       
+    1AA/07-35-080-10W4/00                                                                               
+
+    IMP OV CORNER 10-23-80-10             0490661                                                       
+    1AA/10-23-080-10W4/00                                                                               
+
+    IMP OV CORNER 1-26-80-10              0490662                                                       
+    1AA/01-26-080-10W4/00                                                                               
+
+    IMP OV CORNER 16-11-80-10             0490663                                                       
+    1AA/16-11-080-10W4/00                                                                               
+
+    IMP OV CORNER 15-14-80-10             0490664                                                       
+    1AA/15-14-080-10W4/00                                                                               
+
+    IMP CORNER 16-14-80-10                0490665                                                       
+    1AA/16-14-080-10W4/00                                                                               
+
+    IMP OV CORNER 12-24-80-10             0490666                                                       
+    1AA/12-24-080-10W4/00                                                                               
+
+    IMP OV CORNER 11-13-80-10             0490667                                                       
+    1AA/11-13-080-10W4/00                                                                               
+
+    IMP OV CORNER 15-24-80-10             0490668                                                       
+    1AA/15-24-080-10W4/00                                                                               
+
+    IMP OV CORNER 2-24-80-10              0490669                                                       
+    1AA/02-24-080-10W4/00                                                                               
+
+    IMP OV CORNER 8-13-80-10              0490670                                                       
+    1AA/08-13-080-10W4/00                                                                               
+
+    IMP OV CORNER 15-27-80-10             0490671                                                       
+    1AA/15-27-080-10W4/00                                                                               
+
+    IMP OV CORNER 12-35-80-10             0490672                                                       
+    1AA/12-35-080-10W4/00                                                                               
+
+    IMP OV THORNB 10-24-79-11             0490673                                                       
+    1AA/10-24-079-11W4/00                                                                               
+
+    IMP OV CORNER 4-23-80-10              0490674                                                       
+    1AA/04-23-080-10W4/00                                                                               
+
+    IMP OV CORNER 3-13-80-10              0490675                                                       
+    1AA/03-13-080-10W4/00                                                                               
+
+    IMP OV CORNER 7-27-80-10              0490676                                                       
+    1AA/07-27-080-10W4/00                                                                               
+
+    IMP OV CORNER 7-34-80-10              0490677                                                       
+    1AA/07-34-080-10W4/00                                                                               
+
+    IMP OV CORNER 4-24-80-10              0490679                                                       
+    1AB/04-24-080-10W4/00                                                                               
+
+    IMP OV CORNER 16-34-80-10             0490680                                                       
+    1AA/16-34-080-10W4/00                                                                               
+
+    IMP OV CORNER 14-13-80-10             0490681                                                       
+    1AB/14-13-080-10W4/00                                                                               
+
+    IMP OV CORNER 12-13-80-10             0490682                                                       
+    1AA/12-13-080-10W4/00                                                                               
+
+    TXNR 11A-34 HZ COUNTESS 16-26-21-16   0495571                                                       
+    104/16-26-021-16W4/00                                                                               
+
+    TXNR 11A-34 HZ COUNTESS 4-36-21-16    0495572                                                       
+    105/04-36-021-16W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

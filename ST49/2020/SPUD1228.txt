@@ -1,0 +1,23 @@
+Report Number: ST-49                                                                        Alberta Energy Regulator                                                                                 Page 1 of 1
+Run Date: 28 Dec 2020                                                                     DAILY DRILLING ACTIVITY LIST                                                                                          
+                                                                             For the Notification Period 27 Dec 2020 To 28 Dec 2020                                                                             
+
+      WELL ID                    WELL NAME               LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID          LICENSEE          NEW PROJECTED  ACTIVITY  
+                                                                  BA ID               NAME              NUMBER                                                                          TOTAL DEPTH     TYPE    
+------------------- ------------------------------------ -------- ------ ------------------------------ ------ ----------------------- -------------- ----- -------------------------- ------------- -----------
+02/01-25-037-03W4/0 SURGE ENERGY 102HZ PROVOST 1-25-37-3  0498304 0Y52   Precision Drilling Corporation    145 28 Dec 2020 11:15:00 AM Wainwright     0YK4  Surge Energy Inc.                        Drill To LD
+00/16-17-039-08W5/0 OUC HZ FERRIER 16-17-39-8             0498041 0Z41   Ensign Drilling Inc.              225 28 Dec 2020 04:45:00 PM Red Deer       A2DE  ORLEN Upstream Canada Ltd.               Drill To LD
+00/03-16-046-10W5/0 CVE 100 HZ PEMBINA 3-16-46-10         0498417 0Z41   Ensign Drilling Inc.              449 28 Dec 2020 01:53:00 AM Drayton Valley A5D4  Cenovus Energy Inc.                      Drill To LD
+00/14-35-050-23W5/0 TOURMALINE HZ ANDERSN 14-35-50-23     0498648 A6PR   Nabors Drilling Canada Limited    C34 28 Dec 2020 05:30:00 AM Drayton Valley A573  Tourmaline Oil Corp.                     Set Surface
+00/07-20-067-24W5/0 ARC HZ ANTEN 7-20-67-24               0498605 0Y52   Precision Drilling Corporation    465 28 Dec 2020 08:00:00 AM Grande Prairie 0G30  ARC Resources Ltd.                       Drill To LD
+04/02-15-095-06W4/0 SUNCOR P131S3 FIREBAG 2-15-95-6       0497863 A6PR   Nabors Drilling Canada Limited    102 28 Dec 2020 08:15:00 AM Bonnyville     0054  Suncor Energy Inc.                       Set Surface
+05/02-15-095-06W4/0 SUNCOR P131S4 FIREBAG 2-15-95-6       0497864 A6PR   Nabors Drilling Canada Limited    102 27 Dec 2020 06:00:00 PM Bonnyville     0054  Suncor Energy Inc.                       Set Surface
+
+                                                                   TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 4                                                                    
+                                                                   TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                    
+                                                                   TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                    
+                                                                   TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 3                                                                    
+
+                                                                                        TOTAL NUMBER OF WELLS LISTED = 7                                                                                        
+                                                                                             *** END OF REPORT ***                                                                                              
+

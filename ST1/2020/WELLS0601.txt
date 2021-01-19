@@ -1,0 +1,106 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 01 June 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AVN HZ PCOUPES 2-6-77-13             0498083   ALBERTA CROWN        767.9M                          
+    100/02-06-077-13W6/00  S  735.0M  W   80.0M    GRANDE PRAIRIE       4900.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ADVANTAGE OIL & GAS LTD.                                            09-32-076-13W6                  
+                                                                                                        
+    AVN HZ PCOUPES 7-6-77-13             0498084   ALBERTA CROWN        767.6M                          
+    100/07-06-077-13W6/00  S  725.0M  W   80.0M    GRANDE PRAIRIE       5000.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ADVANTAGE OIL & GAS LTD.                                            09-32-076-13W6                  
+                                                                                                        
+    AVN HZ PCOUPES 15-6-77-13            0498085   ALBERTA CROWN        767.5M                          
+    100/15-06-077-13W6/00  S  715.0M  W   80.0M    GRANDE PRAIRIE       5500.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ADVANTAGE OIL & GAS LTD.                                            09-32-076-13W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CVE D11 LEISMER 11-9-77-6             0495616    UWI:                                               
+    AC/11-09-077-06W4/0                              02/11-09-077-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     565.0                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0453.1 E 0748.2                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE B14 LEISMER 14-9-77-6             0495618    UWI:                                               
+    AC/14-09-077-06W4/0                              00/14-09-077-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     564.3                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE C16 HARDY 16-1-77-6               0495690    UWI:                                               
+    AA/16-01-077-06W4/0                              00/16-01-077-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     564.0                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0137.1 W 0238.9                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE D2-25 B15 FISHER 15-26-70-6       0496267    UWI:                                               
+    AA/15-26-070-06W4/4                              AA/09-26-070-06W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     CVE D2-25 B15 FISHER 9-26-70-6                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    CRESTWYND RADWAY 14-23-59-20          0496782    WELL NAME:                                         
+    100/13-23-059-20W4/07                            CRESTWYND RADWAY 13-23-59                          
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

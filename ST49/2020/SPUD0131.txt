@@ -1,0 +1,42 @@
+Report Number: ST-49                                                                               Alberta Energy Regulator                                                                                        Page 1 of 1
+Run Date: 31 Jan 2020                                                                            DAILY DRILLING ACTIVITY LIST                                                                                                 
+                                                                                    For the Notification Period 30 Jan 2020 To 31 Jan 2020                                                                                    
+
+      WELL ID                   WELL NAME              LICENCE  +---------------CONTRACTOR---------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                                BA ID                 NAME                 NUMBER                                                                                     TOTAL DEPTH     TYPE    
+------------------- ---------------------------------- -------- ------ ----------------------------------- ------ ----------------------- -------------- ----- ------------------------------------- ------------- -----------
+00/12-31-014-13W4/0 TXNE 4B-8 HZ ALDSON 12-31-14-13     0497445 0Y52   Precision Drilling Corporation         239 31 Jan 2020 12:00:00 PM Medicine Hat   A7NW  Torxen Energy Ltd.                                  Drill To LD
+02/04-31-020-14W4/0 CARDINAL 102 HZ BANTRY 4-31-20-14   0497402 A1TW   Bonanza Drilling Inc.                    7 30 Jan 2020 09:00:00 PM Midnapore      A6A7  Cardinal Energy Ltd.                                Drill To LD
+02/01-20-021-16W4/0 TXNE 14D-15 HZ COUNTESS 1-20-21-16  0496871 A1TW   Bonanza Drilling Inc.                    6 31 Jan 2020 12:30:00 PM Midnapore      A7NW  Torxen Energy Ltd.                                  Drill To LD
+00/04-22-034-03W4/0 RHE 100 PROVOST 4-22-34-3           0496093 0GE9   Tempco Drilling Company Inc.             6 31 Jan 2020 04:00:00 AM Wainwright     A6W2  Rolling Hills Energy Ltd.                           Drill To LD
+02/13-30-034-07W4/0 TAC 7-25 HZ 102 PROVOST 13-30-34-7  0496967 A8AF   Hertz & Paluck Energy Services Inc.      1 31 Jan 2020 03:30:00 PM Wainwright     A5TT  Tamarack Acquisition Corp.                          Set Surface
+02/08-23-034-08W4/0 TAC 7-25 HZ 102 PROVOST 8-23-34-8   0496969 A8AF   Hertz & Paluck Energy Services Inc.      1 31 Jan 2020 08:00:00 AM Wainwright     A5TT  Tamarack Acquisition Corp.                          Set Surface
+F1/05-06-035-08W4/0 TAC 2-36 HZ 1F1 PROVOST 5-6-35-8    0497412 A1TW   Bonanza Drilling Inc.                    3 31 Jan 2020 03:30:00 AM Wainwright     A5TT  Tamarack Acquisition Corp.                          Drill To LD
+00/14-01-041-07W5/0 BEC HZ WILLGR 14-1-41-7             0495084 A08C   Savanna Drilling Corp.                 656 31 Jan 2020 03:00:00 AM Red Deer       A5RX  Bonavista Energy Corporation                        Drill To LD
+00/03-16-041-11W5/0 PEYTO CHAMBERS 3-16-41-11           0497332 A08C   Savanna Drilling Corp.                 616 30 Jan 2020 11:30:00 AM Red Deer       0YA2  Peyto Exploration & Development Corp.               Drill To LD
+00/03-30-042-07W5/0 OBE WILLGR 3-30-42-7                0496929 0Y52   Precision Drilling Corporation         220 30 Jan 2020 10:00:00 AM Red Deer       0BP8  Obsidian Energy Ltd.                                Drill To LD
+00/14-16-048-11W5/0 TAC 14-09 HZ PEMBINA 14-16-48-11    0494729 0Y52   Precision Drilling Corporation         309 30 Jan 2020 03:15:00 PM Drayton Valley A5TT  Tamarack Acquisition Corp.                          Drill To LD
+00/01-27-053-13W5/0 VEI HZ CARROT 1-27-53-13            0497253 A2EN   Ironhand Drilling Inc.                   7 31 Jan 2020 04:00:00 AM Drayton Valley A6FW  Vermilion Energy Inc.                               Drill To LD
+03/16-02-056-22W5/0 PEYTO SUNDANCE 16-2-56-22           0496805 0Z41   Ensign Drilling Inc.                   432 30 Jan 2020 03:00:00 PM Drayton Valley 0YA2  Peyto Exploration & Development Corp.               Drill To LD
+05/09-23-058-05W4/0 PENGROWTH D03-P8 LNDBRGH 9-23-58-5  0496187 0Y55   Akita Drilling Ltd.                     26 31 Jan 2020 09:00:00 PM Bonnyville     A5K1  Cona Resources Ltd.                                 Drill To LD
+00/13-30-067-08W6/0 WHITECAP HZ WAPITI 13-30-67-8       0496843 0Y52   Precision Drilling Corporation         403 31 Jan 2020 05:00:00 PM Grande Prairie A5BE  Whitecap Resources Inc.                             Drill To LD
+AA/15-07-073-06W4/0 CNRL 1AA KIRBY 15-7-73-6            0496705 0Z41   Ensign Drilling Inc.                   218 30 Jan 2020 08:30:00 PM Bonnyville     0HE9  Canadian Natural Resources Limited                  Drill To LD
+04/02-30-073-24W4/0 SPL 3-19 HZ 104 MARTENH 2-30-73-24  0496145 0Y52   Precision Drilling Corporation         149 30 Jan 2020 09:00:00 PM St. Albert     A7GR  Spur Petroleum Ltd.                                 Drill To LD
+AB/03-01-077-06W4/0 CVE B3 HARDY 3-1-77-6               0495597 0Y52   Precision Drilling Corporation         133 30 Jan 2020 08:30:00 PM Bonnyville     A5D4  Cenovus Energy Inc.                                 Drill To LD
+AB/03-01-077-06W4/0 CVE B3 HARDY 3-1-77-6               0495597 0Y52   Precision Drilling Corporation         133 30 Jan 2020 09:25:00 PM Bonnyville     A5D4  Cenovus Energy Inc.                                 Drill To LD
+02/08-08-077-06W5/0 SPL 1-5 HZ 102 MARTEN 8-8-77-6      0496052 0Y52   Precision Drilling Corporation         147 31 Jan 2020 06:45:00 AM St. Albert     A7GR  Spur Petroleum Ltd.                                 Drill To LD
+00/13-21-079-07W6/0 R S R 102 HZ MIRAGE 13-21-79-7      0497459 0Y52   Precision Drilling Corporation         152 31 Jan 2020 02:30:00 AM Grande Prairie A7CZ  Rising Star Resources Ltd.                          Drill To LD
+00/04-24-079-11W6/0 VELVET HZ GORD 4-24-79-11           0497242 A0KC   Horizon Drilling Inc.                   50 30 Jan 2020 07:00:00 PM Grande Prairie A5YK  Velvet Energy Ltd.                                  Drill To LD
+00/09-20-082-13W6/0 GLENOGLE HZ DOE 9-20-82-13          0496817 0ZG2   Excalibur Drilling Ltd.                 11 31 Jan 2020 02:00:00 PM Grande Prairie A52E  Glenogle Energy Inc.                                Drill To LD
+AA/01-12-084-11W4/0 JACOS HANGSTN 1-12-84-11            0496160 A6F5   Foraco Canada Ltd.                     104 31 Jan 2020 03:30:00 PM Bonnyville     0NY5  Japan Canada Oil Sands Limited                      Drill To LD
+AA/10-08-092-08W4/0 SUNCOR LEWIS 10-8-92-8              0497290 0ZF6   McAllister Water Well Drilling Ltd.      1 31 Jan 2020 04:30:00 AM Bonnyville     0054  Suncor Energy Inc.                                  Set Surface
+AA/04-17-092-08W4/0 SUNCOR LEWIS 4-17-92-8              0497302 0ZF6   McAllister Water Well Drilling Ltd.      1 30 Jan 2020 07:00:00 PM Bonnyville     0054  Suncor Energy Inc.                                  Set Surface
+
+                                                                          TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 22                                                                          
+                                                                          TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  =  0                                                                          
+                                                                          TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well =  0                                                                          
+                                                                          TOTAL  - Set Surface - Drilling to Set Surface Casing Only            =  4                                                                          
+
+                                                                                              TOTAL NUMBER OF WELLS LISTED = 26                                                                                               
+                                                                                                    *** END OF REPORT ***                                                                                                     
+

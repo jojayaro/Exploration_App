@@ -1,0 +1,100 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 13 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL 2A HZ GARTH 2-5-64-6            0498713   ALBERTA CROWN        569M                            
+    103/02-05-064-06W4/00  N   78.0M  E   60.0M    BONNYVILLE           2037.0M                         
+    DEV (NC)                             GARTH                          GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  04-33-063-06W4                  
+                                                                                                        
+    CNRL 1A HZ GARTH 1-5-64-6            0498714   ALBERTA CROWN        569.2M                          
+    108/01-05-064-06W4/00  N   90.0M  E   60.0M    BONNYVILLE           1968.0M                         
+    DEV (NC)                             GARTH                          SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  04-33-063-06W4                  
+                                                                                                        
+    COPRC 100 OBS RESDELN 14-10-83-7     0498715   ALBERTA CROWN        701.3M                          
+    100/14-10-083-07W4/00  S  317.3M  E  556.8M    BONNYVILLE           505.0M                          
+    DSW (NC)                             RESDELN                        MCMURRAY FM                     
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    CONOCOPHILLIPS CANADA RESOURCES CORP.                               14-10-083-07W4                  
+                                                                                                        
+    CREW HZ SWIMMING 16-14-52-7          0498716   ALBERTA CROWN        622.2M                          
+    100/16-14-052-07W4/00  S  199.9M  W  177.1M    WAINWRIGHT           2300.0M                         
+    DEV (C)                              SWIMMING                       REX MBR                         
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CREW ENERGY INC.                                                    16-11-052-07W4                  
+                                                                                                        
+    COPRC 102 OBS NEWBY 3-13-83-6        0498717   ALBERTA CROWN        521.3M                          
+    103/03-13-083-06W4/00  N  303.1M  E  601.2M    BONNYVILLE           328.0M                          
+    DSW (NC)                             NEWBY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    CONOCOPHILLIPS CANADA RESOURCES CORP.                               03-13-083-06W4                  
+                                                                                                        
+    ISLANDER SEAL 16-36-81-13            0498718   ALBERTA CROWN        677.6M                          
+    100/16-36-081-13W5/00  S   75.0M  E  209.9M    ST. ALBERT           1963.0M                         
+    DEV (NC)                             SEAL                           PEKISKO FM                      
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    ISLANDER OIL & GAS INC.                                             13-36-081-13W5                  
+                                                                                                        
+    ISLANDER SLAVE 13-30-82-12           0498719   ALBERTA CROWN        681.9M                          
+    102/13-30-082-12W5/00  S  418.9M  E  740.9M    ST. ALBERT           2143.0M                         
+    DEV (NC)                             SLAVE                          PEKISKO FM                      
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    ISLANDER OIL & GAS INC.                                             11-32-081-12W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    WOODCOTE NIPISI 13-25-76-9            0498573    TARGET SUBSTANCE(1)                                
+    100/13-25-076-09W5/00                            CRUDE OIL FROM CLEARWATER                          
+
+                                                     DRILL CUTTINGS:                                    
+                                                     470.00 TO 2500.00                                  
+
+    WOODCOTE HZ MARTEN 5-13-76-5          0498615    GROUND ELEVATION                                   
+    100/05-13-076-05W5/00                            829.7                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0793.7 E 0231.1                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     520.00 TO 2500.00                                  
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    TQN HZ HERRON 10-16-19-24             0491924                                                       
+    102/10-16-019-24W4/00                                                                               
+
+    HUSKY HZ MINEHEAD 2-19-48-17          0491928                                                       
+    100/02-19-048-17W5/00                                                                               
+
+    HUSKY HZ MINEHEAD 4-36-48-18          0491929                                                       
+    100/04-36-048-18W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,17 @@
+Report Number: ST-49                                                               Alberta Energy Regulator                                                                        Page 1 of 1
+Run Date: 14 Jun 2020                                                            DAILY DRILLING ACTIVITY LIST                                                                                 
+                                                                    For the Notification Period 13 Jun 2020 To 14 Jun 2020                                                                    
+
+      WELL ID                WELL NAME          LICENCE  +-------CONTRACTOR-------+  RIG        ACTIVITY DATE      FIELD CENTRE BA ID            LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                         BA ID         NAME         NUMBER                                                                            TOTAL DEPTH     TYPE    
+------------------- --------------------------- -------- ------ ------------------- ------ ----------------------- ------------ ----- ------------------------------ ------------- -----------
+08/01-10-066-04W4/0 IMP H87-10 LEMING 1-10-66-4  0498078 0Y55   Akita Drilling Ltd.     21 14 Jun 2020 05:45:00 AM Bonnyville   0007  Imperial Oil Resources Limited               Set Surface
+
+                                                          TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 0                                                           
+                                                          TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                           
+                                                          TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                           
+                                                          TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                           
+
+                                                                               TOTAL NUMBER OF WELLS LISTED = 1                                                                               
+                                                                                    *** END OF REPORT ***                                                                                     
+

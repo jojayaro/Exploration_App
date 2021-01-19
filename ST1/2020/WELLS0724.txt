@@ -1,0 +1,31 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 24 July 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    7GEN HZ 103 KARR 4-8-65-5            0498205   ALBERTA CROWN        872.1M                          
+    103/04-08-065-05W6/00  S  417.8M  W  515.0M    GRANDE PRAIRIE       6300.0M                         
+    DEV (C)                              KARR                           MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       10-33-064-05W6                  
+                                                                                                        
+    7GEN HZ KARR 5-8-65-5                0498206   ALBERTA CROWN        872.9M                          
+    100/05-08-065-05W6/00  S  389.5M  W  473.7M    GRANDE PRAIRIE       6300.0M                         
+    DEV (C)                              KARR                           MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       15-33-064-05W6                  
+                                                                                                        
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

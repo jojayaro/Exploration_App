@@ -1,0 +1,20 @@
+Report Number: ST-49                                                                                    Alberta Energy Regulator                                                                                            Page 1 of 1
+Run Date: 04 Oct 2020                                                                                 DAILY DRILLING ACTIVITY LIST                                                                                                     
+                                                                                         For the Notification Period 03 Oct 2020 To 04 Oct 2020                                                                                        
+
+      WELL ID                    WELL NAME               LICENCE  +----------------------CONTRACTOR----------------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID            LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                                  BA ID                        NAME                        NUMBER                                                                              TOTAL DEPTH     TYPE    
+------------------- ------------------------------------ -------- ------ ------------------------------------------------- ------ ----------------------- -------------- ----- ------------------------------ ------------- -----------
+02/10-32-048-11W5/0 RIDGEBACK 102 HZ PEMBINA 10-32-48-11  0495945 0Y52   Precision Drilling Corporation                       309 04 Oct 2020 11:30:00 AM Drayton Valley A7G2  Ridgeback Resources Inc.                     Drill To LD
+00/03-33-055-26W5/0 TOURMALINE HZ WILD RIV 3-33-55-26     0498017 0FZ8   Precision Drilling Technology Services Group Inc.    531 04 Oct 2020 01:30:00 PM Drayton Valley A573  Tourmaline Oil Corp.                         Resumption 
+05/12-10-066-04W4/0 IMP H92-H01 LEMING 12-10-66-4         0498217 0Y55   Akita Drilling Ltd.                                   21 04 Oct 2020 12:00:00 AM Bonnyville     0007  Imperial Oil Resources Limited               Resumption 
+00/14-14-074-25W4/0 DELTASTREAM MARTENH 14-14-74-25       0498318 A2CL   Komat Drilling Ltd.                                    3 04 Oct 2020 10:00:00 AM St. Albert     A6YA  Deltastream Energy Corporation               Set Surface
+
+                                                                               TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 1                                                                               
+                                                                               TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                               
+                                                                               TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 2                                                                               
+                                                                               TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                                               
+
+                                                                                                   TOTAL NUMBER OF WELLS LISTED = 4                                                                                                    
+                                                                                                         *** END OF REPORT ***                                                                                                         
+

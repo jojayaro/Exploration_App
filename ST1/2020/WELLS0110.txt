@@ -1,0 +1,280 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 10 January 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    WLEC 8HZ 1A15 SWIMMING 15-24-52-7    0497330   BOTH                 626.3M                          
+    102/15-24-052-07W4/00  N  135.0M  W  490.0M    WAINWRIGHT           2650.0M                         
+    DEV (NC)                             SWIMMING                       REX MBR                         
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WEST LAKE ENERGY CORP.                                              02-36-052-07W4                  
+                                                                                                        
+    WLEC 8HZ 4B16 SWIMMING 16-24-52-7    0497331   BOTH                 626.2M                          
+    103/16-24-052-07W4/00  N  135.0M  W  470.0M    WAINWRIGHT           2650.0M                         
+    DEV (NC)                             SWIMMING                       REX MBR                         
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WEST LAKE ENERGY CORP.                                              02-36-052-07W4                  
+                                                                                                        
+    PEYTO CHAMBERS 3-16-41-11            0497332   ALBERTA CROWN        1113.8M                         
+    100/03-16-041-11W5/00  N  196.0M  W   10.3M    RED DEER             4940.0M                         
+    DEV (C)                              CHAMBERS                       MANNVILLE GRP                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               01-21-041-11W5                  
+                                                                                                        
+    TXNE 15C-16 HZ  ALDSON 9-8-15-14     0497333   FREEHOLD             769.1M                          
+    100/09-08-015-14W4/00  S   77.0M  W  742.4M    MEDICINE HAT         3700.0M                         
+    DEV (NC)                             ALDERSON                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  15-16-015-14W4                  
+                                                                                                        
+    WHITECAP HZ FERRIER 9-13-37-8        0497334   ALBERTA CROWN        1071.1M                         
+    100/09-13-037-08W5/00  S  682.6M  W  512.7M    RED DEER             5820.0M                         
+    DEV (NC)                             FERRIER                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WHITECAP RESOURCES INC.                                             10-25-037-08W5                  
+                                                                                                        
+    POC HZ UKALTA 4-9-57-18              0497335   ALBERTA CROWN        632.7M                          
+    100/04-09-057-18W4/00  S  682.4M  W   70.0M    ST. ALBERT           2150.0M                         
+    DEV (C)                              UKALTA                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PERPETUAL OPERATING CORP.                                           09-09-057-18W4                  
+                                                                                                        
+    POC HZ UKALTA 1-10-57-18             0497336   ALBERTA CROWN        632.7M                          
+    100/01-10-057-18W4/00  S  697.3M  W   55.0M    ST. ALBERT           2100.0M                         
+    DEV (C)                              UKALTA                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PERPETUAL OPERATING CORP.                                           09-09-057-18W4                  
+                                                                                                        
+    POC 02 HZ UKALTA 8-10-57-18          0497337   ALBERTA CROWN        632.7M                          
+    102/08-10-057-18W4/00  S  682.3M  W   55.0M    ST. ALBERT           2100.0M                         
+    DEV (C)                              UKALTA                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PERPETUAL OPERATING CORP.                                           09-09-057-18W4                  
+                                                                                                        
+    POC HZ UKALTA 5-9-57-18              0497338   ALBERTA CROWN        632.7M                          
+    100/05-09-057-18W4/00  S  697.4M  W   70.0M    ST. ALBERT           2100.0M                         
+    DEV (C)                              UKALTA                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PERPETUAL OPERATING CORP.                                           09-09-057-18W4                  
+                                                                                                        
+    ROCKEAST HZ 102 PROVOST 11-1-40-9    0497339   FREEHOLD             745.2M                          
+    102/11-01-040-09W4/00  N  706.9M  W   80.2M    WAINWRIGHT           1650.0M                         
+    DEV (NC)                             PROVOST                        GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ROCKEAST ENERGY CORP.                                               08-01-040-09W4                  
+                                                                                                        
+    ROCKEAST HZ 103 PROVOST 11-1-40-9    0497340   FREEHOLD             744.9M                          
+    103/11-01-040-09W4/00  N  739.9M  W   79.6M    WAINWRIGHT           1650.0M                         
+    DEV (NC)                             PROVOST                        GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ROCKEAST ENERGY CORP.                                               08-01-040-09W4                  
+                                                                                                        
+    OBE HZ NAMPA 8-27-85-16              0497341   ALBERTA CROWN        626M                            
+    100/08-27-085-16W5/00  N  543.4M  E  575.3M    ST. ALBERT           3100.0M                         
+    DEV (NC)                             UNDEFINED                      WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    OBSIDIAN ENERGY LTD.                                                06-28-085-16W5                  
+                                                                                                        
+    TXNE 5C-14 HZ COUNTESS 8-24-19-16    0497342   FREEHOLD             767.4M                          
+    102/08-24-019-16W4/00  N  644.7M  E  185.2M    MIDNAPORE            4325.0M                         
+    DEV (NC)                             COUNTESS                       GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  05-14-019-16W4                  
+                                                                                                        
+    TXNE 5C-14 HZ COUNTESS 3-16-19-16    0497343   BOTH                 767.4M                          
+    100/03-16-019-16W4/00  N  659.7M  E  185.2M    MIDNAPORE            4250.0M                         
+    DEV (NC)                             COUNTESS                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  05-14-019-16W4                  
+                                                                                                        
+    TXNE 5C-14 HZ COUNTESS 6-26-19-16    0497344   FREEHOLD             767.6M                          
+    103/06-26-019-16W4/00  N  674.7M  E  185.0M    MIDNAPORE            4075.0M                         
+    DEV (NC)                             COUNTESS                       GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  05-14-019-16W4                  
+                                                                                                        
+    ROCKEAST HZ 102 PROVOST 4-11-40-9    0497345   ALBERTA CROWN        755.3M                          
+    102/04-11-040-09W4/00  S  411.0M  E  776.9M    WAINWRIGHT           1650.0M                         
+    DEV (NC)                             PROVOST                        GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ROCKEAST ENERGY CORP.                                               11-02-040-09W4                  
+                                                                                                        
+    BACCALIEU HZ WILLGR 5-20-40-5        0497346   ALBERTA CROWN        978M                            
+    100/05-20-040-05W5/00  S  102.6M  W  162.9M    RED DEER             4450.0M                         
+    DEV (NC)                             WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BACCALIEU ENERGY INC.                                               16-07-040-05W5                  
+                                                                                                        
+    TXNE 14D-10 HZ COUNTESS 13-12-21-16  0497347   FREEHOLD             741.5M                          
+    100/13-12-021-16W4/00  S  131.8M  E  750.5M    MIDNAPORE            3700.0M                         
+    DEV (NC)                             COUNTESS                       GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  14-10-021-16W4                  
+                                                                                                        
+    TXNE 14D-10 HZ  COUNTESS 4-13-21-16  0497348   FREEHOLD             741.4M                          
+    102/04-13-021-16W4/00  S   86.8M  E  750.5M    MIDNAPORE            3795.0M                         
+    DEV (NC)                             COUNTESS                       GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  14-10-021-16W4                  
+                                                                                                        
+    TXNE 14D-10 HZ COUNTESS 4-16-21-16   0497349   FREEHOLD             741.4M                          
+    102/04-16-021-16W4/00  S   71.8M  E  750.5M    MIDNAPORE            3250.0M                         
+    DEV (NC)                             COUNTESS                       GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  14-10-021-16W4                  
+                                                                                                        
+    CREW HZ SWIMMING 16-13-52-7          0497350   BOTH                 631M                            
+    100/16-13-052-07W4/00  N  146.0M  E  139.0M    WAINWRIGHT           2400.0M                         
+    DEV (NC)                             SWIMMING                       REX MBR                         
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CREW ENERGY INC.                                                    04-24-052-07W4                  
+                                                                                                        
+    TAC 14-20 HZ 104 PROVOST 11-28-34-8  0497351   ALBERTA CROWN        791.4M                          
+    104/11-28-034-08W4/00  S  176.0M  E  581.4M    WAINWRIGHT           2487.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          14-20-034-08W4                  
+                                                                                                        
+    TAC 14-20 HZ PROVOST 7-19-34-8       0497352   ALBERTA CROWN        791.4M                          
+    100/07-19-034-08W4/00  S  168.0M  E  581.5M    WAINWRIGHT           2615.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          14-20-034-08W4                  
+                                                                                                        
+    TAC 14-20 HZ 102 PROVOST 8-19-34-8   0497353   ALBERTA CROWN        791.4M                          
+    102/08-19-034-08W4/00  S  160.0M  E  581.5M    WAINWRIGHT           2299.0M                         
+    DSW (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    TAMARACK ACQUISITION CORP.                                          14-20-034-08W4                  
+                                                                                                        
+    TAC 4-30 HZ 102 PROVOST 1-19-34-9    0497354   ALBERTA CROWN        776.7M                          
+    102/01-19-034-09W4/00  N  156.5M  E  161.8M    WAINWRIGHT           2827.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          04-30-034-09W4                  
+                                                                                                        
+    TAC 4-30 HZ 103 PROVOST 1-19-34-9    0497355   ALBERTA CROWN        776.6M                          
+    103/01-19-034-09W4/00  N  148.5M  E  161.8M    WAINWRIGHT           2781.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          04-30-034-09W4                  
+                                                                                                        
+    TAC 4-30 HZ PROVOST 13-25-34-10      0497356   ALBERTA CROWN        776.5M                          
+    100/13-25-034-10W4/00  N  140.5M  E  161.8M    WAINWRIGHT           2922.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          04-30-034-09W4                  
+                                                                                                        
+    TAC 4-30 HZ PROVOST 14-25-34-10      0497357   ALBERTA CROWN        776.4M                          
+    100/14-25-034-10W4/00  N  132.5M  E  161.8M    WAINWRIGHT           2664.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          04-30-034-09W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    KIN MERC RANDELL 8-14-76-11           0113291    GROUND ELEVATION                                   
+    100/08-14-076-11W5/02                            689.8                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0496.5 W 0255.7                                  
+
+    GEAR 7HZ 102 WILDMERE 14-29-48-5      0487566    UWI:                                               
+    02/12-29-048-05W4/4                              03/13-29-048-05W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     GEAR 7HZ 102 WILDMERE 13-29-48-5                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GENERAL PETROLEUM MBR               
+
+    GEAR 9HZ WILDMERE 12-29-48-5          0487568    UWI:                                               
+    00/12-29-048-05W4/6                              02/11-29-048-05W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     GEAR 9 HZ WILDMERE 11-29-48-5                      
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM SPARKY MBR                          
+
+    TOURMALINE HZ SMOKY 7-24-57-1         0493872    UWI:                                               
+    00/07-24-057-01W6/0                              00/08-24-057-01W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ SMOKY 8-24-57-1                      
+
+    TOURMALINE HZ SUNDANCE 1-13-55-23     0493941    UWI:                                               
+    00/01-13-055-23W5/0                              02/04-18-055-22W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ SUNDANCE 4-18-55-22                  
+
+    CVE 15-34 HZ MARTENH 9-35-74-25       0494052    UWI:                                               
+    00/09-35-074-25W4/2                              02/10-35-074-25W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CVE 15-34 HZ MARTENH 10-35-74-25                   
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    CVE 15-34 HZ MARTENH 16-35-74-25      0494979    UWI:                                               
+    00/16-35-074-25W4/3                              02/09-35-074-25W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     CVE 15-34 HZ MARTENH 9-35-74-25                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    CVE 12-35 HZ MARTENH 12-34-74-25      0495029    UWI:                                               
+    02/12-34-074-25W4/6                              02/05-34-074-25W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     CVE 12-35 HZ MARTENH 5-34-74-25                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    CVE 12-35 HZ MARTENH 13-34-74-25      0495030    UWI:                                               
+    00/13-34-074-25W4/6                              03/12-34-074-25W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     CVE 12-35 HZ MARTENH 12-34-74-25                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    TOURMALINE HZ WILD RIV 10-35-56-26    0495576    UWI:                                               
+    00/10-35-056-26W5/0                              00/02-26-056-26W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ WILD RIV 2-26-56-26                  
+
+    7GEN HZ 105 KAKWA 7-29-62-4           0496018    UWI:                                               
+    05/07-29-062-04W6/0                              00/10-29-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 105 KAKWA 10-29-62-4                       
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,88 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 01 April 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SPL 1-5 HZ 102 MARTEN 4-4-77-6        0496050    UWI:                                               
+    02/04-03-077-06W5/3                              00/03-04-077-06W5/3                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 1-5 HZ 102 MARTEN 3-4-77-6                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2900.00                                  
+
+    SPL 1-5 HZ NIPISI 3-6-77-6            0496053    UWI:                                               
+    00/15-31-076-06W5/6                              00/03-06-077-06W5/6                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2900.00                                  
+
+    NUVISTA 102 HZ D WEMBLEY 12-19-72-9   0496848    UWI:                                               
+    02/12-19-072-09W6/0                              02/06-17-072-09W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     NUVISTA 102 HZ D WEMBLEY 6-17-72-9                 
+
+    BAYTEX HZ 100 SLAVE 14-23-84-15       0496864    UWI:                                               
+    00/15-15-084-15W5/2                              00/14-23-084-15W5/2                                
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM BLUESKY FM                      
+
+    SPL 2-16 HZ MARTENH 7-21-76-3         0496927    UWI:                                               
+    00/06-21-076-03W5/8                              00/02-21-076-03W5/8                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 2-16 HZ MARTENH 2-21-76-3                      
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    SCL WW1 BURNT 10-13-30-7              0494010                                                       
+    100/10-13-030-07W5/00                                                                               
+
+    SCL WW2 BURNT 10-13-30-7              0494011                                                       
+    102/10-13-030-07W5/00                                                                               
+
+    TANGLE CREEK HZ WAHIGAN 12-31-63-23   0494014                                                       
+    100/12-31-063-23W5/00                                                                               
+
+    ANEGADA HZ 4B VALHALLA 4-6-76-9       0494034                                                       
+    102/04-06-076-09W6/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

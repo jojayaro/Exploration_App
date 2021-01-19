@@ -1,0 +1,94 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 26 June 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CHEVRON 102 HZ FOXCK 15-10-62-19     0498131   ALBERTA CROWN        841.6M                          
+    104/15-10-062-19W5/00  N   26.9M  W  760.6M    ST. ALBERT           5785.0M                         
+    DEV (C)                              FOX CREEK                      DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CHEVRON CANADA LIMITED                                              02-21-062-19W5                  
+                                                                                                        
+    PEYTO SUNDANCE 1-7-55-20             0498132   ALBERTA CROWN        1171.7M                         
+    100/01-07-055-20W5/00  N   39.0M  W  576.4M    DRAYTON VALLEY       4900.0M                         
+    DEV (C)                              SUNDANCE                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               02-18-055-20W5                  
+                                                                                                        
+    PEYTO SUNDANCE 3-7-55-20             0498133   ALBERTA CROWN        1171.4M                         
+    100/03-07-055-20W5/00  N   39.0M  W  580.0M    DRAYTON VALLEY       4925.0M                         
+    DEV (C)                              SUNDANCE                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               02-18-055-20W5                  
+                                                                                                        
+    PEYTO WILD RIV 3-21-56-24            0498134   ALBERTA CROWN        1045.5M                         
+    100/03-21-056-24W5/00  N   87.6M  E  397.8M    DRAYTON VALLEY       3700.0M                         
+    DEV (C)                              WILD RIVER                     CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               04-28-056-24W5                  
+                                                                                                        
+    PEYTO SUNDANCE 8-12-54-20            0498135   ALBERTA CROWN        1055.7M                         
+    100/08-12-054-20W5/00  N  254.5M  W  278.6M    DRAYTON VALLEY       5360.0M                         
+    DEV (NC)                             SUNDANCE                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               01-24-054-20W5                  
+                                                                                                        
+    PEYTO SUNDANCE 7-12-54-20            0498136   ALBERTA CROWN        1056.2M                         
+    100/07-12-054-20W5/00  N  258.3M  W  298.1M    DRAYTON VALLEY       5425.0M                         
+    DEV (NC)                             SUNDANCE                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               01-24-054-20W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CNRL 5C2 LEISMER 12-32-75-6           0265293    UWI:                                               
+    AC/05-32-075-06W4/2                              09/05-32-075-06W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL OBS LEISMER 5-32-75-6                         
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CNRL  LEISMER 4-5-76-6                0265306    UWI:                                               
+    AA/04-05-076-06W4/2                              00/04-05-076-06W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL OBS LEISMER 4-5-76-6                          
+
+                                                     PROJECTED DEPTH:                                   
+                                                     475.00                                             
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

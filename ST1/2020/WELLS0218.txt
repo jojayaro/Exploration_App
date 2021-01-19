@@ -1,0 +1,196 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 18 February 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CALTEX_RES 102 DD BELLIS 2-2-59-17   0497736   ALBERTA CROWN        628.8M                          
+    1F1/02-02-059-17W4/00  N  215.8M  W  598.3M    BONNYVILLE           714.0M                          
+    OTH (NC)                             BELLIS                         IRETON FM                       
+    DIRECTIONAL                          NEW       PRODUCTION           WATER                           
+    CALTEX RESOURCES LTD.                                               02-02-059-17W4                  
+                                                                                                        
+    OPC WDW ETHELLK 16-17-64-3           0497737   ALBERTA CROWN        575M                            
+    106/16-17-064-03W4/00  S  216.9M  W  311.8M    BONNYVILLE           1320.0M                         
+    OTH (NC)                             ETHEL LAKE                     GRANITE WASH                    
+    DIRECTIONAL                          NEW       DISPOSAL             WATER                           
+    OSUM PRODUCTION CORP.                                               16-17-064-03W4                  
+                                                                                                        
+    PEYTO WILD RIV 4-21-56-24            0497738   ALBERTA CROWN        1045.5M                         
+    100/04-21-056-24W5/00  N   74.4M  E  412.7M    DRAYTON VALLEY       3850.0M                         
+    DEV (C)                              WILD RIVER                     CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               03-28-056-24W5                  
+                                                                                                        
+    PEYTO WILD RIV 13-28-56-24           0497739   ALBERTA CROWN        1045.5M                         
+    102/13-28-056-24W5/00  N   77.6M  E  409.0M    DRAYTON VALLEY       3650.0M                         
+    DEV (NC)                             WILD RIVER                     CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               03-28-056-24W5                  
+                                                                                                        
+    SURGE ENERGY HZ HAYTER 14-25-39-1    0497740   BOTH                 682M                            
+    100/14-25-039-01W4/00  S   70.0M  E  690.3M    WAINWRIGHT           2370.0M                         
+    DEV (NC)                             HAYTER                         SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   14-36-039-01W4                  
+                                                                                                        
+    OVV HZ 102 WEMBLEY 13-24-72-9        0497741   ALBERTA CROWN        809.3M                          
+    105/13-24-072-09W6/00  S  140.2M  E  593.3M    GRANDE PRAIRIE       5950.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-13-072-09W6                  
+                                                                                                        
+    OVV HZ 103 WEMBLEY 13-24-72-9        0497742   BOTH                 809.2M                          
+    106/13-24-072-09W6/00  S  150.2M  E  593.3M    GRANDE PRAIRIE       5950.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-13-072-09W6                  
+                                                                                                        
+    OVV HZ WEMBLEY 13-15-72-9            0497743   ALBERTA CROWN        808.7M                          
+    100/13-15-072-09W6/00  S  165.2M  E  593.3M    GRANDE PRAIRIE       5890.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-13-072-09W6                  
+                                                                                                        
+    OVV HZ 102 WEMBLEY 13-15-72-9        0497744   ALBERTA CROWN        808.9M                          
+    102/13-15-072-09W6/00  S  175.2M  E  593.3M    GRANDE PRAIRIE       5920.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-13-072-09W6                  
+                                                                                                        
+    OVV HZ 103 WEMBLEY 13-15-72-9        0497745   ALBERTA CROWN        809M                            
+    103/13-15-072-09W6/00  S  185.2M  E  593.3M    GRANDE PRAIRIE       5920.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-13-072-09W6                  
+                                                                                                        
+    OVV HZ 104 WEMBLEY 13-15-72-9        0497746   ALBERTA CROWN        809.3M                          
+    104/13-15-072-09W6/00  S  195.2M  E  593.3M    GRANDE PRAIRIE       5920.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-13-072-09W6                  
+                                                                                                        
+    OVV HZ 105 WEMBLEY 13-15-72-9        0497747   ALBERTA CROWN        809.3M                          
+    105/13-15-072-09W6/00  S  210.1M  E  663.3M    GRANDE PRAIRIE       5920.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-13-072-09W6                  
+                                                                                                        
+    OVV HZ 105 WEMBLEY 12-15-72-9        0497748   ALBERTA CROWN        809.5M                          
+    100/12-15-072-09W6/00  S  220.1M  E  663.3M    GRANDE PRAIRIE       5920.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-13-072-09W6                  
+                                                                                                        
+    OVV HZ 106 WEMBLEY 12-15-72-9        0497749   ALBERTA CROWN        809.6M                          
+    102/12-15-072-09W6/00  S  230.1M  E  663.3M    GRANDE PRAIRIE       5920.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-13-072-09W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CNRL KN01-07P DEVENISH 13-33-74-8     0483974    UWI:                                               
+    13/13-33-074-08W4/0                              W0/13-33-074-08W4/0                                
+
+    CRESTWYND JILES 5-20-63-21            0495217    UWI:                                               
+    02/05-20-063-21W4/2                              00/04-20-063-21W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND JILES 4-20-63-21                         
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    CRESTWYND JILES 3-8-63-21             0495218    UWI:                                               
+    00/03-08-063-21W4/6                              00/06-08-063-21W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND JILES 6-8-63-21                          
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    PARA HZ KARR 9-17-65-5                0495316    UWI:                                               
+    00/09-17-065-05W6/0                              00/11-18-065-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     PARA HZ KARR 11-18-65-5                            
+
+    ECA HZ 104 WEMBLEY 8-15-72-9          0495376    UWI:                                               
+    04/08-15-072-09W6/0                              03/07-15-072-09W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     OVV HZ 104 WEMBLEY 7-15-72-9                       
+
+    MURPHY 16-27B TWOCK 2-24-64-17        0496278    UWI:                                               
+    00/02-24-064-17W5/0                              00/15-13-064-17W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     MURPHY 16-27B TWOCK 15-13-64-17                    
+
+    ARTIS HZ TWINING 10-14-31-25          0496511    MINERAL RIGHTS:                                    
+    100/10-14-031-25W4/00                            CROWN/FREEHOLD                                     
+
+    ARTIS HZ TWINING 2-2-32-25            0496512    MINERAL RIGHTS:                                    
+    100/02-02-032-25W4/00                            CROWN/FREEHOLD                                     
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM DUVERNAY FM                         
+
+    ARTIS HZ 102 TWINING 1-2-32-25        0496513    PROJECTED DEPTH:                                   
+    102/01-02-032-25W4/00                            6000.00                                            
+
+    CLC DIVIDE 13-13-82-12                0496751    UWI:                                               
+    AB/13-13-082-12W4/0                              AB/12-13-082-12W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CLC DIVIDE 12-13-82-12                             
+
+    NUVISTA 103 HZ D WEMBLEY 4-30-72-9    0496861    UWI:                                               
+    03/04-30-072-09W6/0                              04/05-30-072-09W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     NUVISTA 104 HZ B WEMBLEY 5-30-72-9                 
+
+    GRL 1-31 HZ 103 VALHALLA 5-31-78-7    0497689    TARGET SUBSTANCE(1)                                
+    103/05-31-078-07W6/00                            WATER FROM DOE CREEK MBR                           
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    PEYTO WHHORSE 13-19-49-15             0488308                                                       
+    100/13-19-049-15W5/00                                                                               
+
+    CVE E22P05-1 FISHER 3-27-70-3         0493763                                                       
+    111/03-27-070-03W4/00                                                                               
+
+    TXNE 5-7 HZ ALDSON 16-36-15-14        0493788                                                       
+    102/16-36-015-14W4/00                                                                               
+
+    TXNE 14C-2 HZ ALDSON 2-12-16-13       0493789                                                       
+    100/02-12-016-13W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

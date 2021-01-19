@@ -1,0 +1,49 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 03 June 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    GRL 100 VALHALLA 16-29-78-7           0472413    UWI:                                               
+    00/16-29-078-07W6/0                              03/04-32-078-07W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     GRL 100 VALHALLA 4-32-78-7                         
+
+    CRESTWYND RADWAY 14-23-59-20          0496782    WELL NAME:                                         
+    102/12-23-059-20W4/06                            CRESTWYND RADWAY 12-23-59                          
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    ROGCI GRIZZLY 8-20-62-22              0476875                                                       
+    100/08-20-062-22W5/00                                                                               
+
+    ROGCI 103 HZ GRIZZLY 1-20-62-22       0476878                                                       
+    103/01-20-062-22W5/00                                                                               
+
+    ROGCI 104 HZ GRIZZLY 1-20-62-22       0476882                                                       
+    104/01-20-062-22W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

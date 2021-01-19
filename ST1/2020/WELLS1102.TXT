@@ -1,0 +1,139 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 02 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CVE 100 HZ ELM 2-9-70-11             0498650   ALBERTA CROWN        719.8M                          
+    100/02-09-070-11W6/00  N  105.6M  W  600.0M    GRANDE PRAIRIE       4625.0M                         
+    DEV (NC)                             ELMWORTH                       DUNVEGAN FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CENOVUS ENERGY INC.                                                 02-11-070-11W6                  
+                                                                                                        
+    TANGLE CREEK 103 KAYBOBS 3-26-60-18  0498651   ALBERTA CROWN        951.9M                          
+    103/03-26-060-18W5/00  N  181.2M  W  132.7M    ST. ALBERT           3400.0M                         
+    DEV (NC)                             KAYBOB SOUTH                   DUNVEGAN FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TANGLE CREEK ENERGY LTD.                                            01-34-060-18W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CNRL ET AL HZ KARR 13-11-66-4         0494905    PROJECTED DEPTH:                                   
+    100/13-11-066-04W6/00                            5069.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0431.3 E 0014.1                                  
+
+    CNRL ET AL HZ KARR 14-11-66-4         0494906    SURFACE CO-ORDINATES:                              
+    100/14-11-066-04W6/00                            S 0430.8 E 0024.0                                  
+
+    CNRL ET AL HZ KARR 16-10-66-4         0494907    PROJECTED DEPTH:                                   
+    100/16-10-066-04W6/00                            5245.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0431.7 E 0004.1                                  
+
+    CNRL ET AL HZ KARR 15-10-66-4         0494920    GROUND ELEVATION                                   
+    100/15-10-066-04W6/00                            802.5                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5571.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0432.2 W 1611.9                                  
+
+    CNRL 11A KENT 11-1-61-2               0497420    UWI:                                               
+    00/11-01-061-02W4/0                              00/10-01-061-02W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL 10C BEAVRDM 10-1-61-2                         
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCLAREN MBR                     
+
+    TOURMALINE HZ LAMBERT 5-30-50-22      0497489    UWI:                                               
+    00/05-30-050-22W5/2                              00/03-30-050-22W5/2                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ LAMBERT 3-30-50-22                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM CARDIUM FM                                
+
+    CRESTWYND HZ JILES 15-20-63-21        0498086    TARGET SUBSTANCE(1)                                
+    1S0/15-20-063-21W4/03                            CRUDE OIL FROM CLEARWATER                          
+
+    CRESTWYND HZ MEANOOK 15-30-63-21      0498087    WELL NAME:                                         
+    100/07-30-063-21W4/02                            CRESTWYND HZ MEANOOK 7-30                          
+
+    7GEN HZ KARR 5-8-65-5                 0498206    UWI:                                               
+    00/05-08-065-05W6/0                              04/04-08-065-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KARR 4-8-65-5                              
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    CANAMAX 03 PUSKWA 14-15-74-1          0498265    UWI:                                               
+    03/14-15-074-01W6/2                              00/13-15-074-01W6/2                                
+
+                                                     WELL NAME:                                         
+                                                     CANAMAX 03 PUSKWA 13-15-74-1                       
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.41                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM WABAMUN GRP                         
+
+    SPL 15-11 HZ 102 UKALTA 15-14-57-18   0498309    UWI:                                               
+    02/15-14-057-18W4/5                              02/14-14-057-18W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-11 HZ 102 UKALTA 14-14-57-18                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    ANEGADA HZ 3B WEMBLEY 3-34-72-7       0498350    UWI:                                               
+    00/03-34-072-07W6/0                              00/02-34-072-07W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     ANEGADA HZ 3B WEMBLEY 2-34-72-7                    
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.11                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CHARLIE LAKE FM                     
+
+    SPL 9-10 HZ 102 NIPISI 5-12-77-7      0498356    UWI:                                               
+    02/05-12-077-07W5/5                              05/12-12-077-07W5/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 9-10 HZ 102 NIPISI 12-12-77-7                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

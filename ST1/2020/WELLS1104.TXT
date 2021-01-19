@@ -1,0 +1,175 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 04 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    MEG AQ1P HARDY 4-13-77-6             0482690   ALBERTA CROWN        567.2M                          
+    116/04-13-077-06W4/02  S  157.0M  W   69.7M    BONNYVILLE           1773.6M                       
+    DEV (NC)                             HARDY                          MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    MEG ENERGY CORP.                                                    16-12-077-06W4                  
+                                                                                                        
+    MEG DB4P HARDY 3-13-77-5             0486222   ALBERTA CROWN        583.8M                          
+    100/03-13-077-05W4/02  N  755.3M  W  529.9M    BONNYVILLE           1500.0M                         
+    DEV (NC)                             HARDY                          MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    MEG ENERGY CORP.                                                    07-14-077-05W4                  
+                                                                                                        
+    TOURMALINE HZ STOLBERG 6-7-43-14     0498655   ALBERTA CROWN        1173.2M                         
+    100/06-07-043-14W5/00  S  189.9M  W   73.9M    DRAYTON VALLEY       5607.0M                         
+    DEV (NC)                             STOLBERG                       NOTIKEWIN MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                16-13-043-15W5                  
+                                                                                                        
+    TOURMALINE HZ PLUTO 15-24-43-15      0498656   ALBERTA CROWN        1173.2M                         
+    100/15-24-043-15W5/00  S  185.0M  W   74.9M    DRAYTON VALLEY       5078.0M                         
+    DEV (NC)                             UNDEFINED                      NOTIKEWIN MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                16-13-043-15W5                  
+                                                                                                        
+    SURGE ENERGY HZ 102 WAINWR 1-32-44-7 0498657   ALBERTA CROWN        677.5M                          
+    102/01-32-044-07W4/00  N   95.1M  E  187.4M    WAINWRIGHT           2540.0M                         
+    DEV (NC)                             WAINWRIGHT                     SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   04-04-045-07W4                  
+                                                                                                        
+    SURGE ENERGY HZ 102 WAINWR 4-33-44-7 0498658   ALBERTA CROWN        677.5M                          
+    102/04-33-044-07W4/00  N   85.1M  E  187.4M    WAINWRIGHT           2385.0M                         
+    DEV (NC)                             WAINWRIGHT                     SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   04-04-045-07W4                  
+                                                                                                        
+    SURGE ENERGY HZ 103 WAINWR 4-33-44-7 0498659   ALBERTA CROWN        678M                            
+    103/04-33-044-07W4/00  N   75.1M  E  187.4M    WAINWRIGHT           2390.0M                         
+    DEV (NC)                             WAINWRIGHT                     SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   04-04-045-07W4                  
+                                                                                                        
+    SURGE ENERGY HZ 102 WAINWR 13-4-45-7 0498660   ALBERTA CROWN        678.2M                          
+    102/13-04-045-07W4/00  N   65.1M  E  187.4M    WAINWRIGHT           2190.0M                         
+    DEV (NC)                             WAINWRIGHT                     SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   04-04-045-07W4                  
+                                                                                                        
+    CNRL HZ SUNDANCE 14-9-55-22          0498661   ALBERTA CROWN        1139.9M                         
+    100/14-09-055-22W5/00  S  579.7M  W  680.8M    DRAYTON VALLEY       4843.0M                         
+    DEV (NC)                             SUNDANCE                       FALHER MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CANADIAN NATURAL RESOURCES LIMITED                                  10-04-055-22W5                  
+                                                                                                        
+    WESTBRICK HZ 103 WILLGR 4-8-44-9     0498662   ALBERTA CROWN        1011.4M                         
+    103/04-08-044-09W5/00  S  734.5M  E  435.5M    RED DEER             5300.0M                         
+    DEV (C)                              WILLESDEN GREEN                UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WESTBRICK ENERGY LTD.                                               11-10-044-09W5                  
+                                                                                                        
+    WESTBRICK HZ WILLGR 13-9-44-9        0498663   ALBERTA CROWN        1011.1M                         
+    100/13-09-044-09W5/00  S  734.5M  E  425.5M    RED DEER             4650.0M                         
+    DEV (C)                              WILLESDEN GREEN                UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WESTBRICK ENERGY LTD.                                               11-10-044-09W5                  
+                                                                                                        
+    IMP H39B PSW LEMING 3-10-66-4        0498664   ALBERTA CROWN        609.7M                          
+    108/03-10-066-04W4/00  N             694.8M    BONNYVILLE           395.0M                          
+    DSW (NC)                             LEMING                         GRAND RAPIDS FM                 
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    IMPERIAL OIL RESOURCES LIMITED                                      03-10-066-04W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SUNCOR G3PB DOVER 15-5-93-12          0319056    UWI:                                               
+    11/15-05-093-12W4/2                              02/10-05-093-12W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     SUNCOR G3PB DOVER 10-5-93-12                       
+
+    CNRL KN01-06I KIRBY 16-32-74-8        0484072    UWI:                                               
+    04/16-32-074-08W4/0                              S2/03-04-075-08W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL KN01-06I DEVENISH 3-4-75-8                    
+
+    SCL HZ FC705D MCKINLEY 5-29-64-22     0495757    UWI:                                               
+    00/05-29-064-22W5/0                              00/02-01-065-23W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     SCL HZ FC705D ANTEN 2-1-65-23                      
+
+    R S R HZ MIRAGE 2-32-79-8             0497315    WELL NAME:                                         
+    100/02-32-079-08W6/00                            R S R MIRAGE 2-32-79-8                             
+
+                                                     GROUND ELEVATION                                   
+                                                     691.6                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     3300.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0346.7 W 0127.2                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.27                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CHARLIE LAKE FM                     
+
+    TOURMALINE HZ 102 BASING 8-10-49-21   0498035    UWI:                                               
+    02/08-10-049-21W5/0                              00/03-11-049-21W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ 102 BASING 3-11-49-21                
+
+    AVN HZ PCOUPES 7-6-77-13              0498084    UWI:                                               
+    00/07-06-077-13W6/0                              00/09-32-076-13W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     AVN HZ PCOUPES 9-32-76-13                          
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.12                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    CRESTWYND HZ JILES 15-20-63-21        0498086    TARGET SUBSTANCE(1)                                
+    1S0/15-20-063-21W4/05                            CRUDE OIL FROM CLEARWATER                          
+
+    PEYTO EDSON 3-31-53-18                0498177    UWI:                                               
+    00/03-31-053-18W5/0                              00/05-30-053-18W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     PEYTO EDSON 5-30-53-18                             
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM NOTIKEWIN MBR                             
+
+    VELVET HZ BEZAN 15-30-68-2            0498234    UWI:                                               
+    00/15-30-068-02W6/0                              00/05-31-068-02W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     VELVET HZ BEZAN 5-31-68-2                          
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.15                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM MONTNEY FM                          
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

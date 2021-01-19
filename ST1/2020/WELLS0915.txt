@@ -1,0 +1,88 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 15 September 2020                                                                             
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CVE 100 HZ PEMBINA 8-2-46-9          0498423   ALBERTA CROWN        880.6M                          
+    100/08-02-046-09W5/00  N  365.3M  W  138.0M    DRAYTON VALLEY       5414.0M                         
+    DEV (NC)                             PEMBINA                        FALHER MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CENOVUS ENERGY INC.                                                 01-04-046-09W5                  
+                                                                                                        
+    SCL GCD 2C DD WAPITI 14-34-66-7      0498424   ALBERTA CROWN        816.6M                          
+    100/14-34-066-07W6/00  S  385.1M  W  678.0M    GRANDE PRAIRIE       4352.0M                         
+    DSW (NC)                             WAPITI                         LEDUC FM                        
+    DIRECTIONAL                          NEW       INJECTION            GAS                             
+    SHELL CANADA LIMITED                                                15-34-066-07W6                  
+                                                                                                        
+    CNRL HZ WAPITI 4-20-65-8             0498425   ALBERTA CROWN        1119M                           
+    102/04-20-065-08W6/00  N  155.4M  W  241.5M    GRANDE PRAIRIE       5605.0M                         
+    DEV (NC)                             WAPITI                         FALHER MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CANADIAN NATURAL RESOURCES LIMITED                                  01-21-065-08W6                  
+                                                                                                        
+    CNRL HZ WAPITI 12-20-65-8            0498426   ALBERTA CROWN        1119M                           
+    102/12-20-065-08W6/00  N  147.3M  W  235.6M    GRANDE PRAIRIE       6043.0M                         
+    DEV (NC)                             WAPITI                         FALHER MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CANADIAN NATURAL RESOURCES LIMITED                                  01-21-065-08W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    IMP H23-05ST COLD LK 15-34-65-4       0180095    MAXIMUM CALCULATED EPZ                             
+    109/15-34-065-04W4/00                            0.03                                               
+
+                                                     WELL TYPE:                                         
+                                                     PRODUCTION (SCHEME)                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    IMP H23-07ST COLD LK 14-34-65-4       0180099    MAXIMUM CALCULATED EPZ                             
+    103/14-34-065-04W4/00                            0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL 11D SBRT LK 11-1-63-9            0490873                                                       
+    102/11-01-063-09W4/00                                                                               
+
+    CNRL 12D SBRT LK 12-1-63-9            0490874                                                       
+    103/12-01-063-09W4/00                                                                               
+
+    CNRL 14D SBRT LK 14-1-63-9            0490875                                                       
+    103/14-01-063-09W4/00                                                                               
+
+    CNRL 15B SBRT LK 15-1-63-9            0490876                                                       
+    105/15-01-063-09W4/00                                                                               
+
+    CNRL HZ EDSON 9-34-51-17              0490921                                                       
+    100/09-34-051-17W5/00                                                                               
+
+    ABE HZ CHIGWELL 1-5-42-25             0495797                                                       
+    102/01-05-042-25W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

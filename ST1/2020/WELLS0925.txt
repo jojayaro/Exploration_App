@@ -1,0 +1,61 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 25 September 2020                                                                             
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    TQN CROSSE 7-13-28-1                 0498477   FREEHOLD             1110.9M                         
+    102/07-13-028-01W5/00  S  700.2M  W  306.8M    MIDNAPORE            3155.0M                         
+    DSW (NC)                             CROSSFIELD EAST                WABAMUN GRP                     
+    DIRECTIONAL                          NEW       INJECTION            GAS                             
+    TAQA NORTH LTD.                                                     09-14-028-01W5                  
+                                                                                                        
+    PEYTO CHAMBERS 1-10-41-11            0498478   ALBERTA CROWN        1197.7M                         
+    100/01-10-041-11W5/00  N   37.2M  W  612.3M    RED DEER             4350.0M                         
+    DEV (C)                              CHAMBERS                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               02-15-041-11W5                  
+                                                                                                        
+    KELT EXP 102 HZ VALHALLA 13-32-74-9  0498479   FREEHOLD             818.9M                          
+    102/13-32-074-09W6/00  S   83.0M  E  448.9M    GRANDE PRAIRIE       5735.0M                         
+    DEV (C)                              VALHALLA                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    KELT EXPLORATION LTD.                                               14-34-074-09W6                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    GAIN HZ WAPITI 4-27-67-8              0490979                                                       
+    100/04-27-067-08W6/00                                                                               
+
+    ROGCI HZ WILLGR 2-35-39-4             0490980                                                       
+    100/02-35-039-04W5/00                                                                               
+
+    ROGCI 03 HZ FERRIER 16-25-37-7        0490981                                                       
+    103/16-25-037-07W5/00                                                                               
+
+    TOURMALINE HZ LELAND 1-17-60-26       0490989                                                       
+    100/01-17-060-26W5/00                                                                               
+
+    GAIN 102 HZ WAPITI 4-27-67-8          0490992                                                       
+    102/04-27-067-08W6/00                                                                               
+
+    PARA 102 HZ KAYBOB 11-11-64-19        0491054                                                       
+    102/11-11-064-19W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

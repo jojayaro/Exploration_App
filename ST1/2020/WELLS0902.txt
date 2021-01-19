@@ -1,0 +1,127 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 02 September 2020                                                                             
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SYNCRUDE 201735L01 ATHA OS 4-4-96-10 0498354   ALBERTA CROWN        296.4M                          
+    1S0/04-04-096-10W4/00  S 1623.3M  E  104.8M    BONNYVILLE           71.0M                           
+    DSW (NC)                             UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    SYNCRUDE CANADA LTD.                                                04-04-096-10W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    PIPE 100 HZ ELM 4-14-71-8             0497191    GROUND ELEVATION                                   
+    100/04-14-071-08W6/00                            691.9                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5239.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0150.0 E 0664.4                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.33                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    PIPE 102 HZ ELM 4-14-71-8             0497192    UWI:                                               
+    02/04-14-071-08W6/0                              00/05-14-071-08W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     PIPE 100 HZ ELM 5-14-71-8                          
+
+                                                     GROUND ELEVATION                                   
+                                                     692.0                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5457.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0140.0 E 0714.4                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.33                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    PIPE 100 HZ ELM 13-11-71-8            0497194    GROUND ELEVATION                                   
+    100/13-11-071-08W6/00                            692.0                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     4887.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0130.0 E 0664.4                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.33                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    PIPE 102 HZ ELM 13-11-71-8            0497195    GROUND ELEVATION                                   
+    102/13-11-071-08W6/00                            691.9                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     4985.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0140.0 E 0664.4                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.33                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    PIPE 102 HZ ELM 12-11-71-8            0497196    UWI:                                               
+    02/12-11-071-08W6/0                              00/12-14-071-08W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     PIPE 100 HZ ELM 12-14-71-8                         
+
+                                                     GROUND ELEVATION                                   
+                                                     691.9                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5450.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0150.0 E 0714.4                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.33                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    PEYTO SUNDANCE 1-21-55-22             0490706                                                       
+    102/01-21-055-22W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

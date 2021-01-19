@@ -1,0 +1,70 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 09 June 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL HZ ELM 1-1-68-5                 0498098   ALBERTA CROWN        668.6M                          
+    100/01-01-068-05W6/00  N  775.8M  W   74.3M    GRANDE PRAIRIE       6100.0M                         
+    DEV (NC)                             ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CANADIAN NATURAL RESOURCES LIMITED                                  08-03-068-05W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CVE B6-30 D13 FISHER 13-29-70-5       0496266    UWI:                                               
+    AA/13-29-070-05W4/0                              AA/09-30-070-05W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CVE B6-30 D13 FISHER 9-30-70-5                     
+
+    TOURMALINE HZ WILD RIV 9-30-57-25     0497668    GROUND ELEVATION                                   
+    100/09-30-057-25W5/00                            1171.1                                             
+
+                                                     PROJECTED DEPTH:                                   
+                                                     6057.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0508.6 W 0773.0                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    IMP GR-4 CORNER 9-3-80-10             0489440                                                       
+    100/09-03-080-10W4/00                                                                               
+
+    IMP GR-1 CORNER 12-12-80-10           0489443                                                       
+    100/12-12-080-10W4/00                                                                               
+
+    IMP CORNER 14-16-80-10                0489444                                                       
+    100/14-16-080-10W4/00                                                                               
+
+    IMP BM-3 CORNER 5-16-80-10            0489445                                                       
+    100/05-16-080-10W4/00                                                                               
+
+    PEYTO EDSON 13-5-49-16                0489471                                                       
+    100/13-05-049-16W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,21 @@
+Report Number: ST-49                                                                      Alberta Energy Regulator                                                                              Page 1 of 1
+Run Date: 16 Jul 2020                                                                   DAILY DRILLING ACTIVITY LIST                                                                                       
+                                                                           For the Notification Period 15 Jul 2020 To 16 Jul 2020                                                                          
+
+      WELL ID                   WELL NAME             LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID         LICENSEE         NEW PROJECTED  ACTIVITY  
+                                                               BA ID               NAME              NUMBER                                                                        TOTAL DEPTH     TYPE    
+------------------- --------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------ ------------- -----------
+00/15-06-054-15W5/0 VELVET HZ ROSEVEAR 15-6-54-15      0498156 A0KC   Horizon Drilling Inc.              50 16 Jul 2020 10:30:00 AM Drayton Valley A5YK  Velvet Energy Ltd.                     Drill To LD
+00/15-07-058-25W5/0 TOURMALINE HZ WILD RIV 15-7-58-25  0498095 0Z41   Ensign Drilling Inc.               39 16 Jul 2020 04:00:00 PM Drayton Valley A573  Tourmaline Oil Corp.                   Drill To LD
+02/12-15-072-09W6/0 OVV HZ 102 WEMBLEY 12-15-72-9      0497749 0Y52   Precision Drilling Corporation    535 16 Jul 2020 01:00:00 PM Grande Prairie 0026  Ovintiv Canada ULC                     Drill To LD
+00/02-06-077-13W6/0 AVN HZ PCOUPES 2-6-77-13           0498083 A0KC   Horizon Drilling Inc.              30 15 Jul 2020 08:30:00 PM Grande Prairie 0TD9  Advantage Oil & Gas Ltd.               Drill To LD
+00/13-15-078-08W6/0 TOURMALINE HZ VALHALLA 13-15-78-8  0497442 0Y52   Precision Drilling Corporation    541 16 Jul 2020 12:00:00 PM Grande Prairie A573  Tourmaline Oil Corp.                   Set Surface
+
+                                                                 TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 4                                                                 
+                                                                 TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                 
+                                                                 TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                 
+                                                                 TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                                 
+
+                                                                                     TOTAL NUMBER OF WELLS LISTED = 5                                                                                      
+                                                                                           *** END OF REPORT ***                                                                                           
+

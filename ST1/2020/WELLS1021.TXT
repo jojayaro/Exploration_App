@@ -1,0 +1,46 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 21 October 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    PEYTO EDSON 16-24-53-19              0498570   ALBERTA CROWN        943.6M                          
+    100/16-24-053-19W5/00  S    9.5M  W  439.5M    DRAYTON VALLEY       4050.0M                         
+    DEV (NC)                             EDSON                          NOTIKEWIN MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               15-13-053-19W5                  
+                                                                                                        
+    NEP 103 HZ LEDUC-WB 12-16-50-26      0498571   ALBERTA CROWN        720M                            
+    104/12-16-050-26W4/00  N  522.1M  E  200.8M    ST. ALBERT           3350.0M                         
+    DEV (NC)                             LEDUC-WOODBEND                 NISKU FM                        
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    NEP CANADA ULC                                                      05-15-050-26W4                  
+                                                                                                        
+    NEP 103 HZ LEDUC-WB 1-10-49-25       0498572   BOTH                 738.5M                          
+    103/01-10-049-25W4/00  N  162.7M  W   60.0M    ST. ALBERT           4750.0M                         
+    DEV (NC)                             LEDUC-WOODBEND                 NISKU FM                        
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    NEP CANADA ULC                                                      01-08-049-25W4                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    VEI HZ PEMBINA 14-5-51-13             0496089                                                       
+    100/14-05-051-13W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,20 @@
+Report Number: ST-49                                                                        Alberta Energy Regulator                                                                                Page 1 of 1
+Run Date: 18 Jul 2020                                                                     DAILY DRILLING ACTIVITY LIST                                                                                         
+                                                                             For the Notification Period 17 Jul 2020 To 18 Jul 2020                                                                            
+
+      WELL ID                   WELL NAME             LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID           LICENSEE           NEW PROJECTED  ACTIVITY  
+                                                               BA ID               NAME              NUMBER                                                                            TOTAL DEPTH     TYPE    
+------------------- --------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ---------------------------- ------------- -----------
+04/15-20-038-07W5/0 BEC 02 HZ FERRIER 15-20-38-7       0497980 A08C   Savanna Drilling Corp.            655 17 Jul 2020 08:29:00 PM Red Deer       A5RX  Bonavista Energy Corporation               Drill To LD
+00/02-03-049-19W5/0 TOURMALINE HZ MINEHEAD 2-3-49-19   0484934 A6PR   Nabors Drilling Canada Limited     34 18 Jul 2020 04:15:00 AM Drayton Valley A573  Tourmaline Oil Corp.                       Set Surface
+00/09-30-057-25W5/0 TOURMALINE HZ WILD RIV 9-30-57-25  0497668 0Z41   Ensign Drilling Inc.               39 17 Jul 2020 06:30:00 PM Drayton Valley A573  Tourmaline Oil Corp.                       Set Surface
+00/14-15-078-08W6/0 TOURMALINE HZ VALHALLA 14-15-78-8  0497441 0Y52   Precision Drilling Corporation    541 17 Jul 2020 09:30:00 PM Grande Prairie A573  Tourmaline Oil Corp.                       Set Surface
+
+                                                                   TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 1                                                                   
+                                                                   TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                   
+                                                                   TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                   
+                                                                   TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 3                                                                   
+
+                                                                                       TOTAL NUMBER OF WELLS LISTED = 4                                                                                        
+                                                                                             *** END OF REPORT ***                                                                                             
+

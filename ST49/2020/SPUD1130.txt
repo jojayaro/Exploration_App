@@ -1,0 +1,21 @@
+Report Number: ST-49                                                                         Alberta Energy Regulator                                                                                 Page 1 of 1
+Run Date: 30 Nov 2020                                                                      DAILY DRILLING ACTIVITY LIST                                                                                          
+                                                                              For the Notification Period 29 Nov 2020 To 30 Nov 2020                                                                             
+
+      WELL ID                   WELL NAME              LICENCE  +--------CONTRACTOR---------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                                BA ID           NAME          NUMBER                                                                                     TOTAL DEPTH     TYPE    
+------------------- ---------------------------------- -------- ------ ---------------------- ------ ----------------------- -------------- ----- ------------------------------------- ------------- -----------
+02/02-26-041-06W5/0 INPLAY OIL HZ WILLGR 2-26-41-6      0497836 A2EN   Ironhand Drilling Inc.      9 29 Nov 2020 02:30:00 PM Red Deer       A6JK  InPlay Oil Corp.                                    Drill To LD
+00/09-23-041-11W5/0 PEYTO CHAMBERS 9-23-41-11           0498249 A08C   Savanna Drilling Corp.    616 30 Nov 2020 11:45:00 AM Red Deer       0YA2  Peyto Exploration & Development Corp.               Drill To LD
+00/04-30-045-09W5/0 CVE 100 HZ PEMBINA 4-30-45-9        0498597 0Z41   Ensign Drilling Inc.      449 30 Nov 2020 05:09:00 AM Drayton Valley A5D4  Cenovus Energy Inc.                                 Drill To LD
+00/05-12-064-10W5/0 CPEC HZ JUDYCK 5-12-64-10           0498481 A0KC   Horizon Drilling Inc.      46 30 Nov 2020 02:15:00 PM St. Albert     A2J6  Crescent Point Energy Corp.                         Drill To LD
+04/04-12-075-25W4/0 SPL 3-13 HZ 104 MARTENH 4-12-75-25  0498560 A2CL   Komat Drilling Ltd.         3 30 Nov 2020 02:30:00 PM St. Albert     A7GR  Spur Petroleum Ltd.                                 Set Surface
+
+                                                                    TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 4                                                                    
+                                                                    TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                    
+                                                                    TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                    
+                                                                    TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                                    
+
+                                                                                        TOTAL NUMBER OF WELLS LISTED = 5                                                                                         
+                                                                                              *** END OF REPORT ***                                                                                              
+

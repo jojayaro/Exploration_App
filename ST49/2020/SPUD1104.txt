@@ -1,0 +1,17 @@
+Report Number: ST-49                                                                    Alberta Energy Regulator                                                                            Page 1 of 1
+Run Date: 04 Nov 2020                                                                 DAILY DRILLING ACTIVITY LIST                                                                                     
+                                                                         For the Notification Period 03 Nov 2020 To 04 Nov 2020                                                                        
+
+      WELL ID                   WELL NAME             LICENCE  +---------------CONTRACTOR---------------+  RIG        ACTIVITY DATE      FIELD CENTRE BA ID     LICENSEE      NEW PROJECTED  ACTIVITY  
+                                                               BA ID                 NAME                 NUMBER                                                               TOTAL DEPTH     TYPE    
+------------------- --------------------------------- -------- ------ ----------------------------------- ------ ----------------------- ------------ ----- ----------------- ------------- -----------
+00/05-27-039-02W4/0 SURGE ENERGY HZ PROVOST 5-27-39-2  0496642 A8AF   Hertz & Paluck Energy Services Inc.      1 04 Nov 2020 07:58:00 AM Wainwright   0YK4  Surge Energy Inc.               Set Surface
+
+                                                               TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 0                                                               
+                                                               TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                               
+                                                               TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                               
+                                                               TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                               
+
+                                                                                   TOTAL NUMBER OF WELLS LISTED = 1                                                                                    
+                                                                                         *** END OF REPORT ***                                                                                         
+

@@ -1,0 +1,133 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 09 December 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    IMP GSPIKE 11-23-51-27               0072582   ALBERTA CROWN        705.9M                          
+    107/11-23-051-27W4/02  S  502.9M  E  701.0M    ST. ALBERT           1726.0M                         
+    REN (NC)                             GOLDEN SPIKE                   LEDUC FM                        
+    VERTICAL                             RESUMPTIONSTORAGE              GAS                             
+    IMPERIAL OIL RESOURCES LIMITED                                      11-23-051-27W4                  
+                                                                                                        
+    VELVET HZ BEZAN 7-14-69-3            0498978   ALBERTA CROWN        658.1M                          
+    100/07-14-069-03W6/00  N  551.9M  E  166.7M    GRANDE PRAIRIE       5500.0M                         
+    DEV (C)                              BEZANSON                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VELVET ENERGY LTD.                                                  05-07-069-02W6                  
+                                                                                                        
+    CVE 15-34 HZ MARTENH 16-35-74-25     0498983   ALBERTA CROWN        691.1M                          
+    102/16-35-074-25W4/00  S   10.0M  W  439.0M    ST. ALBERT           2480.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 15-34-074-25W4                  
+                                                                                                        
+    BIR 5-7 HZ PCOUPES 13-13-79-12       0498984   ALBERTA CROWN        716.4M                          
+    100/13-13-079-12W6/00  N  575.5M  E  227.6M    GRANDE PRAIRIE       5305.0M                         
+    DEV (C)                              POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              05-07-079-11W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CNRL 3C2 WOLF LK 3-31-65-7             0493521   PROJECTED DEPTH:                                   
+    102/03-31-065-07W4/00                            718.00                                             
+
+    CNRL 15B WOLF LK 15-30-65-7            0493522   PROJECTED DEPTH:                                   
+    100/15-30-065-07W4/00                            1056.00                                            
+
+    CNRL 6C WOLF LK 6-31-65-7              0493523   PROJECTED DEPTH:                                   
+    102/06-31-065-07W4/00                            1022.00                                            
+
+    CNRL 16B WOLF LK 16-25-65-8            0493524   PROJECTED DEPTH:                                   
+    100/16-25-065-08W4/00                            727.00                                             
+
+    CNRL 13A WOLF LK 13-30-65-7            0493526   PROJECTED DEPTH:                                   
+    100/13-30-065-07W4/00                            683.00                                             
+
+    CNRL 10D2 WOLF LK 10-36-65-8           0493527   PROJECTED DEPTH:                                   
+    100/10-36-065-08W4/00                            1373.00                                            
+
+    TXNE 14C-9 HZ COUNTESS 15-17-22-17     0497642   GROUND ELEVATION                                   
+    102/15-17-022-17W4/00                            772.60                                             
+
+                                                     PROJECTED DEPTH:                                   
+                                                     3275.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0123.6 E 0408.2                                  
+
+    MEG AH17I HARDY 4-29-77-5              0498954   AER CLASSIFICATION/CONFIDENTIAL STATUS             
+    112/04-29-077-05W4/00                            Dev (NC)                                           
+
+                                                     SCHEME:                                            
+                                                                                                        
+
+                                                     TARGET SUBSTANCE                                   
+                                                     Water                                              
+
+                                                     WELL TYPE:                                         
+                                                     Injection                                          
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    7GEN HZ 102 KARR 4-8-65-5              0496122   UWI:                                               
+    02/04-08-065-05W6/0                              02/05-08-065-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 102 KARR 5-8-65-5                          
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     05-08-065-05W6                                     
+
+    7GEN HZ 102 KAKWA 10-28-62-4           0498198   WELL NAME:                                         
+    102/10-28-062-04W6/00                            7GEN HZ 103 KAKWA 11-28-62-4                       
+
+    7GEN HZ 104 KAKWA 10-28-62-4           0498200   UWI:                                               
+    04/10-28-062-04W6/0                              02/15-28-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 102 KAKWA 15-28-62-4                       
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     15-28-062-04W6                                     
+
+    7GEN HZ KAKWA 9-28-62-4                0498201   UWI:                                               
+    00/09-28-062-04W6/0                              00/15-28-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 15-28-62-4                           
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     15-28-062-04W6                                     
+
+    7GEN HZ KAKWA 16-28-62-4               0498202   UWI:                                               
+    00/16-28-062-04W6/0                              02/01-33-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 102 KAKWA 1-33-62-4                        
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     01-33-062-04W6                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

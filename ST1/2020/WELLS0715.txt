@@ -1,0 +1,73 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 15 July 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    MEG AP10P HARDY 13-12-77-6           0452929   ALBERTA CROWN        564.7M                          
+    109/13-12-077-06W4/02  S  383.8M  W  446.5M    BONNYVILLE           1500.0M                         
+    DEV (NC)                             HARDY                          MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    MEG ENERGY CORP.                                                    15-12-077-06W4                  
+                                                                                                        
+    MEG M2N HARDY 15-3-77-5              0482479   ALBERTA CROWN        579.7M                          
+    115/15-03-077-05W4/02  S    1.3M  W  242.6M    BONNYVILLE           1800.0M                         
+    DEV (NC)                             HARDY                          MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    MEG ENERGY CORP.                                                    16-04-077-05W4                  
+                                                                                                        
+    MEG DC7P HARDY 7-18-77-4             0488835   ALBERTA CROWN        576.9M                          
+    104/07-18-077-04W4/02  S   22.3M  W  318.9M    BONNYVILLE           1754.0M                         
+    DEV (NC)                             HARDY                          MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    MEG ENERGY CORP.                                                    16-12-077-05W4                  
+                                                                                                        
+    TAC 16-26 HZ PROVOST 4-26-34-8       0498159   BOTH                 774.5M                          
+    100/04-26-034-08W4/00  S  203.3M  W  233.0M    WAINWRIGHT           2400.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          16-26-034-08W4                  
+                                                                                                        
+    TAC 16-26 HZ PROVOST 8-27-34-8       0498160   BOTH                 774.2M                          
+    100/08-27-034-08W4/00  S  213.3M  W  250.3M    WAINWRIGHT           2550.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          16-26-034-08W4                  
+                                                                                                        
+    TAC 16-26 HZ 104 PROVOST 6-36-34-8   0498161   ALBERTA CROWN        774M                            
+    104/06-36-034-08W4/00  S  228.4M  W  276.3M    WAINWRIGHT           2263.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          16-26-034-08W4                  
+                                                                                                        
+    TAC 16-26 HZ 106 PROVOST 12-36-34-8  0498162   ALBERTA CROWN        774.1M                          
+    106/12-36-034-08W4/00  S  218.3M  W  259.0M    WAINWRIGHT           2434.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          16-26-034-08W4                  
+                                                                                                        
+    TAC 16-26 HZ PROVOST 5-26-34-8       0498163   BOTH                 774.4M                          
+    100/05-26-034-08W4/00  S  208.3M  W  241.7M    WAINWRIGHT           2405.0M                         
+    DSW (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    TAMARACK ACQUISITION CORP.                                          16-26-034-08W4                  
+                                                                                                        
+    TAC 16-26 HZ 105 PROVOST 11-36-34-8  0498164   ALBERTA CROWN        774M                            
+    105/11-36-034-08W4/00  S  223.3M  W  267.6M    WAINWRIGHT           2348.0M                         
+    DSW (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    TAMARACK ACQUISITION CORP.                                          16-26-034-08W4                  
+                                                                                                        
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

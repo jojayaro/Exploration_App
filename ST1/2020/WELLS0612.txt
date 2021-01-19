@@ -1,0 +1,52 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 12 June 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    TOURMALINE HZ COLUMBIA 6-16-46-15    0498101   ALBERTA CROWN        1154.2M                         
+    100/06-16-046-15W5/00  N  351.0M  E  569.8M    DRAYTON VALLEY       5200.0M                         
+    DEV (NC)                             COLUMBIA                       VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                03-20-046-15W5                  
+                                                                                                        
+    TOURMALINE HZ COLUMBIA 5-16-46-15    0498102   ALBERTA CROWN        1154.5M                         
+    102/05-16-046-15W5/00  N  347.2M  E  566.8M    DRAYTON VALLEY       5100.0M                         
+    DEV (NC)                             COLUMBIA                       VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                03-20-046-15W5                  
+                                                                                                        
+    ANEGADA HZ 15D VALHALLA 15-27-76-8   0498103   ALBERTA CROWN        791.8M                          
+    100/15-27-076-08W6/00  S  309.7M  W  242.3M    GRANDE PRAIRIE       4920.0M                         
+    DEV (C)                              VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ANEGADA OIL CORP.                                                   16-15-076-08W6                  
+                                                                                                        
+    ANEGADA HZ 16D VALHALLA 16-27-76-8   0498104   ALBERTA CROWN        791.5M                          
+    102/16-27-076-08W6/00  S  309.7M  W  222.3M    GRANDE PRAIRIE       4920.0M                         
+    DEV (C)                              VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ANEGADA OIL CORP.                                                   16-15-076-08W6                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    TOURMALINE HZ LAMBERT 4-8-52-22       0489503                                                       
+    100/04-08-052-22W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

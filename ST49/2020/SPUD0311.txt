@@ -1,0 +1,21 @@
+Report Number: ST-49                                                                                        Alberta Energy Regulator                                                                                                Page 1 of 1
+Run Date: 11 Mar 2020                                                                                     DAILY DRILLING ACTIVITY LIST                                                                                                         
+                                                                                             For the Notification Period 10 Mar 2020 To 11 Mar 2020                                                                                            
+
+      WELL ID                   WELL NAME             LICENCE  +-------------------------CONTRACTOR--------------------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID              LICENSEE              NEW PROJECTED  ACTIVITY  
+                                                               BA ID                            NAME                           NUMBER                                                                                  TOTAL DEPTH     TYPE    
+------------------- --------------------------------- -------- ------ -------------------------------------------------------- ------ ----------------------- -------------- ----- ---------------------------------- ------------- -----------
+00/02-09-055-05W4/0 CNRL 2B LNDBRGH 2-9-55-5           0491528 A801   Stampede Drilling A Division Of Matrix Energy Technologi     15 10 Mar 2020 09:30:00 PM Bonnyville     0HE9  Canadian Natural Resources Limited               Drill To LD
+00/09-20-069-05W6/0 INCEPTION EXP HZ ELM 9-20-69-5     0497024 A2EN   Ironhand Drilling Inc.                                        3 11 Mar 2020 05:10:00 PM Grande Prairie A600  Inception Exploration Ltd.                       Resumption 
+19/13-33-074-08W4/2 CNRL KN01-08I DEVENISH 13-33-74-8  0484074 A6PR   Nabors Drilling Canada Limited                              104 11 Mar 2020 04:10:00 AM Bonnyville     0HE9  Canadian Natural Resources Limited               Drill To LD
+00/02-25-078-07W6/0 TOURMALINE HZ MIRAGE 2-25-78-7     0497673 0Y52   Precision Drilling Corporation                              541 11 Mar 2020 06:30:00 AM Grande Prairie A573  Tourmaline Oil Corp.                             Resumption 
+AC/05-24-084-11W4/0 JACOS OV3 HANGSTN 5-24-84-11       0496326 0Y55   Akita Drilling Ltd.                                          12 11 Mar 2020 02:15:00 AM Bonnyville     0NY5  Japan Canada Oil Sands Limited                   Resumption 
+
+                                                                                   TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 2                                                                                   
+                                                                                   TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                                   
+                                                                                   TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 3                                                                                   
+                                                                                   TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 0                                                                                   
+
+                                                                                                       TOTAL NUMBER OF WELLS LISTED = 5                                                                                                        
+                                                                                                             *** END OF REPORT ***                                                                                                             
+

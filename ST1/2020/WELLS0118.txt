@@ -1,0 +1,37 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 18 January 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    HUSKY 9A LNDBRGH 9-23-54-4            0493417                                                       
+    100/09-23-054-04W4/00                                                                               
+
+    HUSKY 10D LNDBRGH 10-23-54-4          0493418                                                       
+    100/10-23-054-04W4/00                                                                               
+
+    HUSKY 15D LNDBRGH 15-23-54-4          0493424                                                       
+    100/15-23-054-04W4/00                                                                               
+
+    SURGE ENERGY HZ VALHALLA 13-8-76-8    0493427                                                       
+    100/13-08-076-08W6/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

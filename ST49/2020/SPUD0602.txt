@@ -1,0 +1,17 @@
+Report Number: ST-49                                                                        Alberta Energy Regulator                                                                                Page 1 of 1
+Run Date: 02 Jun 2020                                                                     DAILY DRILLING ACTIVITY LIST                                                                                         
+                                                                             For the Notification Period 01 Jun 2020 To 02 Jun 2020                                                                            
+
+      WELL ID                   WELL NAME             LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE      FIELD CENTRE BA ID            LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                               BA ID               NAME              NUMBER                                                                            TOTAL DEPTH     TYPE    
+------------------- --------------------------------- -------- ------ ------------------------------ ------ ----------------------- ------------ ----- ------------------------------ ------------- -----------
+04/08-35-066-03W4/0 IMP N01 N02W-825 LEMING 8-35-66-3  0498051 0Y52   Precision Drilling Corporation    171 20 May 2020 03:00:00 AM Bonnyville   0007  Imperial Oil Resources Limited               Drill To LD
+
+                                                                   TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 1                                                                   
+                                                                   TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                   
+                                                                   TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                   
+                                                                   TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 0                                                                   
+
+                                                                                       TOTAL NUMBER OF WELLS LISTED = 1                                                                                        
+                                                                                             *** END OF REPORT ***                                                                                             
+

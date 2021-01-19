@@ -1,0 +1,67 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 26 December 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CANAMAX PUSKWA 2-22-74-1               0498262   UWI:                                               
+    00/02-22-074-01W6/0                              02/13-15-074-01W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     CANAMAX HZ 02 PUSKWA 13-15-74-1                    
+
+                                                     CATEGORY:                                          
+                                                     C360                                               
+
+                                                     DRILLING OPERATION:                                
+                                                     Horizontal                                         
+
+                                                     PROJECTED DEPTH:                                   
+                                                     4800.00                                            
+
+                                                     TERMINATING ZONE:                                  
+                                                     Wabamun Grp                                        
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0765.5 E 0327.5                                  
+
+    CANAMAX 02 PUSKWA 16-10-74-1           0498264   UWI:                                               
+    02/16-10-074-01W6/0                              00/05-15-074-01W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     CANAMAX HZ PUSKWA 5-15-74-1                        
+
+                                                     CATEGORY:                                          
+                                                     C360                                               
+
+                                                     DRILLING OPERATION:                                
+                                                     Horizontal                                         
+
+                                                     PROJECTED DEPTH:                                   
+                                                     4800.00                                            
+
+                                                     TERMINATING ZONE:                                  
+                                                     Wabamun Grp                                        
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0755.5 E 0327.5                                  
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

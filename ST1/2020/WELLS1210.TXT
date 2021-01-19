@@ -1,0 +1,253 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 10 December 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL OBS RE FISHER 14-6-69-4         0344849   ALBERTA CROWN        703.2M                          
+    100/14-06-069-04W4/02  S   97.5M  E  589.4M    BONNYVILLE           501.8M                        
+    DSW (NC)                             FISHER                         CLEARWATER FM                   
+    VERTICAL                             RESUMPTIONOBSERVATION          NONE                            
+    CANADIAN NATURAL RESOURCES LIMITED                                  14-06-069-04W4                  
+                                                                                                        
+    VEI HZ CARROT 16-26-53-14            0498985   ALBERTA CROWN        876.1M                          
+    102/16-26-053-14W5/00  S  225.8M  W  465.0M    DRAYTON VALLEY       3714.0M                         
+    DEV (NC)                             CARROT CREEK                   ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    VERMILION ENERGY INC.                                               15-23-053-14W5                  
+                                                                                                        
+    WHITECAP WAPITI 4-31-67-8            0498986   ALBERTA CROWN        845.9M                          
+    100/04-31-067-08W6/00  N  623.1M  W  716.6M    GRANDE PRAIRIE       3963.0M                         
+    DEV (NC)                             WAPITI                         CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WHITECAP RESOURCES INC.                                             07-32-067-08W6                  
+                                                                                                        
+    BIR 5-7 HZ 102 PCOUPES 13-13-79-12   0498987   ALBERTA CROWN        716.4M                          
+    102/13-13-079-12W6/00  N  564.9M  E  244.6M    GRANDE PRAIRIE       5410.0M                         
+    DEV (C)                              POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              05-07-079-11W6                  
+                                                                                                        
+    WHITECAP WAPITI 5-31-67-8            0498988   ALBERTA CROWN        845.8M                          
+    100/05-31-067-08W6/00  N  641.4M  W  724.8M    GRANDE PRAIRIE       3668.0M                         
+    DEV (NC)                             WAPITI                         CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WHITECAP RESOURCES INC.                                             07-32-067-08W6                  
+                                                                                                        
+    VEI HZ CARROT 14-20-53-13            0498989   ALBERTA CROWN        875.9M                          
+    100/14-20-053-13W5/00  S  225.6M  W  444.9M    DRAYTON VALLEY       6313.0M                         
+    DEV (NC)                             CARROT CREEK                   ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    VERMILION ENERGY INC.                                               15-23-053-14W5                  
+                                                                                                        
+    BIR 5-7 HZ 103 PCOUPES 13-13-79-12   0498990   ALBERTA CROWN        716.3M                          
+    103/13-13-079-12W6/00  N  559.7M  E  253.1M    GRANDE PRAIRIE       5470.0M                         
+    DEV (C)                              POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              05-07-079-11W6                  
+                                                                                                        
+    WHITECAP 102 WAPITI 4-31-67-8        0498991   ALBERTA CROWN        845.8M                          
+    102/04-31-067-08W6/00  N  632.2M  W  720.7M    GRANDE PRAIRIE       3739.0M                         
+    DEV (NC)                             WAPITI                         CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WHITECAP RESOURCES INC.                                             07-32-067-08W6                  
+                                                                                                        
+    BIR 507 HZ 102 PCOUPES 14-13-79-12   0498992   ALBERTA CROWN        716.4M                          
+    102/14-13-079-12W6/00  N  570.2M  E  236.1M    GRANDE PRAIRIE       5140.0M                         
+    DEV (C)                              POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              05-07-079-11W6                  
+                                                                                                        
+    DELTASTREAM CANAL 13-21-70-23        0498993   ALBERTA CROWN        626.2M                          
+    100/13-21-070-23W4/00  S   25.0M  E  431.0M    ST. ALBERT           2700.0M                         
+    DEV (C)                              CANAL                          CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    DELTASTREAM ENERGY CORPORATION                                      14-16-070-23W4                  
+                                                                                                        
+    DELTASTREAM CANAL 13-21-70-23        0498994   ALBERTA CROWN        626.2M                          
+    102/13-21-070-23W4/00  S   25.0M  E  441.0M    ST. ALBERT           2700.0M                         
+    DEV (C)                              CANAL                          CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    DELTASTREAM ENERGY CORPORATION                                      14-16-070-23W4                  
+                                                                                                        
+    DELTASTREAM CANAL 14-21-70-23        0498995   ALBERTA CROWN        626.1M                          
+    102/14-21-070-23W4/00  S   25.0M  E  451.0M    ST. ALBERT           2700.0M                         
+    DEV (C)                              CANAL                          CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    DELTASTREAM ENERGY CORPORATION                                      14-16-070-23W4                  
+                                                                                                        
+    DELTASTREAM CANAL 14-21-70-23        0498997   ALBERTA CROWN        626.1M                          
+    103/14-21-070-23W4/00  S   25.0M  E  461.0M    ST. ALBERT           2700.0M                         
+    DEV (C)                              CANAL                          CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    DELTASTREAM ENERGY CORPORATION                                      14-16-070-23W4                  
+                                                                                                        
+    YANGARRA HZ 103 FERRIER 16-11-38-8   0498998   ALBERTA CROWN        1068.5M                         
+    103/16-11-038-08W5/00  S   50.0M  W  476.7M    RED DEER             5505.0M                         
+    DEV (NC)                             FERRIER                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    YANGARRA RESOURCES CORP.                                            15-35-037-08W5                  
+                                                                                                        
+    SPL 6-5 HZ GODIN 3-32-79-2           0498999   ALBERTA CROWN        604.3M                          
+    100/03-32-079-02W5/00  N  527.9M  E  403.6M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             UNDEFINED                      CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 06-05-080-02W5                  
+                                                                                                        
+    AVN HZ PCOUPES 2-7-77-13             0499000   ALBERTA CROWN        755.8M                          
+    100/02-07-077-13W6/00  N  701.4M  W  366.6M    GRANDE PRAIRIE       4500.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ADVANTAGE OIL & GAS LTD.                                            08-05-077-13W6                  
+                                                                                                        
+    TIMBERROCK HZ HARME 15-29-33-3       0499001   ALBERTA CROWN        1054.1M                         
+    100/15-29-033-03W5/00  S  149.6M  W  662.5M    RED DEER             4100.0M                         
+    DEV (NC)                             HARMATTAN EAST                 GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TIMBERROCK ENERGY CORP.                                             15-20-033-03W5                  
+                                                                                                        
+    TXNE 2B-34 HZ BANTRY 3-28-16-13      0499002   FREEHOLD             748.4M                          
+    100/03-28-016-13W4/00  N   70.3M  W  726.7M    MEDICINE HAT         3600.0M                         
+    DEV (NC)                             BANTRY                         GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  02-34-016-13W4                  
+                                                                                                        
+    TIMBERROCK HZ 102 HARME 16-29-33-3   0499003   ALBERTA CROWN        1054.3M                         
+    102/16-29-033-03W5/00  S  149.6M  W  652.5M    RED DEER             4100.0M                         
+    DEV (NC)                             HARMATTAN EAST                 GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TIMBERROCK ENERGY CORP.                                             15-20-033-03W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    ECA HZ WEMBLEY 11-31-71-8              0495368   CATEGORY:                                          
+    100/11-31-071-08W6/00                            D570                                               
+
+                                                     MAX CALC EPZ:                                      
+                                                     0.51                                               
+
+    ECA HZ 102 WEMBLEY 11-31-71-8          0495369   CATEGORY:                                          
+    102/11-31-071-08W6/00                            D570                                               
+
+                                                     MAX CALC EPZ:                                      
+                                                     0.51                                               
+
+    ECA HZ 103 WEMBLEY 11-31-71-8          0495370   CATEGORY:                                          
+    103/11-31-071-08W6/00                            D570                                               
+
+                                                     MAX CALC EPZ:                                      
+                                                     0.51                                               
+
+    ECA HZ 104 WEMBLEY 11-31-71-8          0495371   CATEGORY:                                          
+    104/11-31-071-08W6/00                            D570                                               
+
+                                                     MAX CALC EPZ:                                      
+                                                     0.51                                               
+
+    ECA HZ WEMBLEY 6-31-71-8               0495372   CATEGORY:                                          
+    102/06-31-071-08W6/00                            D570                                               
+
+                                                     MAX CALC EPZ:                                      
+                                                     0.51                                               
+
+    ECA HZ 102 WEMBLEY 2-6-72-8            0495373   CATEGORY:                                          
+    103/02-06-072-08W6/00                            D570                                               
+
+                                                     MAX CALC EPZ:                                      
+                                                     0.51                                               
+
+    ECA HZ WEMBLEY 2-6-72-8                0495374   CATEGORY:                                          
+    104/02-06-072-08W6/00                            D570                                               
+
+                                                     MAX CALC EPZ:                                      
+                                                     0.51                                               
+
+    ECA HZ 102 WEMBLEY 5-31-71-8           0495381   CATEGORY:                                          
+    100/05-31-071-08W6/00                            D570                                               
+
+                                                     MAX CALC EPZ:                                      
+                                                     0.51                                               
+
+    ECA HZ WEMBLEY 5-31-71-8               0495382   CATEGORY:                                          
+    102/05-31-071-08W6/00                            D570                                               
+
+                                                     MAX CALC EPZ:                                      
+                                                     0.51                                               
+
+    TXNE 14B-10 HZ COUNTESS 1-14-22-16     0497476   PROJECTED DEPTH:                                   
+    104/01-14-022-16W4/00                            3360.00                                            
+
+    TOURMALINE HZ ANDERSN 14-35-50-23      0498648   GROUND ELEVATION                                   
+    100/14-35-050-23W5/00                            1137.10                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0161.6 E 0326.6                                  
+
+    TOURMALINE ANDERSN 3-36-50-23          0498649   GROUND ELEVATION                                   
+    100/03-36-050-23W5/00                            1137.10                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0159.0 E 0330.7                                  
+
+    TOURMALINE HZ BRAZR 14-22-44-14        0498725   GROUND ELEVATION                                   
+    100/14-22-044-14W5/00                            1069.30                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0261.2 W 0147.8                                  
+
+    VEI HZ CARROT 16-26-53-14              0498985   MINERAL RIGHTS:                                    
+    102/16-26-053-14W5/00                            Alberta Crown                                      
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CNRL  WOLF LK 10-1-64-7                0491209   UWI:                                               
+    02/14-01-064-07W4/9                              03/14-01-064-07W4/9                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL 14A HZ GARTH 14-1-64-7                        
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     14-01-064-07W4                                     
+
+    CNRL 12D2 HZ WOLF LK 11-28-63-6        0491783   UWI:                                               
+    05/12-28-063-06W4/9                              06/12-28-063-06W4/9                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL 12D2 HZ GARTH 12-28-63-6                      
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     12-28-063-06W4                                     
+
+    7GEN HZ 102 KAKWA 10-28-62-4           0498198   UWI:                                               
+    02/10-28-062-04W6/0                              04/11-28-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 104 KAKWA 11-28-62-4                       
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     11-28-062-04W6                                     
+
+    7GEN HZ 103 KAKWA 11-28-62-4           0498198   WELL NAME:                                         
+    104/11-28-062-04W6/00                            7GEN HZ 104 KAKWA 11-28-62-4                       
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

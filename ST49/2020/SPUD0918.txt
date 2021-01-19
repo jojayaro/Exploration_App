@@ -1,0 +1,20 @@
+Report Number: ST-49                                                                       Alberta Energy Regulator                                                                                Page 1 of 1
+Run Date: 18 Sep 2020                                                                    DAILY DRILLING ACTIVITY LIST                                                                                         
+                                                                            For the Notification Period 17 Sep 2020 To 18 Sep 2020                                                                            
+
+      WELL ID                  WELL NAME            LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID           LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                             BA ID               NAME              NUMBER                                                                             TOTAL DEPTH     TYPE    
+------------------- ------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ----------------------------- ------------- -----------
+00/12-10-052-18W5/0 TOURMALINE HZ EDSON 12-10-52-18  0496134 A6PR   Nabors Drilling Canada Limited     16 17 Sep 2020 05:15:00 PM Drayton Valley A573  Tourmaline Oil Corp.                        Drill To LD
+00/09-28-062-04W6/0 7GEN HZ KAKWA 9-28-62-4          0498201 0Y52   Precision Drilling Corporation    543 18 Sep 2020 10:45:00 AM Grande Prairie A54C  Seven Generations Energy Ltd.               Drill To LD
+00/01-34-065-05W6/0 PARA HZ KARR 1-34-65-5           0498184 A5DR   Fox Drilling Inc.                   7 17 Sep 2020 06:00:00 PM Grande Prairie 0AW4  Paramount Resources Ltd.                    Set Surface
+02/13-11-071-08W6/0 PIPE 102 HZ ELM 13-11-71-8       0497195 0Y52   Precision Drilling Corporation    524 18 Sep 2020 04:30:00 AM Grande Prairie A82B  Pipestone Energy Corp.                      Drill To LD
+
+                                                                  TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 3                                                                   
+                                                                  TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                   
+                                                                  TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                   
+                                                                  TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                                   
+
+                                                                                       TOTAL NUMBER OF WELLS LISTED = 4                                                                                       
+                                                                                            *** END OF REPORT ***                                                                                             
+

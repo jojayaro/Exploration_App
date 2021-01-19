@@ -1,0 +1,25 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 14 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    VELVET HZ WESTPEM 16-35-51-14        0498720   ALBERTA CROWN        978.5M                          
+    100/16-35-051-14W5/00  N  223.2M  W  498.4M    DRAYTON VALLEY       5855.0M                         
+    DEV (C)                              WESTPEM                        MANNVILLE GRP                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    VELVET ENERGY LTD.                                                  02-25-051-14W5                  
+                                                                                                        
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,82 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 06 January 2021                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SPL 16-06 MARTEN 14-8-76-5           0499191   ALBERTA CROWN        778.8M                          
+    100/14-08-076-05W5/00  S  142.8M  W   92.7M    ST. ALBERT           2800.0M                         
+    DEV (C)                              MARTEN                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SPUR PETROLEUM LTD.                                                 16-06-076-05W5                  
+                                                                                                        
+    SPL 16-06 MARTEN 16-4-76-5           0499192   ALBERTA CROWN        778.8M                          
+    100/16-04-076-05W5/00  S  143.1M  W   82.7M    ST. ALBERT           3800.0M                         
+    DEV (C)                              UNDEFINED                      CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SPUR PETROLEUM LTD.                                                 16-06-076-05W5                  
+                                                                                                        
+    RIDGEBACK HZ BONANZA 4-20-82-11      0499193   ALBERTA CROWN        621.9M                          
+    100/04-20-082-11W6/00  N  371.9M  E   80.5M    GRANDE PRAIRIE       4654.0M                         
+    DEV (C)                              BONANZA                        CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    RIDGEBACK RESOURCES INC.                                            04-22-082-11W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CNRL SC03 CAVERN LEMING 12-8-66-5      0499099   DRILL CUTTINGS:                                    
+    120/12-08-066-05W4/00                            700.00 TO 700.00                                   
+
+    LONGSHORE HZ PROGRESS 8-20-78-9        0499132   SURFACE CO-ORDINATES:                              
+    100/08-20-078-09W6/00                            N 0776.4 W 0145.1                                  
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    ANEGADA HZ 15D VALHALLA 15-27-76-8    0498103                                                       
+    100/15-27-076-08W6/00                                                                               
+
+    ANEGADA HZ 16D VALHALLA 16-27-76-8    0498104                                                       
+    102/16-27-076-08W6/00                                                                               
+
+    ANEGADA HZ 9D VALHALLA 9-16-76-7      0498149                                                       
+    100/09-16-076-07W6/00                                                                               
+
+    ANEGADA HZ 16D VALHALLA 16-16-76-7    0498150                                                       
+    102/16-16-076-07W6/00                                                                               
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    HUSKY 3HZ T4 WILDMERE 14-25-48-6       0497593   UWI:                                               
+    02/14-25-048-06W4/3                              02/15-25-048-06W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     HUSKY 3HZ T4 WILDMERE 15-25-48-6                   
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     15-25-048-06W4                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,196 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 02 December 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    ENHANCEENERGY CLIVE 11-25-39-24      0498861   FREEHOLD             871.1M                          
+    100/11-25-039-24W4/00  N   60.0M  W  567.5M    RED DEER             3248.0M                         
+    DSW (NC)                             CLIVE                          LEDUC FM                        
+    HORIZONTAL                           NEW       INJECTION            GAS                             
+    ENHANCE ENERGY INC.                                                 02-26-039-24W4                  
+                                                                                                        
+    ENHANCEENERGY CLIVE 2-22-39-24       0498862   BOTH                 871.6M                          
+    102/02-22-039-24W4/00  N   60.0M  W  582.5M    RED DEER             3904.0M                         
+    DSW (NC)                             CLIVE                          LEDUC FM                        
+    HORIZONTAL                           NEW       INJECTION            GAS                             
+    ENHANCE ENERGY INC.                                                 02-26-039-24W4                  
+                                                                                                        
+    TXNE 9A-34 HZ ALDSON 2-28-15-14      0498863   FREEHOLD             754.8M                          
+    102/02-28-015-14W4/00  S  675.4M  W   40.0M    MEDICINE HAT         4200.0M                         
+    DEV (NC)                             ALDERSON                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  09-34-015-14W4                  
+                                                                                                        
+    KARVE 102 HZ PROVOST 13-11-36-8      0498864   ALBERTA CROWN        781.8M                          
+    102/13-11-036-08W4/00  N  739.0M  W  654.0M    WAINWRIGHT           2099.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    KARVE ENERGY INC.                                                   07-14-036-08W4                  
+                                                                                                        
+    KARVE 102 HZ PROVOST 6-10-36-8       0498865   ALBERTA CROWN        800.4M                          
+    102/06-10-036-08W4/00  N  114.6M  W  615.1M    WAINWRIGHT           2200.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    KARVE ENERGY INC.                                                   02-15-036-08W4                  
+                                                                                                        
+    SUNCOR QW24 FIREBAG 1-31-94-5        0498866   ALBERTA CROWN        578.8M                          
+    102/01-31-094-05W4/00  N  186.7M  W  108.5M    BONNYVILLE           407.0M                          
+    DSW (NC)                             UNDEFINED                      KEG RIVER FM                    
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    SUNCOR ENERGY INC.                                                  01-31-094-05W4                  
+                                                                                                        
+    SUNCOR DW23 FIREBAG 3-31-94-5        0498867   ALBERTA CROWN        581.2M                          
+    100/03-31-094-05W4/00  N  289.2M  E  502.6M    BONNYVILLE           398.0M                          
+    DSW (NC)                             UNDEFINED                      KEG RIVER FM                    
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    SUNCOR ENERGY INC.                                                  03-31-094-05W4                  
+                                                                                                        
+    PEYTO CHAMBERS 9-2-41-11             0498868   ALBERTA CROWN        1142.3M                         
+    100/09-02-041-11W5/00  N   27.1M  E  144.2M    RED DEER             4725.0M                         
+    DEV (C)                              CHAMBERS                       MANNVILLE GRP                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               04-02-041-11W5                  
+                                                                                                        
+    TXNE 15C-16 HZ ALDSON 15-22-15-14    0498869   FREEHOLD             768.7M                          
+    102/15-22-015-14W4/00  S   53.0M  W  742.4M    MEDICINE HAT         3300.0M                         
+    DEV (NC)                             ALDERSON                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  15-16-015-14W4                  
+                                                                                                        
+    CVE 15-27 MARTENH 15-27-74-25        0498870   ALBERTA CROWN        681.1M                          
+    1F1/15-27-074-25W4/00  S   10.7M  W  412.0M    ST. ALBERT           1049.0M                         
+    OTH (NC)                             MARTEN HILLS                   IRETON FM                       
+    VERTICAL                             NEW       OBSERVATION          WATER                           
+    CENOVUS ENERGY INC.                                                 15-27-074-25W4                  
+                                                                                                        
+    TQN PEMBINA 15-3-45-10               0498871   FREEHOLD             936.8M                          
+    100/15-03-045-10W5/00  S  252.1M  W  587.5M    RED DEER             5663.0M                         
+    DEV (NC)                             PEMBINA                        UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TAQA NORTH LTD.                                                     15-27-044-10W5                  
+                                                                                                        
+    CVE 15-27 HZ MARTENH 16-26-74-25     0498872   ALBERTA CROWN        681.1M                          
+    102/16-26-074-25W4/00  S   11.1M  W  422.0M    ST. ALBERT           2477.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 15-27-074-25W4                  
+                                                                                                        
+    CVE 15-27 HZ MARTENH 16-26-74-25     0498873   ALBERTA CROWN        681.1M                          
+    103/16-26-074-25W4/00  S   11.6M  W  432.0M    ST. ALBERT           2477.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 15-27-074-25W4                  
+                                                                                                        
+    CVE 15-27 HZ MARTENH 16-26-74-25     0498874   ALBERTA CROWN        681.1M                          
+    104/16-26-074-25W4/00  S   12.0M  W  442.0M    ST. ALBERT           2477.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 15-27-074-25W4                  
+                                                                                                        
+    CVE 15-27 HZ MARTENH 16-26-74-25     0498875   ALBERTA CROWN        681.1M                          
+    105/16-26-074-25W4/00  S   12.5M  W  452.0M    ST. ALBERT           2477.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 15-27-074-25W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    PEYTO SUNDANCE 8-6-56-20               0496376   GROUND ELEVATION                                   
+    100/08-06-056-20W5/00                            1257.30                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0664.9 W 0221.3                                  
+
+    KARVE 102 HZ PROVOST 5-19-35-4         0498298   GROUND ELEVATION                                   
+    102/05-19-035-04W4/00                            737.80                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0520.7 E 0184.2                                  
+
+    PEYTO CHAMBERS 3-12-41-11              0498510   GROUND ELEVATION                                   
+    100/03-12-041-11W5/00                            1111.60                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0249.7 E 0258.6                                  
+
+    PEYTO CHAMBERS 8-12-41-11              0498511   GROUND ELEVATION                                   
+    100/08-12-041-11W5/00                            1111.60                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0245.6 E 0261.2                                  
+
+    SPL 5-22 HZ MARTENH 8-20-73-25         0498548   UWI:                                               
+    00/08-20-073-25W4/0                              00/04-21-073-25W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 5-22 HZ MARTENH 4-21-73-25                     
+
+    7GEN HZ 102 KAKWA 8-22-64-5            0498553   PROJECTED DEPTH:                                   
+    102/08-22-064-05W6/00                            6650.00                                            
+
+    7GEN HZ 102 KAKWA 9-22-64-5            0498555   PROJECTED DEPTH:                                   
+    102/09-22-064-05W6/00                            6710.00                                            
+
+    SPL 14-31 HZ 102 NIPISI 13-36-76-7     0498783   UWI:                                               
+    02/13-36-076-07W5/0                              00/16-32-076-06W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 14-31 HZ NIPISI 16-32-76-6                     
+
+    SPL 14-31 HZ 103 NIPISI 13-36-76-7     0498785   UWI:                                               
+    03/13-36-076-07W5/0                              02/16-32-076-06W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 14-31 HZ 102 NIPISI 16-32-76-6                 
+
+    PEYTO SUNDANCE 12-1-56-21              0498801   SURFACE CO-ORDINATES:                              
+    100/12-01-056-21W5/00                            N 0667.3 W 0225.5                                  
+
+    PEYTO SUNDANCE 4-1-56-21               0498802   GROUND ELEVATION                                   
+    100/04-01-056-21W5/00                            1257.30                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0662.4 W 0217.1                                  
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SPL 10-14 HZ 102 MARTEN 12-15-76-6     0498595   UWI:                                               
+    02/12-15-076-06W5/5                              00/13-15-076-06W5/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 10-14 HZ MARTEN 13-15-76-6                     
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     13-15-076-06W5                                     
+
+    SPL 10-14 HZ 102 MARTEN 12-15-76-6     0498595   UWI:                                               
+    02/12-15-076-06W5/6                              02/13-15-076-06W5/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 10-14 HZ MARTEN 13-15-76-6                     
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     13-15-076-06W5                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,283 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 08 January 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SUNCOR LEWIS 10-18-92-8              0497286   ALBERTA CROWN        391.3M                          
+    1AA/10-18-092-08W4/00  S  557.2M  W  777.3M    BONNYVILLE           151.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  10-18-092-08W4                  
+                                                                                                        
+    SUNCOR LEWIS 10-23-92-8              0497287   ALBERTA CROWN        447.1M                          
+    1AB/10-23-092-08W4/00  S  654.2M  W  409.4M    BONNYVILLE           198.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  10-23-092-08W4                  
+                                                                                                        
+    SUNCOR LEWIS 10-27-91-8              0497288   ALBERTA CROWN        444.7M                          
+    1AA/10-27-091-08W4/00  S  664.1M  W  593.5M    BONNYVILLE           197.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  10-27-091-08W4                  
+                                                                                                        
+    SUNCOR LEWIS 10-29-92-8              0497289   ALBERTA CROWN        415.7M                          
+    1AA/10-29-092-08W4/00  S  593.9M  W  690.9M    BONNYVILLE           165.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  10-29-092-08W4                  
+                                                                                                        
+    SUNCOR LEWIS 10-8-92-8               0497290   ALBERTA CROWN        409.9M                          
+    1AA/10-08-092-08W4/00  S  676.5M  W  701.1M    BONNYVILLE           155.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  10-08-092-08W4                  
+                                                                                                        
+    SUNCOR LEWIS 11-26-91-8              0497291   ALBERTA CROWN        449.4M                          
+    1AA/11-26-091-08W4/00  S  672.7M  E  656.6M    BONNYVILLE           216.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  11-26-091-08W4                  
+                                                                                                        
+    SUNCOR LEWIS 11-31-92-8              0497292   ALBERTA CROWN        397.8M                          
+    1AA/11-31-092-08W4/00  S  636.5M  E  469.7M    BONNYVILLE           151.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  11-31-092-08W4                  
+                                                                                                        
+    SUNCOR LEWIS 11-4-92-8               0497293   ALBERTA CROWN        420.6M                          
+    1AB/11-04-092-08W4/00  S  653.9M  E  565.6M    BONNYVILLE           166.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  11-04-092-08W4                  
+                                                                                                        
+    SUNCOR LEWIS 1-20-92-8               0497294   ALBERTA CROWN        429.9M                          
+    1AA/01-20-092-08W4/00  N  396.4M  W  340.4M    BONNYVILLE           182.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  01-20-092-08W4                  
+                                                                                                        
+    SUNCOR LEWIS 12-32-92-8              0497295   ALBERTA CROWN        401.9M                          
+    1AA/12-32-092-08W4/00  S  632.8M  E  379.7M    BONNYVILLE           150.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  12-32-092-08W4                  
+                                                                                                        
+    SUNCOR LEWIS 13-29-92-7              0497296   ALBERTA CROWN        491.6M                          
+    1AA/13-29-092-07W4/00  S  367.3M  E  242.9M    BONNYVILLE           224.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  13-29-092-07W4                  
+                                                                                                        
+    SUNCOR LEWIS 13-30-92-7              0497297   ALBERTA CROWN        476.7M                          
+    1AA/13-30-092-07W4/00  S  162.1M  E  152.4M    BONNYVILLE           229.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  13-30-092-07W4                  
+                                                                                                        
+    SUNCOR LEWIS 14-12-92-8              0497298   ALBERTA CROWN        466.1M                          
+    1AC/14-12-092-08W4/00  S  281.9M  E  420.0M    BONNYVILLE           198.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  14-12-092-08W4                  
+                                                                                                        
+    SUNCOR LEWIS 1-8-92-8                0497299   ALBERTA CROWN        412.1M                          
+    1AA/01-08-092-08W4/00  N   41.1M  W  116.3M    BONNYVILLE           150.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  01-08-092-08W4                  
+                                                                                                        
+    SUNCOR LEWIS 3-31-92-8               0497300   ALBERTA CROWN        408M                            
+    1AA/03-31-092-08W4/00  N  162.9M  E  637.9M    BONNYVILLE           160.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  03-31-092-08W4                  
+                                                                                                        
+    SUNCOR LEWIS 3-32-92-8               0497301   ALBERTA CROWN        405.1M                          
+    1AA/03-32-092-08W4/00  N  168.1M  E  558.8M    BONNYVILLE           154.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  03-32-092-08W4                  
+                                                                                                        
+    SUNCOR LEWIS 4-17-92-8               0497302   ALBERTA CROWN        399M                            
+    1AA/04-17-092-08W4/00  N   58.1M  E  123.7M    BONNYVILLE           148.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  04-17-092-08W4                  
+                                                                                                        
+    SUNCOR LEWIS 4-36-92-8               0497303   ALBERTA CROWN        462.2M                          
+    1AA/04-36-092-08W4/00  N  131.7M  E  151.8M    BONNYVILLE           216.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  04-36-092-08W4                  
+                                                                                                        
+    SUNCOR LEWIS 7-27-92-8               0497304   ALBERTA CROWN        439.2M                          
+    1AB/07-27-092-08W4/00  N  451.5M  W  757.7M    BONNYVILLE           190.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  07-27-092-08W4                  
+                                                                                                        
+    SUNCOR LEWIS 8-29-92-8               0497305   ALBERTA CROWN        419.5M                          
+    1AA/08-29-092-08W4/00  N  481.2M  W  346.4M    BONNYVILLE           150.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  08-29-092-08W4                  
+                                                                                                        
+    SUNCOR LEWIS 8-34-92-8               0497306   ALBERTA CROWN        446.2M                          
+    1AA/08-34-092-08W4/00  N  699.8M  W  165.3M    BONNYVILLE           195.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  08-34-092-08W4                  
+                                                                                                        
+    SUNCOR LEWIS 9-15-92-8               0497307   ALBERTA CROWN        442.8M                          
+    1AA/09-15-092-08W4/00  S  716.6M  W  234.2M    BONNYVILLE           194.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  09-15-092-08W4                  
+                                                                                                        
+    SURGE ENERGY HZ WAINWR 12-5-45-7     0497308   FREEHOLD             675.8M                          
+    100/12-05-045-07W4/00  S  703.1M  E  100.0M    WAINWRIGHT           2480.0M                         
+    DEV (NC)                             WAINWRIGHT                     SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   12-04-045-07W4                  
+                                                                                                        
+    SURGE ENERGY HZ VIK-KINS 8-6-45-7    0497309   FREEHOLD             676.7M                          
+    100/08-06-045-07W4/00  S  748.1M  E  100.0M    WAINWRIGHT           3000.0M                         
+    DEV (NC)                             VIKING-KINSELLA                SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   12-04-045-07W4                  
+                                                                                                        
+    SURGE ENERGY HZ WAINWR 5-5-45-7      0497310   FREEHOLD             676.5M                          
+    100/05-05-045-07W4/00  S  733.1M  E  100.0M    WAINWRIGHT           2400.0M                         
+    DEV (NC)                             WAINWRIGHT                     SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   12-04-045-07W4                  
+                                                                                                        
+    SURGE ENERGY HZ 102 WAINWR 12-5-45-7 0497311   FREEHOLD             675.7M                          
+    102/12-05-045-07W4/00  S  718.1M  E  100.0M    WAINWRIGHT           2370.0M                         
+    DEV (NC)                             WAINWRIGHT                     SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   12-04-045-07W4                  
+                                                                                                        
+    SPL 16-3 HZ JARVIE 11-1-63-1         0497312   ALBERTA CROWN        622.7M                          
+    100/11-01-063-01W5/00  S  392.6M  W  114.7M    ST. ALBERT           2700.0M                         
+    DEV (NC)                             JARVIE                         UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SPUR PETROLEUM LTD.                                                 16-03-063-01W5                  
+                                                                                                        
+    SPL 9-3 HZ 102 JARVIE 9-4-63-1       0497313   ALBERTA CROWN        622.7M                          
+    102/09-04-063-01W5/00  S  402.6M  W  114.7M    ST. ALBERT           2700.0M                         
+    DEV (NC)                             JARVIE                         UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SPUR PETROLEUM LTD.                                                 09-03-063-01W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    GEAR 7HZ 102 WILDMERE 12-29-48-5      0487566    UWI:                                               
+    02/12-29-048-05W4/0                              00/14-29-048-05W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     GEAR 7HZ 102 WILDMERE 14-29-48-5                   
+
+    ECA HZ 108 WEMBLEY 1-23-72-9          0493793    UWI:                                               
+    08/01-23-072-09W6/0                              04/03-23-072-09W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     ECA HZ 108 WEMBLEY 3-23-72-9                       
+
+    ECA HZ 108 WEMBLEY 2-23-72-9          0493799    UWI:                                               
+    08/02-23-072-09W6/0                              13/01-23-072-09W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     ECA HZ 108 WEMBLEY 1-23-72-9                       
+
+    VESTA CYGNET 15-2-39-28               0494678    UWI:                                               
+    00/15-02-039-28W4/0                              00/02-11-039-28W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     VESTA CYGNET 2-11-39-28                            
+
+    SPL 15-12 HZ MARTENH 16-13-74-25      0495070    UWI:                                               
+    00/16-13-074-25W4/5                              00/16-01-074-25W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-12 HZ MARTENH 16-1-74-25                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    NUVISTA 100 HZ C ELM 3-16-70-8        0495095    UWI:                                               
+    00/03-16-070-08W6/0                              00/02-20-070-08W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     NUVISTA 100 HZ C ELM 2-20-70-8                     
+
+    BAYTEX HZ 3A PEMBINA 3-16-45-2        0496639    GROUND ELEVATION                                   
+    100/03-16-045-02W5/00                            949.0                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0421.5 W 0461.0                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.28                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM DUVERNAY FM                         
+
+    HIGHWOOD JUDYCK 15-31-64-12           0497232    UWI:                                               
+    00/15-31-064-12W5/0                              00/15-31-064-12W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     HIGHWOOD CRAIGND 15-31-64-12                       
+
+                                                     WELL TYPE:                                         
+                                                     PRODUCTION (SCHEME)                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SUNCOR OB LEWIS 10-30-92-8            0497252    PROJECTED DEPTH:                                   
+    100/10-30-092-08W4/00                            168.10                                             
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.12                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    GAIN HZ WILLGR 2-15-42-5              0487517                                                       
+    100/02-15-042-05W5/00                                                                               
+
+    GAIN HZ WILLGR 1-15-42-5              0487518                                                       
+    100/01-15-042-05W5/00                                                                               
+
+    GAIN HZ PEMBINA 4-14-42-5             0487519                                                       
+    100/04-14-042-05W5/00                                                                               
+
+    CNRL WDHP46-11A WOODENH 11-33-86-23   0487532                                                       
+    106/11-33-086-23W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

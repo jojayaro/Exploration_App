@@ -1,0 +1,21 @@
+Report Number: ST-49                                                                        Alberta Energy Regulator                                                                                 Page 1 of 1
+Run Date: 11 Nov 2020                                                                     DAILY DRILLING ACTIVITY LIST                                                                                          
+                                                                             For the Notification Period 10 Nov 2020 To 11 Nov 2020                                                                             
+
+      WELL ID                   WELL NAME              LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID           LICENSEE           NEW PROJECTED  ACTIVITY  
+                                                                BA ID               NAME              NUMBER                                                                            TOTAL DEPTH     TYPE    
+------------------- ---------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ---------------------------- ------------- -----------
+00/03-24-040-05W5/0 BEC HZ WILLGR 3-24-40-5             0495081 A08C   Savanna Drilling Corp.            655 11 Nov 2020 12:30:00 PM Red Deer       A5RX  Bonavista Energy Corporation               Drill To LD
+00/03-12-046-10W5/0 CVE 100 HZ PEMBINA 3-12-46-10       0498415 0Z41   Ensign Drilling Inc.              449 11 Nov 2020 01:19:00 PM Drayton Valley A5D4  Cenovus Energy Inc.                        Drill To LD
+00/04-23-046-13W5/0 WESTBRICK HZ BRAZR 4-23-46-13       0494619 A08C   Savanna Drilling Corp.            652 11 Nov 2020 10:45:00 AM Drayton Valley A5WB  Westbrick Energy Ltd.                      Drill To LD
+00/15-34-049-19W5/0 TOURMALINE HZ MINEHEAD 15-34-49-19  0496802 A6PR   Nabors Drilling Canada Limited     16 11 Nov 2020 02:30:00 AM Drayton Valley A573  Tourmaline Oil Corp.                       Drill To LD
+00/15-06-078-13W6/0 BIR 4-4 HZ PCOUPES 15-6-78-13       0498599 0Y52   Precision Drilling Corporation    226 11 Nov 2020 01:51:00 PM Grande Prairie A12R  Birchcliff Energy Ltd.                     Set Surface
+
+                                                                   TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 4                                                                    
+                                                                   TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                    
+                                                                   TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                    
+                                                                   TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                                    
+
+                                                                                        TOTAL NUMBER OF WELLS LISTED = 5                                                                                        
+                                                                                             *** END OF REPORT ***                                                                                              
+

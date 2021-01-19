@@ -1,0 +1,61 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 04 September 2020                                                                             
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SPL 9-10 HZ 102 NIPISI 11-9-77-7     0498355   ALBERTA CROWN        736.6M                          
+    102/11-09-077-07W5/00  S  657.1M  W  287.7M    ST. ALBERT           2850.0M                         
+    DEV (NC)                             NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SPUR PETROLEUM LTD.                                                 09-10-077-07W5                  
+                                                                                                        
+    SPL 9-10 HZ 102 NIPISI 5-12-77-7     0498356   ALBERTA CROWN        736.6M                          
+    102/05-12-077-07W5/00  S  667.1M  W  287.7M    ST. ALBERT           2850.0M                         
+    DEV (NC)                             NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SPUR PETROLEUM LTD.                                                 09-10-077-07W5                  
+                                                                                                        
+    SPL 9-10 HZ 104 NIPISI 12-12-77-7    0498357   ALBERTA CROWN        736.6M                          
+    104/12-12-077-07W5/00  S  657.1M  W  277.7M    ST. ALBERT           2850.0M                         
+    DEV (NC)                             NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SPUR PETROLEUM LTD.                                                 09-10-077-07W5                  
+                                                                                                        
+    TOURMALINE HZ LELAND 3-36-57-27      0498358   ALBERTA CROWN        1118.3M                         
+    100/03-36-057-27W5/00  S  162.4M  E  407.7M    DRAYTON VALLEY       5832.0M                         
+    DEV (NC)                             LELAND                         SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                14-01-058-27W5                  
+                                                                                                        
+    TOURMALINE HZ LELAND 7-36-57-27      0498359   ALBERTA CROWN        1118.3M                         
+    100/07-36-057-27W5/00  S  159.7M  E  411.8M    DRAYTON VALLEY       5845.0M                         
+    DEV (NC)                             LELAND                         SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                14-01-058-27W5                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL NE09-6C GRANOR 6-16-83-19        0490747                                                       
+    104/06-16-083-19W4/00                                                                               
+
+    CNRL NE09-5C GRANOR 5-16-83-19        0490748                                                       
+    103/05-16-083-19W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

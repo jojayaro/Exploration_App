@@ -1,0 +1,22 @@
+Report Number: ST-49                                                                  Alberta Energy Regulator                                                                          Page 1 of 1
+Run Date: 22 Dec 2020                                                               DAILY DRILLING ACTIVITY LIST                                                                                   
+                                                                       For the Notification Period 21 Dec 2020 To 22 Dec 2020                                                                      
+
+      WELL ID                   WELL NAME             LICENCE  +--------CONTRACTOR---------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID         LICENSEE         NEW PROJECTED  ACTIVITY  
+                                                               BA ID           NAME          NUMBER                                                                        TOTAL DEPTH     TYPE    
+------------------- --------------------------------- -------- ------ ---------------------- ------ ----------------------- -------------- ----- ------------------------ ------------- -----------
+02/15-22-015-14W4/0 TXNE 15C-16 HZ ALDSON 15-22-15-14  0498869 A1TW   Bonanza Drilling Inc.       6 21 Dec 2020 10:15:00 PM Medicine Hat   A7NW  Torxen Energy Ltd.                     Drill To LD
+00/03-28-016-13W4/0 TXNE 2B-34 HZ BANTRY 3-28-16-13    0499002 A1TW   Bonanza Drilling Inc.       8 22 Dec 2020 12:30:00 AM Medicine Hat   A7NW  Torxen Energy Ltd.                     Drill To LD
+02/01-28-037-28W4/0 VESTA 103 CYGNET 1-28-37-28        0498877 A6EC   Twilight Drilling Ltd.      3 22 Dec 2020 10:30:00 AM Red Deer       A0L1  Vesta Energy Ltd.                      Drill To LD
+00/16-32-050-16W5/0 CVE 100 HZ EDSON 16-32-50-16       0498414 0Z41   Ensign Drilling Inc.      557 21 Dec 2020 07:30:00 PM Drayton Valley A5D4  Cenovus Energy Inc.                    Drill To LD
+03/09-23-051-27W4/0 FREE REIN 102 GSPIKE 9-23-51-27    0498969 A08C   Savanna Drilling Corp.    636 21 Dec 2020 05:00:00 AM St. Albert     0KA2  Free Rein Resources Ltd.               Drill To LD
+00/03-31-058-01W6/0 TOURMALINE HZ SMOKY 3-31-58-1      0498278 0Z41   Ensign Drilling Inc.     T039 22 Dec 2020 11:30:00 AM Drayton Valley A573  Tourmaline Oil Corp.                   Set Surface
+
+                                                             TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 5                                                             
+                                                             TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                             
+                                                             TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                             
+                                                             TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                             
+
+                                                                                 TOTAL NUMBER OF WELLS LISTED = 6                                                                                  
+                                                                                       *** END OF REPORT ***                                                                                       
+

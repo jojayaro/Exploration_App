@@ -1,0 +1,70 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 12 August 2020                                                                                
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SURGE ENERGY HZ PROVOST 10-26-36-5   0498254   ALBERTA CROWN        674.3M                          
+    100/10-26-036-05W4/00  S  385.8M  W  648.9M    WAINWRIGHT           2675.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   15-25-036-05W4                  
+                                                                                                        
+    SURGE ENERGY 102 PROVOST 10-26-36-5  0498255   ALBERTA CROWN        676.4M                          
+    102/10-26-036-05W4/00  S  346.1M  W  669.9M    WAINWRIGHT           2525.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   15-25-036-05W4                  
+                                                                                                        
+    SURGE ENERGY 102 PROVOST 15-26-36-5  0498256   ALBERTA CROWN        674.2M                          
+    102/15-26-036-05W4/00  S  372.6M  W  655.9M    WAINWRIGHT           2470.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   15-25-036-05W4                  
+                                                                                                        
+    SURGE ENERGY 103 PROVOST 15-26-36-5  0498257   ALBERTA CROWN        675.5M                          
+    103/15-26-036-05W4/00  S  332.8M  W  677.0M    WAINWRIGHT           2570.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   15-25-036-05W4                  
+                                                                                                        
+    SURGE ENERGY 105HZ PROVOST 9-30-36-4 0498258   ALBERTA CROWN        674.4M                          
+    105/09-30-036-04W4/00  S  412.3M  W  634.9M    WAINWRIGHT           2685.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   10-25-036-05W4                  
+                                                                                                        
+    SURGE ENERGY 105 PROVOST 15-30-36-4  0498259   ALBERTA CROWN        674.4M                          
+    105/15-30-036-04W4/00  S  399.1M  W  641.9M    WAINWRIGHT           2680.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   15-25-036-05W4                  
+                                                                                                        
+    SURGE ENERGY 106 PROVOST 15-30-36-4  0498260   ALBERTA CROWN        674.2M                          
+    106/15-30-036-04W4/00  S  359.3M  W  662.9M    WAINWRIGHT           2790.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   15-25-036-05W4                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    IPCCAN 8A-27 HZ SUFFIELD 1-22-19-8    0495386                                                       
+    100/01-22-019-08W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

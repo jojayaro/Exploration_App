@@ -1,0 +1,94 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 28 August 2020                                                                                
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    ARC HZ ANTEN 5-34-68-25              0498324   ALBERTA CROWN        706.6M                          
+    100/05-34-068-25W5/00  N  550.5M  E  545.2M    GRANDE PRAIRIE       4222.0M                         
+    DEV (NC)                             ANTE CREEK NORTH               MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ARC RESOURCES LTD.                                                  06-26-068-25W5                  
+                                                                                                        
+    ARC HZ ANTEN 4-34-68-25              0498325   ALBERTA CROWN        706.7M                          
+    100/04-34-068-25W5/00  N  540.5M  E  545.1M    GRANDE PRAIRIE       4151.0M                         
+    DEV (NC)                             ANTE CREEK NORTH               MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ARC RESOURCES LTD.                                                  06-26-068-25W5                  
+                                                                                                        
+    ARC HZ ANTEN 13-27-68-25             0498326   ALBERTA CROWN        706.6M                          
+    100/13-27-068-25W5/00  N  530.5M  E  545.1M    GRANDE PRAIRIE       4234.0M                         
+    DEV (NC)                             ANTE CREEK NORTH               MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ARC RESOURCES LTD.                                                  06-26-068-25W5                  
+                                                                                                        
+    ARC HZ ANTEN 11-24-68-25             0498327   ALBERTA CROWN        706.4M                          
+    100/11-24-068-25W5/00  N  520.5M  E  545.1M    GRANDE PRAIRIE       3870.0M                         
+    DEV (NC)                             ANTE CREEK NORTH               MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ARC RESOURCES LTD.                                                  06-26-068-25W5                  
+                                                                                                        
+    ARC HZ ANTEN 6-24-68-25              0498328   ALBERTA CROWN        706M                            
+    100/06-24-068-25W5/00  N  510.5M  E  545.1M    GRANDE PRAIRIE       3832.0M                         
+    DEV (NC)                             ANTE CREEK NORTH               MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ARC RESOURCES LTD.                                                  06-26-068-25W5                  
+                                                                                                        
+    ARC HZ ANTEN 5-24-68-25              0498329   ALBERTA CROWN        705.7M                          
+    100/05-24-068-25W5/00  N  500.5M  E  545.1M    GRANDE PRAIRIE       3975.0M                         
+    DEV (NC)                             ANTE CREEK NORTH               MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ARC RESOURCES LTD.                                                  06-26-068-25W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    IMP H87-H09 LEMING 11-3-66-4          0498077    UWI:                                               
+    11/11-03-066-04W4/2                              12/10-03-066-04W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     IMP H87-H09 COLD LK 10-3-66-4                      
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.05                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    HUSKY KAYBOBS 3-7-60-17               0479324                                                       
+    100/03-07-060-17W5/00                                                                               
+
+    CNRL OBS EMP08 KIRBY 11-28-74-9       0490557                                                       
+    102/11-28-074-09W4/00                                                                               
+
+    BAYTEX 3D BNNYVLLE 3-28-61-5          0490579                                                       
+    102/03-28-061-05W4/00                                                                               
+
+    OBE HZ ESTHER 5-27-32-3               0490600                                                       
+    100/05-27-032-03W4/00                                                                               
+
+    SYNCRUDE DP19-0204 AURORA 7-8-96-10   0495534                                                       
+    100/07-08-096-10W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

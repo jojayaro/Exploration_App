@@ -1,0 +1,37 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 01 August 2020                                                                                
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    VELVET HZ BEZAN 14-30-68-2           0498233   ALBERTA CROWN        664.2M                          
+    100/14-30-068-02W6/00  N  168.0M  E  265.0M    GRANDE PRAIRIE       5500.0M                         
+    DEV (C)                              BEZANSON                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VELVET ENERGY LTD.                                                  04-01-069-03W6                  
+                                                                                                        
+    VELVET HZ BEZAN 15-30-68-2           0498234   ALBERTA CROWN        664.2M                          
+    100/15-30-068-02W6/00  N  180.0M  E  265.0M    GRANDE PRAIRIE       5500.0M                         
+    DEV (C)                              BEZANSON                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VELVET ENERGY LTD.                                                  04-01-069-03W6                  
+                                                                                                        
+    VELVET HZ BEZAN 2-31-68-2            0498235   ALBERTA CROWN        664.3M                          
+    100/02-31-068-02W6/00  N  192.0M  E  265.1M    GRANDE PRAIRIE       5500.0M                         
+    DEV (C)                              BEZANSON                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VELVET ENERGY LTD.                                                  04-01-069-03W6                  
+                                                                                                        
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

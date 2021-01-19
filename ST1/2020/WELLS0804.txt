@@ -1,0 +1,46 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 04 August 2020                                                                                
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    PRED JARVIE 1-13-63-26                0490250                                                       
+    100/01-13-063-26W4/00                                                                               
+
+    CNRL 7D WOLF LK 7-26-65-7             0490251                                                       
+    105/07-26-065-07W4/00                                                                               
+
+    CNRL 3C BEAVRDM 3-4-61-3              0490253                                                       
+    100/03-04-061-03W4/00                                                                               
+
+    PEYTO ANSELL 8-26-53-21               0490275                                                       
+    100/08-26-053-21W5/00                                                                               
+
+    PEYTO ANSELL 3-26-53-21               0490276                                                       
+    102/03-26-053-21W5/00                                                                               
+
+    PARA 103 HZ KAYBOB 5-4-64-18          0490294                                                       
+    103/05-04-064-18W5/00                                                                               
+
+    PARA KAYBOB 4-4-64-18                 0490312                                                       
+    100/04-04-064-18W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

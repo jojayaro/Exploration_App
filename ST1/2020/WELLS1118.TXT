@@ -1,0 +1,220 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 18 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SUNCOR FIREBAG 10-7-95-6             0498739   ALBERTA CROWN        577.3M                          
+    1AB/10-07-095-06W4/00  S  403.2M  W  685.0M    BONNYVILLE           321.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  10-07-095-06W4                  
+                                                                                                        
+    SUNCOR FIREBAG 1-19-95-6             0498740   ALBERTA CROWN        574.3M                          
+    1AB/01-19-095-06W4/00  N  259.3M  W  258.0M    BONNYVILLE           308.0M                          
+    OV (C)                               UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  01-19-095-06W4                  
+                                                                                                        
+    SITKA EXPL HZ CAROL 9-12-34-5        0498741   ALBERTA CROWN        1041.1M                         
+    100/09-12-034-05W5/00  S  223.3M  W  135.8M    RED DEER             4100.0M                         
+    DEV (NC)                             CAROLINE                       ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SITKA EXPLORATION LTD.                                              16-11-034-05W5                  
+                                                                                                        
+    COPRC 1AA RESDELN 5-10-83-7          0498742   ALBERTA CROWN        694.1M                          
+    1AA/05-10-083-07W4/00  N  752.5M  E  164.5M    BONNYVILLE           492.0M                          
+    OV (C)                               RESDELN                        MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CONOCOPHILLIPS CANADA RESOURCES CORP.                               05-10-083-07W4                  
+                                                                                                        
+    SITKA EXPL 102 HZ GARR 13-22-34-4    0498743   ALBERTA CROWN        1000.9M                         
+    102/13-22-034-04W5/00  N  250.7M  E   69.1M    RED DEER             4520.0M                         
+    XPL (C)                              GARRINGTON                     ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SITKA EXPLORATION LTD.                                              04-23-034-04W5                  
+                                                                                                        
+    CVE B2 FISHER 2-15-71-4              0498744   ALBERTA CROWN        680.4M                          
+    1AA/02-15-071-04W4/00  N  117.4M  W  754.1M    BONNYVILLE           506.0M                          
+    OV (C)                               FISHER                         MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 02-15-071-04W4                  
+                                                                                                        
+    CVE D2 FISHER 2-15-71-4              0498745   ALBERTA CROWN        680.4M                          
+    1AB/02-15-071-04W4/00  N  330.8M  W  581.0M    BONNYVILLE           507.0M                          
+    OV (C)                               FISHER                         MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 02-15-071-04W4                  
+                                                                                                        
+    CVE B4 FISHER 4-15-71-4              0498746   ALBERTA CROWN        669.2M                          
+    1AA/04-15-071-04W4/00  N   70.5M  E  179.0M    BONNYVILLE           497.0M                          
+    OV (C)                               FISHER                         MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 04-15-071-04W4                  
+                                                                                                        
+    CVE 2A6 FISHER 6-15-71-4             0498747   ALBERTA CROWN        684.9M                          
+    1AB/06-15-071-04W4/00  N  403.4M  E  780.9M    BONNYVILLE           513.0M                          
+    OV (C)                               FISHER                         MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 06-15-071-04W4                  
+                                                                                                        
+    CVE C4 FISHER 4-16-71-4              0498748   ALBERTA CROWN        663.5M                          
+    1AA/04-16-071-04W4/00  N  215.2M  E   23.7M    BONNYVILLE           513.0M                          
+    OV (C)                               FISHER                         MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 04-16-071-04W4                  
+                                                                                                        
+    CVE D2 FISHER 2-17-71-4              0498749   ALBERTA CROWN        671M                            
+    1AB/02-17-071-04W4/00  N  205.9M  W  472.0M    BONNYVILLE           527.0M                          
+    OV (C)                               FISHER                         MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 02-17-071-04W4                  
+                                                                                                        
+    CVE D3 FISHER 3-17-71-4              0498750   ALBERTA CROWN        669M                            
+    1AA/03-17-071-04W4/00  N  204.6M  E  658.6M    BONNYVILLE           525.0M                          
+    OV (C)                               FISHER                         MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 03-17-071-04W4                  
+                                                                                                        
+    CVE A5 FISHER 5-17-71-4              0498751   ALBERTA CROWN        675.9M                          
+    1AB/05-17-071-04W4/00  N  586.6M  E  297.9M    BONNYVILLE           536.0M                          
+    OV (C)                               FISHER                         MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 05-17-071-04W4                  
+                                                                                                        
+    CVE A6 FISHER 6-17-71-4              0498752   ALBERTA CROWN        669.3M                          
+    1AA/06-17-071-04W4/00  N  489.2M  E  664.5M    BONNYVILLE           525.0M                          
+    OV (C)                               FISHER                         MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 06-17-071-04W4                  
+                                                                                                        
+    CVE C8 FISHER 8-17-71-4              0498753   ALBERTA CROWN        672.3M                          
+    1AB/08-17-071-04W4/00  N  799.9M  W  287.2M    BONNYVILLE           526.0M                          
+    OV (C)                               FISHER                         MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 08-17-071-04W4                  
+                                                                                                        
+    CVE C10 FISHER 10-17-71-4            0498754   ALBERTA CROWN        676.6M                          
+    1AA/10-17-071-04W4/00  S  460.3M  W  782.2M    BONNYVILLE           527.0M                          
+    OV (C)                               FISHER                         MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 10-17-071-04W4                  
+                                                                                                        
+    CVE A1 KIRBY 1-18-71-4               0498755   ALBERTA CROWN        675.4M                          
+    1AA/01-18-071-04W4/00  N   39.9M  W   52.9M    BONNYVILLE           527.0M                          
+    OV (C)                               KIRBY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 01-18-071-04W4                  
+                                                                                                        
+    CVE A2 KIRBY 2-18-71-4               0498756   ALBERTA CROWN        673.3M                          
+    1AB/02-18-071-04W4/00  N   92.9M  W  409.0M    BONNYVILLE           529.0M                          
+    OV (C)                               KIRBY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 02-18-071-04W4                  
+                                                                                                        
+    CVE A7-18 D7 KIRBY 7-18-71-4         0498757   ALBERTA CROWN        670.3M                          
+    1AA/07-18-071-04W4/00  N  554.0M  W  602.0M    BONNYVILLE           569.0M                          
+    OV (C)                               KIRBY                          MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 07-18-071-04W4                  
+                                                                                                        
+    CVE D9 KIRBY 9-18-71-4               0498758   ALBERTA CROWN        676.6M                          
+    1AA/09-18-071-04W4/00  S  559.5M  W   10.5M    BONNYVILLE           532.0M                          
+    OV (C)                               KIRBY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 09-18-071-04W4                  
+                                                                                                        
+    CVE B5 KIRBY 5-22-71-5               0498759   ALBERTA CROWN        664.8M                          
+    1AA/05-22-071-05W4/00  N  448.8M  E   39.7M    BONNYVILLE           544.0M                          
+    OV (C)                               KIRBY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 05-22-071-05W4                  
+                                                                                                        
+    CVE D3 KIRBY 3-27-71-5               0498760   ALBERTA CROWN        660.8M                          
+    1AA/03-27-071-05W4/00  N  299.0M  E  723.1M    BONNYVILLE           553.0M                          
+    OV (C)                               KIRBY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 03-27-071-05W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CRESTWYND HZ JILES 5-16-63-21         0498460    UWI:                                               
+    00/03-16-063-21W4/8                              00/05-16-063-21W4/8                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM UPPER MANNVILLE FM                  
+
+    BONTERRA HZ PEMBINA 3-30-46-7         0498702    SURFACE CO-ORDINATES:                              
+    100/03-30-046-07W5/00                            N 0201.3 E 0165.8                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CARDIUM FM                          
+
+    BONTERRA HZ 102 PEMBINA 4-30-46-7     0498703    SURFACE CO-ORDINATES:                              
+    102/04-30-046-07W5/00                            N 0201.3 E 0155.8                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CARDIUM FM                          
+
+    ISLANDER SLAVE 13-30-82-12            0498719    UWI:                                               
+    02/13-30-082-12W5/0                              00/11-33-081-12W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     ISLANDER SEAL 11-33-81-12                          
+
+                                                     SURFACE RIGHTS:                                    
+                                                     FREEHOLD                                           
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM PEKISKO FM                      
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL 1AA KIRBY 1-18-73-6              0492033                                                       
+    1AA/01-18-073-06W4/00                                                                               
+
+    BAYTEX WEST HARMON 14-7-84-19         0492035                                                       
+    1AC/14-07-084-19W5/00                                                                               
+
+    PIPE HZ DIMSD 6-17-71-7               0497560                                                       
+    100/06-17-071-07W6/00                                                                               
+
+    PIPE 102 HZ DIMSD 5-17-71-7           0497561                                                       
+    100/05-17-071-07W6/00                                                                               
+
+    PIPE 100 HZ DIMSD 5-17-71-7           0497562                                                       
+    102/05-17-071-07W6/00                                                                               
+
+    PIPE 102 DIMSD 4-17-71-7              0497563                                                       
+    102/04-17-071-07W6/00                                                                               
+
+    PIPE HZ DIMSD 1-18-71-7               0497564                                                       
+    100/01-18-071-07W6/00                                                                               
+
+    PIPE 100 DIMSD 4-17-71-7              0497565                                                       
+    100/04-17-071-07W6/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

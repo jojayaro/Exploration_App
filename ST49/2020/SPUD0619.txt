@@ -1,0 +1,17 @@
+Report Number: ST-49                                                                   Alberta Energy Regulator                                                                            Page 1 of 1
+Run Date: 19 Jun 2020                                                                DAILY DRILLING ACTIVITY LIST                                                                                     
+                                                                        For the Notification Period 18 Jun 2020 To 19 Jun 2020                                                                        
+
+      WELL ID               WELL NAME         LICENCE  +-------CONTRACTOR--------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                       BA ID          NAME         NUMBER                                                                                     TOTAL DEPTH     TYPE    
+------------------- ------------------------- -------- ------ -------------------- ------ ----------------------- -------------- ----- ------------------------------------- ------------- -----------
+00/12-01-056-22W5/0 PEYTO SUNDANCE 12-1-56-22  0497358 0Z41   Ensign Drilling Inc.    432 18 Jun 2020 08:00:00 PM Drayton Valley 0YA2  Peyto Exploration & Development Corp.               Drill To LD
+
+                                                              TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 1                                                               
+                                                              TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                               
+                                                              TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                               
+                                                              TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 0                                                               
+
+                                                                                   TOTAL NUMBER OF WELLS LISTED = 1                                                                                   
+                                                                                        *** END OF REPORT ***                                                                                         
+

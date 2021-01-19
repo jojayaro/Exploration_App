@@ -1,0 +1,118 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 05 February 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    DELPHI HZ PLACID 14-7-60-23          0497638   ALBERTA CROWN        1155.4M                         
+    103/14-07-060-23W5/00  S  173.9M  W  505.2M    DRAYTON VALLEY       6300.0M                         
+    DEV (C)                              PLACID                         MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    DELPHI ENERGY CORP.                                                 15-31-059-23W5                  
+                                                                                                        
+    BONTERRA 102 HZ FERRIER 4-5-41-8     0497639   ALBERTA CROWN        971.7M                          
+    102/04-05-041-08W5/00  N  375.6M  E  198.6M    RED DEER             3830.0M                         
+    DEV (NC)                             FERRIER                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BONTERRA ENERGY CORP.                                               04-08-041-08W5                  
+                                                                                                        
+    BONTERRA HZ FERRIER 3-5-41-8         0497640   ALBERTA CROWN        971.4M                          
+    100/03-05-041-08W5/00  N  375.8M  E  208.6M    RED DEER             3930.0M                         
+    DEV (NC)                             FERRIER                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BONTERRA ENERGY CORP.                                               04-08-041-08W5                  
+                                                                                                        
+    CVE M07P01 LEISMER 13-15-76-6        0497641   ALBERTA CROWN        560.7M                          
+    103/13-15-076-06W4/00  S  779.4M  W  702.8M    BONNYVILLE           1700.0M                         
+    DEV (NC)                             LEISMER                        MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 10-21-076-06W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    PEYTO SUNDANCE 6-18-55-20             0488982    UWI:                                               
+    00/06-18-055-20W5/0                              02/07-13-055-21W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     PEYTO SUNDANCE 7-13-55-21                          
+
+    CNRL HZ GORD 8-23-79-12               0490751    GROUND ELEVATION                                   
+    100/08-23-079-12W6/00                            660.8                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0798.8 W 0325.3                                  
+
+    CNRL HZ GORD 1-23-79-12               0490752    GROUND ELEVATION                                   
+    100/01-23-079-12W6/00                            660.3                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0794.0 W 0313.9                                  
+
+    NAL HZ GARR 1-32-34-4                 0495551    UWI:                                               
+    03/01-32-034-04W5/0                              00/16-32-034-04W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     NAL HZ GARR 16-32-34-4                             
+
+    JACOS HANGSTN 14-1-84-11              0496585    UWI:                                               
+    AA/14-01-084-11W4/0                              AB/15-01-084-11W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     JACOS HANGSTN 15-1-84-11                           
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0012.9 W 0795.9                                  
+
+                                                     SURFACE LOCATION:                                  
+                                                     15-01-084-11W4                                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    JACOS OV2 HANGSTN 14-1-84-11          0496586    GROUND ELEVATION                                   
+    1AB/14-01-084-11W4/00                            643.6                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0239.3 E 0784.2                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    JACOS HANGSTN 8-1-84-11               0496594    GROUND ELEVATION                                   
+    1AB/08-01-084-11W4/00                            662.0                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0550.2 W 0172.9                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    KARVE 103 HZ PROVOST 12-21-35-5       0487970                                                       
+    103/12-21-035-05W4/00                                                                               
+
+    KARVE 102 HZ PROVOST 13-21-35-5       0487971                                                       
+    102/13-21-035-05W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

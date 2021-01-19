@@ -1,0 +1,127 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 22 January 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    TOURMALINE HZ LAMBERT 3-20-50-22     0497488   ALBERTA CROWN        1196.9M                         
+    100/03-20-050-22W5/00  S  571.3M  W  267.3M    DRAYTON VALLEY       4100.0M                         
+    DEV (C)                              LAMBERT                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                09-19-050-22W5                  
+                                                                                                        
+    TOURMALINE HZ LAMBERT 5-30-50-22     0497489   ALBERTA CROWN        1196.6M                         
+    100/05-30-050-22W5/00  S  566.8M  W  265.4M    DRAYTON VALLEY       4400.0M                         
+    DEV (C)                              LAMBERT                        SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                09-19-050-22W5                  
+                                                                                                        
+    TXNE 12B-30 HZ ALDSON 16-36-15-14    0497490   FREEHOLD             742.6M                          
+    104/16-36-015-14W4/00  S  745.9M  E   57.4M    MEDICINE HAT         3250.0M                         
+    DEV (NC)                             ALDERSON                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  12-30-015-13W4                  
+                                                                                                        
+    TXNE 12B-30 HZ ALDSON 13-31-15-13    0497491   FREEHOLD             742.6M                          
+    100/13-31-015-13W4/00  S  755.9M  E   57.2M    MEDICINE HAT         3350.0M                         
+    DEV (NC)                             ALDERSON                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  12-30-015-13W4                  
+                                                                                                        
+    TXNE 12B-30 HZ  ALDSON 16-23-15-14   0497492   FREEHOLD             742.6M                          
+    102/16-23-015-14W4/00  S  765.9M  E   57.0M    MEDICINE HAT         3400.0M                         
+    DEV (NC)                             ALDERSON                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  12-30-015-13W4                  
+                                                                                                        
+    OBE HZ WILLGR 3-33-43-8              0497493   ALBERTA CROWN        1004.4M                         
+    100/03-33-043-08W5/00  N  375.9M  E  356.7M    RED DEER             5100.0M                         
+    DEV (C)                              WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    OBSIDIAN ENERGY LTD.                                                04-35-043-08W5                  
+                                                                                                        
+    OBE 102 HZ WILLGR 6-33-43-8          0497494   ALBERTA CROWN        1004.5M                         
+    102/06-33-043-08W5/00  N  383.5M  E  343.8M    RED DEER             5150.0M                         
+    DEV (C)                              WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    OBSIDIAN ENERGY LTD.                                                04-35-043-08W5                  
+                                                                                                        
+    GRL 100 VALHALLA 5-36-78-8           0497495   ALBERTA CROWN        700.1M                          
+    1F1/05-36-078-08W6/00  N  423.9M  W   80.0M    GRANDE PRAIRIE       918.0M                          
+    OTH (NC)                             VALHALLA                       CADOTTE MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           WATER                           
+    GRIZZLY RESOURCES LTD.                                              08-35-078-08W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    7GEN HZ KARR 7-10-64-4                0493960    SURFACE CO-ORDINATES:                              
+    100/07-10-064-04W6/00                            S 0632.6 E 0107.2                                  
+
+    7GEN HZ 103 KARR 8-10-64-4            0493961    GROUND ELEVATION                                   
+    103/08-10-064-04W6/00                            914.7                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0622.1 E 0104.1                                  
+
+    7GEN HZ 103 KARR 9-10-64-4            0493962    GROUND ELEVATION                                   
+    103/09-10-064-04W6/00                            914.8                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0611.5 E 0100.9                                  
+
+    7GEN HZ 104 KARR 9-10-64-4            0493963    SURFACE CO-ORDINATES:                              
+    104/09-10-064-04W6/00                            S 0618.1 E 0155.4                                  
+
+    7GEN HZ 105 KARR 9-10-64-4            0493964    GROUND ELEVATION                                   
+    105/09-10-064-04W6/00                            914.7                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0607.5 E 0152.2                                  
+
+    7GEN HZ 105 KARR 12-11-64-4           0493965    GROUND ELEVATION                                   
+    105/12-11-064-04W6/00                            914.8                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0597.0 E 0149.0                                  
+
+    JACOS OV2 HANGSTN 10-7-84-10          0496598    GROUND ELEVATION                                   
+    1AB/10-07-084-10W4/00                            637.9                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     543.70                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0193.5 W 0265.5                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    LONGSHORE HZ PROGRESS 1-13-77-10      0497229    MAXIMUM CALCULATED EPZ                             
+    100/01-13-077-10W6/00                            0.10                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CHARLIE LAKE FM                     
+
+    LONGSHORE 102 HZ PROGRESS 1-13-77-10  0497230    MAXIMUM CALCULATED EPZ                             
+    102/01-13-077-10W6/00                            0.10                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CHARLIE LAKE FM                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

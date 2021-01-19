@@ -1,0 +1,103 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 11 December 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    BAYTEX N389 DAWSON 4-34-78-16        0499004   ALBERTA CROWN        643.7M                          
+    100/04-34-078-16W5/00  N  487.3M  E  206.6M    ST. ALBERT           2500.0M                         
+    DEV (C)                              UNDEFINED                      SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    BAYTEX ENERGY LTD.                                                  05-33-078-16W5                  
+                                                                                                        
+    AVN HZ PCOUPES 9-33-76-13            0499005   ALBERTA CROWN        755.6M                          
+    100/09-33-076-13W6/00  N  711.4M  W  366.4M    GRANDE PRAIRIE       4800.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ADVANTAGE OIL & GAS LTD.                                            08-05-077-13W6                  
+                                                                                                        
+    OVV HZ WEMBLEY 10-6-72-8             0499006   BOTH                 863.6M                          
+    100/10-06-072-08W6/00  S  317.7M  E  455.9M    GRANDE PRAIRIE       5200.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-01-072-09W6                  
+                                                                                                        
+    OVV HZ 104 WEMBLEY 7-6-72-8          0499007   BOTH                 863.6M                          
+    102/07-06-072-08W6/00  S  310.8M  E  463.2M    GRANDE PRAIRIE       5200.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-01-072-09W6                  
+                                                                                                        
+    OVV HZ 103 WEMBLEY 7-6-72-8          0499008   BOTH                 863.6M                          
+    103/07-06-072-08W6/00  S  304.0M  E  470.5M    GRANDE PRAIRIE       5200.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-01-072-09W6                  
+                                                                                                        
+    OVV HZ 102 WEMBLEY 7-6-72-8          0499009   BOTH                 863.6M                          
+    104/07-06-072-08W6/00  S  293.8M  E  481.4M    GRANDE PRAIRIE       5200.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-01-072-09W6                  
+                                                                                                        
+    LONGSHORE HZ 100 GORD 16-14-79-9     0499010   ALBERTA CROWN        745.4M                          
+    102/16-14-079-09W6/00  S  519.9M  W   70.0M    GRANDE PRAIRIE       4784.0M                         
+    DEV (C)                              GORDONDALE                     CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    LONGSHORE RESOURCES LTD.                                            09-16-079-09W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    ECA HZ WEMBLEY 1-15-72-9               0495375   UWI:                                               
+    00/01-15-072-09W6/0                              02/10-06-072-08W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     OVV HZ 102 WEMBLEY 10-6-72-8                       
+
+                                                     CATEGORY:                                          
+                                                     D570                                               
+
+                                                     GROUND ELEVATION                                   
+                                                     863.70                                             
+
+                                                     MAX CALC EPZ:                                      
+                                                     0.51                                               
+
+    ECA HZ 105 WEMBLEY 11-31-71-8          0495380   CATEGORY:                                          
+    105/11-31-071-08W6/00                            D570                                               
+
+                                                     GROUND ELEVATION                                   
+                                                     863.80                                             
+
+                                                     MAX CALC EPZ:                                      
+                                                     0.51                                               
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0273.3 E 0503.4                                  
+
+    PEYTO WILD RIV 14-30-56-24             0498046   GROUND ELEVATION                                   
+    102/14-30-056-24W5/00                            1045.70                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0232.4 E 0383.6                                  
+
+    CVE 15-27 MARTENH 15-27-74-25          0498870   MAX CALC EPZ:                                      
+    1F1/15-27-074-25W4/00                            0.01                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

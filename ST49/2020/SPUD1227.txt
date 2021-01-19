@@ -1,0 +1,19 @@
+Report Number: ST-49                                                                       Alberta Energy Regulator                                                                                Page 1 of 1
+Run Date: 27 Dec 2020                                                                    DAILY DRILLING ACTIVITY LIST                                                                                         
+                                                                            For the Notification Period 26 Dec 2020 To 27 Dec 2020                                                                            
+
+      WELL ID                  WELL NAME            LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID           LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                             BA ID               NAME              NUMBER                                                                             TOTAL DEPTH     TYPE    
+------------------- ------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ----------------------------- ------------- -----------
+02/08-22-064-05W6/0 7GEN HZ 102 KAKWA 8-22-64-5      0498553 A6PR   Nabors Drilling Canada Limited      5 27 Dec 2020 03:16:00 AM Grande Prairie A54C  Seven Generations Energy Ltd.               Set Surface
+00/13-13-076-07W5/0 TAC 12-18 HZ NIPISI 13-13-76-7   0499137 0Y52   Precision Drilling Corporation    152 26 Dec 2020 11:30:00 PM St. Albert     A5TT  Tamarack Acquisition Corp.                  Drill To LD
+03/03-15-095-06W4/0 SUNCOR P131S5 FIREBAG 3-15-95-6  0497865 A6PR   Nabors Drilling Canada Limited    102 27 Dec 2020 06:30:00 AM Bonnyville     0054  Suncor Energy Inc.                          Set Surface
+
+                                                                  TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 1                                                                   
+                                                                  TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                   
+                                                                  TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                   
+                                                                  TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 2                                                                   
+
+                                                                                       TOTAL NUMBER OF WELLS LISTED = 3                                                                                       
+                                                                                            *** END OF REPORT ***                                                                                             
+

@@ -1,0 +1,121 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 27 May 2020                                                                                   
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    JUPITER HZ SMOKY 5-10-59-2           0498066   ALBERTA CROWN        1283.8M                         
+    102/05-10-059-02W6/00  S  743.2M  E  149.8M    DRAYTON VALLEY       6490.0M                         
+    DEV (NC)                             SMOKY                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    JUPITER RESOURCES INC.                                              12-12-059-02W6                  
+                                                                                                        
+    JUPITER HZ SMOKY 12-10-59-2          0498067   ALBERTA CROWN        1284.1M                         
+    103/12-10-059-02W6/00  S  735.2M  E  149.6M    DRAYTON VALLEY       6367.0M                         
+    DEV (NC)                             SMOKY                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    JUPITER RESOURCES INC.                                              12-12-059-02W6                  
+                                                                                                        
+    PEYTO NOSEHILL 2-4-55-20             0498068   ALBERTA CROWN        1232.3M                         
+    100/02-04-055-20W5/00  S  231.9M  W  354.3M    DRAYTON VALLEY       5550.0M                         
+    DEV (C)                              NOSEHILL                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               16-09-055-20W5                  
+                                                                                                        
+    IMP H87-H01 LEMING 5-10-66-4         0498069   ALBERTA CROWN        614.5M                          
+    107/05-10-066-04W4/00  S  426.8M  W   68.6M    BONNYVILLE           2114.0M                         
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      09-03-066-04W4                  
+                                                                                                        
+    IMP H87-H02 LEMING 5-10-66-4         0498070   ALBERTA CROWN        614.5M                          
+    108/05-10-066-04W4/00  S  409.2M  W  105.9M    BONNYVILLE           2040.0M                         
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      09-03-066-04W4                  
+                                                                                                        
+    IMP H87-H03 LEMING 5-10-66-4         0498071   ALBERTA CROWN        614.5M                          
+    109/05-10-066-04W4/00  S  419.0M  W  107.8M    BONNYVILLE           1906.0M                         
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      09-03-066-04W4                  
+                                                                                                        
+    IMP H87-H04 LEMING 5-10-66-4         0498072   ALBERTA CROWN        614.5M                          
+    110/05-10-066-04W4/00  S  428.8M  W  109.8M    BONNYVILLE           1890.0M                         
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      09-03-066-04W4                  
+                                                                                                        
+    IMP H87-H05 LEMING 4-10-66-4         0498073   ALBERTA CROWN        614.5M                          
+    106/04-10-066-04W4/00  S  438.6M  W  111.8M    BONNYVILLE           1910.0M                         
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      09-03-066-04W4                  
+                                                                                                        
+    IMP H87-H06 LEMING 4-10-66-4         0498074   ALBERTA CROWN        614.5M                          
+    107/04-10-066-04W4/00  S  448.5M  W  113.7M    BONNYVILLE           1923.0M                         
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      09-03-066-04W4                  
+                                                                                                        
+    IMP H87-H07 LEMING 4-10-66-4         0498075   ALBERTA CROWN        614.5M                          
+    108/04-10-066-04W4/00  S  436.6M  W   70.6M    BONNYVILLE           2027.0M                         
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      09-03-066-04W4                  
+                                                                                                        
+    IMP H87-H08 LEMING 14-3-66-4         0498076   ALBERTA CROWN        614.5M                          
+    107/14-03-066-04W4/00  S  446.5M  W   72.5M    BONNYVILLE           1424.0M                         
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      09-03-066-04W4                  
+                                                                                                        
+    IMP H87-H09 LEMING 11-3-66-4         0498077   ALBERTA CROWN        614.5M                          
+    111/11-03-066-04W4/00  S  456.3M  W   74.5M    BONNYVILLE           1603.0M                         
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      09-03-066-04W4                  
+                                                                                                        
+    IMP H87-10 LEMING 1-10-66-4          0498078   ALBERTA CROWN        614.5M                          
+    108/01-10-066-04W4/00  S  417.0M  W   66.6M    BONNYVILLE           688.0M                          
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    DIRECTIONAL                          NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      09-03-066-04W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CRESTWYND RADWAY 14-23-59-20          0496782    WELL NAME:                                         
+    100/13-23-059-20W4/05                            CRESTWYND RADWAY 13-23-59                          
+
+    CRESTWYND RADWAY 14-23-59-20          0496782    WELL NAME:                                         
+    102/12-23-059-20W4/04                            CRESTWYND RADWAY 13-23-59                          
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    BONTERRA 102 HZ PEMBINA 16-9-48-6     0494559                                                       
+    102/16-09-048-06W5/00                                                                               
+
+    INPLAY OIL 102 HZ WILLGR 8-30-41-6    0494560                                                       
+    102/08-30-041-06W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

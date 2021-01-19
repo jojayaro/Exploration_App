@@ -1,0 +1,103 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 06 May 2020                                                                                   
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CNRL 9-24 7HZ LNDBRGH 8-19-55-4       0492674    UWI:                                               
+    05/01-19-055-04W4/9                              05/04-19-055-04W4/9                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL 9-24 7HZ LNDBRGH 4-19-55-4                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CUMMINGS MBR                    
+
+    TOURMALINE HZ 102 ANSELL 6-8-50-19    0496917    UWI:                                               
+    02/07-05-050-19W5/2                              00/11-08-050-19W5/2                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ 102 ANSELL 11-8-50-19                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+    DELTASTREAM MARTENH 15-1-75-25        0497322    UWI:                                               
+    02/14-01-075-25W4/8                              00/15-01-075-25W4/8                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 6-31 HZ MARTEN 4-30-76-6          0497393    WELL NAME:                                         
+    102/04-30-076-06W5/03                            SPL 6-31 HZ 102 NIPISI 4-                          
+
+    COR4 MHZ JENNER 15-14-20-9            0497643    UWI:                                               
+    00/15-14-020-09W4/5                              02/12-14-020-09W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     COR4 MHZ JENNER 12-14-20-9                         
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM LOWER MANNVILLE FM                  
+
+                                                     DRILL CUTTINGS:                                    
+                                                     959.00 TO 993.00                                   
+
+    CREW HZ 102 SWIMMING 4-23-52-7        0497817    UWI:                                               
+    02/04-23-052-07W4/5                              00/02-23-052-07W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     CREW HZ 102 SWIMMING 2-23-52-7                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM REX MBR                             
+
+    PEYTO NOSEHILL 4-4-55-20              0497970    UWI:                                               
+    00/04-04-055-20W5/0                              00/03-04-055-20W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     PEYTO NOSEHILL 3-4-55-20                           
+
+                                                     GROUND ELEVATION                                   
+                                                     1232.6                                             
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5730.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0073.5 E 0232.6                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM WILRICH MBR                               
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL 1D3 WOLF LK 1-29-63-6            0494368                                                       
+    103/01-29-063-06W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

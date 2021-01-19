@@ -1,0 +1,226 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 01 December 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    R S R HZ GORD 9-6-79-9               0498837   ALBERTA CROWN        780.8M                          
+    100/09-06-079-09W6/00  N  745.0M  W  287.0M    GRANDE PRAIRIE       3353.0M                         
+    DEV (NC)                             GORDONDALE                     CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    RISING STAR RESOURCES LTD.                                          08-01-079-10W6                  
+                                                                                                        
+    TOURMALINE HZ LELAND 3-30-59-25      0498838   ALBERTA CROWN        1189.3M                         
+    100/03-30-059-25W5/00  S  696.3M  W  128.2M    DRAYTON VALLEY       5600.0M                         
+    DEV (C)                              LELAND                         SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                09-26-059-26W5                  
+                                                                                                        
+    TOURMALINE HZ 102 LELAND 10-30-59-25 0498839   ALBERTA CROWN        1189.2M                         
+    102/10-30-059-25W5/00  S  693.3M  W  132.0M    DRAYTON VALLEY       5600.0M                         
+    DEV (C)                              LELAND                         BULLHEAD GRP                    
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                09-26-059-26W5                  
+                                                                                                        
+    TOURMALINE HZ LELAND 7-30-59-25      0498840   ALBERTA CROWN        1189.6M                         
+    100/07-30-059-25W5/00  S  699.3M  W  124.4M    DRAYTON VALLEY       5400.0M                         
+    DEV (C)                              LELAND                         DUNVEGAN FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                09-26-059-26W5                  
+                                                                                                        
+    VEI HZ CARROT 4-11-52-13             0498841   ALBERTA CROWN        912.3M                          
+    100/04-11-052-13W5/00  S  279.5M  E  160.1M    DRAYTON VALLEY       4745.0M                         
+    DEV (NC)                             CARROT CREEK                   ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    VERMILION ENERGY INC.                                               13-14-052-13W5                  
+                                                                                                        
+    TQN BRAZR 10-12-43-12                0498842   ALBERTA CROWN        1084.6M                         
+    102/10-12-043-12W5/00  N  164.9M  W  475.3M    DRAYTON VALLEY       6690.0M                         
+    DEV (C)                              BRAZEAU RIVER                  UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TAQA NORTH LTD.                                                     02-25-043-12W5                  
+                                                                                                        
+    WINSLOW HZ 103 FERRIER 4-25-44-10    0498843   FREEHOLD             952M                            
+    103/04-25-044-10W5/00  S   65.0M  E  468.4M    RED DEER             5300.0M                         
+    DEV (NC)                             FERRIER                        UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WINSLOW RESOURCES INC.                                              14-36-044-10W5                  
+                                                                                                        
+    WINSLOW HZ FERRIER 6-25-44-10        0498844   FREEHOLD             950.8M                          
+    100/06-25-044-10W5/00  S   65.0M  E  493.4M    RED DEER             5300.0M                         
+    DEV (NC)                             FERRIER                        UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WINSLOW RESOURCES INC.                                              14-36-044-10W5                  
+                                                                                                        
+    IMP GEW21-01 LEMING 1-17-66-3        0498845   ALBERTA CROWN        615.9M                          
+    100/01-17-066-03W4/00  N  269.1M  W  303.3M    BONNYVILLE           149.0M                          
+    OTH (NC)                             LEMING                         COLORADO SHALE                  
+    VERTICAL                             NEW       EVALUATION           NONE                            
+    IMPERIAL OIL RESOURCES LIMITED                                      01-17-066-03W4                  
+                                                                                                        
+    CVE 12-26 HZ MARTENH 5-27-74-25      0498846   ALBERTA CROWN        682.5M                          
+    100/05-27-074-25W4/00  S  778.5M  E  284.0M    ST. ALBERT           2463.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 12-26-074-25W4                  
+                                                                                                        
+    CVE 12-26 HZ MARTENH 12-27-74-25     0498847   ALBERTA CROWN        682.5M                          
+    100/12-27-074-25W4/00  S  775.2M  E  274.5M    ST. ALBERT           2458.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 12-26-074-25W4                  
+                                                                                                        
+    CVE 12-26 HZ MARTENH 13-27-74-25     0498848   ALBERTA CROWN        682.3M                          
+    100/13-27-074-25W4/00  S  772.0M  E  265.1M    ST. ALBERT           2458.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 12-26-074-25W4                  
+                                                                                                        
+    CVE 16-27 HZ MARTENH 1-35-74-25      0498849   ALBERTA CROWN        681M                            
+    100/01-35-074-25W4/00  S    9.7M  W  392.0M    ST. ALBERT           2460.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 16-27-074-25W4                  
+                                                                                                        
+    CVE 16-27 HZ MARTENH 9-26-74-25      0498850   ALBERTA CROWN        681.1M                          
+    100/09-26-074-25W4/00  S    9.3M  W  382.1M    ST. ALBERT           2457.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 16-27-074-25W4                  
+                                                                                                        
+    CVE 16-27 HZ MARTENH 16-26-74-25     0498851   ALBERTA CROWN        681.1M                          
+    100/16-26-074-25W4/00  S    8.9M  W  372.1M    ST. ALBERT           2458.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 16-27-074-25W4                  
+                                                                                                        
+    CVE 13-24 HZ MARTENH 13-23-74-25     0498852   ALBERTA CROWN        684.9M                          
+    100/13-23-074-25W4/00  S    2.8M  E  320.3M    ST. ALBERT           2459.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 13-24-074-25W4                  
+                                                                                                        
+    CVE 13-24 HZ MARTENH 12-23-74-25     0498853   ALBERTA CROWN        684.8M                          
+    100/12-23-074-25W4/00  S    2.4M  E  330.3M    ST. ALBERT           2459.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 13-24-074-25W4                  
+                                                                                                        
+    CVE 13-24 HZ MARTENH 4-26-74-25      0498854   ALBERTA CROWN        683.7M                          
+    100/04-26-074-25W4/00  S    3.7M  E  300.3M    ST. ALBERT           2454.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 13-24-074-25W4                  
+                                                                                                        
+    RHE 100 PROVOST 15-23-34-3           0498855   ALBERTA CROWN        729M                            
+    100/15-23-034-03W4/00  S   70.1M  W  384.8M    WAINWRIGHT           2319.0M                         
+    DEV (C)                              PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ROLLING HILLS ENERGY LTD.                                           16-14-034-03W4                  
+                                                                                                        
+    RHE 102 PROVOST 15-23-34-3           0498856   ALBERTA CROWN        729M                            
+    102/15-23-034-03W4/00  S   70.1M  W  399.7M    WAINWRIGHT           2427.0M                         
+    DEV (C)                              PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ROLLING HILLS ENERGY LTD.                                           16-14-034-03W4                  
+                                                                                                        
+    WHITECAP VALHALLA 13-18-76-9         0498857   ALBERTA CROWN        890.6M                          
+    100/13-18-076-09W6/00  S  239.8M  E  476.3M    GRANDE PRAIRIE       5480.0M                         
+    DEV (C)                              VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WHITECAP RESOURCES INC.                                             14-06-076-09W6                  
+                                                                                                        
+    WHITECAP VALHALLA 14-18-76-9         0498858   ALBERTA CROWN        890.7M                          
+    100/14-18-076-09W6/00  S  239.8M  E  486.3M    GRANDE PRAIRIE       5351.0M                         
+    DEV (C)                              VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WHITECAP RESOURCES INC.                                             14-06-076-09W6                  
+                                                                                                        
+    WHITECAP 102 VALHALLA 14-18-76-9     0498859   ALBERTA CROWN        891M                            
+    102/14-18-076-09W6/00  S  239.8M  E  496.3M    GRANDE PRAIRIE       5494.0M                         
+    DEV (C)                              VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WHITECAP RESOURCES INC.                                             14-06-076-09W6                  
+                                                                                                        
+    TXNE 9A-34 HZ ALDSON 10-28-15-14     0498860   FREEHOLD             755.1M                          
+    100/10-28-015-14W4/00  S  651.4M  W   40.0M    MEDICINE HAT         3610.0M                         
+    DEV (NC)                             ALDERSON                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  09-34-015-14W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CVE L19P01 LEISMER 15-21-76-6          0492549   PROJECTED DEPTH:                                   
+    102/15-21-076-06W4/00                            2456.00                                            
+
+    SURGE ENERGY HZ PROVOST 5-27-39-2      0496642   UWI:                                               
+    00/05-27-039-02W4/0                              00/12-27-039-02W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SURGE ENERGY HZ PROVOST 12-27-39-2                 
+
+                                                     CATEGORY:                                          
+                                                     C280                                               
+
+                                                     GROUND ELEVATION                                   
+                                                     703.40                                             
+
+    OUC HZ FERRIER 16-17-39-8              0498041   GROUND ELEVATION                                   
+    100/16-17-039-08W5/00                            1046.70                                            
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5363.00                                            
+
+    SPL 16-33 HZ NIPISI 1-3-77-6           0498522   GROUND ELEVATION                                   
+    100/01-03-077-06W5/00                            702.30                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0085.0 W 0019.8                                  
+
+    SPL 16-33 HZ 102 NIPISI 1-3-77-6       0498523   GROUND ELEVATION                                   
+    102/01-03-077-06W5/00                            702.30                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0075.0 W 0019.8                                  
+
+    SPL 16-33 HZ NIPISI 8-9-77-6           0498528   GROUND ELEVATION                                   
+    100/08-09-077-06W5/00                            702.10                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0075.0 W 0029.8                                  
+
+    SPL 16-33 HZ 102 NIPISI 8-9-77-6       0498529   GROUND ELEVATION                                   
+    102/08-09-077-06W5/00                            702.00                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0085.0 W 0029.8                                  
+
+    SPL 8-33 HZ MARTEN 4-27-76-6           0498530   GROUND ELEVATION                                   
+    100/04-27-076-06W5/00                            698.60                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0637.8 W 0103.7                                  
+
+    SPL 8-33 HZ NIPISI 9-34-76-6           0498531   GROUND ELEVATION                                   
+    100/09-34-076-06W5/00                            698.70                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0647.8 W 0103.4                                  
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

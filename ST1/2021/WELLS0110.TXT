@@ -1,0 +1,34 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 10 January 2021                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    RHE 102 PROVOST 7-16-35-3            0499210   ALBERTA CROWN        755M                            
+    102/07-16-035-03W4/00  N  243.9M  W  674.3M    WAINWRIGHT           2700.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ROLLING HILLS ENERGY LTD.                                           02-21-035-03W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    TQN FERRIER 2-29-42-10                 0499144   SURFACE CO-ORDINATES:                              
+    100/02-29-042-10W5/00                            N 0058.2 W 0269.2                                  
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

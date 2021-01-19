@@ -1,0 +1,118 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 31 August 2020                                                                                
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SCL HZ FC230D TONY CKN 4-31-63-20    0498330   ALBERTA CROWN        767.8M                          
+    100/04-31-063-20W5/00  S 1102.2M  W 1633.4M    ST. ALBERT           5570.0M                         
+    DEV (C)                              TONY CREEK NORTH               DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHELL CANADA LIMITED                                                05-20-063-20W5                  
+                                                                                                        
+    SCL HZ FC230E TONY CKN 12-30-63-20   0498331   ALBERTA CROWN        767.8M                          
+    100/12-30-063-20W5/00  N  502.5M  W     .7M    ST. ALBERT           5750.0M                         
+    DEV (C)                              TONY CREEK NORTH               DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHELL CANADA LIMITED                                                08-19-063-20W5                  
+                                                                                                        
+    SCL HZ FC230F KAYBOBS 11-4-63-20     0498332   ALBERTA CROWN        767.8M                          
+    100/11-04-063-20W5/00  N  498.0M  W    2.7M    ST. ALBERT           7555.0M                         
+    DEV (C)                              KAYBOB SOUTH                   DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHELL CANADA LIMITED                                                08-19-063-20W5                  
+                                                                                                        
+    SCL HZ FC230G KAYBOBS 14-4-63-20     0498333   ALBERTA CROWN        767.8M                          
+    100/14-04-063-20W5/00  N  493.5M  W    4.7M    ST. ALBERT           6628.0M                         
+    DEV (C)                              KAYBOB SOUTH                   DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHELL CANADA LIMITED                                                08-19-063-20W5                  
+                                                                                                        
+    DELTASTREAM MARTENH 9-25-75-26       0498334   ALBERTA CROWN        857.4M                          
+    100/09-25-075-26W4/00  S  638.7M  W  292.6M    ST. ALBERT           2600.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      09-26-075-26W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 8-25-75-26       0498335   ALBERTA CROWN        857.4M                          
+    100/08-25-075-26W4/00  S  640.0M  W  282.7M    ST. ALBERT           2600.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      09-26-075-26W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 8-25-75-26       0498336   ALBERTA CROWN        857.4M                          
+    102/08-25-075-26W4/00  S  641.2M  W  272.8M    ST. ALBERT           2600.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      09-26-075-26W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 9-25-75-26       0498337   ALBERTA CROWN        857M                            
+    102/09-25-075-26W4/00  S  642.5M  W  262.9M    ST. ALBERT           2600.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      09-26-075-26W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 13-9-75-25       0498338   ALBERTA CROWN        700.8M                          
+    103/13-09-075-25W4/00  S  399.2M  E  320.1M    ST. ALBERT           2300.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      13-04-075-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 13-9-75-25       0498339   ALBERTA CROWN        700.9M                          
+    104/13-09-075-25W4/00  S  397.2M  E  327.6M    ST. ALBERT           2300.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      13-04-075-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 14-9-75-25       0498340   ALBERTA CROWN        701.1M                          
+    100/14-09-075-25W4/00  S  394.4M  E  335.1M    ST. ALBERT           2500.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      13-04-075-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 14-9-75-25       0498341   ALBERTA CROWN        701.1M                          
+    102/14-09-075-25W4/00  S  391.7M  E  342.6M    ST. ALBERT           2700.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      13-04-075-25W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    TOURMALINE HZ BASING 9-10-49-21       0498034    GROUND ELEVATION                                   
+    100/09-10-049-21W5/00                            1213.4                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0188.8 W 0529.0                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM CARDIUM FM                                
+
+    TOURMALINE HZ BASING 8-10-49-21       0498035    WELL NAME:                                         
+    102/08-10-049-21W5/00                            TOURMALINE HZ 102 BASING                           
+
+                                                     GROUND ELEVATION                                   
+                                                     1213.4                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0185.8 W 0525.1                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

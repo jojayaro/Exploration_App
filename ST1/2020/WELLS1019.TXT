@@ -1,0 +1,43 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 19 October 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    MEG DB1P HARDY 13-14-77-5            0486219   ALBERTA CROWN        583.9M                          
+    1W3/13-14-077-05W4/02  N  734.4M  W  551.4M    BONNYVILLE           1931.0M                         
+    DEV (NC)                             HARDY                          MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    MEG ENERGY CORP.                                                    07-14-077-05W4                  
+                                                                                                        
+    VELVET HZ GORD 8-25-79-11            0498567   ALBERTA CROWN        761M                            
+    100/08-25-079-11W6/00  N  581.4M  E  295.3M    GRANDE PRAIRIE       2480.0M                         
+    DEV (C)                              GORDONDALE                     PADDY MBR                       
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    VELVET ENERGY LTD.                                                  05-19-079-10W6                  
+                                                                                                        
+    SPL 15-35 HZ MARTENH 15-26-73-25     0498568   ALBERTA CROWN        683.9M                          
+    100/15-26-073-25W4/00  S   84.8M  W  653.9M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 15-35-073-25W4                  
+                                                                                                        
+    SPL 15-35 HZ 103 MARTENH 16-26-73-25 0498569   ALBERTA CROWN        683.9M                          
+    103/16-26-073-25W4/00  S   74.8M  W  653.8M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 15-35-073-25W4                  
+                                                                                                        
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

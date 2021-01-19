@@ -1,0 +1,73 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 06 October 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CRESTWYND HZ MEANOOK 15-19-63-21      0498088    UWI:                                               
+    S0/16-18-063-21W4/4                              00/07-19-063-21W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND HZ MEANOOK 7-19-63-21                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    MURPHY 2-3A KAYBOB 1-35-64-20         0491227                                                       
+    100/01-35-064-20W5/00                                                                               
+
+    MURPHY 2-3B KAYBOB 11-9-65-20         0491228                                                       
+    100/11-09-065-20W5/00                                                                               
+
+    MURPHY 2-3H 102 KAYBOB 11-9-65-20     0491229                                                       
+    102/11-09-065-20W5/00                                                                               
+
+    SCL HZ FC733C TONY CKN 10-4-65-21     0491231                                                       
+    100/10-04-065-21W5/00                                                                               
+
+    ATH HZ PLACID 13-8-61-23              0491253                                                       
+    100/13-08-061-23W5/00                                                                               
+
+    ATH HZ PLACID 14-8-61-23              0491254                                                       
+    100/14-08-061-23W5/00                                                                               
+
+    SCL HZ FC733A KAYBOB 11-3-65-21       0491259                                                       
+    100/11-03-065-21W5/00                                                                               
+
+    OUC HZ 102 KAKWA 8-29-63-5            0491266                                                       
+    102/08-29-063-05W6/00                                                                               
+
+    TERVITA GOLD CREEK ELM 3-26-67-5      0495953                                                       
+    100/03-26-067-05W6/00                                                                               
+
+    TXNR 13C-34 HZ COUNTESS 9-29-19-16    0495964                                                       
+    100/09-29-019-16W4/00                                                                               
+
+    FHEC 19-WR875-MR1 10-20-96-10         0495979                                                       
+    103/10-20-096-10W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

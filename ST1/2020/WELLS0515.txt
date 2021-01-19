@@ -1,0 +1,256 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 15 May 2020                                                                                   
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    PEYTO WILD RIV 14-30-56-24           0498046   ALBERTA CROWN        1046.4M                         
+    102/14-30-056-24W5/00  S  221.2M  E  394.9M    DRAYTON VALLEY       3800.0M                         
+    DEV (C)                              WILD RIVER                     CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               13-19-056-24W5                  
+                                                                                                        
+    PEYTO ANSELL 3-17-51-19              0498047   ALBERTA CROWN        1022M                           
+    100/03-17-051-19W5/00  N  132.8M  E  137.8M    DRAYTON VALLEY       4625.0M                         
+    DEV (C)                              ANSELL                         SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               04-20-051-19W5                  
+                                                                                                        
+    PEYTO ANSELL 4-17-51-19              0498048   ALBERTA CROWN        1022M                           
+    100/04-17-051-19W5/00  N  131.6M  E  133.0M    DRAYTON VALLEY       4350.0M                         
+    DEV (C)                              ANSELL                         SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               04-20-051-19W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SPL 15-35 HZ 103 MARTENH 15-2-74-25   0495267    UWI:                                               
+    00/16-02-074-25W4/8                              03/15-02-074-25W4/8                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-35 HZ MARTENH 15-2-74-25                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    CVE A7-11 A7 HARDY 7-11-77-6          0495622    UWI:                                               
+    AC/07-11-077-06W4/2                              02/07-11-077-06W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CVE A7 HARDY 7-11-77-6                             
+
+                                                     GROUND ELEVATION                                   
+                                                     557.8                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     396.00                                             
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0424.7 W 0593.6                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE A14 HARDY 14-11-77-6              0495624    UWI:                                               
+    AB/14-11-077-06W4/0                              02/14-11-077-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     559.4                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0296.2 E 0732.4                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE B1 HARDY 1-14-77-6                0495625    UWI:                                               
+    AB/01-14-077-06W4/0                              00/01-14-077-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     559.6                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0182.1 W 0379.6                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE A3 HARDY 3-14-77-6                0495626    UWI:                                               
+    AA/03-14-077-06W4/0                              02/03-14-077-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     560.2                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0184.4 E 0637.7                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE B5 HARDY 5-14-77-6                0495628    UWI:                                               
+    AC/05-14-077-06W4/0                              03/05-14-077-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     573.1                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0441.5 E 0033.5                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE C5 HARDY 5-14-77-6                0495629    UWI:                                               
+    AD/05-14-077-06W4/0                              02/05-14-077-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     573.5                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0702.8 E 0018.3                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE B13 HARDY 13-14-77-6              0495634    UWI:                                               
+    AC/13-14-077-06W4/0                              00/13-14-077-06W4/0                                
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0332.0 E 0095.5                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE B7 LEISMER 7-15-77-6              0495638    UWI:                                               
+    AB/07-15-077-06W4/0                              02/07-15-077-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     563.3                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0443.4 W 0747.4                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE B14 LEISMER 14-15-77-6            0495641    UWI:                                               
+    AA/14-15-077-06W4/0                              00/14-15-077-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     561.7                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE B3 LEISMER 3-30-77-6              0495656    UWI:                                               
+    AB/03-30-077-06W4/0                              00/03-30-077-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     572.6                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0015.5 E 0466.7                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE D15 FISHER 15-24-70-4             0496272    UWI:                                               
+    AB/15-24-070-04W4/0                              00/15-24-070-04W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     666.1                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CRESTWYND RADWAY 16-23-59-20          0496782    UWI:                                               
+    00/16-23-059-20W4/5                              00/13-23-059-20W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND RADWAY 13-23-59-20                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM UPPER MANNVILLE FM                  
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

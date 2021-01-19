@@ -1,0 +1,61 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 23 September 2020                                                                             
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    MODERN HZ KAKWA 13-31-63-8           0498461   ALBERTA CROWN        943.1M                          
+    100/13-31-063-08W6/00  S  709.9M  W   72.8M    GRANDE PRAIRIE       4236.0M                         
+    DEV (C)                              KAKWA                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    MODERN RESOURCES INC.                                               09-31-063-08W6                  
+                                                                                                        
+    MODERN HZ KAKWA 5-31-63-8            0498462   ALBERTA CROWN        943.2M                          
+    100/05-31-063-08W6/00  S  717.9M  W   72.8M    GRANDE PRAIRIE       4225.0M                         
+    DEV (C)                              KAKWA                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    MODERN RESOURCES INC.                                               09-31-063-08W6                  
+                                                                                                        
+    JUPITER HZ 102 RESTHA 8-8-60-1       0498463   ALBERTA CROWN        1350.8M                         
+    103/08-08-060-01W6/00  S  479.6M  E  728.0M    GRANDE PRAIRIE       5559.0M                         
+    DEV (NC)                             RESTHAVEN                      SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    JUPITER RESOURCES INC.                                              11-07-060-01W6                  
+                                                                                                        
+    JUPITER HZ RESTHA 13-11-60-2         0498464   ALBERTA CROWN        1350.6M                         
+    100/13-11-060-02W6/00  S  468.5M  E  716.4M    GRANDE PRAIRIE       7200.0M                         
+    DEV (NC)                             RESTHAVEN                      SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    JUPITER RESOURCES INC.                                              11-07-060-01W6                  
+                                                                                                        
+    JUPITER HZ RESTHA 16-8-60-1          0498465   ALBERTA CROWN        1350.8M                         
+    100/16-08-060-01W6/00  S  474.0M  E  722.2M    GRANDE PRAIRIE       5666.0M                         
+    DEV (NC)                             RESTHAVEN                      SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    JUPITER RESOURCES INC.                                              11-07-060-01W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SPL 9-10 HZ 104 NIPISI 12-12-77-7     0498357    SURFACE CO-ORDINATES:                              
+    104/12-12-077-07W5/00                            S 0667.1 W 0277.7                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

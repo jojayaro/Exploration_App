@@ -1,0 +1,18 @@
+Report Number: ST-49                                                            Alberta Energy Regulator                                                                    Page 1 of 1
+Run Date: 19 Sep 2020                                                         DAILY DRILLING ACTIVITY LIST                                                                             
+                                                                 For the Notification Period 18 Sep 2020 To 19 Sep 2020                                                                
+
+      WELL ID               WELL NAME          LICENCE  +------CONTRACTOR------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID         LICENSEE         NEW PROJECTED  ACTIVITY  
+                                                        BA ID        NAME        NUMBER                                                                        TOTAL DEPTH     TYPE    
+------------------- -------------------------- -------- ------ ----------------- ------ ----------------------- -------------- ----- ------------------------ ------------- -----------
+02/01-34-065-05W6/0 PARA HZ 102 KARR 1-34-65-5  0498187 A5DR   Fox Drilling Inc.      7 19 Sep 2020 11:00:00 AM Grande Prairie 0AW4  Paramount Resources Ltd.               Set Surface
+00/03-34-065-05W6/0 PARA HZ KARR 3-34-65-5      0498182 A5DR   Fox Drilling Inc.      3 18 Sep 2020 07:00:00 PM Grande Prairie 0AW4  Paramount Resources Ltd.               Set Surface
+
+                                                       TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 0                                                       
+                                                       TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                       
+                                                       TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                       
+                                                       TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 2                                                       
+
+                                                                           TOTAL NUMBER OF WELLS LISTED = 2                                                                            
+                                                                                 *** END OF REPORT ***                                                                                 
+

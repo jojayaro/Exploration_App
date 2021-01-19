@@ -1,0 +1,163 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 31 March 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    PEYTO NOSEHILL 16-10-55-20           0497969   ALBERTA CROWN        1233.1M                         
+    100/16-10-055-20W5/00  S   68.5M  E  242.4M    DRAYTON VALLEY       5600.0M                         
+    DEV (NC)                             NOSEHILL                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               13-09-055-20W5                  
+                                                                                                        
+    PEYTO NOSEHILL 4-4-55-20             0497970   ALBERTA CROWN        1233.1M                         
+    100/04-04-055-20W5/00  S   68.5M  E  222.5M    DRAYTON VALLEY       5715.0M                         
+    DEV (C)                              NOSEHILL                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               13-09-055-20W5                  
+                                                                                                        
+    PEYTO NOSEHILL 11-21-55-20           0497971   ALBERTA CROWN        1233.1M                         
+    102/11-21-055-20W5/00  S   68.5M  E  237.5M    DRAYTON VALLEY       5400.0M                         
+    DEV (NC)                             NOSEHILL                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               13-09-055-20W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SUNCOR P1P5B FIREBAG 8-12-95-6        0260969    UWI:                                               
+    08/08-12-095-06W4/2                              W3/05-07-095-05W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     SUNCOR P1P5B FIREBAG 5-7-95-5                      
+
+    SPL 10-24 HZ MARTEN 6-23-76-6         0494995    UWI:                                               
+    00/05-23-076-06W5/6                              00/12-23-076-06W5/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 10-24 HZ MARTEN 12-23-76-6                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     750.00 TO 2700.00                                  
+
+    COPRC 1AB ML RESDELN 12-11-83-7       0496013    UWI:                                               
+    AB/12-11-083-07W4/2                              AB/09-10-083-07W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     COPRC 1AB ML RESDELN 9-10-83-7                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    SPL 1-5 HZ 102 MARTEN 4-4-77-6        0496050    UWI:                                               
+    02/04-03-077-06W5/2                              00/04-04-077-06W5/2                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2900.00                                  
+
+    SPL 1-5 HZ NIPISI 3-6-77-6            0496053    UWI:                                               
+    00/15-31-076-06W5/5                              00/03-06-077-06W5/5                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2900.00                                  
+
+    HUSKY 3HZ R1 WILDMERE 9-19-48-5       0496291    UWI:                                               
+    00/09-19-048-05W4/3                              03/08-19-048-05W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     HUSKY 3HZ R1 WILDMERE 8-19-48-5                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GENERAL PETROLEUM MBR               
+
+    CLC HANGSTN 3-20-82-11                0496749    UWI:                                               
+    AB/03-20-082-11W4/2                              AB/07-20-082-11W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CLC HANGSTN 7-20-82-11                             
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+                                                     DRILL CUTTINGS:                                    
+                                                     300.00 TO 650.00                                   
+
+    BAYTEX HZ 100 SLAVE 15-15-84-15       0496864    UWI:                                               
+    00/15-15-084-15W5/0                              00/14-23-084-15W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX HZ 100 SLAVE 14-23-84-15                    
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM BLUESKY FM                      
+
+    SPL 2-16 HZ MARTENH 7-21-76-3         0496927    UWI:                                               
+    00/06-21-076-03W5/7                              00/15-16-076-03W5/7                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 2-16 HZ MARTENH 15-16-76-3                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    WLEC 9HZ 1A1 PROVOST 8-28-39-5        0497033    WELL NAME:                                         
+    100/15-21-039-05W4/06                            WLEC 9HZ 1A1 PROVOST 15-2                          
+
+    WLEC 8HZ 4B16 SWIMMING 16-24-52-7     0497331    UWI:                                               
+    03/16-24-052-07W4/4                              00/01-25-052-07W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC 8HZ 4B16 SWIMMING 1-25-52-7                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM REX MBR                             
+
+    TOURMALINE HZ SUNDANCE 16-18-55-22    0497723    GROUND ELEVATION                                   
+    100/16-18-055-22W5/00                            1104.9                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0226.9 E 0262.6                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+    TOURMALINE 102 SUNDANCE 3-20-55-22    0497726    WELL NAME:                                         
+    102/03-20-055-22W5/00                            TOURMALINE HZ 10 SUNDANCE                          
+
+                                                     GROUND ELEVATION                                   
+                                                     1105.2                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0231.1 E 0265.1                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

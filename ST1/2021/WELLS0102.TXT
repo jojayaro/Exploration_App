@@ -1,0 +1,31 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 02 January 2021                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CRESTWYND HZ MEANOOK 10-14-63-22     0499159   ALBERTA CROWN        671.6M                          
+    102/10-14-063-22W4/00  S  562.5M  W   82.2M    ST. ALBERT           2490.0M                         
+    DEV (C)                              MEANOOK                        CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESTWYND EXPLORATION LTD.                                          09-23-063-22W4                  
+                                                                                                        
+    CRESTWYND HZ MEANOOK 9-14-63-22      0499160   ALBERTA CROWN        671.6M                          
+    100/09-14-063-22W4/00  S  572.5M  W   82.3M    ST. ALBERT           2645.0M                         
+    DEV (C)                              MEANOOK                        CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESTWYND EXPLORATION LTD.                                          09-23-063-22W4                  
+                                                                                                        
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

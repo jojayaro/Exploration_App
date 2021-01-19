@@ -1,0 +1,91 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 29 October 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    KELT EXP HZ PCOUPES 13-25-77-13      0498629   ALBERTA CROWN        722.6M                          
+    100/13-25-077-13W6/00  S   20.4M  W  701.4M    GRANDE PRAIRIE       5675.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    KELT EXPLORATION LTD.                                               15-13-077-13W6                  
+                                                                                                        
+    JUPITER HZ RESTHA 9-24-59-2          0498630   ALBERTA CROWN        1285M                           
+    100/09-24-059-02W6/00  S   24.7M  E  277.7M    DRAYTON VALLEY       6217.0M                         
+    DEV (NC)                             RESTHAVEN                      SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    JUPITER RESOURCES INC.                                              13-12-059-02W6                  
+                                                                                                        
+    JUPITER HZ RESTHA 10-24-59-2         0498631   ALBERTA CROWN        1285M                           
+    102/10-24-059-02W6/00  S   18.6M  E  272.6M    DRAYTON VALLEY       5974.0M                         
+    DEV (NC)                             RESTHAVEN                      SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    JUPITER RESOURCES INC.                                              13-12-059-02W6                  
+                                                                                                        
+    VEI HZ PEMBINA 4-31-50-13            0498632   ALBERTA CROWN        966.3M                          
+    102/04-31-050-13W5/00  N  526.7M  W  292.3M    DRAYTON VALLEY       3482.0M                         
+    DEV (NC)                             PEMBINA                        BELLY RIVER GROUP               
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VERMILION ENERGY INC.                                               08-06-051-13W5                  
+                                                                                                        
+    TOURMALINE HZ ANDERSN 12-12-51-23    0498633   ALBERTA CROWN        1182.2M                         
+    100/12-12-051-23W5/00  S  361.0M  W  253.8M    DRAYTON VALLEY       4600.0M                         
+    DEV (C)                              ANDERSON                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                16-01-051-23W5                  
+                                                                                                        
+    TOURMALINE HZ ANDERSN 8-11-51-23     0498634   ALBERTA CROWN        1182.2M                         
+    102/08-11-051-23W5/00  S  357.1M  W  256.8M    DRAYTON VALLEY       4600.0M                         
+    DEV (C)                              ANDERSON                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                16-01-051-23W5                  
+                                                                                                        
+    TIMBERROCK HZ 103 GARR 13-9-34-4     0498635   FREEHOLD             1039M                           
+    103/13-09-034-04W5/00  S  105.0M  E  516.1M    RED DEER             4100.0M                         
+    DEV (NC)                             GARRINGTON                     GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TIMBERROCK ENERGY CORP.                                             14-04-034-04W5                  
+                                                                                                        
+    TIMBERROCK HZ 102 GARR 14-9-34-4     0498636   FREEHOLD             1039.3M                         
+    102/14-09-034-04W5/00  S  105.0M  E  526.1M    RED DEER             4100.0M                         
+    DEV (NC)                             GARRINGTON                     GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TIMBERROCK ENERGY CORP.                                             14-04-034-04W5                  
+                                                                                                        
+    TIMBERROCK HZ 103 GARR 4-4-34-4      0498637   ALBERTA CROWN        1039.6M                         
+    103/04-04-034-04W5/00  S  105.0M  E  536.1M    RED DEER             4100.0M                         
+    DEV (NC)                             GARRINGTON                     GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TIMBERROCK ENERGY CORP.                                             14-04-034-04W5                  
+                                                                                                        
+    TIMBERROCK HZ 102 GARR 3-4-34-4      0498638   ALBERTA CROWN        1040M                           
+    102/03-04-034-04W5/00  S  105.0M  E  546.1M    RED DEER             4100.0M                         
+    DEV (NC)                             GARRINGTON                     GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TIMBERROCK ENERGY CORP.                                             14-04-034-04W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CRESTWYND HZ MEANOOK 15-30-63-21      0498087    UWI:                                               
+    S0/14-30-063-21W4/8                              00/15-30-063-21W4/8                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,499 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 06 February 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SUNCOR QQ2PB DOVER 15-9-93-12        0375768   ALBERTA CROWN        401.7M                          
+    113/15-09-093-12W4/02  N  607.7M  E   81.5M    BONNYVILLE           1307.0M                         
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  05-09-093-12W4                  
+                                                                                                        
+    SUNCOR NN5PB DOVER 3-8-93-12         0375784   ALBERTA CROWN        402.9M                          
+    105/03-08-093-12W4/02  S  797.4M  W 1615.8M    BONNYVILLE           1327.0M                         
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  12-09-093-12W4                  
+                                                                                                        
+    TXNE 14C-9 HZ COUNTESS 15-17-22-17   0497642   FREEHOLD             772.5M                          
+    102/15-17-022-17W4/00  S  121.8M  E  423.1M    MIDNAPORE            3240.0M                         
+    DEV (NC)                             COUNTESS                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  14-09-022-17W4                  
+                                                                                                        
+    COR4 MHZ JENNER 15-14-20-9           0497643   ALBERTA CROWN        759.3M                          
+    100/15-14-020-09W4/00  N  360.8M  E  153.9M    MEDICINE HAT         2501.0M                         
+    XPL (C)                              JENNER                         LOWER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    COR4 OIL CORP.                                                      04-14-020-09W4                  
+                                                                                                        
+    TOURMALINE HZ KAKWA 4-2-62-4         0497644   ALBERTA CROWN        1053.8M                         
+    100/04-02-062-04W6/00  S  140.8M  W  405.6M    GRANDE PRAIRIE       4241.0M                         
+    DEV (C)                              KAKWA                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                15-03-062-04W6                  
+                                                                                                        
+    TOURMALINE HZ KAKWA 8-2-62-4         0497645   ALBERTA CROWN        1053.7M                         
+    100/08-02-062-04W6/00  S  139.5M  W  410.4M    GRANDE PRAIRIE       4870.0M                         
+    DEV (C)                              KAKWA                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                15-03-062-04W6                  
+                                                                                                        
+    TXNE 13C-5 HZ  COUNTESS 14-8-22-17   0497646   FREEHOLD             778M                            
+    102/14-08-022-17W4/00  S   50.2M  E  130.9M    MIDNAPORE            2725.0M                         
+    DEV (NC)                             COUNTESS                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  13-05-022-17W4                  
+                                                                                                        
+    TXNE 4B-8 HZ  COUNTESS 4-18-22-17    0497647   FREEHOLD             778.9M                          
+    102/04-18-022-17W4/00  N    9.8M  E  131.8M    MIDNAPORE            3775.0M                         
+    DEV (NC)                             COUNTESS                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  04-08-022-17W4                  
+                                                                                                        
+    HUSKY OB-219 STEEPBK 2-3-95-7        0497648   ALBERTA CROWN        508.2M                          
+    100/02-03-095-07W4/00  N  350.1M  W  633.7M    BONNYVILLE           270.0M                          
+    DSW (C)                              UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    HUSKY OIL OPERATIONS LIMITED                                        02-03-095-07W4                  
+                                                                                                        
+    TXNE 13C-5 HZ COUNTESS 16-1-22-18    0497649   FREEHOLD             778.7M                          
+    102/16-01-022-18W4/00  S   35.2M  E  131.1M    MIDNAPORE            3175.0M                         
+    DEV (NC)                             COUNTESS                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  13-05-022-17W4                  
+                                                                                                        
+    TXNE 13C-5 HZ COUNTESS 9-12-22-18    0497650   FREEHOLD             778.9M                          
+    102/09-12-022-18W4/00  S    5.2M  E  131.6M    MIDNAPORE            3425.0M                         
+    DEV (NC)                             COUNTESS                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  13-05-022-17W4                  
+                                                                                                        
+    TXNE 13C-5 HZ COUNTESS 1-12-22-18    0497651   FREEHOLD             779M                            
+    102/01-12-022-18W4/00  S   20.2M  E  131.3M    MIDNAPORE            3175.0M                         
+    DEV (NC)                             COUNTESS                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  13-05-022-17W4                  
+                                                                                                        
+    JACOS OV2 HANGSTN 16-12-84-11        0497652   ALBERTA CROWN        621M                            
+    1AC/16-12-084-11W4/00  S    5.6M  W  366.2M    BONNYVILLE           371.0M                          
+    OV (C)                               HANGINGSTONE                   MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    JAPAN CANADA OIL SANDS LIMITED                                      16-12-084-11W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    PARA ET AL ELM 1-36-66-5              0290848    UWI:                                               
+    00/16-25-066-05W6/4                              02/01-36-066-05W6/4                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM BEAVERHILL LAKE GRP                 
+
+                                                     DRILL CUTTINGS:                                    
+                                                     3542.00 TO 4297.00                                 
+
+    PARA ET AL GOLDCK 16-25-66-5          0290848    UWI:                                               
+    00/16-25-066-05W6/3                              02/01-36-066-05W6/3                                
+
+                                                     WELL NAME:                                         
+                                                     PARA ET AL ELM 1-36-66-5                           
+
+    GEAR 7HZ 102 WILDMERE 14-29-48-5      0487566    UWI:                                               
+    02/12-29-048-05W4/9                              03/11-29-048-05W4/9                                
+
+                                                     WELL NAME:                                         
+                                                     GEAR 7HZ 102 WILDMERE 11-29-48-5                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GENERAL PETROLEUM MBR               
+
+    GEAR 7HZ 102 WILDMERE 12-29-48-5      0487566    UWI:                                               
+    02/12-29-048-05W4/8                              03/11-29-048-05W4/8                                
+
+                                                     WELL NAME:                                         
+                                                     GEAR 7HZ 102 WILDMERE 11-29-48-5                   
+
+    GEAR 7HZ 102 WILDMERE 12-29-48-5      0487566    UWI:                                               
+    02/12-29-048-05W4/7                              03/13-29-048-05W4/7                                
+
+                                                     WELL NAME:                                         
+                                                     GEAR 7HZ 102 WILDMERE 13-29-48-5                   
+
+    GEAR 9 HZ WILDMERE 13-29-48-5         0487568    UWI:                                               
+    00/12-29-048-05W4/9                              04/13-29-048-05W4/9                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM SPARKY MBR                          
+
+    GEAR 9HZ WILDMERE 12-29-48-5          0487568    UWI:                                               
+    00/12-29-048-05W4/8                              02/11-29-048-05W4/8                                
+
+                                                     WELL NAME:                                         
+                                                     GEAR 9 HZ WILDMERE 11-29-48-5                      
+
+    RHE PERRY 7-24-63-23                  0489732    UWI:                                               
+    00/04-19-063-22W4/7                              00/03-24-063-23W4/7                                
+
+                                                     WELL NAME:                                         
+                                                     RHE PERRY 3-24-63-23                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM UPPER MANNVILLE FM                  
+
+                                                     DRILL CUTTINGS:                                    
+                                                     583.70 TO 2432.44                                  
+
+    RHE MEANOOK 4-19-63-22                0489732    UWI:                                               
+    00/04-19-063-22W4/6                              00/07-24-063-23W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     RHE PERRY 7-24-63-23                               
+
+    RHE MEANOOK 4-19-63-22                0489732    UWI:                                               
+    00/04-19-063-22W4/3                              00/01-24-063-23W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     RHE PERRY 1-24-63-23                               
+
+    RHE MEANOOK 4-19-63-22                0489732    UWI:                                               
+    00/04-19-063-22W4/2                              00/02-24-063-23W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     RHE PERRY 2-24-63-23                               
+
+    OBE HZ WILLGR 2-8-42-7                0490687    SURFACE CO-ORDINATES:                              
+    100/02-08-042-07W5/00                            S 0071.8 E 0504.6                                  
+
+    CNRL 102 HZ GORD 16-23-79-12          0490749    UWI:                                               
+    02/16-23-079-12W6/0                              02/08-23-079-12W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL HZ 102 GORD 8-23-79-12                        
+
+                                                     GROUND ELEVATION                                   
+                                                     660.9                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0790.5 W 0331.0                                  
+
+    CNRL HZ GORD 9-23-79-12               0490750    UWI:                                               
+    00/09-23-079-12W6/0                              02/01-23-079-12W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL HZ 102 GORD 1-23-79-12                        
+
+                                                     GROUND ELEVATION                                   
+                                                     660.6                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0802.2 W 0319.6                                  
+
+                                                     SURFACE LOCATION:                                  
+                                                     08-21-079-12W6                                     
+
+    SPL 14-14 HZ MARTENH 2-26-73-25       0491050    UWI:                                               
+    00/01-26-073-25W4/4                              00/16-23-073-25W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 14-14 HZ MARTENH 16-23-73-25                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 14-14 HZ MARTENH 1-26-73-25       0491050    UWI:                                               
+    00/01-26-073-25W4/3                              02/02-26-073-25W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 14-14 HZ MARTENH 2-26-73-25                    
+
+    SPL 14-14 HZ MARTENH 1-26-73-25       0491050    UWI:                                               
+    00/01-26-073-25W4/2                              02/15-23-073-25W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 14-14 HZ MARTENH 15-23-73-25                   
+
+    SPL 14-14 HZ MARTENH 2-26-73-25       0491051    UWI:                                               
+    00/02-26-073-25W4/6                              00/15-23-073-25W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 14-14 HZ MARTENH 15-23-73-25                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 14-14 HZ MARTENH 2-26-73-25       0491051    UWI:                                               
+    00/02-26-073-25W4/4                              00/15-23-073-25W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 14-14 HZ MARTENH 15-23-73-25                   
+
+    CVE FCCL B4 KIRBY 4-7-75-6            0491610    SURFACE CO-ORDINATES:                              
+    1AA/04-07-075-06W4/00                            N 0095.3 E 0084.7                                  
+
+    OBE 100 HZ WILLGR 4-30-42-7           0491857    GROUND ELEVATION                                   
+    100/04-30-042-07W5/00                            977.8                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0079.7 E 0510.7                                  
+
+    SPL 12-32 HZ NIPISI 11-33-76-7        0491913    UWI:                                               
+    00/06-33-076-07W5/5                              00/11-33-076-07W5/5                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     700.00 TO 2500.00                                  
+
+    PETRUS HZ FERRIER 4-16-38-8           0492797    GROUND ELEVATION                                   
+    100/04-16-038-08W5/00                            1033.0                                             
+
+    CVE 15-34 HZ MARTENH 10-35-74-25      0494052    UWI:                                               
+    00/09-35-074-25W4/6                              02/08-35-074-25W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     CVE 15-34 HZ MARTENH 8-35-74-25                    
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    DELTASTREAM MARTENH 14-30-74-24       0494344    UWI:                                               
+    02/13-30-074-24W4/8                              02/14-30-074-24W4/8                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    DELTASTREAM MARTENH 13-30-74-24       0494344    UWI:                                               
+    02/13-30-074-24W4/6                              02/14-30-074-24W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     DELTASTREAM MARTENH 14-30-74-24                    
+
+    SPL 15-12 HZ 102 MARTENH 15-13-74-25  0495071    UWI:                                               
+    02/09-01-074-25W4/6                              00/15-13-074-25W4/6                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 15-12 HZ 102 MARTENH 9-1-74-25    0495071    UWI:                                               
+    02/09-01-074-25W4/5                              00/15-13-074-25W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-12 HZ 102 MARTENH 15-13-74-25               
+
+    SPL 15-12 HZ 102 MARTENH 9-1-74-25    0495071    UWI:                                               
+    02/09-01-074-25W4/4                              00/15-13-074-25W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-12 HZ 102 MARTENH 15-13-74-25               
+
+    SPL 15-12 HZ 102 MARTENH 9-1-74-25    0495071    UWI:                                               
+    02/09-01-074-25W4/3                              00/15-13-074-25W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-12 HZ 102 MARTENH 15-13-74-25               
+
+    SPL 15-12 HZ 102 MARTENH 9-1-74-25    0495071    UWI:                                               
+    02/09-01-074-25W4/2                              00/15-13-074-25W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-12 HZ 102 MARTENH 15-13-74-25               
+
+    TOURMALINE HZ03 MINEHEAD 10-32-49-19  0495329    UWI:                                               
+    03/16-29-049-19W5/2                              00/01-32-049-19W5/2                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ03 MINEHEAD 1-32-49-19                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM FALHER MBR                                
+
+                                                     DRILL CUTTINGS:                                    
+                                                     2675.00 TO 5250.00                                 
+
+    TOURMALINE HZ02 MINEHEAD 14-29-49-19  0495345    UWI:                                               
+    02/14-29-049-19W5/0                              02/06-05-050-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ ANSELL 6-5-50-19                     
+
+    TOURMALINE HZ102 ANSELL 12-4-50-19    0495903    UWI:                                               
+    02/12-04-050-19W5/0                              00/05-09-050-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ102 ANSELL 5-9-50-19                  
+
+    SPL 4-28 HZ MARTENH 4-28-73-24        0495968    UWI:                                               
+    00/04-21-073-24W4/8                              00/01-20-073-24W4/8                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 4-28 HZ SMITH 1-20-73-24                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 4-28 HZ SMITH 4-21-73-24          0495968    UWI:                                               
+    00/04-21-073-24W4/7                              00/01-20-073-24W4/7                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 4-28 HZ SMITH 1-20-73-24                       
+
+    SPL 4-28 HZ SMITH 4-21-73-24          0495968    UWI:                                               
+    00/04-21-073-24W4/6                              00/01-20-073-24W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 4-28 HZ SMITH 1-20-73-24                       
+
+    SPL 8-20 HZ 102 SMITH 8-19-73-24      0495970    UWI:                                               
+    02/01-19-073-24W4/6                              02/08-19-073-24W4/6                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 8-20 HZ 102 SMITH 1-19-73-24      0495970    UWI:                                               
+    02/01-19-073-24W4/5                              02/08-19-073-24W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 8-20 HZ 102 SMITH 8-19-73-24                   
+
+    SPL 8-20 HZ 102 SMITH 1-19-73-24      0495970    UWI:                                               
+    02/01-19-073-24W4/4                              02/08-19-073-24W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 8-20 HZ 102 SMITH 8-19-73-24                   
+
+    SPL 8-20 HZ 102 SMITH 5-22-73-24      0495972    UWI:                                               
+    02/04-22-073-24W4/5                              02/06-22-073-24W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 8-20 HZ 102 SMITH 6-22-73-24                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 8-20 HZ 102 SMITH 4-22-73-24      0495972    UWI:                                               
+    02/04-22-073-24W4/6                              02/05-22-073-24W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 8-20 HZ 102 SMITH 5-22-73-24                   
+
+    SPL 8-20 HZ 102 SMITH 4-22-73-24      0495972    UWI:                                               
+    02/04-22-073-24W4/4                              02/05-22-073-24W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 8-20 HZ 102 SMITH 5-22-73-24                   
+
+    SPL 8-20 HZ 102 SMITH 4-22-73-24      0495972    UWI:                                               
+    02/04-22-073-24W4/3                              02/03-22-073-24W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 8-20 HZ 102 SMITH 3-22-73-24                   
+
+    IPCCAN 15C-5 HZ SUFFIELD 7-5-17-6     0496027    UWI:                                               
+    04/07-05-017-06W4/4                              03/10-05-017-06W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     IPCCAN 15C-5 HZ SUFFIELD 10-5-17-6                 
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.13                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GLAUCONITIC SS                      
+
+    IPCCAN 15C-5 HZ SUFFIELD 7-5-17-6     0496027    UWI:                                               
+    04/07-05-017-06W4/2                              04/02-05-017-06W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     IPCCAN 15C-5 HZ SUFFIELD 2-5-17-6                  
+
+    OBE HZ WILLGR 12-15-43-8              0496059    UWI:                                               
+    00/12-15-043-08W5/0                              00/05-15-043-08W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     OBE HZ 102 WILLGR 5-15-43-8                        
+
+    MURPHY 16-27A KAYBOB 12-4-65-17       0496277    UWI:                                               
+    00/12-04-065-17W5/0                              00/16-05-065-17W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     MURPHY 16-27A KAYBOB 16-5-65-17                    
+
+    T5 ENERGY FERRIER 2-7-43-9            0496280    UWI:                                               
+    00/02-07-043-09W5/0                              00/10-07-043-09W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     T5 ENERGY FERRIER 10-7-43-9                        
+
+    JACOS HANGSTN 12-6-84-10              0496592    SURFACE CO-ORDINATES:                              
+    1AB/12-06-084-10W4/00                            S 0628.6 E 0087.8                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    JACOS OV2 HANGSTN 16-2-84-11          0496599    SURFACE CO-ORDINATES:                              
+    1AB/16-02-084-11W4/00                            S 0062.3 E 0085.2                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    JACOS OV2 HANGSTN 14-7-84-10          0496601    SURFACE CO-ORDINATES:                              
+    1AB/14-07-084-10W4/00                            S 0020.4 E 0542.2                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    SPL 16-3 HZ JARVIE 11-1-63-1          0497312    UWI:                                               
+    00/11-01-063-01W5/0                              00/10-01-063-01W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 16-3 HZ JARVIE 10-1-63-1                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM UPPER MANNVILLE FM                  
+
+    TXNE 14B-10 HZ  COUNTESS 2-14-22-16   0497476    UWI:                                               
+    00/02-14-022-16W4/0                              04/01-14-022-16W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TXNE 14B-10 HZ COUNTESS 1-14-22-16                 
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.16                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM BASAL QUARTZ SD                     
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    NEWALTA ELM 8-17-67-5                 0487981                                                       
+    100/08-17-067-05W6/00                                                                               
+
+    PEYTO SUNDANCE 14-20-55-22            0487989                                                       
+    100/14-20-055-22W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

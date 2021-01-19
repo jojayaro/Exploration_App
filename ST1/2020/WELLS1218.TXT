@@ -1,0 +1,130 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 18 December 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    WLEC 9HZ 3D8 PROVOST 8-33-39-5       0499084   ALBERTA CROWN        679.7M                          
+    100/08-33-039-05W4/00  N  735.8M  W  220.0M    WAINWRIGHT           2650.0M                         
+    DEV (NC)                             PROVOST                        REX MBR                         
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WEST LAKE ENERGY CORP.                                              08-32-039-05W4                  
+                                                                                                        
+    WESTBRICK HZ PEMBINA 14-31-48-12     0499085   ALBERTA CROWN        981.3M                          
+    100/14-31-048-12W5/00  S  788.5M  W   94.4M    DRAYTON VALLEY       5000.0M                         
+    DEV (C)                              PEMBINA                        ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WESTBRICK ENERGY LTD.                                               09-25-048-13W5                  
+                                                                                                        
+    WESTBRICK HZ BRAZR 16-30-48-12       0499086   ALBERTA CROWN        981.5M                          
+    100/16-30-048-12W5/00  S  798.5M  W   94.4M    DRAYTON VALLEY       4300.0M                         
+    DEV (C)                              BRAZEAU RIVER                  ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WESTBRICK ENERGY LTD.                                               09-25-048-13W5                  
+                                                                                                        
+    TXNE 15C-16 HZ ALDSON 16-8-15-14     0499087   FREEHOLD             769M                            
+    100/16-08-015-14W4/00  S   89.0M  W  742.4M    MEDICINE HAT         3200.0M                         
+    DEV (NC)                             ALDERSON                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  15-16-015-14W4                  
+                                                                                                        
+    WLEC HZ 4B5 PROVOST 5-11-39-2        0499088   ALBERTA CROWN        694.7M                          
+    100/05-11-039-02W4/00  S  169.3M  E  458.5M    WAINWRIGHT           3250.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WEST LAKE ENERGY CORP.                                              14-14-039-02W4                  
+                                                                                                        
+    WLEC HZ 4A12 PROVOST 12-11-39-2      0499089   ALBERTA CROWN        695.3M                          
+    100/12-11-039-02W4/00  S  169.3M  E  468.5M    WAINWRIGHT           2900.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WEST LAKE ENERGY CORP.                                              14-14-039-02W4                  
+                                                                                                        
+    WLEC HZ 3A11 PROVOST 11-11-39-2      0499090   ALBERTA CROWN        695.7M                          
+    100/11-11-039-02W4/00  S  169.3M  E  478.5M    WAINWRIGHT           3000.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WEST LAKE ENERGY CORP.                                              14-14-039-02W4                  
+                                                                                                        
+    HUSKY HZ MINEHEAD 16-11-49-19        0499091   ALBERTA CROWN        1081.9M                         
+    100/16-11-049-19W5/00  N  121.1M  E  740.8M    DRAYTON VALLEY       5220.0M                         
+    DEV (NC)                             MINEHEAD                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    HUSKY OIL OPERATIONS LIMITED                                        03-23-049-19W5                  
+                                                                                                        
+    HUSKY HZ MINEHEAD 6-26-49-19         0499092   ALBERTA CROWN        1081.9M                         
+    100/06-26-049-19W5/00  N  129.7M  E  732.5M    DRAYTON VALLEY       5264.0M                         
+    DEV (NC)                             MINEHEAD                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    HUSKY OIL OPERATIONS LIMITED                                        03-23-049-19W5                  
+                                                                                                        
+    HUSKY HZ MINEHEAD 13-11-49-19        0499093   ALBERTA CROWN        1081.8M                         
+    100/13-11-049-19W5/00  N  138.3M  E  724.2M    DRAYTON VALLEY       5085.0M                         
+    DEV (NC)                             MINEHEAD                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    HUSKY OIL OPERATIONS LIMITED                                        03-23-049-19W5                  
+                                                                                                        
+    HUSKY HZ MINEHEAD 5-26-49-19         0499094   ALBERTA CROWN        1081.8M                         
+    100/05-26-049-19W5/00  N  147.0M  E  715.9M    DRAYTON VALLEY       5358.0M                         
+    DEV (NC)                             MINEHEAD                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    HUSKY OIL OPERATIONS LIMITED                                        03-23-049-19W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    WESTBRICK HZ 104 WILLGR 4-8-44-9       0498825   GROUND ELEVATION                                   
+    104/04-08-044-09W5/00                            1011.10                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0734.5 E 0425.5                                  
+
+    VEI HZ PEMBINA 5-2-51-13               0498920   GROUND ELEVATION                                   
+    102/05-02-051-13W5/00                            1008.90                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0218.2 E 0755.5                                  
+
+    BIR 14-6 HZ PCOUPE 2-31-78-12          0499066   TERMINATING ZONE:                                  
+    100/02-31-078-12W6/00                            Montney Fm                                         
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    RIDGEBACK 104 HZ PEMBINA 4-22-48-11    0490107   UWI:                                               
+    04/04-22-048-11W5/0                              02/03-22-048-11W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     RIDGEBACK 102 HZ PEMBINA 3-22-48-11                
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     03-22-048-11W5                                     
+
+    HUSKY 3HZ T1 WILDMERE 12-23-48-6       0497590   UWI:                                               
+    00/12-23-048-06W4/2                              02/05-23-048-06W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     HUSKY 3HZ T1 WILDMERE 5-23-48-6                    
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     05-23-048-06W4                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

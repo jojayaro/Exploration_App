@@ -1,0 +1,187 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 27 February 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    TQN HZ FERRIER 1-24-44-10            0497797   FREEHOLD             1011.4M                         
+    100/01-24-044-10W5/00  N  771.7M  W   63.8M    RED DEER             4775.0M                         
+    DEV (NC)                             FERRIER                        UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TAQA NORTH LTD.                                                     08-23-044-10W5                  
+                                                                                                        
+    TQN HZ FERRIER 16-24-44-10           0497798   FREEHOLD             1010.5M                         
+    104/16-24-044-10W5/00  N  771.7M  W   73.8M    RED DEER             4750.0M                         
+    DEV (NC)                             FERRIER                        UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TAQA NORTH LTD.                                                     08-23-044-10W5                  
+                                                                                                        
+    BONTERRA 102 HZ PEMBINA 8-18-47-6    0497799   ALBERTA CROWN        896.5M                          
+    102/08-18-047-06W5/00  N  592.8M  W  201.3M    DRAYTON VALLEY       3135.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BONTERRA ENERGY CORP.                                               08-13-047-07W5                  
+                                                                                                        
+    BONTERRA 103 HZ PEMBINA 8-18-47-6    0497800   ALBERTA CROWN        896.6M                          
+    103/08-18-047-06W5/00  N  582.8M  W  201.3M    DRAYTON VALLEY       3150.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BONTERRA ENERGY CORP.                                               08-13-047-07W5                  
+                                                                                                        
+    BONTERRA HZ PEMBINA 1-18-47-6        0497801   ALBERTA CROWN        896.7M                          
+    100/01-18-047-06W5/00  N  572.9M  W  201.3M    DRAYTON VALLEY       3260.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BONTERRA ENERGY CORP.                                               08-13-047-07W5                  
+                                                                                                        
+    PEYTO CHAMBERS 16-22-41-11           0497802   ALBERTA CROWN        1112.2M                         
+    100/16-22-041-11W5/00  S  288.5M  W  279.9M    RED DEER             4200.0M                         
+    DEV (C)                              CHAMBERS                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               16-21-041-11W5                  
+                                                                                                        
+    WLEC MHZ 2D14 PROVOST 14-15-38-3     0497803   ALBERTA CROWN        684.6M                          
+    100/14-15-038-03W4/00  N  465.9M  E  572.1M    WAINWRIGHT           1850.0M                         
+    DEV (NC)                             PROVOST                        GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WEST LAKE ENERGY CORP.                                              06-15-038-03W4                  
+                                                                                                        
+    WLEC MHZ 1C6 PROVOST 6-10-38-3       0497804   ALBERTA CROWN        685M                            
+    102/06-10-038-03W4/00  N  490.9M  E  572.2M    WAINWRIGHT           2400.0M                         
+    DEV (NC)                             PROVOST                        GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WEST LAKE ENERGY CORP.                                              06-15-038-03W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SPL 11-24 HZ MARTEN 14-25-76-6        0494994    UWI:                                               
+    00/14-25-076-06W5/5                              00/15-25-076-06W5/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 11-24 HZ MARTEN 15-25-76-6                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     750.00 TO 2700.00                                  
+
+    CRESTWYND JILES 5-20-63-21            0495217    UWI:                                               
+    02/05-20-063-21W4/7                              00/04-20-063-21W4/7                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND JILES 4-20-63-21                         
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    SPL 12-27 HZ MARTENH 8-29-73-25       0495264    UWI:                                               
+    00/08-29-073-25W4/0                              W0/05-28-073-25W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 12-27 HZ MARTENH 5-28-73-25                    
+
+    SPL 12-27 HZ 102 MARTENH 5-22-73-25   0495265    UWI:                                               
+    02/05-22-073-25W4/2                              00/13-22-073-25W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 12-27 HZ 102 MARTENH 13-22-73-25               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 1-13 HZ 102 MARTENH 4-17-74-25    0495930    UWI:                                               
+    02/04-17-074-25W4/5                              00/05-17-074-25W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 1-13 HZ 102 MARTENH 5-17-74-25                 
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    POC 02 HZ UKALTA 14-2-57-18           0496661    UWI:                                               
+    02/13-02-057-18W4/6                              02/14-02-057-18W4/6                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    OVV HZ 103 WEMBLEY 13-15-72-9         0497745    GROUND ELEVATION                                   
+    103/13-15-072-09W6/00                            808.0                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0130.2 E 0593.3                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.58                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    OVV HZ 104 WEMBLEY 13-15-72-9         0497746    GROUND ELEVATION                                   
+    104/13-15-072-09W6/00                            808.7                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0165.1 E 0593.3                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.58                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    OVV HZ 105 WEMBLEY 13-15-72-9         0497747    GROUND ELEVATION                                   
+    105/13-15-072-09W6/00                            808.9                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0175.1 E 0593.3                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.58                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    JUPITER HZ RESTHA 10-24-59-2          0488370                                                       
+    100/10-24-059-02W6/00                                                                               
+
+    JUPITER HZ RESTHA 11-24-59-2          0488371                                                       
+    100/11-24-059-02W6/00                                                                               
+
+    CANLIN HZ PEMBINA 9-5-44-6            0493822                                                       
+    100/09-05-044-06W5/00                                                                               
+
+    CANLIN HZ PEMBINA 8-5-44-6            0493823                                                       
+    100/08-05-044-06W5/00                                                                               
+
+    CNRL 9A ST. PAUL 9-36-57-7            0493828                                                       
+    100/09-36-057-07W4/00                                                                               
+
+    CNRL 15D ST. PAUL 15-2-58-7           0493829                                                       
+    100/15-02-058-07W4/00                                                                               
+
+    DELTASTREAM L HZ MARTENH 1-11-75-25   0493835                                                       
+    102/01-11-075-25W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

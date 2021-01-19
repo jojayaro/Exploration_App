@@ -1,0 +1,61 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 26 October 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SPL 10-14 HZ 102 MARTEN 12-15-76-6   0498595   ALBERTA CROWN        694.1M                          
+    102/12-15-076-06W5/00  S  489.4M  W  778.4M    ST. ALBERT           2800.0M                         
+    DEV (NC)                             MARTEN                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SPUR PETROLEUM LTD.                                                 10-14-076-06W5                  
+                                                                                                        
+    GRL 1-4 HZ PROGRESS 8-3-79-8         0498596   ALBERTA CROWN        704.2M                          
+    100/08-03-079-08W6/00  N  250.0M  W   90.0M    GRANDE PRAIRIE       1950.0M                         
+    DEV (NC)                             PROGRESS                       DOE CREEK MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    GRIZZLY RESOURCES LTD.                                              01-04-079-08W6                  
+                                                                                                        
+    CVE 100 HZ PEMBINA 4-30-45-9         0498597   ALBERTA CROWN        882.7M                          
+    100/04-30-045-09W5/00  S  564.7M  W  569.2M    DRAYTON VALLEY       4850.0M                         
+    DEV (NC)                             PEMBINA                        NOTIKEWIN MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CENOVUS ENERGY INC.                                                 10-31-045-09W5                  
+                                                                                                        
+    SPL 8-18 HZ  MARTENH 4-16-74-25      0498598   ALBERTA CROWN        682.5M                          
+    100/04-16-074-25W4/00  N  616.7M  W   54.6M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 08-18-074-25W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SURGE ENERGY 102HZ PROVOST 4-27-39-2  0496641    GROUND ELEVATION                                   
+    102/04-27-039-02W4/00                            703.6                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0418.1 E 0060.0                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM SPARKY MBR                          
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

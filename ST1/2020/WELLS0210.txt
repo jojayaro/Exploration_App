@@ -1,0 +1,136 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 10 February 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL 13C HZ1GP LIND 13-30-56-3       0497678   ALBERTA CROWN        616.5M                          
+    100/13-30-056-03W4/00  S   60.0M  E  230.1M    BONNYVILLE           676.0M                          
+    DEV (NC)                             LINDBERGH                      GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  13-31-056-03W4                  
+                                                                                                        
+    CNRL 13D HZ3GP LIND 13-30-56-3       0497679   ALBERTA CROWN        616.3M                          
+    102/13-30-056-03W4/00  S   60.0M  E  245.1M    BONNYVILLE           652.0M                          
+    DEV (NC)                             LINDBERGH                      GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  13-31-056-03W4                  
+                                                                                                        
+    BOW RIVER MHZ 2A10 PROVOST 10-2-39-2 0497680   ALBERTA CROWN        666.8M                          
+    102/10-02-039-02W4/00  N  224.8M  E  450.3M    WAINWRIGHT           2090.0M                         
+    DEV (NC)                             PROVOST                        GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BOW RIVER ENERGY LTD.                                               03-12-039-02W4                  
+                                                                                                        
+    VESTA TINDA 4-18-37-28               0497681   BOTH                 940.7M                          
+    100/04-18-037-28W4/00  N  576.9M  E  420.2M    RED DEER             6600.0M                         
+    DEV (C)                              TINDASTOLL                     DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VESTA ENERGY LTD.                                                   06-30-037-28W4                  
+                                                                                                        
+    VESTA TINDA 3-18-37-28               0497682   BOTH                 940.8M                          
+    102/03-18-037-28W4/00  N  576.5M  E  430.2M    RED DEER             6600.0M                         
+    DEV (C)                              TINDASTOLL                     DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VESTA ENERGY LTD.                                                   06-30-037-28W4                  
+                                                                                                        
+    VESTA 03 WELL TINDA 3-18-37-28       0497683   BOTH                 940.8M                          
+    103/03-18-037-28W4/00  N  576.9M  E  440.2M    RED DEER             6600.0M                         
+    DEV (C)                              TINDASTOLL                     DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VESTA ENERGY LTD.                                                   06-30-037-28W4                  
+                                                                                                        
+    CABOT ENERGY 103 RAINBOW 12-6-111-6  0497684   ALBERTA CROWN        513.9M                          
+    103/12-06-111-06W6/00  S  137.7M  E  508.6M    HIGH LEVEL           1700.0M                         
+    DEV (NC)                             RAINBOW                        KEG RIVER FM                    
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    CABOT ENERGY INC.                                                   14-06-111-06W6                  
+                                                                                                        
+    PARA WAPITI 15-8-66-6                0497685   ALBERTA CROWN        817.1M                          
+    100/15-08-066-06W6/00  S   26.5M  W  628.9M    GRANDE PRAIRIE       4214.0M                         
+    OTH (NC)                             WAPITI                         LEDUC FM                        
+    DIRECTIONAL                          NEW       DISPOSAL             WATER                           
+    PARAMOUNT RESOURCES LTD.                                            15-08-066-06W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    TOURMALINE HZ LELAND 4-22-58-27       0493819    UWI:                                               
+    00/04-22-058-27W5/0                              00/01-21-058-27W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ LELAND 1-21-58-27                    
+
+    ROCKEAST HZ 107 PROVOST 10-2-40-9     0494800    SURFACE CO-ORDINATES:                              
+    107/10-02-040-09W4/00                            N 0514.2 W 0126.4                                  
+
+    XTO HZ KAKWA 8-33-62-5                0495340    UWI:                                               
+    02/08-33-062-05W6/0                              03/01-33-062-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     XTO HZ KAKWA 1-33-62-5                             
+
+    7GEN HZ KAKWA 14-11-62-4              0496004    UWI:                                               
+    00/14-11-062-04W6/0                              02/04-14-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 4-14-62-4                            
+
+    CNRL HZ 102 TABERS 3-19-7-16          0496150    UWI:                                               
+    02/03-19-007-16W4/0                              02/06-19-007-16W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL HZ 102 TABERS 6-19-7-16                       
+
+    T5 ENERGY FERRIER 10-7-43-9           0496280    UWI:                                               
+    00/02-07-043-09W5/2                              00/15-07-043-09W5/2                                
+
+                                                     WELL NAME:                                         
+                                                     T5 ENERGY FERRIER 15-7-43-9                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+    ARTIS HZ 102 TWINING 1-2-32-25        0496513    MINERAL RIGHTS:                                    
+    102/01-02-032-25W4/00                            CROWN/FREEHOLD                                     
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM DUVERNAY FM                         
+
+    PEYTO WILD RIV 5-36-55-24             0496548    UWI:                                               
+    00/05-36-055-24W5/0                              03/08-35-055-24W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     PEYTO WILD RIV 8-35-55-24                          
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM CARDIUM FM                                
+
+    FHEC 19-GT977-MR1 2-2-96-10           0496939    UWI:                                               
+    00/02-02-096-10W4/0                              03/02-20-096-10W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     FHEC 19-GT977-MR1 2-20-96-10                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

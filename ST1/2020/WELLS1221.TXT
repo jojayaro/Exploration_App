@@ -1,0 +1,115 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 21 December 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    WINSLOW HZ WILLGR 1-26-44-7          0499096   BOTH                 956.1M                          
+    100/01-26-044-07W5/00  S  204.4M  W  744.1M    RED DEER             5200.0M                         
+    DEV (NC)                             WILLESDEN GREEN                UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WINSLOW RESOURCES INC.                                              15-35-044-07W5                  
+                                                                                                        
+    STRATH-CONA HZ KAKWA 3-28-61-3       0499097   ALBERTA CROWN        1088.6M                         
+    1W0/03-28-061-03W6/00  S 1623.8M  E  501.7M    GRANDE PRAIRIE       6100.0M                         
+    DEV (NC)                             KAKWA                          WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    STRATHCONA RESOURCES LTD.                                           03-04-062-03W6                  
+                                                                                                        
+    STRATH-CONA HZ KAKWA 1-28-61-3       0499098   ALBERTA CROWN        1088.6M                         
+    1W0/01-28-061-03W6/00  S 1624.4M  E  509.2M    GRANDE PRAIRIE       6250.0M                         
+    DEV (NC)                             KAKWA                          WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    STRATHCONA RESOURCES LTD.                                           03-04-062-03W6                  
+                                                                                                        
+    CNRL SC03 CAVERN LEMING 12-8-66-5    0499099   ALBERTA CROWN        639.1M                          
+    120/12-08-066-05W4/00  S  710.4M  E  206.6M    BONNYVILLE           924.0M                          
+    OTH (NC)                             LEMING                         PRAIRIE EVAPORITE FM            
+    DIRECTIONAL                          NEW       DISPOSAL             WASTE                           
+    CANADIAN NATURAL RESOURCES LIMITED                                  12-08-066-05W4                  
+                                                                                                        
+    ANEGADA HZ 12B WEMBLEY 12-11-72-9    0499100   ALBERTA CROWN        811.5M                          
+    102/12-11-072-09W6/00  S  571.3M  W  234.0M    GRANDE PRAIRIE       6640.0M                         
+    DEV (C)                              WEMBLEY                        CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ANEGADA OIL CORP.                                                   09-07-072-08W6                  
+                                                                                                        
+    ANEGADA HZ 2A WEMBLEY 2-31-71-8      0499101   ALBERTA CROWN        811.3M                          
+    100/02-31-071-08W6/00  S  586.3M  W  234.0M    GRANDE PRAIRIE       6300.0M                         
+    DEV (C)                              WEMBLEY                        CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ANEGADA OIL CORP.                                                   09-07-072-08W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    TQN HZ FERRIER 1-24-44-10              0497797   SURFACE RIGHTS:                                    
+    100/01-24-044-10W5/00                            Alberta Crown                                      
+
+    CNRL 11B HZ SUGDEN 11-18-63-6          0498053   SURFACE CO-ORDINATES:                              
+    100/11-18-063-06W4/00                            S 0303.1 W 0750.7                                  
+
+    CNRL 10D HZ SUGDEN 10-18-63-6          0498054   SURFACE CO-ORDINATES:                              
+    102/10-18-063-06W4/00                            S 0303.1 W 0741.1                                  
+
+    CNRL 11C HZ SUGDEN 11-18-63-6          0498055   SURFACE CO-ORDINATES:                              
+    102/11-18-063-06W4/00                            S 0303.1 W 0714.7                                  
+
+    CVE G05I01 LEISMER 1-16-76-6           0498958   MAX CALC EPZ:                                      
+    107/01-16-076-06W4/00                            0.71                                               
+
+    CVE G05I04 LEISMER 1-16-76-6           0498961   CATEGORY:                                          
+    108/01-16-076-06W4/00                            D570                                               
+
+                                                     MAX CALC EPZ:                                      
+                                                     0.77                                               
+
+    CVE G05I05 LEISMER 1-16-76-6           0498962   CATEGORY:                                          
+    109/01-16-076-06W4/00                            D570                                               
+
+                                                     MAX CALC EPZ:                                      
+                                                     0.77                                               
+
+    CVE G05I06 LEISMER 2-16-76-6           0498963   CATEGORY:                                          
+    104/02-16-076-06W4/00                            D570                                               
+
+                                                     MAX CALC EPZ:                                      
+                                                     0.71                                               
+
+    CVE G05I07 LEISMER 2-16-76-6           0498964   CATEGORY:                                          
+    105/02-16-076-06W4/00                            D570                                               
+
+                                                     MAX CALC EPZ:                                      
+                                                     0.71                                               
+
+    CVE G05I08 LEISMER 2-16-76-6           0498965   CATEGORY:                                          
+    106/02-16-076-06W4/00                            D570                                               
+
+                                                     MAX CALC EPZ:                                      
+                                                     0.71                                               
+
+    CVE G05I09 LEISMER 2-16-76-6           0498966   CATEGORY:                                          
+    107/02-16-076-06W4/00                            D570                                               
+
+                                                     MAX CALC EPZ:                                      
+                                                     0.71                                               
+
+    TXNE 3A-33 HZ ALDSON 3-29-15-15        0499073   SURFACE CO-ORDINATES:                              
+    100/03-29-015-15W4/00                            N 0043.2 E 0793.6                                  
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

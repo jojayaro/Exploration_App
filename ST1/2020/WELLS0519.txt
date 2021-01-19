@@ -1,0 +1,136 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 19 May 2020                                                                                   
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    PEYTO LAWRNC 1-20-42-12              0498049   ALBERTA CROWN        1285.8M                         
+    100/01-20-042-12W5/00  N    2.4M  E  611.9M    RED DEER             4550.0M                         
+    DEV (C)                              LAWRENCE                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               03-29-042-12W5                  
+                                                                                                        
+    PEYTO LAWRNC 4-21-42-12              0498050   ALBERTA CROWN        1285.8M                         
+    100/04-21-042-12W5/00  S 1611.7M  E  613.2M    RED DEER             4575.0M                         
+    DEV (C)                              LAWRENCE                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               03-29-042-12W5                  
+                                                                                                        
+    IMP N01 N02W-825 LEMING 8-35-66-3    0498051   ALBERTA CROWN        646M                            
+    104/08-35-066-03W4/00  N  650.9M  W   43.1M    BONNYVILLE           387.0M                          
+    DSW (NC)                             UNDEFINED                      GRAND RAPIDS FM                 
+    SLANT                                NEW       OBSERVATION          NONE                            
+    IMPERIAL OIL RESOURCES LIMITED                                      08-35-066-03W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CHEVRON 102 HZ FOXCK 13-10-62-19      0492889    UWI:                                               
+    02/13-10-062-19W5/0                              S0/04-15-062-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     CHEVRON 102 HZ FOXCK 4-15-62-19                    
+
+    CVE 12-29 HZ MARTENH 5-30-75-2        0495060    UWI:                                               
+    00/05-30-075-02W5/0                              00/12-29-075-02W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     CVE 12-29 HZ MARTENH 12-29-75-2                    
+
+    SCL HZ FC781E KAYBOB 12-29-63-18      0495253    UWI:                                               
+    00/12-29-063-18W5/0                              00/02-31-063-18W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     SCL HZ FC781E KAYBOB 2-31-63-18                    
+
+    CVE B8-14 A7 HARDY 7-14-77-6          0495632    UWI:                                               
+    AB/07-14-077-06W4/0                              AD/08-14-077-06W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CVE B8-14 A7 HARDY 8-14-77-6                       
+
+    CVE D2-25 B15 FISHER 15-26-70-6       0496267    UWI:                                               
+    AA/15-26-070-06W4/0                              AB/04-25-070-06W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CVE D2-25 B15 FISHER 4-25-70-6                     
+
+    CRESTWYND RADWAY 16-23-59-20          0496782    UWI:                                               
+    00/16-23-059-20W4/6                              02/12-23-059-20W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND RADWAY 12-23-59-20                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM UPPER MANNVILLE FM                  
+
+    NORPET HZ NELSON 1-26-45-25           0496888    UWI:                                               
+    00/01-26-045-25W4/0                              02/07-26-045-25W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     NORPET HZ NELSON 7-26-45-25                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM BASAL QUARTZ SD                     
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    PEYTO WHHORSE 4-9-49-15               0489171                                                       
+    100/04-09-049-15W5/00                                                                               
+
+    JUPITER HZ SMOKY 1-21-59-1            0489177                                                       
+    100/01-21-059-01W6/00                                                                               
+
+    JUPITER HZ RESTHA 4-4-60-2            0489178                                                       
+    102/04-04-060-02W6/00                                                                               
+
+    JUPITER HZ RESTHA 12-4-60-2           0489179                                                       
+    103/12-04-060-02W6/00                                                                               
+
+    DELTASTREAM HZ MARTEN 16-27-76-5      0489181                                                       
+    100/16-27-076-05W5/00                                                                               
+
+    DELTASTREAM HZ MARTEN 9-27-76-5       0489182                                                       
+    100/09-27-076-05W5/00                                                                               
+
+    CANAMAX 02 HZ FLOOD 14-24-85-25       0489188                                                       
+    102/14-24-085-25W5/00                                                                               
+
+    CANAMAX 02 HZ FLOOD 15-24-85-25       0489189                                                       
+    102/15-24-085-25W5/00                                                                               
+
+    GXO 102 BRANCH 14-33-1-19             0489192                                                       
+    102/14-33-001-19W4/00                                                                               
+
+    HIGH GROUND HZ 02 PROVOST 15-3-35-4   0489198                                                       
+    102/15-03-035-04W4/00                                                                               
+
+    BHEC KAYBOBS 12-25-60-20              0494452                                                       
+    100/12-25-060-20W5/00                                                                               
+
+    TAC 16-22 HZ PEMBINA 9-24-46-10       0494487                                                       
+    100/09-24-046-10W5/00                                                                               
+
+    CARDINAL 102 HZ ALDSON 9-19-15-11     0494491                                                       
+    102/09-19-015-11W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

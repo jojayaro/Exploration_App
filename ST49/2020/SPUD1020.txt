@@ -1,0 +1,23 @@
+Report Number: ST-49                                                                              Alberta Energy Regulator                                                                                      Page 1 of 1
+Run Date: 20 Oct 2020                                                                           DAILY DRILLING ACTIVITY LIST                                                                                               
+                                                                                   For the Notification Period 19 Oct 2020 To 20 Oct 2020                                                                                  
+
+      WELL ID                    WELL NAME               LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                                  BA ID               NAME              NUMBER                                                                                     TOTAL DEPTH     TYPE    
+------------------- ------------------------------------ -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------------------- ------------- -----------
+02/05-05-047-07W5/0 BONTERRA HZ 102 PEMBINA 5-5-47-7      0498190 A2EN   Ironhand Drilling Inc.              1 19 Oct 2020 06:00:00 PM Drayton Valley 0XZ4  Bonterra Energy Corp.                               Drill To LD
+02/14-30-050-19W5/0 TOURMALINE HZ 102 ANSELL 14-30-50-19  0498369 A6PR   Nabors Drilling Canada Limited     58 19 Oct 2020 06:30:00 PM Drayton Valley A573  Tourmaline Oil Corp.                                Resumption 
+00/15-10-056-21W5/0 PEYTO SUNDANCE 15-10-56-21            0498138 0Z41   Ensign Drilling Inc.              432 20 Oct 2020 12:30:00 AM Drayton Valley 0YA2  Peyto Exploration & Development Corp.               Drill To LD
+04/15-10-062-19W5/0 CHEVRON 104 HZ FOXCK 15-10-62-19      0498131 0Z41   Ensign Drilling Inc.              770 20 Oct 2020 06:45:00 AM St. Albert     0045  Chevron Canada Limited                              Drill To LD
+00/05-22-074-24W4/0 SPL 1-20 HZ MARTENH 5-22-74-24        0498438 0Y52   Precision Drilling Corporation    147 20 Oct 2020 11:30:00 AM St. Albert     A7GR  Spur Petroleum Ltd.                                 Drill To LD
+03/13-09-075-25W4/0 DELTASTREAM MARTENH 13-9-75-25        0498338 A2CL   Komat Drilling Ltd.                 3 20 Oct 2020 07:00:00 AM St. Albert     A6YA  Deltastream Energy Corporation                      Set Surface
+00/14-09-075-25W4/0 DELTASTREAM MARTENH 14-9-75-25        0498340 A2CL   Komat Drilling Ltd.                 3 19 Oct 2020 01:30:00 PM St. Albert     A6YA  Deltastream Energy Corporation                      Set Surface
+
+                                                                         TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 4                                                                         
+                                                                         TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                         
+                                                                         TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 1                                                                         
+                                                                         TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 2                                                                         
+
+                                                                                             TOTAL NUMBER OF WELLS LISTED = 7                                                                                              
+                                                                                                   *** END OF REPORT ***                                                                                                   
+

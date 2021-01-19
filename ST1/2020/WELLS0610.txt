@@ -1,0 +1,70 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 10 June 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CVE B6-30 D13 FISHER 9-30-70-5        0496266    UWI:                                               
+    AA/13-29-070-05W4/2                              AA/11-29-070-05W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CVE B6-30 D13 FISHER 11-29-70-5                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    BELLATRIX UMNV FERRIER 13-12-44-10    0494733                                                       
+    100/13-12-044-10W5/00                                                                               
+
+    BLACKSPUR HZ 102 NEWELL 14-34-17-14   0494735                                                       
+    102/14-34-017-14W4/00                                                                               
+
+    POC HZ MANN 11-30-50-9                0494746                                                       
+    100/11-30-050-09W4/00                                                                               
+
+    POC 02 HZ MANN 15-30-50-9             0494747                                                       
+    102/15-30-050-09W4/00                                                                               
+
+    PEINC HZ MANN 4-27-50-8               0494754                                                       
+    100/04-27-050-08W4/00                                                                               
+
+    PEINC 02 HZ MANN 15-33-50-8           0494755                                                       
+    102/15-33-050-08W4/00                                                                               
+
+    MEG K7PR HARDY 4-7-77-5               0494758                                                       
+    108/04-07-077-05W4/00                                                                               
+
+    CNRL 1C WOLF LK 1-5-64-6              0494761                                                       
+    106/01-05-064-06W4/00                                                                               
+
+    CNRL 1D WOLF LK 1-5-64-6              0494762                                                       
+    107/01-05-064-06W4/00                                                                               
+
+    CNRL 14C WOLF LK 14-32-63-6           0494765                                                       
+    103/14-32-063-06W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

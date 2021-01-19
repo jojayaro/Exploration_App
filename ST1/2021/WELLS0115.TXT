@@ -1,0 +1,76 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 15 January 2021                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    VESTA 100- CYGNET 4-22-38-28         0499284   BOTH                 948.2M                          
+    100/04-22-038-28W4/00  S  100.7M  W  730.9M    RED DEER             6300.0M                         
+    DEV (C)                              CYGNET                         DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VESTA ENERGY LTD.                                                   15-27-038-28W4                  
+                                                                                                        
+    VESTA 102 CYGNET 4-22-38-28          0499285   BOTH                 948.9M                          
+    102/04-22-038-28W4/00  S  100.7M  W  720.9M    RED DEER             6300.0M                         
+    DEV (C)                              CYGNET                         DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VESTA ENERGY LTD.                                                   15-27-038-28W4                  
+                                                                                                        
+    VESTA 100 CYGNET 3-22-38-28          0499286   BOTH                 948.3M                          
+    100/03-22-038-28W4/00  S  100.7M  W  710.9M    RED DEER             6300.0M                         
+    DEV (C)                              CYGNET                         DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VESTA ENERGY LTD.                                                   15-27-038-28W4                  
+                                                                                                        
+    VESTA 100 CYGNET 2-22-38-28          0499287   BOTH                 949M                            
+    100/02-22-038-28W4/00  S  100.7M  W  700.9M    RED DEER             6300.0M                         
+    DEV (C)                              CYGNET                         DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VESTA ENERGY LTD.                                                   15-27-038-28W4                  
+                                                                                                        
+    TQN FERRIER 1-29-44-10               0499288   FREEHOLD             969.4M                          
+    102/01-29-044-10W5/00  N  145.0M  W   70.0M    RED DEER             4099.0M                         
+    DEV (NC)                             FERRIER                        NOTIKEWIN MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TAQA NORTH LTD.                                                     01-30-044-10W5                  
+                                                                                                        
+    TXNE 15C-2 HZ 102 COUNTESS 4-2-20-18 0499289   FREEHOLD             820.6M                          
+    102/04-02-020-18W4/00  S   90.0M  W  624.9M    MIDNAPORE            2850.0M                         
+    DEV (NC)                             COUNTESS                       GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  15-02-020-18W4                  
+                                                                                                        
+    TXNE 15C-2 HZ COUNTESS 1-12-20-18    0499290   FREEHOLD             820.7M                          
+    100/01-12-020-18W4/00  S   75.0M  W  625.0M    MIDNAPORE            3200.0M                         
+    DEV (NC)                             COUNTESS                       LOWER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  15-02-020-18W4                  
+                                                                                                        
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    HUSKY 3HZ T3 WILDMERE 13-25-48-6       0497592   UWI:                                               
+    00/13-25-048-06W4/0                              02/04-25-048-06W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     HUSKY 3HZ T3 WILDMERE 4-25-48-6                    
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     04-25-048-06W4                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

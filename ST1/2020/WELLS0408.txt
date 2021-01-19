@@ -1,0 +1,160 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 08 April 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SPL 15-35 HZ MARTENH 16-2-74-25       0495589    UWI:                                               
+    00/15-02-074-25W4/4                              03/16-02-074-25W4/4                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 6-31 HZ MARTEN 4-30-76-6          0495882    UWI:                                               
+    00/02-30-076-06W5/3                              00/03-30-076-06W5/3                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 6-31 HZ MARTEN 3-30-76-6                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     600.00 TO 2600.00                                  
+
+    SPL 3-36 HZ NIPISI 3-31-76-6          0495937    UWI:                                               
+    00/03-31-076-06W5/0                              00/04-31-076-06W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 3-36 HZ NIPISI 4-31-76-6                       
+
+    SPL 3-36 HZ 102 NIPISI 3-31-76-6      0495938    UWI:                                               
+    02/03-31-076-06W5/3                              W0/04-31-076-06W5/3                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 3-36 HZ 102 NIPISI 4-31-76-6                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2600.00                                  
+
+    SPL 1-5 HZ MARTEN 4-4-77-6            0496050    UWI:                                               
+    02/04-03-077-06W5/9                              00/02-04-077-06W5/9                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 1-5 HZ 102 MARTEN 2-4-77-6                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2900.00                                  
+
+    TURNSTONE HZ GODIN 2-19-81-4          0496618    UWI:                                               
+    00/07-18-081-04W5/5                              00/09-18-081-04W5/5                                
+
+                                                     WELL NAME:                                         
+                                                     TURNSTONE HZ GODIN 9-18-81-4                       
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.05                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SUMMERLAND HZ FIGURE 3-21-64-16       0496780    UWI:                                               
+    00/03-21-064-16W4/2                              00/02-21-064-16W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     SUMMERLAND HZ FIGURE 2-21-64-16                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     420.00 TO 565.00                                   
+
+    BAYTEX HZ 100 SLAVE 14-23-84-15       0496864    UWI:                                               
+    00/15-15-084-15W5/8                              00/10-22-084-15W5/8                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX HZ 100 SLAVE 10-22-84-15                    
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM BLUESKY FM                      
+
+    WLEC MHZ 2B4 PROVOST 1-5-39-2         0497233    WELL NAME:                                         
+    1S0/04-04-039-02W4/05                            WLEC MHZ 2B4 PROVOST 4-4-                          
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GENERAL PETROLEUM MBR               
+
+    POC UKALTA 8-10-57-18                 0497336    UWI:                                               
+    00/01-10-057-18W4/4                              03/08-10-057-18W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     POC HZ UKALTA 8-10-57-18                           
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CVE B15I01 LEISMER 3-12-76-6          0494116                                                       
+    117/03-12-076-06W4/00                                                                               
+
+    CVE B15I02 KIRBY 14-1-76-6            0494117                                                       
+    102/14-01-076-06W4/00                                                                               
+
+    CVE B15I03 KIRBY 13-1-76-6            0494118                                                       
+    106/13-01-076-06W4/00                                                                               
+
+    CVE B15I04 KIRBY 13-1-76-6            0494119                                                       
+    107/13-01-076-06W4/00                                                                               
+
+    CVE B15I05 KIRBY 12-1-76-6            0494120                                                       
+    117/12-01-076-06W4/00                                                                               
+
+    CVE B15P02 KIRBY 14-1-76-6            0494123                                                       
+    103/14-01-076-06W4/00                                                                               
+
+    CVE B15P03 KIRBY 13-1-76-6            0494124                                                       
+    108/13-01-076-06W4/00                                                                               
+
+    CVE B15P04 KIRBY 13-1-76-6            0494125                                                       
+    109/13-01-076-06W4/00                                                                               
+
+    CVE B15P05 KIRBY 12-1-76-6            0494126                                                       
+    118/12-01-076-06W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

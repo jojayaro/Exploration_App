@@ -1,0 +1,172 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 07 December 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    TXNE 1A-20 HZ BANTRY 2-18-16-13      0498919   FREEHOLD             744M                            
+    100/02-18-016-13W4/00  N  135.9M  W   59.4M    MEDICINE HAT         3750.0M                         
+    DEV (NC)                             BANTRY                         ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  01-20-016-13W4                  
+                                                                                                        
+    VEI HZ PEMBINA 5-2-51-13             0498920   ALBERTA CROWN        1008.6M                         
+    102/05-02-051-13W5/00  S  205.5M  E  763.4M    DRAYTON VALLEY       5694.0M                         
+    DEV (NC)                             PEMBINA                        ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    VERMILION ENERGY INC.                                               14-36-050-13W5                  
+                                                                                                        
+    VEI HZ PEMBINA 13-2-51-13            0498921   ALBERTA CROWN        1008.9M                         
+    100/13-02-051-13W5/00  S  218.2M  E  755.5M    DRAYTON VALLEY       5973.0M                         
+    DEV (NC)                             PEMBINA                        ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    VERMILION ENERGY INC.                                               14-36-050-13W5                  
+                                                                                                        
+    TOURMALINE HZ PEPPERS 15-3-52-23     0498922   ALBERTA CROWN        1363.5M                         
+    100/15-03-052-23W5/00  S   95.7M  E  349.8M    DRAYTON VALLEY       6300.0M                         
+    DEV (C)                              PEPPERS                        SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                13-01-052-23W5                  
+                                                                                                        
+    TOURMALINE HZ PEPPERS 2-3-52-23      0498923   ALBERTA CROWN        1363.5M                         
+    100/02-03-052-23W5/00  S   95.9M  E  354.7M    DRAYTON VALLEY       6500.0M                         
+    DEV (C)                              PEPPERS                        SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                13-01-052-23W5                  
+                                                                                                        
+    7GEN HZ KAKWA 11-15-64-6             0498924   ALBERTA CROWN        876.3M                          
+    100/11-15-064-06W6/00  S  741.2M  W  461.9M    GRANDE PRAIRIE       6500.0M                         
+    DEV (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       10-11-064-06W6                  
+                                                                                                        
+    7GEN HZ 104 KAKWA 14-15-64-6         0498925   ALBERTA CROWN        876.2M                          
+    104/14-15-064-06W6/00  S  731.2M  W  457.3M    GRANDE PRAIRIE       6500.0M                         
+    DEV (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       10-11-064-06W6                  
+                                                                                                        
+    7GEN HZ 105 KAKWA 14-15-64-6         0498926   ALBERTA CROWN        876.1M                          
+    105/14-15-064-06W6/00  S  721.2M  W  452.7M    GRANDE PRAIRIE       6500.0M                         
+    DEV (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       10-11-064-06W6                  
+                                                                                                        
+    7GEN HZ 103 KAKWA 15-15-64-6         0498927   ALBERTA CROWN        876.3M                          
+    103/15-15-064-06W6/00  S  753.0M  W  412.4M    GRANDE PRAIRIE       6500.0M                         
+    DEV (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       10-11-064-06W6                  
+                                                                                                        
+    7GEN HZ 102 KAKWA 16-15-64-6         0498928   ALBERTA CROWN        876.2M                          
+    102/16-15-064-06W6/00  S  743.0M  W  407.7M    GRANDE PRAIRIE       6500.0M                         
+    DEV (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       10-11-064-06W6                  
+                                                                                                        
+    7GEN HZ 103 KAKWA 16-15-64-6         0498929   ALBERTA CROWN        876.1M                          
+    103/16-15-064-06W6/00  S  733.0M  W  403.1M    GRANDE PRAIRIE       6500.0M                         
+    DEV (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       10-11-064-06W6                  
+                                                                                                        
+    HALO HZ MCKINLEY 2-20-65-22          0498930   ALBERTA CROWN        730.1M                          
+    100/02-20-065-22W5/00  N  384.2M  E  514.7M    ST. ALBERT           4566.0M                         
+    DEV (C)                              MCKINLEY                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    HALO EXPLORATION LTD.                                               03-22-065-22W5                  
+                                                                                                        
+    HALO HZ  MCKINLEY 7-20-65-22         0498931   ALBERTA CROWN        730.1M                          
+    100/07-20-065-22W5/00  N  364.2M  E  514.7M    ST. ALBERT           4467.0M                         
+    DEV (C)                              MCKINLEY                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    HALO EXPLORATION LTD.                                               03-22-065-22W5                  
+                                                                                                        
+    WHITECAP WAPITI 3-7-67-8             0498932   ALBERTA CROWN        855.2M                          
+    100/03-07-067-08W6/00  N  199.9M  E  171.2M    GRANDE PRAIRIE       3258.0M                         
+    DEV (NC)                             WAPITI                         CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WHITECAP RESOURCES INC.                                             04-18-067-08W6                  
+                                                                                                        
+    WHITECAP WAPITI 4-7-67-8             0498933   ALBERTA CROWN        855.2M                          
+    100/04-07-067-08W6/00  N  190.2M  E  173.8M    GRANDE PRAIRIE       3050.0M                         
+    DEV (NC)                             WAPITI                         CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WHITECAP RESOURCES INC.                                             04-18-067-08W6                  
+                                                                                                        
+    WHITECAP 102 ELM 4-7-67-6            0498934   ALBERTA CROWN        855.2M                          
+    102/04-07-067-08W6/00  N  180.6M  E  176.5M    GRANDE PRAIRIE       2983.0M                         
+    DEV (NC)                             WAPITI                         CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WHITECAP RESOURCES INC.                                             04-18-067-08W6                  
+                                                                                                        
+    HALO HZ MCKINLEY 12-21-65-22         0498935   ALBERTA CROWN        730.1M                          
+    100/12-21-065-22W5/00  N  404.2M  E  514.6M    ST. ALBERT           4268.0M                         
+    DEV (C)                              MCKINLEY                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    HALO EXPLORATION LTD.                                               06-22-065-22W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    GRL 102 HZ PROGRESS 4-2-79-8           0493598   UWI:                                               
+    02/04-02-079-08W6/0                              00/15-31-078-07W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     GRL 16-35 HZ VALHALLA 15-31-78-7                   
+
+    PARA HZ 102 ELM 11-28-67-6             0496908   SURFACE CO-ORDINATES:                              
+    102/11-28-067-06W6/00                            N 0630.7 E 0545.9                                  
+
+    PEYTO CHAMBERS 8-12-41-11              0498511   UWI:                                               
+    00/08-12-041-11W5/0                              00/12-07-041-10W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     PEYTO FERRIER 12-7-41-10                           
+
+                                                     PROJECTED DEPTH:                                   
+                                                     4275.00                                            
+
+    RIDGEBACK HZ LOCHEND 12-7-26-2         0498644   GROUND ELEVATION                                   
+    100/12-07-026-02W5/00                            1245.10                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0740.9 E 0146.5                                  
+
+    WHITECAP 102 ELM 4-7-67-6              0498934   UWI:                                               
+    00/04-07-067-06W6/0                              02/04-07-067-08W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     WHITECAP 102 WAPITI 4-7-67-8                       
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    HUSKY 3HZ T2 WILDMERE 13-23-48-6       0497591   UWI:                                               
+    00/13-23-048-06W4/2                              02/12-23-048-06W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     HUSKY 3HZ T2 WILDMERE 12-23-48-6                   
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     12-23-048-06W4                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

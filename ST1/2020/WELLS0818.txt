@@ -1,0 +1,79 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 18 August 2020                                                                                
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    OUC HZ KAKWA 3-5-63-5                0498275   ALBERTA CROWN        1018.4M                         
+    100/03-05-063-05W6/00  S  217.2M  W  190.8M    GRANDE PRAIRIE       6433.0M                         
+    DEV (NC)                             KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ORLEN UPSTREAM CANADA LTD.                                          16-08-063-05W6                  
+                                                                                                        
+    OUC 102 HZ KAKWA 2-5-63-5            0498276   ALBERTA CROWN        1018.4M                         
+    102/02-05-063-05W6/00  S  217.2M  W  178.8M    GRANDE PRAIRIE       6443.0M                         
+    DEV (NC)                             KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ORLEN UPSTREAM CANADA LTD.                                          16-08-063-05W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CHEVRON 103 HZ FOXCK 1-16-62-19       0489389    UWI:                                               
+    03/01-16-062-19W5/0                              02/04-15-062-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     CHEVRON 103 HZ FOXCK 4-15-62-19                    
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    WESTBRICK HZ BRAZR 4-31-46-12         0490437                                                       
+    100/04-31-046-12W5/00                                                                               
+
+    CNRL 7A BEAVRDM 7-14-61-2             0490463                                                       
+    100/07-14-061-02W4/00                                                                               
+
+    CNRL 9A BEAVRDM 9-14-61-2             0490465                                                       
+    100/09-14-061-02W4/00                                                                               
+
+    CNRL 10A BEAVRDM 10-14-61-2           0490466                                                       
+    102/10-14-061-02W4/00                                                                               
+
+    PEYTO ANSELL 1-2-53-21                0490469                                                       
+    102/01-02-053-21W5/00                                                                               
+
+    PEYTO ANSELL 2-2-53-21                0490470                                                       
+    100/02-02-053-21W5/00                                                                               
+
+    DELTASTREAM E HZ MARTENH 15-30-74-24  0495430                                                       
+    102/15-30-074-24W4/00                                                                               
+
+    DELTASTREAM W HZ MARTENH 16-30-74-24  0495431                                                       
+    102/16-30-074-24W4/00                                                                               
+
+    ANEGADA HZ 2A VALHALLA 2-10-75-10     0495454                                                       
+    100/02-10-075-10W6/00                                                                               
+
+    ANEGADA HZ 1A VALHALLA 1-10-75-10     0495455                                                       
+    102/01-10-075-10W6/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

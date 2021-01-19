@@ -1,0 +1,100 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 02 June 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CRESTWYND HZ JILES 15-20-63-21       0498086   ALBERTA CROWN        677.1M                          
+    1S0/15-20-063-21W4/00  S  259.2M  W  744.4M    ST. ALBERT           2601.0M                         
+    DEV (C)                              JILES                          CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESTWYND EXPLORATION LTD.                                          15-19-063-21W4                  
+                                                                                                        
+    CRESTWYND HZ MEANOOK 14-30-63-21     0498087   ALBERTA CROWN        677M                            
+    1S0/14-30-063-21W4/00  S  259.3M  W  754.4M    ST. ALBERT           2527.0M                         
+    DEV (C)                              MEANOOK                        CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESTWYND EXPLORATION LTD.                                          15-19-063-21W4                  
+                                                                                                        
+    CRESTWYND HZ MEANOOK 16-18-63-21     0498088   ALBERTA CROWN        677M                            
+    1S0/16-18-063-21W4/00  S  259.5M  W  764.4M    ST. ALBERT           2630.0M                         
+    DEV (C)                              UNDEFINED                      CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESTWYND EXPLORATION LTD.                                          15-19-063-21W4                  
+                                                                                                        
+    CNRL WDW HZ MCM05 KIRBY 2-22-74-10   0498089   ALBERTA CROWN        671.1M                          
+    102/02-22-074-10W4/00  N  288.5M  E  148.4M    BONNYVILLE           1100.0M                         
+    OTH (NC)                             KIRBY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       DISPOSAL             WASTE                           
+    CANADIAN NATURAL RESOURCES LIMITED                                  04-23-074-10W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    JUPITER HZ 102 KAKWA 15-14-62-5       0496170    UWI:                                               
+    02/15-14-062-05W6/0                              02/15-11-062-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     JUPITER HZ 102 KAKWA 15-11-62-5                    
+
+    CVE D2-25 B15 FISHER 15-26-70-6       0496267    UWI:                                               
+    AA/15-26-070-06W4/8                              AA/07-26-070-06W4/8                                
+
+                                                     WELL NAME:                                         
+                                                     CVE D2-25 B15 FISHER 7-26-70-6                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    CVE D2-25 B15 FISHER 15-26-70-6       0496267    UWI:                                               
+    AA/15-26-070-06W4/5                              AA/10-26-070-06W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     CVE D2-25 B15 FISHER 10-26-70-6                    
+
+    PEYTO CHAMBERS 4-22-41-11             0497578    UWI:                                               
+    00/04-22-041-11W5/0                              00/11-22-041-11W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     PEYTO CHAMBERS 11-22-41-11                         
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM NOTIKEWIN MBR                             
+
+    IMP N02W2-845 LEMING 16-26-66-3       0497842    UWI:                                               
+    03/16-26-066-03W4/0                              03/01-35-066-03W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     IMP N02W2-845 LEMING 1-35-66-3                     
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    GRL 102 HZ VALHALLA 5-31-78-7         0489291                                                       
+    102/05-31-078-07W6/00                                                                               
+
+    YANGARRA HZ CHEDDER 2-14-37-8         0494618                                                       
+    100/02-14-037-08W5/00                                                                               
+
+    KIWETINOHK 103 HZ PEMBINA 3-29-42-4   0494644                                                       
+    103/03-29-042-04W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

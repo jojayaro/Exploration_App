@@ -1,0 +1,67 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 15 June 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CONCOURSE EAGLE 11-13-77-26          0498105   ALBERTA CROWN        576.7M                          
+    104/11-13-077-26W5/00  N  742.3M  E  729.0M    GRANDE PRAIRIE       2800.0M                         
+    XPL (C)                              EAGLESHAM                      PRECAMBRIAN SYSTEM              
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    CONCOURSE PETROLEUM INC.                                            06-13-077-26W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CHEVRON HZ FOXCK 10-10-62-19          0492890    UWI:                                               
+    00/10-10-062-19W5/0                              00/04-15-062-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     CHEVRON HZ FOXCK 4-15-62-19                        
+
+    BIR HZ 104 PCOUPE 7-18-79-12          0496128    UWI:                                               
+    04/07-18-079-12W6/0                              00/15-07-079-12W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     BIR HZ 104 PCOUPE 15-7-79-12                       
+
+    CVE B6-30 D13 FISHER 9-30-70-5        0496266    UWI:                                               
+    AA/13-29-070-05W4/4                              AA/16-30-070-05W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     CVE B6-30 D13 FISHER 16-30-70-5                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    TAC 102 HZ KIPP 6-30-8-23             0497498    UWI:                                               
+    02/06-30-008-23W4/0                              00/02-36-008-24W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TAC 102 HZ PENNY 2-36-8-24                         
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM BANFF FM                            
+
+                                                     DRILL CUTTINGS:                                    
+                                                     1308.00 TO 5664.00                                 
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

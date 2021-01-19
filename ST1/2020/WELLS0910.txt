@@ -1,0 +1,613 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 10 September 2020                                                                             
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CVE B3-3 B3 KIRBY 3-3-76-6           0498372   ALBERTA CROWN        600.1M                          
+    1AB/03-03-076-06W4/00  N  105.6M  E  494.0M    BONNYVILLE           470.0M                          
+    OV (C)                               KIRBY                          MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 03-03-076-06W4                  
+                                                                                                        
+    CVE B4 KIRBY 4-3-76-6                0498373   ALBERTA CROWN        596.9M                          
+    1AC/04-03-076-06W4/00  N  177.8M  E  172.3M    BONNYVILLE           442.0M                          
+    OV (C)                               KIRBY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 04-03-076-06W4                  
+                                                                                                        
+    CVE C13 HARDY 13-9-76-5              0498374   ALBERTA CROWN        586.6M                          
+    1AA/13-09-076-05W4/00  S  133.8M  E   25.2M    BONNYVILLE           433.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 13-09-076-05W4                  
+                                                                                                        
+    CVE C6 HARDY 6-16-76-5               0498375   ALBERTA CROWN        577.7M                          
+    1AB/06-16-076-05W4/00  N  608.3M  E  471.1M    BONNYVILLE           434.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 06-16-076-05W4                  
+                                                                                                        
+    CVE B11 HARDY 11-16-76-5             0498376   ALBERTA CROWN        591.6M                          
+    1AC/11-16-076-05W4/00  S  686.6M  E  594.0M    BONNYVILLE           455.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 11-16-076-05W4                  
+                                                                                                        
+    CVE D14 HARDY 14-16-76-5             0498377   ALBERTA CROWN        571M                            
+    1AA/14-16-076-05W4/00  S   64.2M  E  661.0M    BONNYVILLE           442.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 14-16-076-05W4                  
+                                                                                                        
+    CVE D16 HARDY 16-16-76-5             0498378   ALBERTA CROWN        572.5M                          
+    1AA/16-16-076-05W4/00  S   56.7M  W  186.7M    BONNYVILLE           442.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 16-16-076-05W4                  
+                                                                                                        
+    CVE D1 HARDY 1-17-76-5               0498379   ALBERTA CROWN        576.8M                          
+    1AB/01-17-076-05W4/00  N  329.2M  W   89.7M    BONNYVILLE           434.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 01-17-076-05W4                  
+                                                                                                        
+    CVE A7 HARDY 7-19-76-5               0498380   ALBERTA CROWN        574.3M                          
+    1AA/07-19-076-05W4/00  N  578.2M  W  460.1M    BONNYVILLE           426.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 07-19-076-05W4                  
+                                                                                                        
+    CVE C7 HARDY 7-19-76-5               0498381   ALBERTA CROWN        576.5M                          
+    1AB/07-19-076-05W4/00  N  632.2M  W  790.7M    BONNYVILLE           429.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 07-19-076-05W4                  
+                                                                                                        
+    CVE 2B10 HARDY 10-19-76-5            0498382   ALBERTA CROWN        572.1M                          
+    1AC/10-19-076-05W4/00  S  792.6M  W  676.0M    BONNYVILLE           424.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 10-19-076-05W4                  
+                                                                                                        
+    CVE C10 HARDY 10-19-76-5             0498383   ALBERTA CROWN        571.2M                          
+    1AD/10-19-076-05W4/00  S  498.4M  W  652.9M    BONNYVILLE           424.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 10-19-076-05W4                  
+                                                                                                        
+    CVE A14 HARDY 14-19-76-5             0498384   ALBERTA CROWN        570.3M                          
+    1AE/14-19-076-05W4/00  S  365.3M  E  622.5M    BONNYVILLE           424.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 14-19-076-05W4                  
+                                                                                                        
+    CVE A15-19 A15 HARDY 15-19-76-5      0498385   ALBERTA CROWN        569.2M                          
+    1AF/15-19-076-05W4/00  S  238.4M  W  541.6M    BONNYVILLE           430.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 15-19-076-05W4                  
+                                                                                                        
+    CVE C5 HARDY 5-20-76-5               0498386   ALBERTA CROWN        562.9M                          
+    1AB/05-20-076-05W4/00  N  665.3M  E  182.5M    BONNYVILLE           418.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 05-20-076-05W4                  
+                                                                                                        
+    CVE A3-21 B2 HARDY 2-21-76-5         0498387   ALBERTA CROWN        570M                            
+    1AB/02-21-076-05W4/00  N   85.3M  E  763.9M    BONNYVILLE           468.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 03-21-076-05W4                  
+                                                                                                        
+    CVE D14 HARDY 14-21-76-5             0498388   ALBERTA CROWN        571.7M                          
+    1AB/14-21-076-05W4/00  S   33.9M  E  761.8M    BONNYVILLE           432.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 14-21-076-05W4                  
+                                                                                                        
+    CVE D16-21 D16 HARDY 16-21-76-5      0498389   ALBERTA CROWN        565.1M                          
+    1AA/16-21-076-05W4/00  S  158.4M  W   89.2M    BONNYVILLE           434.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 16-21-076-05W4                  
+                                                                                                        
+    CVE A4 HARDY 4-27-76-5               0498390   ALBERTA CROWN        563.9M                          
+    1AB/04-27-076-05W4/00  S 1620.2M  E  275.3M    BONNYVILLE           413.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 04-27-076-05W4                  
+                                                                                                        
+    CVE C5 HARDY 5-28-76-5               0498391   ALBERTA CROWN        573.5M                          
+    1AB/05-28-076-05W4/00  N  720.9M  E   44.1M    BONNYVILLE           440.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 05-28-076-05W4                  
+                                                                                                        
+    CVE A10 HARDY 10-28-76-5             0498392   ALBERTA CROWN        562.8M                          
+    1AB/10-28-076-05W4/00  S  699.3M  W  471.8M    BONNYVILLE           413.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 10-28-076-05W4                  
+                                                                                                        
+    CVE A12-28 A12 HARDY 12-28-76-5      0498393   ALBERTA CROWN        569.3M                          
+    1AD/12-28-076-05W4/00  S  672.3M  E  371.4M    BONNYVILLE           436.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 12-28-076-05W4                  
+                                                                                                        
+    CVE C4-21 A13 HARDY 13-17-76-5       0498394   ALBERTA CROWN        564.1M                          
+    1AB/13-17-076-05W4/00  N  376.0M  E  103.4M    BONNYVILLE           1969.0M                         
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 04-21-076-05W4                  
+                                                                                                        
+    CVE C3-29 A12 HARDY 12-20-76-5       0498395   ALBERTA CROWN        564.3M                          
+    1AB/12-20-076-05W4/00  N  311.0M  E  411.3M    BONNYVILLE           1464.0M                         
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 03-29-076-05W4                  
+                                                                                                        
+    CVE D2 HARDY 2-30-76-5               0498396   ALBERTA CROWN        568.4M                          
+    1AD/02-30-076-05W4/00  N  288.8M  W  426.9M    BONNYVILLE           437.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 02-30-076-05W4                  
+                                                                                                        
+    CVE B7-30 C2 HARDY 2-30-76-5         0498397   ALBERTA CROWN        569.4M                          
+    1AE/02-30-076-05W4/00  N  439.8M  W  791.7M    BONNYVILLE           473.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 07-30-076-05W4                  
+                                                                                                        
+    CVE A8-30 C8 HARDY 8-30-76-5         0498398   ALBERTA CROWN        561.8M                          
+    1AE/08-30-076-05W4/00  N  586.5M  W   72.0M    BONNYVILLE           494.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 08-30-076-05W4                  
+                                                                                                        
+    CVE D5 KIRBY 5-34-75-6               0498399   ALBERTA CROWN        608.6M                          
+    1AC/05-34-075-06W4/00  N  757.3M  E  393.1M    BONNYVILLE           455.0M                          
+    OV (C)                               KIRBY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 05-34-075-06W4                  
+                                                                                                        
+    CVE D13-34 D13 KIRBY 13-34-75-6      0498400   ALBERTA CROWN        599.5M                          
+    1AD/13-34-075-06W4/00  S   96.4M  E  217.4M    BONNYVILLE           472.0M                          
+    OV (C)                               KIRBY                          MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 13-34-075-06W4                  
+                                                                                                        
+    CVE B5-8 A5 LEISMER 5-8-76-6         0498401   ALBERTA CROWN        579M                            
+    1AB/05-08-076-06W4/00  N  574.4M  E  131.7M    BONNYVILLE           489.0M                          
+    OV (C)                               LEISMER                        MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 05-08-076-06W4                  
+                                                                                                        
+    CVE D5-8 A2 LEISMER 2-8-76-6         0498402   ALBERTA CROWN        574.7M                          
+    1AB/02-08-076-06W4/00  N  751.6M  E  208.4M    BONNYVILLE           1568.0M                         
+    OV (C)                               LEISMER                        MCMURRAY FM                     
+    HORIZONTAL                           NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 05-08-076-06W4                  
+                                                                                                        
+    CVE C16-13 B1 HARDY 1-24-76-6        0498403   ALBERTA CROWN        571.9M                          
+    1AC/01-24-076-06W4/00  S    7.9M  W  391.6M    BONNYVILLE           467.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 16-13-076-06W4                  
+                                                                                                        
+    CVE B9-25 C9 HARDY 9-25-76-6         0498404   ALBERTA CROWN        556.1M                          
+    1AC/09-25-076-06W4/00  S  639.6M  W  317.1M    BONNYVILLE           459.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 09-25-076-06W4                  
+                                                                                                        
+    CVE D9-25 D9 HARDY 9-25-76-6         0498405   ALBERTA CROWN        556M                            
+    1AD/09-25-076-06W4/00  S  533.9M  W  133.9M    BONNYVILLE           438.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 09-25-076-06W4                  
+                                                                                                        
+    SPL 9-20 HZ SMITH 9-19-73-24         0498406   ALBERTA CROWN        651.9M                          
+    100/09-19-073-24W4/00  S  495.0M  W   84.2M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             SMITH                          CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 09-20-073-24W4                  
+                                                                                                        
+    SPL 9-20 HZ SMITH 11-22-73-24        0498407   ALBERTA CROWN        651.4M                          
+    100/11-22-073-24W4/00  S  505.0M  W   74.2M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             SMITH                          CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 09-20-073-24W4                  
+                                                                                                        
+    SPL 9-20 HZ SMITH 14-22-73-24        0498408   ALBERTA CROWN        651.6M                          
+    100/14-22-073-24W4/00  S  495.0M  W   74.2M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             SMITH                          CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 09-20-073-24W4                  
+                                                                                                        
+    SPL 9-20 HZ 103 SMITH 6-22-73-24     0498409   ALBERTA CROWN        651.6M                          
+    103/06-22-073-24W4/00  S  505.0M  W   84.2M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             SMITH                          CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 09-20-073-24W4                  
+                                                                                                        
+    SPL 9-20 HZ 102 SMITH 9-19-73-24     0498410   ALBERTA CROWN        652.1M                          
+    102/09-19-073-24W4/00  S  485.0M  W   84.3M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             SMITH                          CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 09-20-073-24W4                  
+                                                                                                        
+    SPL 9-20 HZ 102 SMITH 14-22-73-24    0498411   ALBERTA CROWN        652M                            
+    102/14-22-073-24W4/00  S  485.0M  W   74.3M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             SMITH                          CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 09-20-073-24W4                  
+                                                                                                        
+    KARVE HZ PROVOST 2-3-35-8            0498412   ALBERTA CROWN        776.2M                          
+    100/02-03-035-08W4/00  N  224.6M  E  652.1M    WAINWRIGHT           2493.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    KARVE ENERGY INC.                                                   03-02-035-08W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SUNCOR OB231 FIREBAG 4-8-95-6         0496554    UWI:                                               
+    AB/04-08-095-06W4/0                              02/04-08-095-06W4/0                                
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.54                                               
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SUNCOR OB234 FIREBAG 13-28-94-6       0496561    UWI:                                               
+    AB/13-28-094-06W4/0                              00/13-28-094-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     587.9                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0128.8 E 0381.7                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SUNCOR OB235 FIREBAG 9-29-94-6        0496562    UWI:                                               
+    AB/09-29-094-06W4/0                              00/09-29-094-06W4/0                                
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0446.5 W 0292.1                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SUNCOR OB236 FIREBAG 12-33-94-6       0496563    UWI:                                               
+    AC/12-33-094-06W4/0                              00/12-33-094-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     595.4                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0771.3 E 0082.5                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SUNCOR OB232 FIREBAG 13-26-94-6       0496564    UWI:                                               
+    AB/13-26-094-06W4/0                              07/13-26-094-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     592.9                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0173.3 E 0201.8                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SUNCOR OB239 FIREBAG 13-17-95-6       0496566    UWI:                                               
+    AB/13-17-095-06W4/0                              00/13-17-095-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     570.0                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0388.2 E 0397.5                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SUNCOR OB240 FIREBAG 7-30-94-5        0496574    UWI:                                               
+    AB/07-30-094-05W4/0                              00/07-30-094-05W4/0                                
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0495.8 W 0690.7                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SUNCOR OB244 FIREBAG 7-29-94-5        0496576    UWI:                                               
+    AA/07-29-094-05W4/0                              00/07-29-094-05W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     581.0                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0579.5 W 0591.0                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SUNCOR OB237 FIREBAG 4-14-95-6        0496578    UWI:                                               
+    AD/04-14-095-06W4/0                              00/04-14-095-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     595.0                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0303.3 E 0058.4                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SUNCOR FIREBAG 4-14-95-6              0496926    UWI:                                               
+    AE/04-14-095-06W4/0                              02/04-14-095-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     595.0                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0303.6 E 0038.0                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SUNCOR LEWIS 10-18-92-8               0497286    UWI:                                               
+    AA/10-18-092-08W4/0                              00/10-18-092-08W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SUNCOR OB LEWIS 10-18-92-8                         
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0556.2 W 0777.9                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SUNCOR LEWIS 10-8-92-8                0497290    UWI:                                               
+    AA/10-08-092-08W4/0                              00/10-08-092-08W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SUNCOR OB LEWIS 10-8-92-8                          
+
+                                                     GROUND ELEVATION                                   
+                                                     409.8                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0675.9 W 0701.6                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SUNCOR LEWIS 1-20-92-8                0497294    UWI:                                               
+    AA/01-20-092-08W4/0                              00/01-20-092-08W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SUNCOR OB LEWIS 1-20-92-8                          
+
+                                                     GROUND ELEVATION                                   
+                                                     430.6                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0396.5 W 0340.7                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SUNCOR LEWIS 1-8-92-8                 0497299    UWI:                                               
+    AA/01-08-092-08W4/0                              00/01-08-092-08W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SUNCOR OB LEWIS 1-8-92-8                           
+
+                                                     GROUND ELEVATION                                   
+                                                     411.8                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0042.5 W 0116.3                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SUNCOR LEWIS 3-31-92-8                0497300    UWI:                                               
+    AA/03-31-092-08W4/0                              00/03-31-092-08W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SUNCOR OB LEWIS 3-31-92-8                          
+
+                                                     GROUND ELEVATION                                   
+                                                     407.7                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0163.1 E 0638.7                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SUNCOR LEWIS 3-32-92-8                0497301    UWI:                                               
+    AA/03-32-092-08W4/0                              00/03-32-092-08W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SUNCOR OB LEWIS 3-32-92-8                          
+
+                                                     GROUND ELEVATION                                   
+                                                     404.7                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0168.2 E 0559.3                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SUNCOR LEWIS 9-15-92-8                0497307    UWI:                                               
+    AA/09-15-092-08W4/0                              00/09-15-092-08W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SUNCOR OB LEWIS 9-15-92-8                          
+
+                                                     GROUND ELEVATION                                   
+                                                     442.7                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0716.0 W 0234.3                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    PEYTO STOLBERG 13-13-43-14            0490777                                                       
+    100/13-13-043-14W5/00                                                                               
+
+    CEQUENCE 12-5 HZ 02 SIMON 10-4-62-26  0490786                                                       
+    102/10-04-062-26W5/00                                                                               
+
+    CEQUENCE 12-5 HZ SIMON 14-8-62-26     0490787                                                       
+    100/14-08-062-26W5/00                                                                               
+
+    CEQUENCE 12-5 HZ 03 SIMON 15-4-62-26  0490788                                                       
+    103/15-04-062-26W5/00                                                                               
+
+    CEQUENCE 12-5 HZ SIMON 5-1-62-27      0490789                                                       
+    100/05-01-062-27W5/00                                                                               
+
+    CNRL 4C FROG LK 4-23-55-3             0490794                                                       
+    102/04-23-055-03W4/00                                                                               
+
+    CNRL 5C FROG LK 5-23-55-3             0490795                                                       
+    102/05-23-055-03W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

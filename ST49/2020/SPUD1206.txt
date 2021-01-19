@@ -1,0 +1,24 @@
+Report Number: ST-49                                                                          Alberta Energy Regulator                                                                                  Page 1 of 1
+Run Date: 06 Dec 2020                                                                       DAILY DRILLING ACTIVITY LIST                                                                                           
+                                                                               For the Notification Period 05 Dec 2020 To 06 Dec 2020                                                                              
+
+      WELL ID                    WELL NAME              LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID            LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                                 BA ID               NAME              NUMBER                                                                              TOTAL DEPTH     TYPE    
+------------------- ----------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------------ ------------- -----------
+03/04-04-034-04W5/0 TIMBERROCK HZ 103 GARR 4-4-34-4      0498637 A6PR   Nabors Drilling Canada Limited      8 06 Dec 2020 12:00:00 AM Red Deer       A16J  TimberRock Energy Corp.                      Drill To LD
+06/15-30-036-04W4/0 SURGE ENERGY 106 PROVOST 15-30-36-4  0498260 0Y52   Precision Drilling Corporation    145 06 Dec 2020 05:44:00 AM Wainwright     0YK4  Surge Energy Inc.                            Resumption 
+00/06-07-043-14W5/0 TOURMALINE HZ STOLBERG 6-7-43-14     0498655 0Z41   Ensign Drilling Inc.             T038 06 Dec 2020 06:00:00 AM Drayton Valley A573  Tourmaline Oil Corp.                         Resumption 
+00/16-05-064-08W6/0 MODERN HZ KAKWA 16-5-64-8            0498608 0Y52   Precision Drilling Corporation    531 06 Dec 2020 05:00:00 AM Grande Prairie A6M8  Modern Resources Inc.                        Resumption 
+00/09-27-066-04W6/0 PARA HZ KARR 9-27-66-4               0498786 A5DR   Fox Drilling Inc.                   3 06 Dec 2020 05:27:00 PM Grande Prairie 0AW4  Paramount Resources Ltd.                     Set Surface
+02/15-03-075-25W4/0 DELTASTREAM MARTENH 15-3-75-25       0498497 A2CL   Komat Drilling Ltd.                 3 06 Dec 2020 12:45:00 AM St. Albert     A6YA  Deltastream Energy Corporation               Set Surface
+00/04-12-077-13W6/0 KELT EXP HZ PCOUPES 4-12-77-13       0498738 A08C   Savanna Drilling Corp.            656 05 Dec 2020 07:30:00 PM Grande Prairie A6D7  Kelt Exploration Ltd.                        Drill To LD
+00/11-33-081-12W5/0 ISLANDER SEAL 11-33-81-12            0498719 0Y52   Precision Drilling Corporation    144 06 Dec 2020 09:00:00 AM St. Albert     A8A9  Islander Oil & Gas Inc.                      Drill To LD
+
+                                                                     TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 3                                                                     
+                                                                     TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                     
+                                                                     TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 3                                                                     
+                                                                     TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 2                                                                     
+
+                                                                                         TOTAL NUMBER OF WELLS LISTED = 8                                                                                          
+                                                                                               *** END OF REPORT ***                                                                                               
+

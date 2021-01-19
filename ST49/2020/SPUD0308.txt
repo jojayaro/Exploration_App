@@ -1,0 +1,24 @@
+Report Number: ST-49                                                                              Alberta Energy Regulator                                                                                       Page 1 of 1
+Run Date: 08 Mar 2020                                                                           DAILY DRILLING ACTIVITY LIST                                                                                                
+                                                                                   For the Notification Period 07 Mar 2020 To 08 Mar 2020                                                                                   
+
+      WELL ID                    WELL NAME               LICENCE  +-------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                                  BA ID               NAME               NUMBER                                                                                     TOTAL DEPTH     TYPE    
+------------------- ------------------------------------ -------- ------ ------------------------------- ------ ----------------------- -------------- ----- ------------------------------------- ------------- -----------
+04/14-26-047-05W4/0 ENERPLUS CORP 04 WILDMERE 14-26-47-5  0497714 0ZG2   Excalibur Drilling Ltd.             10 08 Mar 2020 04:45:00 PM Wainwright     A5RD  Enerplus Corporation                                Drill To LD
+02/09-08-056-24W5/0 PEYTO WILD RIV 9-8-56-24              0497271 0Z41   Ensign Drilling Inc.              T401 07 Mar 2020 07:00:00 PM Drayton Valley 0YA2  Peyto Exploration & Development Corp.               Drill To LD
+AA/04-16-064-03W4/0 OPC ETHELLK 4-16-64-3                 0496993 0Y52   Precision Drilling Corporation     118 07 Mar 2020 07:27:00 PM Bonnyville     A6WN  Osum Production Corp.                               Drill To LD
+AB/11-19-070-03W4/0 CVE D11 FISHER 11-19-70-3             0496274 A0KC   Horizon Drilling Inc.               61 08 Mar 2020 12:24:00 PM Bonnyville     A5D4  Cenovus Energy Inc.                                 Drill To LD
+04/12-15-072-09W6/0 OVV HZ 104 WEMBLEY 12-15-72-9         0490069 0Y52   Precision Drilling Corporation     520 08 Mar 2020 12:30:00 AM Grande Prairie 0026  Ovintiv Canada ULC                                  Drill To LD
+AC/08-26-075-06W4/0 CVE C8 KIRBY 8-26-75-6                0495710 0Y52   Precision Drilling Corporation     292 08 Mar 2020 09:42:00 AM Bonnyville     A5D4  Cenovus Energy Inc.                                 Drill To LD
+02/13-25-078-08W6/0 GRL 102 HZ VALHALLA 13-25-78-8        0488789 A278   EUB-New Rig Drilling Contractor      1 07 Mar 2020 11:15:00 AM Grande Prairie A0TX  Grizzly Resources Ltd.                              Resumption 
+AA/16-07-084-10W4/0 JACOS HANGSTN 16-7-84-10              0496579 A278   EUB-New Rig Drilling Contractor      1 07 Mar 2020 11:45:00 AM Bonnyville     0NY5  Japan Canada Oil Sands Limited                      Resumption 
+
+                                                                         TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 6                                                                          
+                                                                         TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                          
+                                                                         TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 2                                                                          
+                                                                         TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 0                                                                          
+
+                                                                                              TOTAL NUMBER OF WELLS LISTED = 8                                                                                              
+                                                                                                   *** END OF REPORT ***                                                                                                    
+

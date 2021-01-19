@@ -1,0 +1,20 @@
+Report Number: ST-49                                                                          Alberta Energy Regulator                                                                                   Page 1 of 1
+Run Date: 29 Sep 2020                                                                       DAILY DRILLING ACTIVITY LIST                                                                                            
+                                                                               For the Notification Period 28 Sep 2020 To 29 Sep 2020                                                                               
+
+      WELL ID                  WELL NAME            LICENCE  +---------------CONTRACTOR---------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID            LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                             BA ID                 NAME                 NUMBER                                                                              TOTAL DEPTH     TYPE    
+------------------- ------------------------------- -------- ------ ----------------------------------- ------ ----------------------- -------------- ----- ------------------------------ ------------- -----------
+00/02-03-035-08W4/0 KARVE HZ PROVOST 2-3-35-8        0498412 A8AF   Hertz & Paluck Energy Services Inc.      1 29 Sep 2020 01:49:00 PM Wainwright     A7BT  Karve Energy Inc.                            Set Surface
+00/05-21-062-03W6/0 STRATH HZ LATOR 5-21-62-3        0497766 0Y52   Precision Drilling Corporation         529 29 Sep 2020 10:00:00 AM Grande Prairie A8FG  Strathcona Resources Ltd.                    Resumption 
+04/15-14-074-25W4/0 DELTASTREAM MARTENH 15-14-74-25  0498323 A2CL   Komat Drilling Ltd.                      3 29 Sep 2020 09:30:00 AM St. Albert     A6YA  Deltastream Energy Corporation               Set Surface
+14/07-13-082-12W4/0 CLC 202 INF05 DIVIDE 7-13-82-12  0498288 0Y52   Precision Drilling Corporation         199 29 Sep 2020 09:15:00 AM Bonnyville     0A9H  Connacher Oil And Gas Limited                Drill To LD
+
+                                                                     TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 1                                                                      
+                                                                     TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                      
+                                                                     TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 1                                                                      
+                                                                     TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 2                                                                      
+
+                                                                                          TOTAL NUMBER OF WELLS LISTED = 4                                                                                          
+                                                                                               *** END OF REPORT ***                                                                                                
+

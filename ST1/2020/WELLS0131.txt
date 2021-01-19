@@ -1,0 +1,157 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 31 January 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SUNCOR C4PB DOVER 15-4-93-12         0248247   ALBERTA CROWN        399.5M                          
+    102/15-04-093-12W4/02  N  738.5M  E   24.3M    BONNYVILLE           1385.0M                         
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  05-04-093-12W4                  
+                                                                                                        
+    HUSKY 3HZ T1 WILDMERE 12-23-48-6     0497590   FREEHOLD             647M                            
+    100/12-23-048-06W4/00  S  505.7M  E  283.1M    WAINWRIGHT           2496.0M                         
+    DEV (NC)                             WILDMERE                       GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    HUSKY OIL OPERATIONS LIMITED                                        12-24-048-06W4                  
+                                                                                                        
+    HUSKY 3HZ T2 WILDMERE 13-23-48-6     0497591   FREEHOLD             647.2M                          
+    100/13-23-048-06W4/00  S  500.5M  E  293.9M    WAINWRIGHT           2479.0M                         
+    DEV (NC)                             WILDMERE                       GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    HUSKY OIL OPERATIONS LIMITED                                        12-24-048-06W4                  
+                                                                                                        
+    HUSKY 3HZ T3 WILDMERE 13-25-48-6     0497592   FREEHOLD             647.5M                          
+    100/13-25-048-06W4/00  S  495.3M  E  304.7M    WAINWRIGHT           2567.0M                         
+    DEV (NC)                             WILDMERE                       GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    HUSKY OIL OPERATIONS LIMITED                                        12-24-048-06W4                  
+                                                                                                        
+    HUSKY 3HZ T4 WILDMERE 14-25-48-6     0497593   FREEHOLD             647.9M                          
+    102/14-25-048-06W4/00  S  490.1M  E  315.5M    WAINWRIGHT           2741.0M                         
+    DEV (NC)                             WILDMERE                       GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    HUSKY OIL OPERATIONS LIMITED                                        12-24-048-06W4                  
+                                                                                                        
+    FHEC 19-GT993-MR1-VW 3-21-96-10      0497594   ALBERTA CROWN        293M                            
+    102/03-21-096-10W4/00  N  181.5M  E  473.7M    BONNYVILLE           161.0M                          
+    DSW (NC)                             UNDEFINED                      BEAVERHILL LAKE GRP             
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    FORT HILLS ENERGY CORPORATION                                       03-21-096-10W4                  
+                                                                                                        
+    PEYTO SUNDANCE 6-12-55-21            0497595   ALBERTA CROWN        1142.8M                         
+    102/06-12-055-21W5/00  S  211.9M  E  709.0M    DRAYTON VALLEY       5270.0M                         
+    DEV (NC)                             SUNDANCE                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               14-35-054-21W5                  
+                                                                                                        
+    RSO HZ 103 HAYTER 10-19-41-1         0497596   FREEHOLD             661.4M                          
+    103/10-19-041-01W4/00  S   64.5M  E  433.9M    WAINWRIGHT           1253.0M                         
+    DEV (NC)                             HAYTER                         DINA MBR                        
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    RIFLE SHOT OIL CORP.                                                14-19-041-01W4                  
+                                                                                                        
+    RIDGEBACK HZ BONANZA 4-10-83-11      0497597   ALBERTA CROWN        621.2M                          
+    100/04-10-083-11W6/00  S  435.2M  E  594.1M    GRANDE PRAIRIE       4066.0M                         
+    XPL (C)                              BONANZA                        BELLOY FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    RIDGEBACK RESOURCES INC.                                            11-15-083-11W6                  
+                                                                                                        
+    RSO HZ 104 HAYTER 10-19-41-1         0497598   FREEHOLD             661.5M                          
+    104/10-19-041-01W4/00  S   64.5M  E  423.9M    WAINWRIGHT           1362.0M                         
+    DEV (NC)                             HAYTER                         DINA MBR                        
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    RIFLE SHOT OIL CORP.                                                14-19-041-01W4                  
+                                                                                                        
+    CROVERROENERGY SWIMMING 13-24-52-5   0497599   FREEHOLD             613.4M                          
+    100/13-24-052-05W4/00  S  196.0M  E  236.9M    WAINWRIGHT           635.0M                          
+    DEV (C)                              SWIMMING                       DINA MBR                        
+    VERTICAL                             NEW       PRODUCTION           CRUDE OIL                       
+    CROVERRO ENERGY LTD.                                                13-24-052-05W4                  
+                                                                                                        
+    CROVERROENERGY HZ RIVERCRS 5-1-48-1  0497600   FREEHOLD             645.1M                          
+    102/05-01-048-01W4/00  S  211.4M  W  230.8M    WAINWRIGHT           1050.0M                         
+    DEV (C)                              RIVERCOURSE                    CUMMINGS MBR                    
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CROVERRO ENERGY LTD.                                                16-35-047-01W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    VESTA CYGNET 3-20-39-28               0488503    UWI:                                               
+    02/03-20-039-28W4/0                              02/08-32-039-28W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     VESTA GILBY 8-32-39-28                             
+
+    SPL 14-14 HZ MARTENH 2-26-73-25       0491051    UWI:                                               
+    00/02-26-073-25W4/3                              00/15-23-073-25W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 14-14 HZ MARTENH 15-23-73-25                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    7GEN HZ 104 KAKWA 14-12-64-6          0495423    UWI:                                               
+    04/14-12-064-06W6/0                              09/15-12-064-06W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 104 KAKWA 15-12-64-6                       
+
+    WHITECAP HZ KARR 1-7-64-1             0495884    UWI:                                               
+    00/01-07-064-01W6/0                              00/15-06-064-01W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     WHITECAP HZ KARR 15-6-64-1                         
+
+    CARDINAL 102 HZ ALDSON 4-15-16-12     0496010    UWI:                                               
+    02/04-15-016-12W4/0                              03/16-09-016-12W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CARDINAL 102 HZ ALDSON 16-9-16-12                  
+
+    YANGARRA HZ FERRIER 13-22-37-8        0496017    UWI:                                               
+    00/13-22-037-08W5/0                              00/13-10-037-08W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     YANGARRA HZ CAROL 13-10-37-8                       
+
+    PLR SBE HZ WIZARDLK 13-4-48-27        0496226    UWI:                                               
+    00/13-04-048-27W4/0                              03/12-04-048-27W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     PLR SBE HZ WIZARDLK 12-4-48-27                     
+
+    MANCAL 102 BERLRW 6-6-59-24           0496238    UWI:                                               
+    02/06-06-059-24W5/0                              00/05-06-059-24W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     MANCAL 102 BERLRW 5-6-59-24                        
+
+    CARDINAL 103 HZ ALDSON 1-9-15-11      0496306    UWI:                                               
+    03/01-09-015-11W4/0                              02/03-09-015-11W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CARDINAL 103 HZ ALDSON 3-9-15-11                   
+
+    CLC DIVIDE 3-24-82-12                 0496750    GROUND ELEVATION                                   
+    1AB/03-24-082-12W4/00                            742.3                                              
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

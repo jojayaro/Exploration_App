@@ -1,0 +1,166 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 13 February 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL 4B ETHELLK 4-4-64-3             0497704   ALBERTA CROWN        551.9M                          
+    100/04-04-064-03W4/00  N  537.6M  E  218.4M    BONNYVILLE           649.0M                          
+    DEV (NC)                             ETHEL LAKE                     SPARKY MBR                      
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  05-04-064-03W4                  
+                                                                                                        
+    CNRL 4C ETHELLK 4-4-64-3             0497705   ALBERTA CROWN        551.9M                          
+    102/04-04-064-03W4/00  N  550.3M  E  210.5M    BONNYVILLE           494.0M                          
+    DEV (NC)                             ETHEL LAKE                     REX MBR                         
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  05-04-064-03W4                  
+                                                                                                        
+    CNRL 5D ETHELLK 5-4-64-3             0497706   ALBERTA CROWN        551.9M                          
+    100/05-04-064-03W4/00  N  577.9M  E  218.8M    BONNYVILLE           420.0M                          
+    DEV (NC)                             ETHEL LAKE                     REX MBR                         
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  05-04-064-03W4                  
+                                                                                                        
+    CNRL 8C ETHELLK 8-5-64-3             0497707   ALBERTA CROWN        551.9M                          
+    100/08-05-064-03W4/00  N  565.8M  E  209.9M    BONNYVILLE           616.0M                          
+    DEV (NC)                             ETHEL LAKE                     REX MBR                         
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  05-04-064-03W4                  
+                                                                                                        
+    CROVERROENERGY SWIMMING 8-26-52-5    0497708   FREEHOLD             620.1M                          
+    100/08-26-052-05W4/00  N  580.2M  W  115.0M    WAINWRIGHT           640.0M                          
+    DEV (C)                              SWIMMING                       CUMMINGS MBR                    
+    VERTICAL                             NEW       PRODUCTION           CRUDE OIL                       
+    CROVERRO ENERGY LTD.                                                08-26-052-05W4                  
+                                                                                                        
+    VESTA MORNSIDE 13-2-41-27            0497709   BOTH                 863M                            
+    100/13-02-041-27W4/00  N  683.4M  E  689.5M    RED DEER             6800.0M                         
+    DEV (C)                              MORNINGSIDE                    DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VESTA ENERGY LTD.                                                   06-26-040-27W4                  
+                                                                                                        
+    VESTA MORNSIDE 13-2-41-27            0497710   BOTH                 863.2M                          
+    102/13-02-041-27W4/00  N  683.4M  E  699.5M    RED DEER             6800.0M                         
+    DEV (C)                              MORNINGSIDE                    DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VESTA ENERGY LTD.                                                   06-26-040-27W4                  
+                                                                                                        
+    PEYTO SUNDANCE 6-14-55-21            0497711   ALBERTA CROWN        1130.2M                         
+    102/06-14-055-21W5/00  N   48.1M  E  195.3M    DRAYTON VALLEY       4900.0M                         
+    DEV (NC)                             SUNDANCE                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               04-11-055-21W5                  
+                                                                                                        
+    WLEC MHZ 4A5 PROVOST 5-15-38-3       0497712   ALBERTA CROWN        678.9M                          
+    103/05-15-038-03W4/00  S  736.4M  E  297.1M    WAINWRIGHT           2000.0M                         
+    DEV (NC)                             PROVOST                        GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WEST LAKE ENERGY CORP.                                              12-10-038-03W4                  
+                                                                                                        
+    7GEN HZ KARR 5-27-64-4               0497713   ALBERTA CROWN        913M                            
+    100/05-27-064-04W6/00  N  447.9M  W  109.6M    GRANDE PRAIRIE       6300.0M                         
+    DEV (NC)                             KARR                           MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       08-23-064-04W6                  
+                                                                                                        
+    ENERPLUS CORP 06 WILDMERE 14-26-47-5 0497714   FREEHOLD             632.3M                          
+    104/14-26-047-05W4/00  S  138.2M  E  730.0M    WAINWRIGHT           2210.0M                         
+    DEV (NC)                             WILDMERE                       LLOYDMINSTER MBR                
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ENERPLUS CORPORATION                                                14-23-047-05W4                  
+                                                                                                        
+    NUVISTA 102 HZ B KARR 13-9-66-5      0497715   ALBERTA CROWN        923.4M                          
+    102/13-09-066-05W6/00  S  106.7M  E  611.9M    GRANDE PRAIRIE       4609.0M                         
+    DEV (NC)                             KARR                           MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    NUVISTA ENERGY LTD.                                                 14-04-066-05W6                  
+                                                                                                        
+    NUVISTA 100 HZ C KARR 14-9-66-5      0497716   ALBERTA CROWN        923.4M                          
+    100/14-09-066-05W6/00  S  100.0M  E  619.3M    GRANDE PRAIRIE       4566.0M                         
+    DEV (NC)                             KARR                           MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    NUVISTA ENERGY LTD.                                                 14-04-066-05W6                  
+                                                                                                        
+    NUVISTA 102 HZ B KARR 14-9-66-5      0497717   ALBERTA CROWN        923.4M                          
+    102/14-09-066-05W6/00  S   93.3M  E  626.7M    GRANDE PRAIRIE       4664.0M                         
+    DEV (NC)                             KARR                           MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    NUVISTA ENERGY LTD.                                                 14-04-066-05W6                  
+                                                                                                        
+    NUVISTA 103 HZ C KARR 14-9-66-5      0497718   ALBERTA CROWN        923.4M                          
+    103/14-09-066-05W6/00  S   86.6M  E  634.1M    GRANDE PRAIRIE       4619.0M                         
+    DEV (NC)                             KARR                           MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    NUVISTA ENERGY LTD.                                                 14-04-066-05W6                  
+                                                                                                        
+    ENERPLUS CORP 05 WILDMERE 14-26-47-5 0497719   FREEHOLD             632.4M                          
+    105/14-26-047-05W4/00  S  138.2M  E  720.0M    WAINWRIGHT           2250.0M                         
+    DSW (NC)                             WILDMERE                       LLOYDMINSTER MBR                
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    ENERPLUS CORPORATION                                                14-23-047-05W4                  
+                                                                                                        
+    ENERPLUS CORP 04 WILDMERE 14-26-47-5 0497720   FREEHOLD             632.3M                          
+    106/14-26-047-05W4/00  S  138.3M  E  710.0M    WAINWRIGHT           2270.0M                         
+    DSW (NC)                             WILDMERE                       LLOYDMINSTER MBR                
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    ENERPLUS CORPORATION                                                14-23-047-05W4                  
+                                                                                                        
+    ENERPLUS CORP 03 WILDMERE 15-26-47-5 0497721   BOTH                 632.4M                          
+    103/15-26-047-05W4/00  S  138.1M  E  740.0M    WAINWRIGHT           2215.0M                         
+    DEV (NC)                             WILDMERE                       LLOYDMINSTER MBR                
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ENERPLUS CORPORATION                                                14-23-047-05W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CHEVRON HZ KAYBOBS 5-36-61-20         0494549    GROUND ELEVATION                                   
+    100/05-36-061-20W5/00                            878.4                                              
+
+    CHEVRON HZ KAYBOBS 12-36-61-20        0494550    GROUND ELEVATION                                   
+    100/12-36-061-20W5/00                            878.4                                              
+
+    CHEVRON HZ KAYBOBS 13-36-61-20        0494551    GROUND ELEVATION                                   
+    100/13-36-061-20W5/00                            878.4                                              
+
+    CHEVRON HZ KAYBOBS 1-2-62-20          0494552    GROUND ELEVATION                                   
+    100/01-02-062-20W5/00                            878.4                                              
+
+    PEYTO STOLBERG 4-30-43-14             0496559    UWI:                                               
+    00/04-30-043-14W5/0                              00/11-30-043-14W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     PEYTO STOLBERG 11-30-43-14                         
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+    PIPE HZ ELM 4-17-71-8                 0497565    UWI:                                               
+    00/04-17-071-08W6/0                              00/04-17-071-07W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     PIPE HZ DIMSD 4-17-71-7                            
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.28                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

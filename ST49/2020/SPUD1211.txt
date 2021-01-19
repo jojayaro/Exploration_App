@@ -1,0 +1,22 @@
+Report Number: ST-49                                                                         Alberta Energy Regulator                                                                                  Page 1 of 1
+Run Date: 11 Dec 2020                                                                      DAILY DRILLING ACTIVITY LIST                                                                                           
+                                                                              For the Notification Period 10 Dec 2020 To 11 Dec 2020                                                                              
+
+      WELL ID                   WELL NAME             LICENCE  +---------------CONTRACTOR---------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID          LICENSEE          NEW PROJECTED  ACTIVITY  
+                                                               BA ID                 NAME                 NUMBER                                                                          TOTAL DEPTH     TYPE    
+------------------- --------------------------------- -------- ------ ----------------------------------- ------ ----------------------- -------------- ----- -------------------------- ------------- -----------
+00/09-13-034-08W4/0 TAC 7-19 HZ PROVOST 9-13-34-8      0498617 A8AF   Hertz & Paluck Energy Services Inc.      1 11 Dec 2020 08:30:00 AM Wainwright     A5TT  Tamarack Acquisition Corp.               Set Surface
+02/09-13-034-08W4/0 TAC 7-19 HZ 102 PROVOST 9-13-34-8  0498619 A8AF   Hertz & Paluck Energy Services Inc.      1 11 Dec 2020 03:30:00 PM Wainwright     A5TT  Tamarack Acquisition Corp.               Set Surface
+00/10-25-041-06W5/0 ENTRADA HZ  WILLGR 10-25-41-6      0498709 A2EN   Ironhand Drilling Inc.                   9 11 Dec 2020 01:30:00 AM Red Deer       A7DT  Entrada Resources Inc.                   Drill To LD
+00/06-25-044-10W5/0 WINSLOW HZ FERRIER 6-25-44-10      0498844 A6EC   Twilight Drilling Ltd.                   1 10 Dec 2020 09:30:00 PM Red Deer       A172  Winslow Resources Inc.                   Drill To LD
+00/08-03-079-08W6/0 GRL 1-4 HZ PROGRESS 8-3-79-8       0498596 0Y52   Precision Drilling Corporation         182 11 Dec 2020 03:15:00 AM Grande Prairie A0TX  Grizzly Resources Ltd.                   Drill To LD
+00/10-16-089-08W5/0 CRESTWYND HZ REDEARTH 10-16-89-8   0498908 0Y52   Precision Drilling Corporation         187 11 Dec 2020 03:09:00 AM St. Albert     A7MT  Crestwynd Exploration Ltd.               Drill To LD
+
+                                                                    TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 4                                                                     
+                                                                    TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                     
+                                                                    TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                     
+                                                                    TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 2                                                                     
+
+                                                                                         TOTAL NUMBER OF WELLS LISTED = 6                                                                                         
+                                                                                              *** END OF REPORT ***                                                                                               
+

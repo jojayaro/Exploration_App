@@ -1,0 +1,85 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 24 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL HZ EDSON 13-11-52-18            0498810   ALBERTA CROWN        984.1M                          
+    100/13-11-052-18W5/00  S   87.5M  E  467.9M    DRAYTON VALLEY       5834.0M                         
+    DEV (C)                              EDSON                          FALHER MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CANADIAN NATURAL RESOURCES LIMITED                                  14-35-051-18W5                  
+                                                                                                        
+    PARA HZ ELM 1-29-68-5                0498811   ALBERTA CROWN        675.1M                          
+    100/01-29-068-05W6/00  N  312.2M  W  224.7M    GRANDE PRAIRIE       5900.0M                         
+    DEV (C)                              ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PARAMOUNT RESOURCES LTD.                                            01-25-068-06W6                  
+                                                                                                        
+    TOURMALINE HZ KAKWA 13-9-62-4        0498812   ALBERTA CROWN        1046.5M                         
+    100/13-09-062-04W6/00  N  790.7M  W  732.7M    GRANDE PRAIRIE       5009.0M                         
+    DEV (C)                              KAKWA                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                07-10-062-04W6                  
+                                                                                                        
+    TOURMALINE HZ KAKWA 3-9-62-4         0498813   ALBERTA CROWN        1046.5M                         
+    100/03-09-062-04W6/00  N  785.9M  W  731.2M    GRANDE PRAIRIE       4815.0M                         
+    DEV (C)                              KAKWA                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                07-10-062-04W6                  
+                                                                                                        
+    MANCAL 102 HZ PEMBINA 1-22-48-11     0498814   ALBERTA CROWN        943.2M                          
+    102/01-22-048-11W5/00  N  604.3M  W   85.0M    DRAYTON VALLEY       4176.0M                         
+    DEV (NC)                             PEMBINA                        ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    MANCAL ENERGY INC.                                                  08-21-048-11W5                  
+                                                                                                        
+    MANCAL 102 HZ PEMBINA 16-30-49-12    0498815   ALBERTA CROWN        981.6M                          
+    102/16-30-049-12W5/00  S  657.7M  W   98.0M    DRAYTON VALLEY       4029.0M                         
+    DEV (NC)                             PEMBINA                        ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    MANCAL ENERGY INC.                                                  09-25-049-13W5                  
+                                                                                                        
+    SPL 1-31 HZ NIPISI 3-33-76-7         0498816   ALBERTA CROWN        723.5M                          
+    100/03-33-076-07W5/00  N  143.8M  W   78.5M    ST. ALBERT           3100.0M                         
+    DEV (NC)                             NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SPUR PETROLEUM LTD.                                                 01-31-076-07W5                  
+                                                                                                        
+    IMP S02-OB02 LEMING 13-16-66-3       0498817   ALBERTA CROWN        618.5M                          
+    1AA/13-16-066-03W4/00  S  205.4M  E  124.6M    BONNYVILLE           430.0M                          
+    OV (C)                               LEMING                         CLEARWATER FM                   
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      13-16-066-03W4                  
+                                                                                                        
+    IMP S03-OB01 LEMING 8-17-66-3        0498818   ALBERTA CROWN        613.8M                          
+    1AA/08-17-066-03W4/00  N  550.9M  W   46.6M    BONNYVILLE           430.0M                          
+    OV (C)                               LEMING                         CLEARWATER FM                   
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      08-17-066-03W4                  
+                                                                                                        
+    IMP S02-OB04 LEMING 2-20-66-3        0498819   ALBERTA CROWN        622.6M                          
+    1AA/02-20-066-03W4/00  N  250.2M  W  410.9M    BONNYVILLE           430.0M                          
+    OV (C)                               LEMING                         CLEARWATER FM                   
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      02-20-066-03W4                  
+                                                                                                        
+    IMP S02-OV1 LEMING 13-16-66-3        0498820   ALBERTA CROWN        618.5M                          
+    1AB/13-16-066-03W4/00  S  205.4M  E  124.6M    BONNYVILLE           490.0M                          
+    OV (C)                               LEMING                         CLEARWATER FM                   
+    DIRECTIONAL                          NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      13-16-066-03W4                  
+                                                                                                        
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

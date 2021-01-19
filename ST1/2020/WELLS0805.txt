@@ -1,0 +1,40 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 05 August 2020                                                                                
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    7GEN HZ KAKWA 13-34-62-4             0498236   ALBERTA CROWN        1042.4M                         
+    100/13-34-062-04W6/00  N  663.4M  E  585.0M    GRANDE PRAIRIE       6300.0M                         
+    DEV (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       06-26-062-04W6                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    ATH 105 HZ PLACID 4-17-60-23          0490300                                                       
+    105/04-17-060-23W5/00                                                                               
+
+    ATH 102 HZ PLACID 14-28-60-24         0490302                                                       
+    102/14-28-060-24W5/00                                                                               
+
+    ATH 102 HZ PLACID 13-27-60-24         0490316                                                       
+    102/13-27-060-24W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

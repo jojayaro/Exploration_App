@@ -1,0 +1,49 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 04 June 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    TOURMALINE HZ SMOKY 16-24-58-2       0498090   ALBERTA CROWN        1309.3M                         
+    100/16-24-058-02W6/00  N  604.7M  W  115.7M    DRAYTON VALLEY       5540.0M                         
+    DEV (NC)                             SMOKY                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                08-30-058-01W6                  
+                                                                                                        
+    TOURMALINE HZ SMOKY 1-6-59-1         0498091   ALBERTA CROWN        1309.4M                         
+    100/01-06-059-01W6/00  N  608.9M  W  118.1M    DRAYTON VALLEY       6046.0M                         
+    DEV (NC)                             SMOKY                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                08-30-058-01W6                  
+                                                                                                        
+    BEC HZ EDSON 13-19-53-19             0498092   ALBERTA CROWN        985.1M                          
+    100/13-19-053-19W5/00  N  182.7M  W   70.0M    DRAYTON VALLEY       5700.0M                         
+    DEV (NC)                             EDSON                          NOTIKEWIN MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BONAVISTA ENERGY CORPORATION                                        01-13-053-20W5                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    BAYTEX 16C MANN LK 16-33-62-9         0489384                                                       
+    106/16-33-062-09W4/00                                                                               
+
+    BAYTEX 16C2 HZ MANN LK 16-33-62-9     0489385                                                       
+    107/16-33-062-09W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

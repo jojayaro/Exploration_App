@@ -1,0 +1,142 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 19 February 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    RHE 100 PERRY 13-20-63-23            0497750   ALBERTA CROWN        663.6M                          
+    100/13-20-063-23W4/00  S  309.5M  W  215.1M    ST. ALBERT           3000.0M                         
+    DEV (C)                              PERRYVALE                      CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ROLLING HILLS ENERGY LTD.                                           16-24-063-24W4                  
+                                                                                                        
+    ENTRADA 102 HZ WILLGR 16-2-42-6      0497751   ALBERTA CROWN        1092.5M                         
+    102/16-02-042-06W5/00  N  651.0M  W  312.5M    RED DEER             4500.0M                         
+    DEV (NC)                             WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ENTRADA RESOURCES INC.                                              08-35-041-06W5                  
+                                                                                                        
+    PEYTO WILD RIV 4-33-55-24            0497752   ALBERTA CROWN        1170.8M                         
+    100/04-33-055-24W5/00  S   46.6M  E  344.8M    DRAYTON VALLEY       3800.0M                         
+    DEV (C)                              WILD RIVER                     CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               13-33-055-24W5                  
+                                                                                                        
+    PEYTO WILD RIV 3-33-55-24            0497753   ALBERTA CROWN        1170.8M                         
+    100/03-33-055-24W5/00  S   43.1M  E  348.2M    DRAYTON VALLEY       3850.0M                         
+    DEV (C)                              WILD RIVER                     CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               13-33-055-24W5                  
+                                                                                                        
+    PEYTO CHAMBERS 9-15-41-11            0497754   ALBERTA CROWN        1111.2M                         
+    100/09-15-041-11W5/00  N  213.6M  W   22.6M    RED DEER             4100.0M                         
+    DEV (C)                              CHAMBERS                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               01-21-041-11W5                  
+                                                                                                        
+    PEYTO CHAMBERS 13-21-41-11           0497755   ALBERTA CROWN        1111.2M                         
+    102/13-21-041-11W5/00  N  217.6M  W   19.7M    RED DEER             4300.0M                         
+    DEV (C)                              UNDEFINED                      CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               01-21-041-11W5                  
+                                                                                                        
+    ENTRADA HZ WILLGR 13-17-41-5         0497756   ALBERTA CROWN        1005.6M                         
+    100/13-17-041-05W5/00  S  376.1M  W  698.8M    RED DEER             4200.0M                         
+    DEV (NC)                             WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ENTRADA RESOURCES INC.                                              15-16-041-05W5                  
+                                                                                                        
+    7GEN HZ 103 KARR 7-10-64-4           0497757   ALBERTA CROWN        914.6M                          
+    103/07-10-064-04W6/00  S  632.6M  E  107.2M    GRANDE PRAIRIE       6300.0M                         
+    DEV (NC)                             KARR                           MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       12-01-064-04W6                  
+                                                                                                        
+    7GEN HZ 105 KARR 13-11-64-4          0497758   ALBERTA CROWN        915M                            
+    105/13-11-064-04W6/00  S  601.0M  E   97.8M    GRANDE PRAIRIE       6300.0M                         
+    DEV (NC)                             KARR                           MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       12-01-064-04W6                  
+                                                                                                        
+    7GEN HZ 106 KARR 13-11-64-4          0497759   ALBERTA CROWN        915M                            
+    106/13-11-064-04W6/00  S  586.5M  E  145.9M    GRANDE PRAIRIE       6300.0M                         
+    DEV (NC)                             KARR                           MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       12-01-064-04W6                  
+                                                                                                        
+    7GEN HZ 105 KARR 14-11-64-4          0497760   ALBERTA CROWN        915M                            
+    105/14-11-064-04W6/00  S  575.9M  E  142.7M    GRANDE PRAIRIE       6300.0M                         
+    DEV (NC)                             KARR                           MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       12-01-064-04W6                  
+                                                                                                        
+    ARTIS HZ HUXLEY 15-3-34-24           0497761   BOTH                 924.1M                          
+    100/15-03-034-24W4/00  N   70.0M  E  742.4M    RED DEER             6000.0M                         
+    DEV (C)                              HUXLEY                         DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ARTIS EXPLORATION LTD.                                              03-22-034-24W4                  
+                                                                                                        
+    PARA 102 HZ WILLGR 15-14-40-6        0497762   ALBERTA CROWN        954.8M                          
+    102/15-14-040-06W5/00  N   99.7M  E  175.7M    RED DEER             7552.0M                         
+    DEV (NC)                             WILLESDEN GREEN                DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PARAMOUNT RESOURCES LTD.                                            04-07-040-05W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    VESTA CYGNET 16-2-39-28               0494679    UWI:                                               
+    00/16-02-039-28W4/0                              00/01-11-039-28W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     VESTA CYGNET 1-11-39-28                            
+
+    CRESTWYND JILES 5-20-63-21            0495217    UWI:                                               
+    02/05-20-063-21W4/3                              00/04-20-063-21W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND JILES 4-20-63-21                         
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    CPEC HZ JUDYCK 6-4-65-13              0496057    UWI:                                               
+    00/06-04-065-13W5/0                              00/03-04-065-13W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     CPEC HZ JUDYCK 3-4-65-13                           
+
+    PINE CLIFF HZ TWINING 1-15-32-24      0496183    UWI:                                               
+    00/01-15-032-24W4/0                              00/05-14-032-24W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     PINE CLIFF HZ TWINING 5-14-32-24                   
+
+    CLC DIVIDE 13-13-82-12                0496751    UWI:                                               
+    AB/13-13-082-12W4/2                              AB/16-14-082-12W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CLC DIVIDE 16-14-82-12                             
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+                                                     DRILL CUTTINGS:                                    
+                                                     300.00 TO 650.00                                   
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

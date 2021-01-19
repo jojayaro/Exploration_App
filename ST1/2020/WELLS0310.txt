@@ -1,0 +1,346 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 10 March 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    HUSKY K1P STEEPBK 10-17-95-7         0497847   ALBERTA CROWN        440.1M                          
+    112/10-17-095-07W4/00  N  702.8M  W  789.7M    BONNYVILLE           1303.0M                         
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    HUSKY OIL OPERATIONS LIMITED                                        07-20-095-07W4                  
+                                                                                                        
+    SCL GC60A HZ ELM 2-32-67-6           0497848   ALBERTA CROWN        705.4M                          
+    100/02-32-067-06W6/00  N  137.1M  W  467.5M    GRANDE PRAIRIE       5891.0M                         
+    DEV (C)                              ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHELL CANADA LIMITED                                                02-08-068-06W6                  
+                                                                                                        
+    SCL GC60B HZ ELM 1-32-67-6           0497849   ALBERTA CROWN        705.3M                          
+    100/01-32-067-06W6/00  N  142.1M  W  467.5M    GRANDE PRAIRIE       5912.0M                         
+    DEV (C)                              ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHELL CANADA LIMITED                                                02-08-068-06W6                  
+                                                                                                        
+    SCL GC60C HZ ELM 3-32-67-6           0497850   ALBERTA CROWN        705.3M                          
+    100/03-32-067-06W6/00  N  147.0M  W  467.5M    GRANDE PRAIRIE       5865.0M                         
+    DEV (C)                              ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHELL CANADA LIMITED                                                02-08-068-06W6                  
+                                                                                                        
+    SCL GC60D HZ ELM 2-32-67-6           0497851   ALBERTA CROWN        705.2M                          
+    102/02-32-067-06W6/00  N  151.9M  W  467.5M    GRANDE PRAIRIE       5826.0M                         
+    DEV (C)                              ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHELL CANADA LIMITED                                                02-08-068-06W6                  
+                                                                                                        
+    SCL GC60E HZ ELM 1-32-67-6           0497852   ALBERTA CROWN        705.3M                          
+    102/01-32-067-06W6/00  N  156.8M  W  467.5M    GRANDE PRAIRIE       5826.0M                         
+    DEV (C)                              ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHELL CANADA LIMITED                                                02-08-068-06W6                  
+                                                                                                        
+    SCL GC60F HZ ELM 2-32-67-6           0497853   ALBERTA CROWN        705M                            
+    103/02-32-067-06W6/00  N  161.7M  W  467.5M    GRANDE PRAIRIE       5910.0M                         
+    DEV (C)                              ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHELL CANADA LIMITED                                                02-08-068-06W6                  
+                                                                                                        
+    SUNCOR P131P2 FIREBAG 3-15-95-6      0497854   ALBERTA CROWN        600.9M                          
+    1W0/03-15-095-06W4/00  N  225.1M  E  736.9M    BONNYVILLE           1934.0M                         
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  03-14-095-06W4                  
+                                                                                                        
+    SUNCOR P131P3 FIREBAG 2-15-95-6      0497855   ALBERTA CROWN        601M                            
+    102/02-15-095-06W4/00  N  235.2M  E  736.9M    BONNYVILLE           1800.0M                         
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  03-14-095-06W4                  
+                                                                                                        
+    SUNCOR P131P4 FIREBAG 2-15-95-6      0497856   ALBERTA CROWN        601M                            
+    103/02-15-095-06W4/00  N  245.2M  E  736.9M    BONNYVILLE           1787.0M                         
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  03-14-095-06W4                  
+                                                                                                        
+    SUNCOR P131P5 FIREBAG 3-15-95-6      0497857   ALBERTA CROWN        601M                            
+    100/03-15-095-06W4/00  N  255.2M  E  736.9M    BONNYVILLE           1771.0M                         
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  03-14-095-06W4                  
+                                                                                                        
+    SUNCOR P131P6 FIREBAG 3-15-95-6      0497858   ALBERTA CROWN        601M                            
+    102/03-15-095-06W4/00  N  265.2M  E  736.9M    BONNYVILLE           1851.0M                         
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  03-14-095-06W4                  
+                                                                                                        
+    SUNCOR P131P7 FIREBAG 6-15-95-6      0497859   ALBERTA CROWN        601M                            
+    100/06-15-095-06W4/00  N  275.2M  E  736.9M    BONNYVILLE           1933.0M                         
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  03-14-095-06W4                  
+                                                                                                        
+    SUNCOR P131P8 FIREBAG 6-15-95-6      0497860   ALBERTA CROWN        601M                            
+    102/06-15-095-06W4/00  N  285.2M  E  736.9M    BONNYVILLE           1908.0M                         
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  03-14-095-06W4                  
+                                                                                                        
+    SUNCOR P131S1 FIREBAG 14-15-95-6     0497861   ALBERTA CROWN        600.9M                          
+    111/14-15-095-06W4/00  N  215.2M  E  706.9M    BONNYVILLE           2050.0M                         
+    DSW (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    SUNCOR ENERGY INC.                                                  03-14-095-06W4                  
+                                                                                                        
+    SUNCOR P131S2 FIREBAG 3-15-95-6      0497862   ALBERTA CROWN        601M                            
+    1W2/03-15-095-06W4/00  N  225.2M  E  706.9M    BONNYVILLE           1902.0M                         
+    DSW (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    SUNCOR ENERGY INC.                                                  03-14-095-06W4                  
+                                                                                                        
+    SUNCOR P131S3 FIREBAG 2-15-95-6      0497863   ALBERTA CROWN        601M                            
+    104/02-15-095-06W4/00  N  235.2M  E  706.9M    BONNYVILLE           1767.0M                         
+    DSW (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    SUNCOR ENERGY INC.                                                  03-14-095-06W4                  
+                                                                                                        
+    SUNCOR P131S4 FIREBAG 2-15-95-6      0497864   ALBERTA CROWN        601M                            
+    105/02-15-095-06W4/00  N  245.2M  E  706.9M    BONNYVILLE           1751.0M                         
+    DSW (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    SUNCOR ENERGY INC.                                                  03-14-095-06W4                  
+                                                                                                        
+    SUNCOR P131S5 FIREBAG 3-15-95-6      0497865   ALBERTA CROWN        601M                            
+    103/03-15-095-06W4/00  N  255.2M  E  706.9M    BONNYVILLE           1736.0M                         
+    DSW (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    SUNCOR ENERGY INC.                                                  03-14-095-06W4                  
+                                                                                                        
+    SUNCOR P131S6 FIREBAG 3-15-95-6      0497866   ALBERTA CROWN        601M                            
+    104/03-15-095-06W4/00  N  265.2M  E  706.9M    BONNYVILLE           1815.0M                         
+    DSW (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    SUNCOR ENERGY INC.                                                  03-14-095-06W4                  
+                                                                                                        
+    SUNCOR P131S7 FIREBAG 6-15-95-6      0497867   ALBERTA CROWN        601M                            
+    103/06-15-095-06W4/00  N  275.2M  E  706.9M    BONNYVILLE           1901.0M                         
+    DSW (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    SUNCOR ENERGY INC.                                                  03-14-095-06W4                  
+                                                                                                        
+    SUNCOR P131S8 FIREBAG 6-15-95-6      0497868   ALBERTA CROWN        601M                            
+    104/06-15-095-06W4/00  N  285.2M  E  706.9M    BONNYVILLE           1878.0M                         
+    DSW (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    SUNCOR ENERGY INC.                                                  03-14-095-06W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    IPCAB 2A-5HZ SUFFIELD 9-5-17-6        0493299    UWI:                                               
+    05/09-05-017-06W4/0                              05/16-05-017-06W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     IPCCAN 2A-5HZ SUFFIELD 16-5-17-6                   
+
+    BAYTEX HZ SLAVE 4-16-85-15            0493537    UWI:                                               
+    00/04-16-085-15W5/6                              00/09-08-085-15W5/6                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX HZ SLAVE 9-8-85-15                          
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM BLUESKY FM                      
+
+    WHITECAP PEMBINA 2-20-49-11           0494412    UWI:                                               
+    03/02-20-049-11W5/0                              03/01-20-049-11W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     WHITECAP PEMBINA 1-20-49-11                        
+
+    SPL 10-36 HZ MARTENH 10-1-74-25       0494563    UWI:                                               
+    00/10-01-074-25W4/0                              03/16-01-074-25W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 10-36 HZ MARTENH 16-1-74-25                    
+
+    SPL 10-36 HZ MARTENH 9-1-74-25        0494564    UWI:                                               
+    00/09-01-074-25W4/0                              02/16-01-074-25W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 10-36 HZ MARTENH 16-1-74-25                    
+
+    SPL 10-24 HZ MARTEN 5-23-76-6         0494995    UWI:                                               
+    00/05-23-076-06W5/0                              00/06-23-076-06W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 10-24 HZ MARTEN 6-23-76-6                      
+
+    COPRC 1AB ML RESDELN 6-10-83-7        0496014    UWI:                                               
+    AB/06-10-083-07W4/0                              AB/07-10-083-07W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     COPRC 1AB ML RESDELN 7-10-83-7                     
+
+    SPL 1-5 HZ NIPISI 15-31-76-6          0496053    UWI:                                               
+    00/15-31-076-06W5/0                              04/14-31-076-06W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 1-5 HZ NIPISI 14-31-76-6                       
+
+    HUSKY 3HZ R2 WILDMERE 8-19-48-5       0496292    UWI:                                               
+    02/08-19-048-05W4/0                              00/02-19-048-05W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     HUSKY 3HZ R2 WILDMERE 2-19-48-5                    
+
+    CRESTWYND JILES 6-17-63-20            0496304    UWI:                                               
+    00/06-17-063-20W4/4                              00/03-20-063-20W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND JILES 3-20-63-20                         
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    POC 02 HZ UKALTA 14-2-57-18           0496661    UWI:                                               
+    02/13-02-057-18W4/2                              02/14-02-057-18W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     POC HZ UKALTA 14-2-57-18                           
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    CNRL HZ WEMBLEY 15-11-73-11           0496771    UWI:                                               
+    00/15-11-073-11W6/2                              00/03-14-073-11W6/2                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL HZ WEMBLEY 3-14-73-11                         
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.62                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     3                                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    RHE 100 EDWAND 3-14-62-16             0496779    UWI:                                               
+    00/03-14-062-16W4/2                              00/06-14-062-16W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     RHE 100 EDWAND 6-14-62-16                          
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    TXNE 1A-3 HZ ALDSON 7-33-15-14        0496789    UWI:                                               
+    00/07-33-015-14W4/0                              00/14-34-015-14W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TXNE 1A-3 HZ ALDSON 14-34-15-14                    
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.02                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM BASAL QUARTZ SD                     
+
+    TXNE 14D-15 HZ  COUNTESS 4-24-21-16   0496868    UWI:                                               
+    03/04-24-021-16W4/0                              00/01-23-021-16W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TXNE 14D-15 HZ COUNTESS 1-23-21-16                 
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GLAUCONITIC SS                      
+
+    TXNE 15D-17 HZ BANTRY 15-29-20-14     0496904    UWI:                                               
+    02/15-29-020-14W4/0                              00/15-20-020-14W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TXNE 15D-17 HZ BANTRY 15-20-20-14                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GLAUCONITIC SS                      
+
+    WLEC MHZ 3B11 PROVOST 16-31-38-2      0496923    WELL NAME:                                         
+    102/14-31-038-02W4/05                            WLEC MHZ 3B11 PROVOST 14-                          
+
+    SPL 2-16 HZ MARTENH 6-21-76-3         0496927    UWI:                                               
+    00/06-21-076-03W5/2                              00/03-21-076-03W5/2                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 2-16 HZ MARTENH 3-21-76-3                      
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    WLEC 9HZ 1A1 PROVOST 3-28-39-5        0497033    UWI:                                               
+    02/01-28-039-05W4/5                              02/16-21-039-05W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC 9HZ 1A1 PROVOST 16-21-39-5                    
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM REX MBR                             
+
+    R S R 102 HZ MIRAGE 13-21-79-7        0497459    UWI:                                               
+    00/13-21-079-07W6/0                              02/16-21-079-07W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     R S R 102 HZ MIRAGE 16-21-79-7                     
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CHARLIE LAKE FM                     
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    YANGARRA HZ 103 FERRIER 4-23-37-8     0493906                                                       
+    103/04-23-037-08W5/00                                                                               
+
+    TXNR DD BANTRY 16-31-16-13            0493912                                                       
+    103/16-31-016-13W4/00                                                                               
+
+    SURGE ENERGY HZ SAWN LK 4-1-91-13     0493914                                                       
+    100/04-01-091-13W5/00                                                                               
+
+    SURGE ENERGY HZ SAWN LK 5-1-91-13     0493915                                                       
+    100/05-01-091-13W5/00                                                                               
+
+    SURGE ENERGY HZ SAWN LK 12-1-91-13    0493916                                                       
+    100/12-01-091-13W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

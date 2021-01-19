@@ -1,0 +1,26 @@
+Report Number: ST-49                                                                            Alberta Energy Regulator                                                                                    Page 1 of 1
+Run Date: 31 Dec 2020                                                                         DAILY DRILLING ACTIVITY LIST                                                                                             
+                                                                                 For the Notification Period 30 Dec 2020 To 31 Dec 2020                                                                                
+
+      WELL ID                    WELL NAME              LICENCE  +---------------CONTRACTOR---------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID           LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                                 BA ID                 NAME                 NUMBER                                                                             TOTAL DEPTH     TYPE    
+------------------- ----------------------------------- -------- ------ ----------------------------------- ------ ----------------------- -------------- ----- ----------------------------- ------------- -----------
+00/14-36-036-04W4/0 SURGE ENERGY HZ PROVOST 14-36-36-4   0498900 A8AF   Hertz & Paluck Energy Services Inc.      1 30 Dec 2020 06:00:00 PM Wainwright     0YK4  Surge Energy Inc.                           Set Surface
+02/14-36-036-04W4/0 SURGE ENERGY 102 PROVOST 14-36-36-4  0498901 A8AF   Hertz & Paluck Energy Services Inc.      1 30 Dec 2020 08:00:00 AM Wainwright     0YK4  Surge Energy Inc.                           Set Surface
+00/13-31-041-10W5/0 TQN FERRIER 13-31-41-10              0498968 A0KC   Horizon Drilling Inc.                   19 31 Dec 2020 01:00:00 PM Red Deer       A2TG  TAQA North Ltd.                             Drill To LD
+02/14-22-044-14W5/0 TOURMALINE 102 HZ BRAZR 14-22-44-14  0499095 0Z41   Ensign Drilling Inc.                  T038 30 Dec 2020 09:30:00 PM Drayton Valley A573  Tourmaline Oil Corp.                        Set Surface
+00/08-22-064-05W6/0 7GEN HZ KAKWA 8-22-64-5              0498552 A6PR   Nabors Drilling Canada Limited           5 31 Dec 2020 04:27:00 AM Grande Prairie A54C  Seven Generations Energy Ltd.               Drill To LD
+00/09-34-076-06W5/0 SPL 8-33 HZ NIPISI 9-34-76-6         0498531 0GE9   Tempco Drilling Company Inc.             7 31 Dec 2020 07:00:00 AM St. Albert     A7GR  Spur Petroleum Ltd.                         Resumption 
+03/16-25-076-07W5/0 TAC 15-24 HZ 103 NIPISI 16-25-76-7   0499154 A2CL   Komat Drilling Ltd.                      3 31 Dec 2020 01:30:00 AM St. Albert     A5TT  Tamarack Acquisition Corp.                  Set Surface
+02/02-15-095-06W4/0 SUNCOR P131P3 FIREBAG 2-15-95-6      0497855 A6PR   Nabors Drilling Canada Limited         102 30 Dec 2020 08:30:00 AM Bonnyville     0054  Suncor Energy Inc.                          Set Surface
+03/02-15-095-06W4/0 SUNCOR P131P4 FIREBAG 2-15-95-6      0497856 A6PR   Nabors Drilling Canada Limited         102 31 Dec 2020 06:00:00 AM Bonnyville     0054  Suncor Energy Inc.                          Set Surface
+00/03-15-095-06W4/0 SUNCOR P131P5 FIREBAG 3-15-95-6      0497857 A6PR   Nabors Drilling Canada Limited         102 31 Dec 2020 01:45:00 PM Bonnyville     0054  Suncor Energy Inc.                          Set Surface
+
+                                                                       TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 2                                                                       
+                                                                       TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                       
+                                                                       TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 1                                                                       
+                                                                       TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 7                                                                       
+
+                                                                                           TOTAL NUMBER OF WELLS LISTED = 10                                                                                           
+                                                                                                 *** END OF REPORT ***                                                                                                 
+

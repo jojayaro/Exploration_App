@@ -1,0 +1,121 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 20 July 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    TOURMALINE HZ COLUMBIA 5-20-46-15    0498175   ALBERTA CROWN        1181.7M                         
+    100/05-20-046-15W5/00  N   56.9M  W   36.7M    DRAYTON VALLEY       5139.0M                         
+    DEV (NC)                             COLUMBIA                       VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                01-25-046-16W5                  
+                                                                                                        
+    PEYTO EDSON 1-36-53-19               0498176   ALBERTA CROWN        1006.7M                         
+    100/01-36-053-19W5/00  S   60.0M  W  125.0M    DRAYTON VALLEY       3975.0M                         
+    DEV (C)                              EDSON                          NOTIKEWIN MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               16-36-053-19W5                  
+                                                                                                        
+    PEYTO EDSON 3-31-53-18               0498177   ALBERTA CROWN        1006.7M                         
+    100/03-31-053-18W5/00  S   64.9M  W  125.0M    DRAYTON VALLEY       3970.0M                         
+    DEV (C)                              EDSON                          NOTIKEWIN MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               16-36-053-19W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SCL GC60A HZ ELM 2-32-67-6            0497848    UWI:                                               
+    00/02-32-067-06W6/0                              02/03-32-067-06W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     SCL GC60A HZ ELM 3-32-67-6                         
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5896.80                                            
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.97                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    SCL GC60B HZ ELM 1-32-67-6            0497849    UWI:                                               
+    00/01-32-067-06W6/0                              04/02-32-067-06W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     SCL GC60B HZ ELM 2-32-67-6                         
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5811.00                                            
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.97                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    SCL GC60C HZ ELM 3-32-67-6            0497850    UWI:                                               
+    00/03-32-067-06W6/0                              05/02-32-067-06W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     SCL GC60C HZ ELM 2-32-67-6                         
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5773.10                                            
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.97                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    SCL GC60D HZ ELM 2-32-67-6            0497851    PROJECTED DEPTH:                                   
+    102/02-32-067-06W6/00                            5880.20                                            
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.97                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    SCL GC60E HZ ELM 1-32-67-6            0497852    PROJECTED DEPTH:                                   
+    102/01-32-067-06W6/00                            5818.90                                            
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.97                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    SCL GC60F HZ ELM 2-32-67-6            0497853    UWI:                                               
+    03/02-32-067-06W6/0                              03/01-32-067-06W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     SCL GC60F HZ ELM 1-32-67-6                         
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5870.50                                            
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.97                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

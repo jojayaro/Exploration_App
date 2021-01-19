@@ -1,0 +1,22 @@
+Report Number: ST-49                                                                         Alberta Energy Regulator                                                                                 Page 1 of 1
+Run Date: 17 Sep 2020                                                                      DAILY DRILLING ACTIVITY LIST                                                                                          
+                                                                              For the Notification Period 16 Sep 2020 To 17 Sep 2020                                                                             
+
+      WELL ID                   WELL NAME              LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID           LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                                BA ID               NAME              NUMBER                                                                             TOTAL DEPTH     TYPE    
+------------------- ---------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ----------------------------- ------------- -----------
+02/02-11-057-18W4/0 SPL 15-11 HZ 102 UKALTA 2-11-57-18  0498311 0Y52   Precision Drilling Corporation    147 17 Sep 2020 12:00:00 AM St. Albert     A7GR  Spur Petroleum Ltd.                         Resumption 
+02/03-34-065-05W6/0 PARA HZ 102 KARR 3-34-65-5          0498185 A5DR   Fox Drilling Inc.                   3 17 Sep 2020 12:00:00 AM Grande Prairie 0AW4  Paramount Resources Ltd.                    Set Surface
+02/03-34-065-05W6/0 PARA HZ 102 KARR 3-34-65-5          0498185 A5DR   Fox Drilling Inc.                   3 17 Sep 2020 09:47:00 AM Grande Prairie 0AW4  Paramount Resources Ltd.                    Set Surface
+02/11-09-077-07W5/0 SPL 9-10 HZ 102 NIPISI 11-9-77-7    0498355 0GE9   Tempco Drilling Company Inc.        7 16 Sep 2020 09:30:00 PM St. Albert     A7GR  Spur Petroleum Ltd.                         Drill To LD
+09/08-13-082-12W4/0 CLC 202 INF03 DIVIDE 8-13-82-12     0498286 0Y52   Precision Drilling Corporation    199 16 Sep 2020 08:15:00 PM Bonnyville     0A9H  Connacher Oil And Gas Limited               Drill To LD
+18/15-07-093-12W4/2 SUNCOR 750P1B DOVER 15-7-93-12      0453579 0Y52   Precision Drilling Corporation    151 16 Sep 2020 11:00:00 PM Bonnyville     0054  Suncor Energy Inc.                          Resumption 
+
+                                                                    TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 2                                                                    
+                                                                    TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                    
+                                                                    TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 2                                                                    
+                                                                    TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 2                                                                    
+
+                                                                                        TOTAL NUMBER OF WELLS LISTED = 6                                                                                         
+                                                                                              *** END OF REPORT ***                                                                                              
+

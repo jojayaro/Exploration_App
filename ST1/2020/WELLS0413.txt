@@ -1,0 +1,91 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 13 April 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    OUC 102 HZ KAKWA 1-17-63-5            0488863    GROUND ELEVATION                                   
+    102/01-17-063-05W6/00                            1075.8                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0030.6 E 0653.0                                  
+
+    ANEGADA HZ 9D WEMBLEY 9-8-72-8        0497615    UWI:                                               
+    00/09-08-072-08W6/0                              00/13-11-072-09W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     ANEGADA HZ 13B WEMBLEY 13-11-72-9                  
+
+                                                     GROUND ELEVATION                                   
+                                                     811.5                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0571.3 W 0234.0                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.04                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CHARLIE LAKE FM                     
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL 3B LNDBRGH 3-3-55-4              0488768                                                       
+    100/03-03-055-04W4/00                                                                               
+
+    CNRL 6B LNDBRGH 6-3-55-4              0488769                                                       
+    100/06-03-055-04W4/00                                                                               
+
+    TANGLE CREEK HZ WAHIGAN 9-27-63-23    0494154                                                       
+    100/09-27-063-23W5/00                                                                               
+
+    IHI 104 DD PROVOST 13-13-39-10        0494155                                                       
+    104/13-13-039-10W4/00                                                                               
+
+    IHI 106 DD PROVOST 13-13-39-10        0494157                                                       
+    106/13-13-039-10W4/00                                                                               
+
+    HARVEST HZ KAKWA 16-26-64-6           0494159                                                       
+    100/16-26-064-06W6/00                                                                               
+
+    HARVEST HZ KAKWA 9-26-64-6            0494160                                                       
+    100/09-26-064-06W6/00                                                                               
+
+    TANGLE CREEK HZ WAHIGAN 1-34-63-23    0494165                                                       
+    100/01-34-063-23W5/00                                                                               
+
+    WHITECAP FERRIER 1-11-38-7            0494171                                                       
+    100/01-11-038-07W5/00                                                                               
+
+    CANAMAX HZ GRIMSHAW 16-33-83-23       0494175                                                       
+    100/16-33-083-23W5/00                                                                               
+
+    CANAMAX 103 HZ GRIMSHAW 13-27-83-23   0494178                                                       
+    104/13-27-083-23W5/00                                                                               
+
+    CANAMAX HZ GRIMSHAW 16-27-83-23       0494179                                                       
+    102/16-27-083-23W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

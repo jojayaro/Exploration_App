@@ -1,0 +1,148 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 16 December 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AVN 102 HZ PCOUPES 9-33-77-13        0499052   ALBERTA CROWN        756.3M                          
+    102/09-33-076-13W6/00  N  691.4M  W  366.8M    GRANDE PRAIRIE       4600.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              DOIG FM                         
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ADVANTAGE OIL & GAS LTD.                                            08-05-077-13W6                  
+                                                                                                        
+    AVN 102 HZ PCOUPES 2-7-77-13         0499053   ALBERTA CROWN        756.4M                          
+    102/02-07-077-13W6/00  N  681.4M  W  367.0M    GRANDE PRAIRIE       4300.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ADVANTAGE OIL & GAS LTD.                                            08-05-077-13W6                  
+                                                                                                        
+    CVE G05P04 LEISMER 1-16-76-6         0499054   ALBERTA CROWN        584.5M                          
+    113/01-16-076-06W4/00  S  264.8M  W  421.3M    BONNYVILLE           2430.0M                         
+    DEV (NC)                             LEISMER                        MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 15-04-076-06W4                  
+                                                                                                        
+    CVE G05P05 LEISMER 1-16-76-6         0499055   ALBERTA CROWN        584.4M                          
+    114/01-16-076-06W4/00  S  264.8M  W  431.3M    BONNYVILLE           2320.0M                         
+    DEV (NC)                             LEISMER                        MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 15-04-076-06W4                  
+                                                                                                        
+    CVE G05P06 LEISMER 2-16-76-6         0499056   ALBERTA CROWN        584.5M                          
+    110/02-16-076-06W4/00  S  264.8M  W  441.3M    BONNYVILLE           2370.0M                         
+    DEV (NC)                             LEISMER                        MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 15-04-076-06W4                  
+                                                                                                        
+    CVE G05P07 LEISMER 2-16-76-6         0499057   ALBERTA CROWN        584.5M                          
+    111/02-16-076-06W4/00  S  264.8M  W  451.3M    BONNYVILLE           2375.0M                         
+    DEV (NC)                             LEISMER                        MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 15-04-076-06W4                  
+                                                                                                        
+    CVE G05P08 LEISMER 2-16-76-6         0499058   ALBERTA CROWN        584.5M                          
+    112/02-16-076-06W4/00  S  264.8M  W  461.3M    BONNYVILLE           2400.0M                         
+    DEV (NC)                             LEISMER                        MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 15-04-076-06W4                  
+                                                                                                        
+    CVE G05P09 LEISMER 2-16-76-6         0499059   ALBERTA CROWN        584.5M                          
+    113/02-16-076-06W4/00  S  264.7M  W  471.3M    BONNYVILLE           2450.0M                         
+    DEV (NC)                             LEISMER                        MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 15-04-076-06W4                  
+                                                                                                        
+    TXNE 10B-36 HZ ALDSON 15-6-15-13     0499060   FREEHOLD             749.3M                          
+    102/15-06-015-13W4/00  S  743.8M  W  746.7M    MEDICINE HAT         3200.0M                         
+    DEV (NC)                             ALDERSON                       ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  10-36-014-14W4                  
+                                                                                                        
+    MEG LEISMER 14-34-77-6               0499061   ALBERTA CROWN        599.1M                          
+    1AB/14-34-077-06W4/00  S  158.2M  E  745.0M    BONNYVILLE           432.0M                          
+    OV (C)                               LEISMER                        MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    MEG ENERGY CORP.                                                    14-34-077-06W4                  
+                                                                                                        
+    OBE HZ 103 WILLGR 13-28-43-8         0499062   ALBERTA CROWN        971.2M                          
+    103/13-28-043-08W5/00  N  555.5M  W  148.1M    RED DEER             5600.0M                         
+    DEV (NC)                             WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    OBSIDIAN ENERGY LTD.                                                08-19-043-08W5                  
+                                                                                                        
+    OBE HZ 104 WILLGR 11-28-43-8         0499063   ALBERTA CROWN        971.1M                          
+    104/11-28-043-08W5/00  N  540.6M  W  145.8M    RED DEER             5200.0M                         
+    DEV (NC)                             WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    OBSIDIAN ENERGY LTD.                                                08-19-043-08W5                  
+                                                                                                        
+    OBE HZ WILLGR 3-28-43-8              0499064   ALBERTA CROWN        970.4M                          
+    100/03-28-043-08W5/00  N  525.7M  W  143.6M    RED DEER             5250.0M                         
+    DEV (NC)                             WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    OBSIDIAN ENERGY LTD.                                                08-19-043-08W5                  
+                                                                                                        
+    WHITECAP PEMBINA 10-20-49-11         0499065   ALBERTA CROWN        954.3M                          
+    102/10-20-049-11W5/00  S  326.3M  W  389.7M    DRAYTON VALLEY       5380.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WHITECAP RESOURCES INC.                                             16-32-049-11W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    AVN 102 HZ PCOUPES 9-33-77-13          0499052   UWI:                                               
+    00/09-33-077-13W6/0                              02/09-33-076-13W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     AVN 102 HZ PCOUPES 9-33-76-13                      
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    GAIN HZ WAPITI 4-27-67-8              0490979                                                       
+    100/04-27-067-08W6/00                                                                               
+
+    GAIN 102 HZ WAPITI 4-27-67-8          0490992                                                       
+    102/04-27-067-08W6/00                                                                               
+
+    GAIN HZ 102 PEMBINA 14-24-42-5        0491463                                                       
+    102/14-24-042-05W5/00                                                                               
+
+    GAIN HZ 102 PEMBINA 16-24-42-5        0491464                                                       
+    102/16-24-042-05W5/00                                                                               
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    VEI HZ PEMBINA 8-4-50-12               0498429   UWI:                                               
+    02/08-04-050-12W5/0                              00/07-04-050-12W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     VEI HZ PEMBINA 7-4-50-12                           
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     07-04-050-12W5                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

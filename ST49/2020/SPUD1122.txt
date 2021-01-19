@@ -1,0 +1,22 @@
+Report Number: ST-49                                                                            Alberta Energy Regulator                                                                                    Page 1 of 1
+Run Date: 22 Nov 2020                                                                         DAILY DRILLING ACTIVITY LIST                                                                                             
+                                                                                 For the Notification Period 21 Nov 2020 To 22 Nov 2020                                                                                
+
+      WELL ID                  WELL NAME             LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                              BA ID               NAME              NUMBER                                                                                     TOTAL DEPTH     TYPE    
+------------------- -------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------------------- ------------- -----------
+00/03-22-048-11W5/0 RIDGEBACK HZ PEMBINA 3-22-48-11   0490114 0Y52   Precision Drilling Corporation    309 22 Nov 2020 03:45:00 AM Drayton Valley A7G2  Ridgeback Resources Inc.                            Drill To LD
+02/06-14-055-21W5/0 PEYTO SUNDANCE 6-14-55-21         0497711 0Z41   Ensign Drilling Inc.             T432 22 Nov 2020 12:00:00 AM Drayton Valley 0YA2  Peyto Exploration & Development Corp.               Drill To LD
+00/03-36-057-27W5/0 TOURMALINE HZ LELAND 3-36-57-27   0498358 0Z41   Ensign Drilling Inc.             T039 22 Nov 2020 03:33:00 PM Drayton Valley A573  Tourmaline Oil Corp.                                Drill To LD
+04/13-09-075-25W4/0 DELTASTREAM MARTENH 13-9-75-25    0498339 A0KC   Horizon Drilling Inc.              14 21 Nov 2020 05:30:00 PM St. Albert     A6YA  Deltastream Energy Corporation                      Resumption 
+00/15-30-079-08W6/0 R S R HZ MIRAGE 15-30-79-8        0498587 0Y52   Precision Drilling Corporation    182 21 Nov 2020 11:00:00 PM Grande Prairie A7CZ  Rising Star Resources Ltd.                          Drill To LD
+02/13-03-095-06W4/2 SUNCOR P116P6B FIREBAG 13-3-95-6  0421716 0Y52   Precision Drilling Corporation    151 22 Nov 2020 04:15:00 AM Bonnyville     0054  Suncor Energy Inc.                                  Resumption 
+
+                                                                       TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 4                                                                       
+                                                                       TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                       
+                                                                       TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 2                                                                       
+                                                                       TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 0                                                                       
+
+                                                                                           TOTAL NUMBER OF WELLS LISTED = 6                                                                                            
+                                                                                                 *** END OF REPORT ***                                                                                                 
+

@@ -1,0 +1,154 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 13 October 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SYNCRUDE AN 20-5824 3-17-96-10       0498535   ALBERTA CROWN        0M                              
+    100/03-17-096-10W4/00  N   46.3M  E  703.2M    BONNYVILLE           372.0M                          
+    DSW (NC)                             UNDEFINED                      ELK POINT GRP                   
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    SYNCRUDE CANADA LTD.                                                03-17-096-10W4                  
+                                                                                                        
+    SYNCRUDE AN 20-5825 13-8-96-10       0498536   ALBERTA CROWN        0M                              
+    100/13-08-096-10W4/00  S  235.1M  E  126.2M    BONNYVILLE           390.0M                          
+    DSW (NC)                             UNDEFINED                      ELK POINT GRP                   
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    SYNCRUDE CANADA LTD.                                                13-08-096-10W4                  
+                                                                                                        
+    SYNCRUDE AN 20-5826 5-8-96-10        0498537   ALBERTA CROWN        0M                              
+    100/05-08-096-10W4/00  N  485.4M  E  353.9M    BONNYVILLE           331.0M                          
+    DSW (NC)                             UNDEFINED                      ELK POINT GRP                   
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    SYNCRUDE CANADA LTD.                                                05-08-096-10W4                  
+                                                                                                        
+    SPL 1-24 HZ MARTENH 1-21-75-26       0498538   ALBERTA CROWN        829.7M                          
+    100/01-21-075-26W4/00  N  364.2M  W   72.5M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 01-24-075-01W5                  
+                                                                                                        
+    CPEC HZ JUDYCK 5-28-64-10            0498539   ALBERTA CROWN        975.2M                          
+    100/05-28-064-10W5/00  N  180.7M  E  527.7M    ST. ALBERT           6000.0M                         
+    DEV (NC)                             JUDY CREEK                     SLAVE POINT FM                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESCENT POINT ENERGY CORP.                                         03-16-064-10W5                  
+                                                                                                        
+    LONGSHORE HZ 103 PROVOST 8-13-40-7   0498540   ALBERTA CROWN        697.8M                          
+    103/08-13-040-07W4/00  S  607.9M  E  584.6M    WAINWRIGHT           1463.0M                         
+    DEV (NC)                             PROVOST                        CUMMINGS MBR                    
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    LONGSHORE RESOURCES LTD.                                            11-13-040-07W4                  
+                                                                                                        
+    LONGSHORE HZ 104 PROVOST 8-13-40-7   0498541   ALBERTA CROWN        696.5M                          
+    104/08-13-040-07W4/00  S  597.9M  E  584.6M    WAINWRIGHT           1460.0M                         
+    DEV (NC)                             PROVOST                        CUMMINGS MBR                    
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    LONGSHORE RESOURCES LTD.                                            11-13-040-07W4                  
+                                                                                                        
+    CVE 100 HZ PEMBINA 16-13-46-9        0498542   ALBERTA CROWN        864.6M                          
+    100/16-13-046-09W5/00  N  109.1M  W  460.9M    DRAYTON VALLEY       5128.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CENOVUS ENERGY INC.                                                 02-22-046-09W5                  
+                                                                                                        
+    GRL 1-25 HZ VALHALLA 16-25-78-8      0498543   ALBERTA CROWN        717.1M                          
+    100/16-25-078-08W6/00  N  135.1M  W  119.9M    GRANDE PRAIRIE       1688.0M                         
+    DEV (NC)                             VALHALLA                       DOE CREEK MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    GRIZZLY RESOURCES LTD.                                              01-25-078-08W6                  
+                                                                                                        
+    CPEC HZ JUDYCK 14-16-64-11           0498544   ALBERTA CROWN        1007.9M                         
+    100/14-16-064-11W5/00  N  231.0M  E  711.4M    ST. ALBERT           4600.0M                         
+    DEV (NC)                             JUDY CREEK                     SLAVE POINT FM                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESCENT POINT ENERGY CORP.                                         03-28-064-11W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    TOURMALINE HZ WILD RIV 9-30-57-25     0497668    UWI:                                               
+    00/09-30-057-25W5/0                              00/16-30-057-25W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ WILD RIV 16-30-57-25                 
+
+    TOURMALINE HZ VALHALLA 10-34-77-8     0497917    UWI:                                               
+    00/10-34-077-08W6/0                              02/06-10-078-08W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ VALHALLA 6-10-78-8                   
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.94                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM MONTNEY FM                          
+
+    CRESTWYND HZ MEANOOK 15-19-63-21      0498088    UWI:                                               
+    S0/16-18-063-21W4/7                              00/02-19-063-21W4/7                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND MEANOOK 2-19-63-21                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    VELVET HZ BEZAN 2-31-68-2             0498235    UWI:                                               
+    00/02-31-068-02W6/0                              00/03-31-068-02W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     VELVET HZ BEZAN 3-31-68-2                          
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.15                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM MONTNEY FM                          
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    TXNR 14D-15 HZ COUNTESS 13-13-21-16   0496006                                                       
+    100/13-13-021-16W4/00                                                                               
+
+    TXNR 14D-15 HZ COUNTESS 13-16-21-16   0496007                                                       
+    100/13-16-021-16W4/00                                                                               
+
+    TXNR 14D-15 HZ COUNTESS 1-20-21-16    0496008                                                       
+    100/01-20-021-16W4/00                                                                               
+
+    TXNR 14D-15 HZ COUNTESS 4-24-21-16    0496009                                                       
+    102/04-24-021-16W4/00                                                                               
+
+    YANGARRA HZ 102 CHEDDER 16-14-37-8    0496016                                                       
+    102/16-14-037-08W5/00                                                                               
+
+    TXNR 4C-6 HZ HUSSAR 16-5-25-19        0496032                                                       
+    102/16-05-025-19W4/00                                                                               
+
+    HEMISPHERE 13A-19 ATL-BUFF 8-25-21-6  0496036                                                       
+    103/08-25-021-06W4/00                                                                               
+
+    SUMMERLAND HZ GIFT 4-36-79-12         0496037                                                       
+    100/04-36-079-12W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

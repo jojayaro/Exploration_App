@@ -1,0 +1,36 @@
+Report Number: ST-49                                                                              Alberta Energy Regulator                                                                                      Page 1 of 1
+Run Date: 13 Jan 2021                                                                           DAILY DRILLING ACTIVITY LIST                                                                                               
+                                                                                   For the Notification Period 12 Jan 2021 To 13 Jan 2021                                                                                  
+
+      WELL ID                    WELL NAME               LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                                  BA ID               NAME              NUMBER                                                                                     TOTAL DEPTH     TYPE    
+------------------- ------------------------------------ -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------------------- ------------- -----------
+02/02-22-039-24W4/0 ENHANCEENERGY CLIVE 2-22-39-24        0498862 0ZG2   Excalibur Drilling Ltd.            14 13 Jan 2021 11:05:00 AM Red Deer       A216  Enhance Energy Inc.                                 Drill To LD
+00/02-32-041-01W4/0 LONGSHORE HZ HAYTER 2-32-41-1         0499116 0GE9   Tempco Drilling Company Inc.        3 13 Jan 2021 11:45:00 AM Wainwright     A76W  Longshore Resources Ltd.                            Drill To LD
+00/14-11-044-14W5/0 TOURMALINE HZ BRAZR 14-11-44-14       0498938 0Z41   Ensign Drilling Inc.             T038 13 Jan 2021 03:00:00 AM Drayton Valley A573  Tourmaline Oil Corp.                                Resumption 
+00/14-31-048-12W5/0 WESTBRICK HZ PEMBINA 14-31-48-12      0499085 A08C   Savanna Drilling Corp.            652 13 Jan 2021 01:15:00 PM Drayton Valley A5WB  Westbrick Energy Ltd.                               Drill To LD
+00/12-08-050-10W5/0 WHITECAP PEMBINA 12-8-50-10           0496798 A0KC   Horizon Drilling Inc.              43 12 Jan 2021 07:27:00 PM Drayton Valley A5BE  Whitecap Resources Inc.                             Drill To LD
+00/08-06-056-20W5/0 PEYTO SUNDANCE 8-6-56-20              0496376 0Z41   Ensign Drilling Inc.              432 12 Jan 2021 05:30:00 PM Drayton Valley 0YA2  Peyto Exploration & Development Corp.               Drill To LD
+00/13-35-063-04W6/0 7GEN HZ KAKWA 13-35-63-4              0498581 A6PR   Nabors Drilling Canada Limited     17 13 Jan 2021 01:30:00 PM Grande Prairie A54C  Seven Generations Energy Ltd.                       Set Surface
+02/16-15-064-06W6/0 7GEN HZ 102 KAKWA 16-15-64-6          0498928 A6GJ   Dc Drilling Inc.                    1 12 Jan 2021 08:45:00 PM Grande Prairie A54C  Seven Generations Energy Ltd.                       Set Surface
+08/13-09-065-03W4/2 IMP G02-23ST COLD LK 13-9-65-3        0222379 0Z41   Ensign Drilling Inc.             1201 13 Jan 2021 08:00:00 AM Bonnyville     0007  Imperial Oil Resources Limited                      Resumption 
+00/13-14-074-25W4/0 DELTASTREAM MARTENH 13-14-74-25       0498314 A0KC   Horizon Drilling Inc.              51 13 Jan 2021 07:00:00 AM St. Albert     A6YA  Deltastream Energy Corporation                      Resumption 
+00/15-08-075-25W4/0 DELTASTREAM MARTENH 15-8-75-25        0498828 A2CL   Komat Drilling Ltd.                 3 12 Jan 2021 08:30:00 PM St. Albert     A6YA  Deltastream Energy Corporation                      Set Surface
+12/01-16-076-06W4/0 CVE G05P01 LEISMER 1-16-76-6          0498974 0Z41   Ensign Drilling Inc.              141 13 Jan 2021 03:38:00 PM Bonnyville     A5D4  Cenovus Energy Inc.                                 Set Surface
+AC/06-19-093-09W4/0 SYNCRUDE 071N01 6-19-93-9             0497182 A1YG   Big Country Drilling Ltd.           3 13 Jan 2021 04:30:00 PM Bonnyville     0362  Syncrude Canada Ltd.                                Drill To LD
+AA/12-26-093-10W4/0 SYNCRUDE 044N01 12-26-93-10           0497432 0Y80   Boart Longyear Canada              47 13 Jan 2021 02:30:00 AM Bonnyville     0362  Syncrude Canada Ltd.                                Drill To LD
+AB/13-26-093-10W4/0 SYNCRUDE 29ROVCH194303L0 13-26-93-10  0493341 0Y80   Boart Longyear Canada              41 12 Jan 2021 08:30:00 PM Bonnyville     0362  Syncrude Canada Ltd.                                Drill To LD
+AB/14-26-093-10W4/0 SYNCRUDE 032N01 14-26-93-10           0497081 0Y80   Boart Longyear Canada              41 13 Jan 2021 10:30:00 AM Bonnyville     0362  Syncrude Canada Ltd.                                Drill To LD
+AA/14-35-093-10W4/0 SYNCRUDE 009N01 14-35-93-10           0497055 A1YG   Big Country Drilling Ltd.           6 12 Jan 2021 08:45:00 PM Bonnyville     0362  Syncrude Canada Ltd.                                Drill To LD
+06/04-02-095-06W4/2 SUNCOR P4P9B FIREBAG 4-2-95-6         0291140 0Y52   Precision Drilling Corporation    151 13 Jan 2021 10:00:00 AM Bonnyville     0054  Suncor Energy Inc.                                  Resumption 
+AB/10-07-095-06W4/0 SUNCOR FIREBAG 10-7-95-6              0498739 A1YG   Big Country Drilling Ltd.          18 12 Jan 2021 09:00:00 PM Bonnyville     0054  Suncor Energy Inc.                                  Drill To LD
+00/03-15-095-06W4/0 SUNCOR P131P5 FIREBAG 3-15-95-6       0497857 A6PR   Nabors Drilling Canada Limited    102 12 Jan 2021 08:00:00 PM Bonnyville     0054  Suncor Energy Inc.                                  Drill To LD
+
+                                                                        TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 12                                                                         
+                                                                        TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  =  0                                                                         
+                                                                        TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well =  4                                                                         
+                                                                        TOTAL  - Set Surface - Drilling to Set Surface Casing Only            =  4                                                                         
+
+                                                                                             TOTAL NUMBER OF WELLS LISTED = 20                                                                                             
+                                                                                                   *** END OF REPORT ***                                                                                                   
+

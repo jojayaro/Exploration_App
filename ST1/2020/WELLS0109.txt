@@ -1,0 +1,244 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 09 January 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    R S R HZ MIRAGE 1-32-79-8            0497314   ALBERTA CROWN        690.7M                          
+    100/01-32-079-08W6/00  N  355.3M  W   96.9M    GRANDE PRAIRIE       3135.0M                         
+    DEV (NC)                             MIRAGE                         CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    RISING STAR RESOURCES LTD.                                          01-05-080-08W6                  
+                                                                                                        
+    R S R HZ MIRAGE 2-32-79-8            0497315   ALBERTA CROWN        691.2M                          
+    100/02-32-079-08W6/00  N  355.7M  W  106.9M    GRANDE PRAIRIE       3580.0M                         
+    DEV (NC)                             MIRAGE                         CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    RISING STAR RESOURCES LTD.                                          01-05-080-08W6                  
+                                                                                                        
+    CARDINAL HZ COUNTESS 7-30-21-15      0497316   FREEHOLD             732M                            
+    100/07-30-021-15W4/00  N   85.0M  E  681.8M    MIDNAPORE            2145.0M                         
+    DEV (NC)                             COUNTESS                       GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CARDINAL ENERGY LTD.                                                03-25-021-16W4                  
+                                                                                                        
+    NORTH 40 HZ 102 VERGER 8-15-22-14    0497317   FREEHOLD             712M                            
+    102/08-15-022-14W4/00  N  490.0M  W   40.0M    MIDNAPORE            2600.0M                         
+    DEV (NC)                             VERGER                         GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    NORTH 40 RESOURCES LTD.                                             08-16-022-14W4                  
+                                                                                                        
+    HHR 103 HZ ELM 1-9-68-3              0497318   ALBERTA CROWN        715.1M                          
+    103/01-09-068-03W6/00  S  706.2M  W  431.0M    GRANDE PRAIRIE       5755.0M                         
+    DEV (C)                              ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    HAMMERHEAD RESOURCES INC.                                           10-07-068-03W6                  
+                                                                                                        
+    DELTASTREAM MARTENH 13-1-75-25       0497319   ALBERTA CROWN        691.3M                          
+    100/13-01-075-25W4/00  S   82.5M  W   75.0M    ST. ALBERT           2300.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      16-34-074-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 13-1-75-25       0497320   ALBERTA CROWN        691.1M                          
+    102/13-01-075-25W4/00  S   82.6M  W   65.0M    ST. ALBERT           2300.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      16-34-074-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 14-1-75-25       0497321   ALBERTA CROWN        691M                            
+    100/14-01-075-25W4/00  S   82.7M  W   55.1M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      16-34-074-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 14-1-75-25       0497322   ALBERTA CROWN        691.4M                          
+    102/14-01-075-25W4/00  S   82.7M  W   45.0M    ST. ALBERT           2500.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      16-34-074-25W4                  
+                                                                                                        
+    TQN HZ HERRON 11-27-19-24            0497323   BOTH                 1024.5M                         
+    103/11-27-019-24W4/00  S  344.6M  E  150.0M    MIDNAPORE            4500.0M                         
+    DEV (NC)                             HERRONTON                      GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAQA NORTH LTD.                                                     13-25-019-24W4                  
+                                                                                                        
+    TQN HZ HERRON 4-34-19-24             0497324   BOTH                 1024.7M                         
+    102/04-34-019-24W4/00  S  271.6M  E  150.0M    MIDNAPORE            4500.0M                         
+    DEV (NC)                             HERRONTON                      GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAQA NORTH LTD.                                                     13-25-019-24W4                  
+                                                                                                        
+    ROCKEAST HZ 102 PROVOST 14-36-39-9   0497325   ALBERTA CROWN        750.9M                          
+    105/14-36-039-09W4/00  N   94.6M  W  744.0M    WAINWRIGHT           1450.0M                         
+    DEV (NC)                             PROVOST                        GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ROCKEAST ENERGY CORP.                                               02-01-040-09W4                  
+                                                                                                        
+    BONTERRA HZ WILLGR 1-1-42-6          0497326   ALBERTA CROWN        1058.5M                         
+    100/01-01-042-06W5/00  N  633.5M  W  165.4M    RED DEER             3650.0M                         
+    DEV (NC)                             WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BONTERRA ENERGY CORP.                                               08-02-042-06W5                  
+                                                                                                        
+    BONTERRA HZ WILLGR 8-1-42-6          0497327   ALBERTA CROWN        1057.4M                         
+    100/08-01-042-06W5/00  N  643.5M  W  166.2M    RED DEER             3500.0M                         
+    DEV (NC)                             WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BONTERRA ENERGY CORP.                                               08-02-042-06W5                  
+                                                                                                        
+    BONTERRA HZ WILLGR 9-1-42-6          0497328   ALBERTA CROWN        1055.9M                         
+    100/09-01-042-06W5/00  N  653.4M  W  166.9M    RED DEER             3600.0M                         
+    DEV (NC)                             WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BONTERRA ENERGY CORP.                                               08-02-042-06W5                  
+                                                                                                        
+    BONTERRA 102 HZ WILLGR 16-1-42-6     0497329   ALBERTA CROWN        1055.3M                         
+    102/16-01-042-06W5/00  N  663.4M  W  167.6M    RED DEER             3830.0M                         
+    DEV (NC)                             WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BONTERRA ENERGY CORP.                                               08-02-042-06W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    GEAR 9HZ WILDMERE 12-29-48-5          0487568    UWI:                                               
+    00/12-29-048-05W4/4                              02/11-29-048-05W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     GEAR 9 HZ WILDMERE 11-29-48-5                      
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM SPARKY MBR                          
+
+    BAYTEX HZ 2A PEMBINA 1-16-45-2        0494161    UWI:                                               
+    03/01-16-045-02W5/0                              02/09-16-045-02W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX HZ 9A PEMBINA 9-16-45-2                     
+
+                                                     GROUND ELEVATION                                   
+                                                     949.4                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5400.00                                            
+
+    SPL 15-12 HZ MARTENH 16-13-74-25      0495070    UWI:                                               
+    00/16-13-074-25W4/6                              00/16-01-074-25W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-12 HZ MARTENH 16-1-74-25                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    OUC HZ FERRIER 14-23-39-9             0495565    GROUND ELEVATION                                   
+    100/14-23-039-09W5/00                            1064.8                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0085.0 E 0540.6                                  
+
+    SPL 3-36 HZ 102 NIPISI 3-31-76-6      0495938    SURFACE CO-ORDINATES:                              
+    102/03-31-076-06W5/00                            N 0361.3 E 0492.5                                  
+
+    7GEN HZ KAKWA 10-18-63-3              0496283    PROJECTED DEPTH:                                   
+    100/10-18-063-03W6/00                            6500.00                                            
+
+    7GEN HZ KAKWA 11-18-63-3              0496284    PROJECTED DEPTH:                                   
+    100/11-18-063-03W6/00                            6500.00                                            
+
+    7GEN HZ 102 KAKWA 11-18-63-3          0496285    PROJECTED DEPTH:                                   
+    102/11-18-063-03W6/00                            6500.00                                            
+
+    7GEN HZ 103 KAKWA 11-18-63-3          0496286    PROJECTED DEPTH:                                   
+    103/11-18-063-03W6/00                            6500.00                                            
+
+    7GEN HZ KAKWA 6-18-63-3               0496287    PROJECTED DEPTH:                                   
+    100/06-18-063-03W6/00                            6500.00                                            
+
+    7GEN HZ KAKWA 5-18-63-3               0496288    PROJECTED DEPTH:                                   
+    100/05-18-063-03W6/00                            6500.00                                            
+
+    TOURMALINE HZ SMOKY 13-1-59-2         0496523    SURFACE CO-ORDINATES:                              
+    100/13-01-059-02W6/00                            N 0689.1 E 0382.9                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+    BAYTEX HZ 2A PEMBINA 2-16-45-2        0496636    UWI:                                               
+    00/02-16-045-02W5/0                              03/10-16-045-02W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX HZ 10A PEMBINA 10-16-45-2                   
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5400.00                                            
+
+    BAYTEX HZ 2B PEMBINA 2-16-45-2        0496638    UWI:                                               
+    02/02-16-045-02W5/0                              02/10-16-045-02W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX HZ 10B PEMBINA 10-16-45-2                   
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5400.00                                            
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.28                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM DUVERNAY FM                         
+
+    BAYTEX HZ 3A PEMBINA 3-16-45-2        0496639    UWI:                                               
+    00/03-16-045-02W5/0                              00/11-16-045-02W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX HZ 11A PEMBINA 11-16-45-2                   
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5400.00                                            
+
+    BONTERRA HZ WILLGR 2-36-39-6          0496799    SURFACE CO-ORDINATES:                              
+    100/02-36-039-06W5/00                            N 0173.8 W 0539.7                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CARDIUM FM                          
+
+    NUVISTA 103 HZ D WEMBLEY 4-30-72-9    0496861    PROJECTED DEPTH:                                   
+    103/04-30-072-09W6/00                            6002.00                                            
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.43                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     1                                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    TOURMALINE HZ SUNDANCE 3-29-54-23     0487548                                                       
+    100/03-29-054-23W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

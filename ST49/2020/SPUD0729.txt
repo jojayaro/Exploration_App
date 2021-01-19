@@ -1,0 +1,20 @@
+Report Number: ST-49                                                                            Alberta Energy Regulator                                                                                    Page 1 of 1
+Run Date: 29 Jul 2020                                                                         DAILY DRILLING ACTIVITY LIST                                                                                             
+                                                                                 For the Notification Period 28 Jul 2020 To 29 Jul 2020                                                                                
+
+      WELL ID                    WELL NAME              LICENCE  +---------------CONTRACTOR---------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID           LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                                 BA ID                 NAME                 NUMBER                                                                             TOTAL DEPTH     TYPE    
+------------------- ----------------------------------- -------- ------ ----------------------------------- ------ ----------------------- -------------- ----- ----------------------------- ------------- -----------
+F1/07-36-034-08W4/0 TAC 5-25 HZ 1F1 PROVOST 7-36-34-8    0498181 A1TW   Bonanza Drilling Inc.                    3 28 Jul 2020 11:45:00 PM Wainwright     A5TT  Tamarack Acquisition Corp.                  Drill To LD
+06/12-36-034-08W4/0 TAC 16-26 HZ 106 PROVOST 12-36-34-8  0498162 A8AF   Hertz & Paluck Energy Services Inc.      1 29 Jul 2020 10:45:00 AM Wainwright     A5TT  Tamarack Acquisition Corp.                  Set Surface
+00/01-16-062-19W5/0 CHEVRON HZ FOXCK 1-16-62-19          0489388 0Z41   Ensign Drilling Inc.                   770 29 Jul 2020 02:30:00 PM St. Albert     0045  Chevron Canada Limited                      Drill To LD
+05/05-09-063-05W6/0 7GEN HZ 105 KAKWA 5-9-63-5           0496206 A6PR   Nabors Drilling Canada Limited           5 29 Jul 2020 12:00:00 AM Grande Prairie A54C  Seven Generations Energy Ltd.               Drill To LD
+
+                                                                       TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 3                                                                       
+                                                                       TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                       
+                                                                       TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                       
+                                                                       TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                                       
+
+                                                                                           TOTAL NUMBER OF WELLS LISTED = 4                                                                                            
+                                                                                                 *** END OF REPORT ***                                                                                                 
+

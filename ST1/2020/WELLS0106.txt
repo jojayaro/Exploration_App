@@ -1,0 +1,127 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 06 January 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL RE HZ TABERN 1-17-10-17         0456667   BOTH                 810.9M                          
+    100/01-17-010-17W4/03  S  749.3M  W  748.1M    MEDICINE HAT         2207.0M                         
+    DEV (NC)                             TABER NORTH                    SUNBURST SD                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION           CRUDE OIL                       
+    CANADIAN NATURAL RESOURCES LIMITED                                  10-16-010-17W4                  
+                                                                                                        
+    OBE WILLGR 13-28-42-7                0497236   BOTH                 1021.6M                         
+    100/13-28-042-07W5/00  N  418.0M  E  634.4M    RED DEER             5000.0M                         
+    DEV (NC)                             WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    OBSIDIAN ENERGY LTD.                                                06-21-042-07W5                  
+                                                                                                        
+    OBE 102 WILLGR 14-28-42-7            0497237   BOTH                 1021.6M                         
+    102/14-28-042-07W5/00  N  417.5M  E  649.4M    RED DEER             4800.0M                         
+    DEV (NC)                             WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    OBSIDIAN ENERGY LTD.                                                06-21-042-07W5                  
+                                                                                                        
+    OBE WILLGR 15-28-42-7                0497238   BOTH                 1021.4M                         
+    100/15-28-042-07W5/00  N  417.0M  E  664.4M    RED DEER             5200.0M                         
+    DEV (NC)                             WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    OBSIDIAN ENERGY LTD.                                                06-21-042-07W5                  
+                                                                                                        
+    CNRL 3A LIND 3-16-55-6               0497239   ALBERTA CROWN        643.7M                          
+    100/03-16-055-06W4/00  N  246.7M  E   64.0M    BONNYVILLE           887.0M                          
+    DEV (NC)                             LINDBERGH                      DINA MBR                        
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  04-16-055-06W4                  
+                                                                                                        
+    CNRL 4A LIND 4-16-55-6               0497240   ALBERTA CROWN        643.9M                          
+    100/04-16-055-06W4/00  N  233.4M  E   61.5M    BONNYVILLE           662.0M                          
+    DEV (NC)                             LINDBERGH                      DINA MBR                        
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  04-16-055-06W4                  
+                                                                                                        
+    CNRL 5B LIND 5-16-55-6               0497241   ALBERTA CROWN        643.4M                          
+    100/05-16-055-06W4/00  N  233.4M  E   61.5M    BONNYVILLE           701.0M                          
+    DEV (NC)                             LINDBERGH                      DINA MBR                        
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  04-16-055-06W4                  
+                                                                                                        
+    VELVET HZ GORD 4-24-79-11            0497242   ALBERTA CROWN        735.2M                          
+    100/04-24-079-11W6/00  N  463.8M  E  630.2M    GRANDE PRAIRIE       5500.0M                         
+    DEV (C)                              GORDONDALE                     MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VELVET ENERGY LTD.                                                  06-18-079-10W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    VESTA CYGNET 5-6-38-28                0489551    UWI:                                               
+    00/13-03-038-28W4/2                              00/13-30-037-28W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     VESTA CYGNET 13-30-37-28                           
+
+    SPL 15-12 HZ MARTENH 16-13-74-25      0495070    UWI:                                               
+    00/16-13-074-25W4/4                              00/16-01-074-25W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-12 HZ MARTENH 16-1-74-25                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 15-12 HZ MARTENH 16-13-74-25      0495070    UWI:                                               
+    00/16-13-074-25W4/3                              00/16-01-074-25W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-12 HZ MARTENH 16-1-74-25                    
+
+    TXNR 1A-5 HZ ALDSON 2-9-16-15         0496452    SURFACE CO-ORDINATES:                              
+    100/02-09-016-15W4/00                            N 0040.0 W 0074.1                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.14                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM BASAL QUARTZ SD                     
+
+    NUVISTA 104 HZ B WEMBLEY 13-19-72-9   0496859    GROUND ELEVATION                                   
+    104/13-19-072-09W6/00                            771.9                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5745.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0683.2 E 0659.7                                  
+
+                                                     MINERAL RIGHTS:                                    
+                                                     ALBERTA CROWN                                      
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.43                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     1                                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    VEI HZ PEMBINA 16-35-50-13            0497214    TARGET SUBSTANCE(1)                                
+    102/16-35-050-13W5/00                            GAS FROM ELLERSLIE MBR                             
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,178 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 29 April 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    PEYTO SUNDANCE 1-9-56-21             0498016   ALBERTA CROWN        1128.2M                         
+    100/01-09-056-21W5/00  S   40.8M  W   44.9M    DRAYTON VALLEY       4300.0M                         
+    DEV (NC)                             SUNDANCE                       BLUESKY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               16-05-056-21W5                  
+                                                                                                        
+    TOURMALINE HZ WILD RIV 3-33-55-26    0498017   ALBERTA CROWN        1211.8M                         
+    100/03-33-055-26W5/00  N  241.2M  W  398.5M    DRAYTON VALLEY       6465.0M                         
+    DEV (C)                              WILD RIVER                     SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                01-09-056-26W5                  
+                                                                                                        
+    TOURMALINE HZ WILD RIV 1-33-55-26    0498018   ALBERTA CROWN        1211.5M                         
+    100/01-33-055-26W5/00  N  236.7M  W  396.4M    DRAYTON VALLEY       6382.0M                         
+    DEV (C)                              WILD RIVER                     SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                01-09-056-26W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    JUPITER HZ SMOKY 16-23-59-1           0489874    UWI:                                               
+    00/16-23-059-01W6/0                              00/14-23-059-01W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     JUPITER HZ SMOKY 14-23-59-1                        
+
+                                                     PROJECTED DEPTH:                                   
+                                                     4978.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0170.1 E 0768.3                                  
+
+    TOURMALINE HZ WILD RIV 8-18-57-27     0494355    UWI:                                               
+    00/08-18-057-27W5/0                              00/07-17-057-27W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ WILD RIV 7-17-57-27                  
+
+    CVE SNUBA LEISMER 15-15-77-6          0495643    UWI:                                               
+    AD/11-15-077-06W4/4                              AA/10-15-077-06W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     CVE SNUBA LEISMER 10-15-77-6                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    CVE A8-30 A8 HARDY 8-30-76-5          0495704    UWI:                                               
+    AD/08-30-076-05W4/0                              02/05-29-076-05W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CVE A8-30 A8 HARDY 5-29-76-5                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    HUSKY 3HZ Q1 WILDMERE 16-19-48-5      0496541    UWI:                                               
+    02/16-19-048-05W4/3                              00/11-19-048-05W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     HUSKY 3HZ Q1 WILDMERE 11-19-48-5                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GENERAL PETROLEUM MBR               
+
+    SUMMERLAND HZ FIGURE 11-21-64-16      0496780    WELL NAME:                                         
+    100/07-21-064-16W4/07                            SUMMERLAND HZ FIGURE 7-21                          
+
+    CRESTWYND RADWAY 16-23-59-20          0496782    UWI:                                               
+    00/16-23-059-20W4/2                              02/12-23-059-20W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND RADWAY 12-23-59-20                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM UPPER MANNVILLE FM                  
+
+    BAYTEX SLAVE 5-20-84-15               0496881    UWI:                                               
+    00/05-20-084-15W5/5                              W0/04-20-084-15W5/5                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX HZ SLAVE 4-20-84-15                         
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM BLUESKY FM                      
+
+    TOURMALINE HZ ANSELL 9-6-50-19        0496915    UWI:                                               
+    00/09-06-050-19W5/0                              00/01-08-050-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ ANSELL 1-8-50-19                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+    SPL 16-3 HZ JARVIE 15-2-63-1          0497312    UWI:                                               
+    00/10-01-063-01W5/6                              00/13-01-063-01W5/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 16-3 HZ JARVIE 13-1-63-1                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM UPPER MANNVILLE FM                  
+
+    SPL 6-31 HZ 102 MARTEN 4-30-76-6      0497393    UWI:                                               
+    00/02-36-076-07W5/5                              02/04-30-076-06W5/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 6-31 HZ MARTEN 4-30-76-6                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2600.00                                  
+
+    BONTERRA 102 HZ FERRIER 4-5-41-8      0497639    UWI:                                               
+    02/04-05-041-08W5/0                              02/13-05-041-08W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     BONTERRA 102 HZ FERRIER 13-5-41-8                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CARDIUM FM                          
+
+    BAYTEX HZ 102 LLOYD 12-10-49-1        0497703    UWI:                                               
+    02/12-10-049-01W4/0                              02/11-10-049-01W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX HZ 102 LLOYD 11-10-49-1                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM SPARKY MBR                          
+
+    SURGE ENERGY HZ HAYTER 14-25-39-1     0497740    UWI:                                               
+    00/14-25-039-01W4/4                              02/15-25-039-01W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     SURGE ENERGY HZ HAYTER 15-25-39-1                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM SPARKY MBR                          
+
+    WLEC MHZ 2D14 PROVOST 14-15-38-3      0497803    UWI:                                               
+    00/14-15-038-03W4/7                              02/11-15-038-03W4/7                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC MHZ 2D14 PROVOST 11-15-38-3                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GENERAL PETROLEUM MBR               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

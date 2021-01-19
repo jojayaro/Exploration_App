@@ -1,0 +1,118 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 12 February 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    GRL 1-31 HZ 103 VALHALLA 5-31-78-7   0497689   ALBERTA CROWN        685.5M                          
+    103/05-31-078-07W6/00  N  301.9M  W  120.0M    GRANDE PRAIRIE       1649.0M                         
+    DSW (NC)                             VALHALLA                       DOE CREEK MBR                   
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    GRIZZLY RESOURCES LTD.                                              01-31-078-07W6                  
+                                                                                                        
+    RAMPART PARKLDNE 5-17-14-25          0497690   FREEHOLD             979.6M                          
+    100/05-17-014-25W4/00  S  744.9M  E   60.0M    MIDNAPORE            2000.0M                         
+    DEV (C)                              PARKLAND NORTHEAST             MANNVILLE GRP                   
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    RAMPART OIL INC.                                                    12-17-014-25W4                  
+                                                                                                        
+    BIR HZ PCOUPES 7-27-78-12            0497691   ALBERTA CROWN        741.9M                          
+    100/07-27-078-12W6/00  N  607.5M  W  520.4M    GRANDE PRAIRIE       4750.0M                         
+    DEV (C)                              POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BIRCHCLIFF ENERGY LTD.                                              07-33-078-12W6                  
+                                                                                                        
+    BIR HZ 102 PCOUPES 8-27-78-12        0497692   ALBERTA CROWN        741.3M                          
+    102/08-27-078-12W6/00  N  618.1M  W  503.4M    GRANDE PRAIRIE       4680.0M                         
+    DEV (C)                              POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BIRCHCLIFF ENERGY LTD.                                              07-33-078-12W6                  
+                                                                                                        
+    BIR HZ 104 PCOUPES 9-27-78-12        0497693   ALBERTA CROWN        742M                            
+    104/09-27-078-12W6/00  N  623.4M  W  495.0M    GRANDE PRAIRIE       4640.0M                         
+    DEV (C)                              POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BIRCHCLIFF ENERGY LTD.                                              07-33-078-12W6                  
+                                                                                                        
+    BIR HZ 102 PCOUPES 7-27-78-12        0497694   ALBERTA CROWN        741.5M                          
+    102/07-27-078-12W6/00  N  612.8M  W  511.9M    GRANDE PRAIRIE       4650.0M                         
+    DEV (C)                              POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BIRCHCLIFF ENERGY LTD.                                              07-33-078-12W6                  
+                                                                                                        
+    HUSKY OB-217 STEEPBK 11-22-95-7      0497695   ALBERTA CROWN        480.1M                          
+    102/11-22-095-07W4/00  S  430.9M  E  458.5M    BONNYVILLE           237.0M                          
+    DSW (C)                              UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    HUSKY OIL OPERATIONS LIMITED                                        11-22-095-07W4                  
+                                                                                                        
+    HUSKY OB-218 STEEPBK 13-3-95-7       0497696   ALBERTA CROWN        493.9M                          
+    100/13-03-095-07W4/00  S   37.1M  E    8.4M    BONNYVILLE           255.0M                          
+    DSW (C)                              UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    HUSKY OIL OPERATIONS LIMITED                                        13-03-095-07W4                  
+                                                                                                        
+    BLDR 1B-33 HZ BRAZR 13-26-46-14      0497697   ALBERTA CROWN        1130.4M                         
+    100/13-26-046-14W5/00  N  336.3M  W  397.9M    DRAYTON VALLEY       4380.0M                         
+    DEV (NC)                             BRAZEAU RIVER                  BELLY RIVER GROUP               
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BOULDER ENERGY LTD.                                                 01-33-046-14W5                  
+                                                                                                        
+    BAYTEX HZ 102 LLOYD 5-10-49-1        0497698   ALBERTA CROWN        657.2M                          
+    100/05-10-049-01W4/00  N  580.9M  E  178.0M    WAINWRIGHT           2350.0M                         
+    DEV (NC)                             LLOYDMINSTER                   SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BAYTEX ENERGY LTD.                                                  05-11-049-01W4                  
+                                                                                                        
+    BAYTEX HZ 103 LLOYD 5-10-49-1        0497699   ALBERTA CROWN        657.2M                          
+    102/05-10-049-01W4/00  N  592.9M  E  178.0M    WAINWRIGHT           2350.0M                         
+    DEV (NC)                             LLOYDMINSTER                   SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BAYTEX ENERGY LTD.                                                  05-11-049-01W4                  
+                                                                                                        
+    BAYTEX HZ 104 LLOYD 5-10-49-1        0497700   ALBERTA CROWN        657.3M                          
+    103/05-10-049-01W4/00  N  604.9M  E  178.0M    WAINWRIGHT           2350.0M                         
+    DEV (NC)                             LLOYDMINSTER                   SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BAYTEX ENERGY LTD.                                                  05-11-049-01W4                  
+                                                                                                        
+    BAYTEX HZ 105 LLOYD 5-10-49-1        0497701   ALBERTA CROWN        657.7M                          
+    104/05-10-049-01W4/00  N  616.9M  E  178.0M    WAINWRIGHT           2350.0M                         
+    DEV (NC)                             LLOYDMINSTER                   SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BAYTEX ENERGY LTD.                                                  05-11-049-01W4                  
+                                                                                                        
+    BAYTEX HZ  LLOYD 12-10-49-1          0497702   ALBERTA CROWN        657.5M                          
+    100/12-10-049-01W4/00  N  628.9M  E  178.0M    WAINWRIGHT           2350.0M                         
+    DEV (NC)                             LLOYDMINSTER                   SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BAYTEX ENERGY LTD.                                                  05-11-049-01W4                  
+                                                                                                        
+    BAYTEX HZ 102 LLOYD 12-10-49-1       0497703   ALBERTA CROWN        656.9M                          
+    102/12-10-049-01W4/00  N  640.9M  E  178.0M    WAINWRIGHT           2350.0M                         
+    DEV (NC)                             LLOYDMINSTER                   SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BAYTEX ENERGY LTD.                                                  05-11-049-01W4                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    SUNCOR P122P1 FIREBAG 4-35-94-6       0488037                                                       
+    100/04-35-094-06W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

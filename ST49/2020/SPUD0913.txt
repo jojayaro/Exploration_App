@@ -1,0 +1,20 @@
+Report Number: ST-49                                                                     Alberta Energy Regulator                                                                             Page 1 of 1
+Run Date: 13 Sep 2020                                                                  DAILY DRILLING ACTIVITY LIST                                                                                      
+                                                                          For the Notification Period 12 Sep 2020 To 13 Sep 2020                                                                         
+
+      WELL ID                    WELL NAME              LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE      FIELD CENTRE BA ID        LICENSEE        NEW PROJECTED  ACTIVITY  
+                                                                 BA ID               NAME              NUMBER                                                                    TOTAL DEPTH     TYPE    
+------------------- ----------------------------------- -------- ------ ------------------------------ ------ ----------------------- ------------ ----- ---------------------- ------------- -----------
+02/16-14-057-18W4/0 SPL 15-11 HZ 102 UKALTA 16-14-57-18  0498308 A2CL   Komat Drilling Ltd.                 3 13 Sep 2020 01:00:00 PM St. Albert   A7GR  Spur Petroleum Ltd.                  Set Surface
+00/05-28-062-19W5/0 CHEVRON HZ FOXCK 5-28-62-19          0496507 0Z41   Ensign Drilling Inc.              770 13 Sep 2020 10:55:00 AM St. Albert   0045  Chevron Canada Limited               Drill To LD
+02/10-29-062-19W5/0 CHEVRON 102 HZ FOXCK 10-29-62-19     0496506 0Z41   Ensign Drilling Inc.              770 13 Sep 2020 12:00:00 AM St. Albert   0045  Chevron Canada Limited               Drill To LD
+14/01-24-077-06W4/0 MEG T3N HARDY 1-24-77-6              0498291 0Y52   Precision Drilling Corporation    140 13 Sep 2020 03:00:00 PM Bonnyville   0Z9C  MEG Energy Corp.                     Drill To LD
+
+                                                                TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 3                                                                
+                                                                TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                
+                                                                TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                
+                                                                TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                                
+
+                                                                                    TOTAL NUMBER OF WELLS LISTED = 4                                                                                     
+                                                                                          *** END OF REPORT ***                                                                                          
+

@@ -1,0 +1,22 @@
+Report Number: ST-49                                                                        Alberta Energy Regulator                                                                                 Page 1 of 1
+Run Date: 09 Dec 2020                                                                     DAILY DRILLING ACTIVITY LIST                                                                                          
+                                                                             For the Notification Period 08 Dec 2020 To 09 Dec 2020                                                                             
+
+      WELL ID                  WELL NAME             LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID            LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                              BA ID               NAME              NUMBER                                                                              TOTAL DEPTH     TYPE    
+------------------- -------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------------ ------------- -----------
+02/09-17-039-08W5/0 OUC 102 HZ FERRIER 9-17-39-8      0494020 0Z41   Ensign Drilling Inc.              225 09 Dec 2020 03:00:00 PM Red Deer       A2DE  ORLEN Upstream Canada Ltd.                   Drill To LD
+02/14-25-048-06W4/0 HUSKY 3HZ T4 WILDMERE 14-25-48-6  0497593 0Y52   Precision Drilling Corporation    197 08 Dec 2020 04:30:00 PM Wainwright     0R46  Husky Oil Operations Limited                 Drill To LD
+03/03-06-066-04W6/0 PARA HZ 103 KARR 3-6-66-4         0498453 A5DR   Fox Drilling Inc.                   7 09 Dec 2020 04:37:00 AM Grande Prairie 0AW4  Paramount Resources Ltd.                     Set Surface
+02/16-32-066-04W6/0 PARA HZ 102 ELM 16-32-66-4        0498803 A5DR   Fox Drilling Inc.                   3 09 Dec 2020 05:00:00 PM Grande Prairie 0AW4  Paramount Resources Ltd.                     Drill To LD
+02/04-11-074-25W4/0 DELTASTREAM MARTENH 4-11-74-25    0498316 A0KC   Horizon Drilling Inc.              51 09 Dec 2020 01:30:00 AM St. Albert     A6YA  Deltastream Energy Corporation               Resumption 
+02/10-36-094-06W4/0 SUNCOR P118P3 FIREBAG 10-36-94-6  0474645 0Y52   Precision Drilling Corporation    151 08 Dec 2020 05:30:00 PM Bonnyville     0054  Suncor Energy Inc.                 1812      Resumption 
+
+                                                                   TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 3                                                                    
+                                                                   TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                    
+                                                                   TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 2                                                                    
+                                                                   TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                                    
+
+                                                                                        TOTAL NUMBER OF WELLS LISTED = 6                                                                                        
+                                                                                             *** END OF REPORT ***                                                                                              
+

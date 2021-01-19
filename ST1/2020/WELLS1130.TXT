@@ -1,0 +1,142 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 30 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    TQN CAROL 1-13-33-6                  0498827   ALBERTA CROWN        1171.1M                         
+    100/01-13-033-06W5/00  N   75.2M  W  552.4M    RED DEER             6088.0M                         
+    DEV (NC)                             CAROLINE                       GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TAQA NORTH LTD.                                                     02-25-033-06W5                  
+                                                                                                        
+    DELTASTREAM MARTENH 15-8-75-25       0498828   ALBERTA CROWN        698.6M                          
+    100/15-08-075-25W4/00  S  205.4M  W  496.9M    ST. ALBERT           2500.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      15-05-075-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 15-8-75-25       0498829   ALBERTA CROWN        698.3M                          
+    102/15-08-075-25W4/00  S  209.6M  W  488.0M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      15-05-075-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 16-8-75-25       0498830   ALBERTA CROWN        697.7M                          
+    103/16-08-075-25W4/00  S  214.2M  W  479.2M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      15-05-075-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 16-4-75-25       0498831   ALBERTA CROWN        698.2M                          
+    100/16-04-075-25W4/00  S  218.5M  W  470.0M    ST. ALBERT           2700.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      15-05-075-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 16-4-75-25       0498832   ALBERTA CROWN        698.1M                          
+    102/16-04-075-25W4/00  S  222.9M  W  461.0M    ST. ALBERT           2700.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      15-05-075-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 9-4-75-25        0498833   ALBERTA CROWN        698M                            
+    100/09-04-075-25W4/00  S  227.5M  W  452.3M    ST. ALBERT           2700.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      15-05-075-25W4                  
+                                                                                                        
+    CNRL 7B HZ SUGDEN 7-17-62-7          0498834   ALBERTA CROWN        600.8M                          
+    103/07-17-062-07W4/00  N   45.0M  E  752.6M    BONNYVILLE           2024.0M                         
+    DEV (NC)                             SUGDEN                         SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  03-16-062-07W4                  
+                                                                                                        
+    KARVE 102 HZ PROVOST 3-26-35-8       0498835   BOTH                 817.7M                          
+    102/03-26-035-08W4/00  S  613.2M  W  120.2M    WAINWRIGHT           1994.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    KARVE ENERGY INC.                                                   09-22-035-08W4                  
+                                                                                                        
+    KARVE 102 HZ PROVOST 16-23-35-8      0498836   ALBERTA CROWN        817.5M                          
+    102/16-23-035-08W4/00  S  623.2M  W  120.2M    WAINWRIGHT           2453.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    KARVE ENERGY INC.                                                   09-22-035-08W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    JUPITER HZ 102 RESTHA 8-8-60-1         0498463   GROUND ELEVATION                                   
+    103/08-08-060-01W6/00                            1350.30                                            
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5400.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0468.6 E 0736.8                                  
+
+    JUPITER HZ RESTHA 16-8-60-1            0498465   GROUND ELEVATION                                   
+    100/16-08-060-01W6/00                            1350.20                                            
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5447.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0461.9 E 0729.7                                  
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    WESTBRICK 102 HZ WILLGR 10-12-44-9    0498705                                                       
+    102/10-12-044-09W5/00                                                                               
+
+    WESTBRICK HZ WILLGR 12-12-44-9        0498706                                                       
+    100/12-12-044-09W5/00                                                                               
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    HUSKY 3HZ Q2 WILDMERE 15-25-48-6       0496542   UWI:                                               
+    00/15-25-048-06W4/0                              03/01-25-048-06W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     HUSKY 3HZ Q2 WILDMERE 1-25-48-6                    
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     01-25-048-06W4                                     
+
+    HUSKY 3HZ Q2 WILDMERE 15-25-48-6       0496542   WELL NAME:                                         
+    100/15-25-048-06W4/04                            HUSKY 3HZ Q2 WILDMERE 16-25-48-6                   
+
+    HUSKY 3HZ Q2 WILDMERE 15-25-48-6       0496542   UWI:                                               
+    00/15-25-048-06W4/2                              04/16-25-048-06W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     HUSKY 3HZ Q2 WILDMERE 16-25-48-6                   
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     16-25-048-06W4                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

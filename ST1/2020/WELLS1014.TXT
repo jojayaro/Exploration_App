@@ -1,0 +1,127 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 14 October 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL HZ VALHALLA 9-32-75-11          0498545   ALBERTA CROWN        916.8M                          
+    100/09-32-075-11W6/00  S  483.0M  W  215.5M    GRANDE PRAIRIE       5693.0M                         
+    DEV (NC)                             VALHALLA                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CANADIAN NATURAL RESOURCES LIMITED                                  09-36-075-12W6                  
+                                                                                                        
+    CNRL HZ VALHALLA 16-32-75-11         0498546   ALBERTA CROWN        917.2M                          
+    100/16-32-075-11W6/00  S  469.4M  W  209.2M    GRANDE PRAIRIE       5814.0M                         
+    DEV (NC)                             VALHALLA                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CANADIAN NATURAL RESOURCES LIMITED                                  09-36-075-12W6                  
+                                                                                                        
+    SPL 5-22 HZ MARTENH 1-16-73-25       0498547   ALBERTA CROWN        627.8M                          
+    102/01-16-073-25W4/00  N  494.8M  E  213.1M    ST. ALBERT           2700.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 05-22-073-25W4                  
+                                                                                                        
+    SPL 5-22 HZ MARTENH 5-21-73-25       0498548   ALBERTA CROWN        627.6M                          
+    100/05-21-073-25W4/00  N  495.5M  E  203.1M    ST. ALBERT           2700.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 05-22-073-25W4                  
+                                                                                                        
+    SYNCRUDE AN 20-5827 3-4-96-10        0498549   ALBERTA CROWN        296.3M                          
+    102/03-04-096-10W4/00  N  218.3M  E  734.1M    BONNYVILLE           299.0M                          
+    DSW (NC)                             UNDEFINED                      ELK POINT GRP                   
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    SYNCRUDE CANADA LTD.                                                03-04-096-10W4                  
+                                                                                                        
+    TIMBERROCK HZ 103 GARR 2-4-34-4      0498550   ALBERTA CROWN        1031.8M                         
+    103/02-04-034-04W5/00  N   94.8M  W  464.0M    RED DEER             4100.0M                         
+    DEV (NC)                             GARRINGTON                     GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TIMBERROCK ENERGY CORP.                                             02-09-034-04W5                  
+                                                                                                        
+    TIMBERROCK HZ 102 GARR 1-4-34-4      0498551   ALBERTA CROWN        1032M                           
+    102/01-04-034-04W5/00  N   94.8M  W  454.0M    RED DEER             4100.0M                         
+    DEV (NC)                             GARRINGTON                     GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TIMBERROCK ENERGY CORP.                                             02-09-034-04W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CRESTWYND HZ MEANOOK 14-30-63-21      0498087    UWI:                                               
+    S0/14-30-063-21W4/0                              00/10-30-063-21W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND HZ MEANOOK 10-30-63-21                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    CRESTWYND HZ MEANOOK 15-19-63-21      0498088    UWI:                                               
+    S0/16-18-063-21W4/8                              00/15-18-063-21W4/8                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND HZ MEANOOK 15-18-63-21                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL 1C CONKLIN 1-26-75-7             0491551                                                       
+    1AC/01-26-075-07W4/00                                                                               
+
+    CNRL 1D DEVENISH 1-36-75-8            0491552                                                       
+    1AB/01-36-075-08W4/00                                                                               
+
+    CNRL 7C DEVENISH 7-36-75-8            0491553                                                       
+    1AC/07-36-075-08W4/00                                                                               
+
+    CNRL 14C LEISMER 14-6-76-6            0491559                                                       
+    1AA/14-06-076-06W4/00                                                                               
+
+    CNRL 13D CONKLIN 13-23-75-7           0491560                                                       
+    1AB/13-23-075-07W4/00                                                                               
+
+    CNRL 14A CONKLIN 14-23-75-7           0491561                                                       
+    1AB/14-23-075-07W4/00                                                                               
+
+    CNRL 12B LEISMER 12-6-76-6            0491568                                                       
+    1AA/12-06-076-06W4/00                                                                               
+
+    CNRL 5A DEVENISH 5-36-75-8            0491570                                                       
+    1AA/05-36-075-08W4/00                                                                               
+
+    CNRL 5C2 LEISMER 5-32-75-6            0491571                                                       
+    1AD/05-32-075-06W4/00                                                                               
+
+    CNRL 2A LEISMER 2-33-75-6             0491572                                                       
+    1AC/02-33-075-06W4/00                                                                               
+
+    CNRL 4D LEISMER 4-5-76-6              0491573                                                       
+    1AC/04-05-076-06W4/00                                                                               
+
+    BLACKSPUR HZ 103 PRIN 16-30-19-12     0496062                                                       
+    103/16-30-019-12W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

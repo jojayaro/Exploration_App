@@ -1,0 +1,20 @@
+Report Number: ST-49                                                                            Alberta Energy Regulator                                                                                     Page 1 of 1
+Run Date: 19 Jul 2020                                                                         DAILY DRILLING ACTIVITY LIST                                                                                              
+                                                                                 For the Notification Period 18 Jul 2020 To 19 Jul 2020                                                                                 
+
+      WELL ID                   WELL NAME             LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                               BA ID               NAME              NUMBER                                                                                     TOTAL DEPTH     TYPE    
+------------------- --------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------------------- ------------- -----------
+00/01-09-056-21W5/0 PEYTO SUNDANCE 1-9-56-21           0498016 0Z41   Ensign Drilling Inc.              432 19 Jul 2020 01:45:00 AM Drayton Valley 0YA2  Peyto Exploration & Development Corp.               Drill To LD
+00/13-07-058-25W5/0 TOURMALINE HZ WILD RIV 13-7-58-25  0498096 0Z41   Ensign Drilling Inc.               39 18 Jul 2020 07:15:00 PM Drayton Valley A573  Tourmaline Oil Corp.                                Set Surface
+11/11-03-066-04W4/0 IMP H87-H09 LEMING 11-3-66-4       0498077 0Y55   Akita Drilling Ltd.                21 18 Jul 2020 08:15:00 PM Bonnyville     0007  Imperial Oil Resources Limited                      Resumption 
+00/15-15-078-08W6/0 TOURMALINE HZ VALHALLA 15-15-78-8  0497440 0Y52   Precision Drilling Corporation    541 18 Jul 2020 11:30:00 PM Grande Prairie A573  Tourmaline Oil Corp.                                Set Surface
+
+                                                                       TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 1                                                                        
+                                                                       TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                        
+                                                                       TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 1                                                                        
+                                                                       TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 2                                                                        
+
+                                                                                            TOTAL NUMBER OF WELLS LISTED = 4                                                                                            
+                                                                                                 *** END OF REPORT ***                                                                                                  
+

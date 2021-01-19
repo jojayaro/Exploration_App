@@ -1,0 +1,64 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 28 May 2020                                                                                   
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    IMP N01 N02W-745 LEMING 2-35-66-3    0498079   ALBERTA CROWN        645.8M                          
+    103/02-35-066-03W4/00  N  640.7M  W   24.9M    BONNYVILLE           660.0M                          
+    DSW (NC)                             UNDEFINED                      GRAND RAPIDS FM                 
+    SLANT                                NEW       OBSERVATION          NONE                            
+    IMPERIAL OIL RESOURCES LIMITED                                      08-35-066-03W4                  
+                                                                                                        
+    PEYTO NOSEHILL 4-3-55-20             0498080   ALBERTA CROWN        1232.3M                         
+    100/04-03-055-20W5/00  S  217.0M  W  356.3M    DRAYTON VALLEY       5600.0M                         
+    DEV (C)                              NOSEHILL                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               16-09-055-20W5                  
+                                                                                                        
+    PEYTO NOSEHILL 10-21-55-20           0498081   ALBERTA CROWN        1232.3M                         
+    100/10-21-055-20W5/00  S  212.2M  W  357.0M    DRAYTON VALLEY       5570.0M                         
+    DEV (NC)                             NOSEHILL                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               16-09-055-20W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL ET AL HZ 102 KARR 15-36-65-4     0489267                                                       
+    102/15-36-065-04W6/00                                                                               
+
+    CNRL ET AL HZ 103 KARR 16-36-65-4     0489268                                                       
+    103/16-36-065-04W6/00                                                                               
+
+    MURPHY 15-23B KAYBOB 7-34-64-18       0489279                                                       
+    100/07-34-064-18W5/00                                                                               
+
+    MURPHY 15-23C KAYBOB 8-33-64-18       0489280                                                       
+    100/08-33-064-18W5/00                                                                               
+
+    MURPHY 15-23D KAYBOB 6-34-64-18       0489281                                                       
+    100/06-34-064-18W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

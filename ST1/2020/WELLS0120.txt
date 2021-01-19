@@ -1,0 +1,133 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 20 January 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    HHR HZ KARR 16-13-64-3               0497452   ALBERTA CROWN        861.9M                          
+    100/16-13-064-03W6/00  S  481.4M  W  421.6M    GRANDE PRAIRIE       5967.0M                         
+    DEV (C)                              KARR                           MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    HAMMERHEAD RESOURCES INC.                                           10-15-064-03W6                  
+                                                                                                        
+    TXNE 9-32 DV COUNTESS 10-32-18-16    0497453   FREEHOLD             768.6M                          
+    102/10-32-018-16W4/00  S  628.9M  W   50.0M    MIDNAPORE            1335.0M                         
+    DEV (C)                              COUNTESS                       LOWER MANNVILLE FM              
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  09-32-018-16W4                  
+                                                                                                        
+    CNRL 14B FT KENT 14-30-63-4          0497454   ALBERTA CROWN        596.1M                          
+    102/14-30-063-04W4/00  N  268.9M  E  732.6M    BONNYVILLE           700.0M                          
+    DEV (NC)                             FORT KENT                      LLOYDMINSTER MBR                
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  03-31-063-04W4                  
+                                                                                                        
+    CNRL 15D FT KENT 15-30-63-4          0497455   ALBERTA CROWN        596.1M                          
+    100/15-30-063-04W4/00  N  268.9M  E  747.6M    BONNYVILLE           728.0M                          
+    DEV (NC)                             FORT KENT                      LLOYDMINSTER MBR                
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  03-31-063-04W4                  
+                                                                                                        
+    NORTH 40 HZ CESS 2-21-27-17          0497456   ALBERTA CROWN        784.6M                          
+    100/02-21-027-17W4/00  N   70.0M  W  740.5M    MEDICINE HAT         2787.0M                         
+    DEV (NC)                             CESSFORD                       BANFF FM                        
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    NORTH 40 RESOURCES LTD.                                             02-16-027-17W4                  
+                                                                                                        
+    CNRL HZ 103 KARR 15-4-66-3           0497457   ALBERTA CROWN        785.4M                          
+    103/15-04-066-03W6/00  S  183.6M  W   21.6M    GRANDE PRAIRIE       3650.0M                         
+    DEV (NC)                             KARR                           DUNVEGAN FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CANADIAN NATURAL RESOURCES LIMITED                                  16-33-065-03W6                  
+                                                                                                        
+    PEYTO WILD RIV 16-16-56-24           0497458   ALBERTA CROWN        1100.3M                         
+    100/16-16-056-24W5/00  S   76.0M  W  336.1M    DRAYTON VALLEY       3800.0M                         
+    DEV (C)                              WILD RIVER                     CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               16-17-056-24W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    WLEC MHZ 4C13 SWIMMING 13-31-52-6     0495862    UWI:                                               
+    00/13-31-052-06W4/3                              00/05-31-052-06W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC MHZ 4C13 SWIMMING 5-31-52-6                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM REX MBR                             
+
+    SPL 8-20 HZ 102 SMITH 4-22-73-24      0495972    UWI:                                               
+    02/04-22-073-24W4/0                              02/03-22-073-24W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 8-20 HZ 102 SMITH 3-22-73-24                   
+
+    IPCCAN 15C-5 HZ SUFFIELD 7-5-17-6     0496027    UWI:                                               
+    04/07-05-017-06W4/0                              04/02-05-017-06W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     IPCCAN 15C-5 HZ SUFFIELD 2-5-17-6                  
+
+    TXNR 13D-9 HZ COUNTESS 12-17-22-17    0496046    UWI:                                               
+    00/12-17-022-17W4/0                              04/06-17-022-17W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TXNR 13D-9 HZ COUNTESS 6-17-22-17                  
+
+    TXNR 3-30 HZ ALDSON 8-24-14-14        0496136    UWI:                                               
+    00/08-24-014-14W4/0                              00/05-19-014-13W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TXNR 3-30 HZ ALDSON 5-19-14-13                     
+
+    TEMPUS 1-22 HZ HERRON 1-15-20-27      0496242    UWI:                                               
+    00/01-15-020-27W4/0                              00/02-15-020-27W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TEMPUS 1-22 HZ HERRON 2-15-20-27                   
+
+    RSO HZ 105 REDWATER 11-24-55-21       0496453    UWI:                                               
+    05/11-24-055-21W4/0                              08/12-24-055-21W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     RSO HZ 105 REDWATER 12-24-55-21                    
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.02                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM ELLERSLIE MBR                       
+
+    WLEC MHZ 1B2 SWIMMING 7-19-52-6       0496476    UWI:                                               
+    02/02-19-052-06W4/6                              03/06-19-052-06W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC MHZ 1B2 SWIMMING 6-19-52-6                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM REX MBR                             
+
+    FHEC 20-GL127-MR1-VW 12-8-97-10       0496815    GROUND ELEVATION                                   
+    100/12-08-097-10W4/00                            343.7                                              
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

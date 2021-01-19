@@ -1,0 +1,22 @@
+Report Number: ST-49                                                                       Alberta Energy Regulator                                                                                Page 1 of 1
+Run Date: 02 Jan 2021                                                                    DAILY DRILLING ACTIVITY LIST                                                                                         
+                                                                            For the Notification Period 01 Jan 2021 To 02 Jan 2021                                                                            
+
+      WELL ID                   WELL NAME              LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID          LICENSEE          NEW PROJECTED  ACTIVITY  
+                                                                BA ID               NAME              NUMBER                                                                          TOTAL DEPTH     TYPE    
+------------------- ---------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- -------------------------- ------------- -----------
+02/10-12-043-12W5/0 TQN BRAZR 10-12-43-12               0498842 0Y52   Precision Drilling Corporation    225 02 Jan 2021 08:30:00 AM Drayton Valley A2TG  TAQA North Ltd.                          Resumption 
+02/03-15-061-04W6/0 TOURMALINE HZ KAKWA 3-15-61-4       0499015 0Y52   Precision Drilling Corporation    531 01 Jan 2021 09:15:00 PM Grande Prairie A573  Tourmaline Oil Corp.                     Drill To LD
+00/05-25-076-07W5/0 TAC 13-26 HZ NIPISI 5-25-76-7       0499148 A2CL   Komat Drilling Ltd.                 3 02 Jan 2021 06:00:00 AM St. Albert     A5TT  Tamarack Acquisition Corp.               Set Surface
+03/12-25-076-07W5/0 TAC 13-26 HZ 102 NIPISI 12-25-76-7  0499149 A2CL   Komat Drilling Ltd.                 3 02 Jan 2021 05:00:00 PM St. Albert     A5TT  Tamarack Acquisition Corp.               Set Surface
+02/16-34-076-07W5/0 TAC 13-26 HZ 102 NIPISI 16-34-76-7  0499151 A2CL   Komat Drilling Ltd.                 3 01 Jan 2021 07:30:00 PM St. Albert     A5TT  Tamarack Acquisition Corp.               Set Surface
+02/14-13-079-12W6/0 BIR 5-7 HZ 102 PCOUPES 14-13-79-12  0498992 0X84   Nabors Drilling Limited            77 02 Jan 2021 07:42:00 AM Grande Prairie A12R  Birchcliff Energy Ltd.                   Drill To LD
+
+                                                                  TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 2                                                                   
+                                                                  TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                   
+                                                                  TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 1                                                                   
+                                                                  TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 3                                                                   
+
+                                                                                       TOTAL NUMBER OF WELLS LISTED = 6                                                                                       
+                                                                                            *** END OF REPORT ***                                                                                             
+

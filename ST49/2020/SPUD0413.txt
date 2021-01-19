@@ -1,0 +1,17 @@
+Report Number: ST-49                                                               Alberta Energy Regulator                                                                       Page 1 of 1
+Run Date: 13 Apr 2020                                                            DAILY DRILLING ACTIVITY LIST                                                                                
+                                                                    For the Notification Period 12 Apr 2020 To 13 Apr 2020                                                                   
+
+      WELL ID               WELL NAME          LICENCE  +------------CONTRACTOR------------+  RIG        ACTIVITY DATE      FIELD CENTRE BA ID       LICENSEE        NEW PROJECTED  ACTIVITY 
+                                                        BA ID              NAME              NUMBER                                                                   TOTAL DEPTH     TYPE   
+------------------- -------------------------- -------- ------ ----------------------------- ------ ----------------------- ------------ ----- --------------------- ------------- ----------
+06/08-26-060-20W5/0 XTO C10 KAYBOBS 8-26-60-20  0497040 0ZF9   Jomax Drilling (1988) Limited      1 13 Apr 2020 09:00:00 AM St. Albert   A6GB  XTO Energy Canada ULC               Resumption
+
+                                                          TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 0                                                          
+                                                          TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                          
+                                                          TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 1                                                          
+                                                          TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 0                                                          
+
+                                                                              TOTAL NUMBER OF WELLS LISTED = 1                                                                               
+                                                                                    *** END OF REPORT ***                                                                                    
+

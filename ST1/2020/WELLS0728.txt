@@ -1,0 +1,112 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 28 July 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    IMP F06-01ST COLD LK 5-17-65-3       0219584   ALBERTA CROWN        599.1M                          
+    108/05-17-065-03W4/02  N  744.6M  E  683.2M    BONNYVILLE           665.0M                          
+    DEV (NC)                             ETHEL LAKE                     CLEARWATER FM                   
+    DIRECTIONAL                          RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      06-17-065-03W4                  
+                                                                                                        
+    IMP F06-07ST COLD LK 6-17-65-3       0219616   ALBERTA CROWN        599.1M                          
+    106/06-17-065-03W4/02  N  734.6M  E  683.2M    BONNYVILLE           599.0M                          
+    DEV (NC)                             ETHEL LAKE                     CLEARWATER FM                   
+    DIRECTIONAL                          RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      06-17-065-03W4                  
+                                                                                                        
+    IMP F06-25ST COLD LK 7-17-65-3       0219636   ALBERTA CROWN        599.1M                          
+    105/07-17-065-03W4/02  N  728.7M  E  798.2M    BONNYVILLE           621.4M                        
+    DEV (NC)                             ETHEL LAKE                     CLEARWATER FM                   
+    DIRECTIONAL                          RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      06-17-065-03W4                  
+                                                                                                        
+    SPL 11-31 HZ 103 NIPISI 11-31-76-6   0498225   ALBERTA CROWN        740.8M                          
+    103/11-31-076-06W5/00  S  454.9M  E  405.0M    ST. ALBERT           2600.0M                         
+    DEV (NC)                             NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SPUR PETROLEUM LTD.                                                 11-36-076-07W5                  
+                                                                                                        
+    SPL 11-36 HZ 104 NIPISI 11-31-76-6   0498226   ALBERTA CROWN        740.8M                          
+    104/11-31-076-06W5/00  S  454.9M  E  395.0M    ST. ALBERT           2600.0M                         
+    DSW (NC)                             NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    SPUR PETROLEUM LTD.                                                 12-36-076-07W5                  
+                                                                                                        
+    CNRL 6A HZ GARTH 6-7-64-6            0498227   ALBERTA CROWN        588.1M                          
+    102/06-07-064-06W4/00  S  212.0M  E  403.5M    BONNYVILLE           1910.0M                         
+    DEV (NC)                             GARTH                          GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  14-05-064-06W4                  
+                                                                                                        
+    CNRL 10D2 HZ GARTH 10-7-64-6         0498228   ALBERTA CROWN        588.5M                          
+    105/10-07-064-06W4/00  S  206.0M  E  415.7M    BONNYVILLE           1910.0M                         
+    DEV (NC)                             GARTH                          GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  14-05-064-06W4                  
+                                                                                                        
+    CNRL 13B HZ GARTH 13-8-64-6          0498229   ALBERTA CROWN        588.9M                          
+    100/13-08-064-06W4/00  S  200.0M  E  427.9M    BONNYVILLE           1910.0M                         
+    DEV (NC)                             GARTH                          GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  14-05-064-06W4                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    ROGCI HZ EDSON 16-15-51-17            0490126                                                       
+    100/16-15-051-17W5/00                                                                               
+
+    ROGCI HZ EDSON 14-14-51-17            0490127                                                       
+    100/14-14-051-17W5/00                                                                               
+
+    ROGCI HZ EDSON 16-14-51-17            0490128                                                       
+    100/16-14-051-17W5/00                                                                               
+
+    XTO H08 KAYBOBS 2-2-60-20             0495187                                                       
+    100/02-02-060-20W5/00                                                                               
+
+    XTO H05 KAYBOBS 8-26-60-20            0495199                                                       
+    105/08-26-060-20W5/00                                                                               
+
+    XTO H06 KAYBOBS 3-2-60-20             0495202                                                       
+    102/03-02-060-20W5/00                                                                               
+
+    XTO H09 KAYBOBS 1-2-60-20             0495211                                                       
+    100/01-02-060-20W5/00                                                                               
+
+    TXNE 15C-22 HZ COUNTESS 16-20-21-16   0495213                                                       
+    102/16-20-021-16W4/00                                                                               
+
+    TXNE 15C-22 HZ COUNTESS 13-24-21-16   0495214                                                       
+    102/13-24-021-16W4/00                                                                               
+
+    TXNE 15C-22 HZ COUNTESS 4-25-21-16    0495215                                                       
+    102/04-25-021-16W4/00                                                                               
+
+    TXNE 15C-22 HZ COUNTESS 1-29-21-16    0495216                                                       
+    100/01-29-021-16W4/00                                                                               
+
+    AMHERST HZ 102 MORGAN 12-8-52-3       0495222                                                       
+    102/12-08-052-03W4/00                                                                               
+
+    XTO H07 KAYBOBS 2-2-60-20             0495224                                                       
+    102/02-02-060-20W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

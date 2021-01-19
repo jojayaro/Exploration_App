@@ -1,0 +1,70 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 27 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    WESTBRICK HZ 104 WILLGR 4-8-44-9     0498825   ALBERTA CROWN        1011.5M                         
+    104/04-08-044-09W5/00  S  734.5M  E  415.5M    RED DEER             5300.0M                         
+    DEV (C)                              WILLESDEN GREEN                UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WESTBRICK ENERGY LTD.                                               11-10-044-09W5                  
+                                                                                                        
+    KARVE HZ PROVOST 4-14-35-9           0498826   ALBERTA CROWN        798.1M                          
+    100/04-14-035-09W4/00  S  489.9M  W  127.0M    WAINWRIGHT           2500.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    KARVE ENERGY INC.                                                   09-14-035-09W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SURGE ENERGY HZ PROVOST 15-22-37-3     0498270   GROUND ELEVATION                                   
+    100/15-22-037-03W4/00                            703.90                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0214.8 W 0460.3                                  
+
+    SURGE ENERGY 103 PROVOST 16-22-37-3    0498273   GROUND ELEVATION                                   
+    103/16-22-037-03W4/00                            704.30                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0214.8 W 0445.3                                  
+
+    OUC HZ FERRIER 8-17-39-8              0498042    GROUND ELEVATION                                   
+    100/08-17-039-08W5/00                            1046.7                                             
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5312.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0700.3 E 0125.0                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM CARDIUM FM                                
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CNUL CLIFFD 2-36-84-17                 0359966   SURFACE LOCATION:                                  
+    103/02-36-084-17W5/02                            02-25-084-17W5                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,196 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 15 January 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    BELLATRIX UMNV FERRIER 4-25-44-10    0497389   FREEHOLD             950.6M                          
+    102/04-25-044-10W5/00  S   56.0M  E  514.8M    RED DEER             5459.0M                         
+    DEV (NC)                             FERRIER                        UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BELLATRIX EXPLORATION LTD.                                          14-36-044-10W5                  
+                                                                                                        
+    TYRANNEX ENERGY PCOUPES 12-1-76-11   0497390   ALBERTA CROWN        843.6M                          
+    102/12-01-076-11W6/00  N   82.9M  E  117.8M    GRANDE PRAIRIE       2408.0M                         
+    DEV (NC)                             VALHALLA                       DOE CREEK MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TYRANNEX ENERGY LTD.                                                04-07-076-10W6                  
+                                                                                                        
+    KARVE 102 HZ PROVOST 8-19-38-11      0497391   FREEHOLD             735.9M                          
+    102/08-19-038-11W4/00  N  370.0M  W  110.0M    WAINWRIGHT           2388.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    KARVE ENERGY INC.                                                   01-24-038-12W4                  
+                                                                                                        
+    KARVE HZ PROVOST 1-19-38-11          0497392   FREEHOLD             736.1M                          
+    100/01-19-038-11W4/00  N  355.0M  W  110.0M    WAINWRIGHT           2452.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    KARVE ENERGY INC.                                                   01-24-038-12W4                  
+                                                                                                        
+    SPL 6-31 HZ NIPISI 2-36-76-7         0497393   ALBERTA CROWN        722M                            
+    100/02-36-076-07W5/00  N  420.7M  E  776.7M    ST. ALBERT           2600.0M                         
+    XPL (C)                              NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SPUR PETROLEUM LTD.                                                 06-31-076-06W5                  
+                                                                                                        
+    RSO HZ 102 HAYTER 5-29-41-1          0497394   ALBERTA CROWN        625.2M                          
+    102/05-29-041-01W4/00  S  176.6M  W  176.4M    WAINWRIGHT           1431.0M                         
+    DEV (NC)                             HAYTER                         DINA MBR                        
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    RIFLE SHOT OIL CORP.                                                16-30-041-01W4                  
+                                                                                                        
+    OUC HZ KAKWA 4-34-63-7               0497395   ALBERTA CROWN        1025.2M                         
+    100/04-34-063-07W6/00  S  356.3M  E  533.2M    GRANDE PRAIRIE       7076.0M                         
+    DEV (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ORLEN UPSTREAM CANADA LTD.                                          14-25-063-07W6                  
+                                                                                                        
+    CNRL 8C KENT 8-11-61-2               0497396   ALBERTA CROWN        558M                            
+    100/08-11-061-02W4/00  S  340.3M  W  113.4M    BONNYVILLE           816.0M                          
+    DEV (NC)                             KENT                           LLOYDMINSTER MBR                
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  16-11-061-02W4                  
+                                                                                                        
+    CNRL 9A KENT 9-11-61-2               0497397   ALBERTA CROWN        558M                            
+    100/09-11-061-02W4/00  S  331.2M  W   91.2M    BONNYVILLE           604.0M                          
+    DEV (NC)                             KENT                           LLOYDMINSTER MBR                
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  16-11-061-02W4                  
+                                                                                                        
+    CNRL 10A KENT 10-11-61-2             0497398   ALBERTA CROWN        558M                            
+    100/10-11-061-02W4/00  S  331.2M  W  122.4M    BONNYVILLE           749.0M                          
+    DEV (NC)                             KENT                           LLOYDMINSTER MBR                
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  16-11-061-02W4                  
+                                                                                                        
+    CNRL 9C KENT 9-11-61-2               0497399   ALBERTA CROWN        558M                            
+    102/09-11-061-02W4/00  S  322.2M  W  131.5M    BONNYVILLE           515.0M                          
+    DEV (NC)                             KENT                           LLOYDMINSTER MBR                
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  16-11-061-02W4                  
+                                                                                                        
+    CNRL 16A KENT 16-11-61-2             0497400   ALBERTA CROWN        558M                            
+    102/16-11-061-02W4/00  S  340.3M  W  100.2M    BONNYVILLE           434.0M                          
+    DEV (NC)                             KENT                           LLOYDMINSTER MBR                
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  16-11-061-02W4                  
+                                                                                                        
+    CNRL 15A KENT 15-11-61-2             0497401   ALBERTA CROWN        558M                            
+    100/15-11-061-02W4/00  S  322.1M  W   82.1M    BONNYVILLE           646.0M                          
+    DEV (NC)                             KENT                           LLOYDMINSTER MBR                
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  16-11-061-02W4                  
+                                                                                                        
+    CARDINAL 102 HZ BANTRY 4-31-20-14    0497402   FREEHOLD             767M                            
+    102/04-31-020-14W4/00  N  390.0M  E  130.0M    MIDNAPORE            3000.0M                         
+    DEV (NC)                             BANTRY                         GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CARDINAL ENERGY LTD.                                                04-06-021-14W4                  
+                                                                                                        
+    OBE HZ WILLGR 13-27-42-7             0497403   BOTH                 1018.7M                         
+    100/13-27-042-07W5/00  N  695.0M  E  603.6M    RED DEER             4800.0M                         
+    DEV (NC)                             WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    OBSIDIAN ENERGY LTD.                                                06-22-042-07W5                  
+                                                                                                        
+    OBE HZ WILLGR 14-27-42-7             0497404   BOTH                 1019.6M                         
+    102/14-27-042-07W5/00  N  695.0M  E  618.6M    RED DEER             4450.0M                         
+    DEV (NC)                             WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    OBSIDIAN ENERGY LTD.                                                06-22-042-07W5                  
+                                                                                                        
+    IPCCAN 4B5 LIND 5-1-56-2             0497405   ALBERTA CROWN        664.5M                          
+    100/05-01-056-02W4/00  N  641.0M  E  231.0M    BONNYVILLE           1900.0M                         
+    DEV (C)                              LINDBERGH                      CUMMINGS MBR                    
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IPC CANADA LTD.                                                     05-06-056-01W4                  
+                                                                                                        
+    IPCCAN 2D5 LIND 5-1-56-2             0497406   ALBERTA CROWN        663.8M                          
+    102/05-01-056-02W4/00  N  651.0M  E  230.1M    BONNYVILLE           1900.0M                         
+    DEV (C)                              LINDBERGH                      CUMMINGS MBR                    
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IPC CANADA LTD.                                                     05-06-056-01W4                  
+                                                                                                        
+    IPCCAN 2B5 LIND 5-1-56-2             0497407   ALBERTA CROWN        664.7M                          
+    103/05-01-056-02W4/00  N  631.1M  E  232.0M    BONNYVILLE           1950.0M                         
+    DEV (C)                              LINDBERGH                      CUMMINGS MBR                    
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IPC CANADA LTD.                                                     05-06-056-01W4                  
+                                                                                                        
+    IPCCAN 4D5 LIND 5-1-56-2             0497408   ALBERTA CROWN        663.5M                          
+    104/05-01-056-02W4/00  N  660.9M  E  229.2M    BONNYVILLE           1900.0M                         
+    DEV (C)                              LINDBERGH                      CUMMINGS MBR                    
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IPC CANADA LTD.                                                     05-06-056-01W4                  
+                                                                                                        
+    SIFTON HZ PEMBINA 2-4-48-1           0497409   BOTH                 813.7M                          
+    100/02-04-048-01W5/00  N  714.5M  E  745.6M    DRAYTON VALLEY       3737.0M                         
+    XPL (C)                              PEMBINA                        REX MBR                         
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SIFTON PETROLEUM INC.                                               06-09-048-01W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SPL 8-20 HZ SMITH 6-22-73-24          0495973    UWI:                                               
+    00/05-22-073-24W4/6                              00/06-22-073-24W4/6                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    WLEC MHZ 1B2 SWIMMING 7-19-52-6       0496476    UWI:                                               
+    02/02-19-052-06W4/4                              00/07-19-052-06W4/4                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM REX MBR                             
+
+    WLEC MHZ 1B2 SWIMMING 2-19-52-6       0496476    UWI:                                               
+    02/02-19-052-06W4/3                              00/07-19-052-06W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC MHZ 1B2 SWIMMING 7-19-52-6                    
+
+    SURGE ENERGY 102 HZ PROVOST 1-9-39-2  0496535    GROUND ELEVATION                                   
+    102/01-09-039-02W4/00                            658.2                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     2400.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0116.1 W 0417.7                                  
+
+                                                     SURFACE LOCATION:                                  
+                                                     02-16-039-02W4                                     
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM SPARKY MBR                          
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    JUPITER SMOKY 12-10-59-2              0487627                                                       
+    102/12-10-059-02W6/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

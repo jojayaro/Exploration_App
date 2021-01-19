@@ -1,0 +1,52 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 25 January 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    7GEN HZ 102 KAKWA 4-27-63-5           0487703                                                       
+    104/04-27-063-05W6/00                                                                               
+
+    7GEN HZ 103 KAKWA 4-27-63-5           0487704                                                       
+    105/04-27-063-05W6/00                                                                               
+
+    7GEN HZ KAKWA 1-28-63-5               0487705                                                       
+    102/01-28-063-05W6/00                                                                               
+
+    7GEN HZ 102 KAKWA 1-28-63-5           0487706                                                       
+    103/01-28-063-05W6/00                                                                               
+
+    7GEN HZ KAKWA 6-6-64-5                0487707                                                       
+    100/06-06-064-05W6/00                                                                               
+
+    7GEN HZ 102 KAKWA 6-6-64-5            0487708                                                       
+    102/06-06-064-05W6/00                                                                               
+
+    7GEN HZ KAKWA 9-6-64-5                0487711                                                       
+    100/09-06-064-05W6/00                                                                               
+
+    7GEN HZ 102 KAKWA 9-6-64-5            0487712                                                       
+    102/09-06-064-05W6/00                                                                               
+
+    LONG RUN HZ 102 REDWATER 15-18-56-20  0487719                                                       
+    102/15-18-056-20W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,178 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 12 January 2021                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    ARTIS HZ TWINING 15-4-31-25          0499236   ALBERTA CROWN        930.4M                          
+    100/15-04-031-25W4/00  S   67.5M  E  782.3M    RED DEER             6000.0M                         
+    DEV (NC)                             TWINING                        DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ARTIS EXPLORATION LTD.                                              14-16-031-25W4                  
+                                                                                                        
+    ARTIS HZ TWINING 3-33-31-25          0499237   ALBERTA CROWN        930.5M                          
+    100/03-33-031-25W4/00  S   67.5M  E  770.3M    RED DEER             6250.0M                         
+    DEV (NC)                             TWINING                        DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ARTIS EXPLORATION LTD.                                              14-16-031-25W4                  
+                                                                                                        
+    ARTIS HZ 102 TWINING 15-4-31-25      0499238   ALBERTA CROWN        930.6M                          
+    102/15-04-031-25W4/00  S   67.5M  E  750.3M    RED DEER             6250.0M                         
+    DEV (NC)                             TWINING                        DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ARTIS EXPLORATION LTD.                                              14-16-031-25W4                  
+                                                                                                        
+    ARTIS HZ 102 TWINING 3-33-31-25      0499239   ALBERTA CROWN        930.5M                          
+    102/03-33-031-25W4/00  S   67.5M  E  738.3M    RED DEER             6000.0M                         
+    DEV (NC)                             TWINING                        DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ARTIS EXPLORATION LTD.                                              14-16-031-25W4                  
+                                                                                                        
+    TXNE 11A-3 HZ ALDSON 11-2-15-13      0499240   FREEHOLD             743.8M                          
+    102/11-02-015-13W4/00  S  733.9M  E  730.6M    MEDICINE HAT         2750.0M                         
+    DEV (NC)                             ALDERSON                       ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  11-03-015-13W4                  
+                                                                                                        
+    TXNE 11A-3 HZ ALDSON 12-4-15-13      0499241   FREEHOLD             743.8M                          
+    100/12-04-015-13W4/00  S  759.2M  E  742.6M    MEDICINE HAT         3250.0M                         
+    DEV (NC)                             ALDERSON                       ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  11-03-015-13W4                  
+                                                                                                        
+    NORTH 40 HZ WAYNE 1-18-28-19         0499242   FREEHOLD             800.5M                          
+    100/01-18-028-19W4/00  S   55.0M  E  650.2M    MIDNAPORE            3850.0M                         
+    DEV (NC)                             WAYNE-ROSEDALE                 BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    NORTH 40 RESOURCES LTD.                                             14-09-028-19W4                  
+                                                                                                        
+    SURGE ENERGY 102  PROVOST 15-32-36-3 0499243   ALBERTA CROWN        668M                            
+    102/15-32-036-03W4/00  S  100.0M  W  778.9M    WAINWRIGHT           2525.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   15-29-036-03W4                  
+                                                                                                        
+    SURGE ENERGY 103 PROVOST 15-32-36-3  0499244   ALBERTA CROWN        668M                            
+    103/15-32-036-03W4/00  S  100.0M  W  793.9M    WAINWRIGHT           2420.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   15-29-036-03W4                  
+                                                                                                        
+    SURGE ENERGY 102HZ PROVOST 2-29-36-3 0499245   ALBERTA CROWN        668M                            
+    102/02-29-036-03W4/00  S  100.0M  E  801.0M    WAINWRIGHT           2230.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   14-29-036-03W4                  
+                                                                                                        
+    SURGE ENERGY HZ PROVOST 3-29-36-3    0499246   ALBERTA CROWN        667.8M                          
+    100/03-29-036-03W4/00  S  100.0M  E  786.0M    WAINWRIGHT           2225.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   14-29-036-03W4                  
+                                                                                                        
+    SURGE ENERGY 102HZ PROVOST 3-29-36-3 0499247   ALBERTA CROWN        667.6M                          
+    102/03-29-036-03W4/00  S  100.0M  E  771.0M    WAINWRIGHT           2320.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   14-29-036-03W4                  
+                                                                                                        
+    SURGE ENERGY 103 PROVOST 14-32-36-3  0499248   ALBERTA CROWN        667.7M                          
+    103/14-32-036-03W4/00  S  100.0M  E  756.0M    WAINWRIGHT           2510.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   14-29-036-03W4                  
+                                                                                                        
+    BONTERRA HZ 102 PEMBINA 4-31-46-7    0499249   ALBERTA CROWN        916.4M                          
+    102/04-31-046-07W5/00  N  211.1M  E  201.8M    DRAYTON VALLEY       3320.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BONTERRA ENERGY CORP.                                               04-32-046-07W5                  
+                                                                                                        
+    BONTERRA HZ 103 PEMBINA 5-31-46-7    0499250   ALBERTA CROWN        915.7M                          
+    103/05-31-046-07W5/00  N  221.1M  E  201.8M    DRAYTON VALLEY       3340.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BONTERRA ENERGY CORP.                                               04-32-046-07W5                  
+                                                                                                        
+    BONTERRA HZ 104 PEMBINA 5-31-46-7    0499251   ALBERTA CROWN        915.3M                          
+    104/05-31-046-07W5/00  N  231.1M  E  201.8M    DRAYTON VALLEY       3470.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BONTERRA ENERGY CORP.                                               04-32-046-07W5                  
+                                                                                                        
+    PEYTO WILD RIV 3-21-56-24            0499252   ALBERTA CROWN        1045.5M                         
+    102/03-21-056-24W5/00  N   97.5M  E  386.6M    DRAYTON VALLEY       3700.0M                         
+    DEV (C)                              WILD RIVER                     CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               04-28-056-24W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    OUC HZ LOCHEND 8-11-26-3               0498472   SURFACE CO-ORDINATES:                              
+    100/08-11-026-03W5/00                            N 0706.0 W 0107.2                                  
+
+    TAC 9-23 HZ NIPISI 9-22-76-7           0499203   GROUND ELEVATION                                   
+    100/09-22-076-07W5/00                            750.30                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0521.0 W 0216.8                                  
+
+    TAC 9-23 HZ 102 NIPISI 9-22-76-7       0499205   GROUND ELEVATION                                   
+    102/09-22-076-07W5/00                            750.20                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0527.5 W 0224.4                                  
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    STRATEGIC 102 MARLOWE 12-18-122-22    0444463                                                       
+    102/12-18-122-22W5/00                                                                               
+
+    STRATEGIC MARLOWE 6-17-121-23         0478679                                                       
+    100/06-17-121-23W5/00                                                                               
+
+    CVE B4 KIRBY 4-3-76-6                 0498373                                                       
+    1AC/04-03-076-06W4/00                                                                               
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CNRL ET AL TABERN 11-18-11-16          0194551   SURFACE LOCATION:                                  
+    100/11-18-011-16W4/00                            09-18-011-16W4                                     
+
+    CNUL CADOTTE 7-19-85-18                0330078   SURFACE LOCATION:                                  
+    102/07-19-085-18W5/00                            06-19-085-18W5                                     
+
+    SPL 1-20 HZ MARTENH 5-22-74-24         0498438   UWI:                                               
+    00/05-22-074-24W4/4                              00/04-22-074-24W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 1-20 HZ MARTENH 04-22-74-24                    
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     04-22-074-24W4                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

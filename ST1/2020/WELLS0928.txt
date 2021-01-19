@@ -1,0 +1,127 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 28 September 2020                                                                             
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    IMP G02-23ST COLD LK 13-9-65-3       0222379   ALBERTA CROWN        600.8M                          
+    108/13-09-065-03W4/02  N   20.1M  E  391.1M    BONNYVILLE           625.0M                          
+    DEV (NC)                             ETHEL LAKE                     CLEARWATER FM                   
+    DIRECTIONAL                          RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      04-16-065-03W4                  
+                                                                                                        
+    IMP G02-30ST COLD LK 13-9-65-3       0222385   ALBERTA CROWN        600.7M                          
+    112/13-09-065-03W4/02  N    7.0M  E  398.4M    BONNYVILLE           675.0M                          
+    DEV (NC)                             ETHEL LAKE                     CLEARWATER FM                   
+    DIRECTIONAL                          RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      04-16-065-03W4                  
+                                                                                                        
+    CLC 202 INF03 DIVIDE 8-13-82-12      0498286   ALBERTA CROWN        744.5M                          
+    109/08-13-082-12W4/00  S  102.6M  E  129.5M    BONNYVILLE           1625.0M                         
+    DEV (NC)                             DIVIDE                         MCMURRAY FM                     
+    HORIZONTAL                           DEEPENING PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CONNACHER OIL AND GAS LIMITED                                       13-18-082-11W4                  
+                                                                                                        
+    CLC 202 INF04 DIVIDE 8-13-82-12      0498287   ALBERTA CROWN        744.5M                          
+    110/08-13-082-12W4/00  S   88.7M  E  135.2M    BONNYVILLE           1660.0M                         
+    DEV (NC)                             DIVIDE                         MCMURRAY FM                     
+    HORIZONTAL                           DEEPENING PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CONNACHER OIL AND GAS LIMITED                                       13-18-082-11W4                  
+                                                                                                        
+    BACCALIEU 102 HZ FERRIER 6-4-42-9    0498480   ALBERTA CROWN        1051.5M                         
+    102/06-04-042-09W5/00  N  161.0M  W  666.1M    RED DEER             4690.0M                         
+    DEV (NC)                             FERRIER                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BACCALIEU ENERGY INC.                                               02-33-041-09W5                  
+                                                                                                        
+    CPEC HZ JUDYCK 5-12-64-10            0498481   ALBERTA CROWN        949.4M                          
+    100/05-12-064-10W5/00  S   18.4M  E  535.0M    ST. ALBERT           5350.0M                         
+    DEV (NC)                             JUDY CREEK                     SLAVE POINT FM                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESCENT POINT ENERGY CORP.                                         14-13-064-10W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CHEVRON HZ FOXCK 3-16-62-19           0490416    UWI:                                               
+    00/03-16-062-19W5/0                              02/02-16-062-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     CHEVRON HZ FOXCK 2-16-62-19                        
+
+    PEYTO SUNDANCE 13-2-56-22             0497812    GROUND ELEVATION                                   
+    100/13-02-056-22W5/00                            995.6                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0167.2 E 0404.0                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM CARDIUM FM                                
+
+    PEYTO SUNDANCE 14-2-56-22             0497813    GROUND ELEVATION                                   
+    102/14-02-056-22W5/00                            995.6                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0172.1 E 0403.7                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM CARDIUM FM                                
+
+    PEYTO ANSELL 3-17-51-19               0498047    UWI:                                               
+    00/03-17-051-19W5/0                              02/14-17-051-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     PEYTO ANSELL 14-17-51-19                           
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+    PEYTO LAWRNC 6-21-42-12               0498050    UWI:                                               
+    00/04-21-042-12W5/0                              00/03-29-042-12W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     PEYTO LAWRNC 3-29-42-12                            
+
+    STRATH HZ KAKWA 13-10-62-3            0498108    UWI:                                               
+    00/13-10-062-03W6/0                              00/16-09-062-03W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     STRATH-CONA HZ KAKWA 16-9-62-3                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM WILRICH MBR                               
+
+    TAC 16-26 HZ PROVOST 8-27-34-8        0498160    UWI:                                               
+    00/08-27-034-08W4/0                              02/05-26-034-08W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TAC 16-26 HZ PROVOST 5-26-34-8                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM VIKING FM                           
+
+    TAC 5-25 HZ 1F1 PROVOST 7-36-34-8     0498181    UWI:                                               
+    F1/07-36-034-08W4/0                              F1/10-36-034-08W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TAC 5-25 HZ IF1 PROVOST 10-36-34-8                 
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     WATER FROM BASAL BELLY RIVER SD                    
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,226 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 07 April 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    PEYTO WILD RIV 13-30-56-24           0497978   ALBERTA CROWN        1046.4M                         
+    100/13-30-056-24W5/00  S  230.0M  E  377.1M    DRAYTON VALLEY       3750.0M                         
+    DEV (C)                              WILD RIVER                     CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               13-19-056-24W5                  
+                                                                                                        
+    PEYTO WILD RIV 14-30-56-24           0497979   ALBERTA CROWN        1046.4M                         
+    100/14-30-056-24W5/00  S  227.8M  E  381.5M    DRAYTON VALLEY       3720.0M                         
+    DEV (C)                              WILD RIVER                     CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               13-19-056-24W5                  
+                                                                                                        
+    BEC 02 HZ FERRIER 15-20-38-7         0497980   ALBERTA CROWN        1016.2M                         
+    104/15-20-038-07W5/00  S  200.0M  W  440.7M    RED DEER             5814.0M                         
+    DEV (NC)                             FERRIER                        GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BONAVISTA ENERGY CORPORATION                                        15-08-038-07W5                  
+                                                                                                        
+    BEC HZ FERRIER 16-20-38-7            0497981   ALBERTA CROWN        1015.7M                         
+    103/16-20-038-07W5/00  S  200.0M  W  420.7M    RED DEER             5824.0M                         
+    DEV (NC)                             FERRIER                        GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BONAVISTA ENERGY CORPORATION                                        15-08-038-07W5                  
+                                                                                                        
+    PEYTO WILD RIV 1-28-56-24            0497982   ALBERTA CROWN        1089.5M                         
+    100/01-28-056-24W5/00  N   61.8M  W  303.4M    DRAYTON VALLEY       4150.0M                         
+    DEV (C)                              WILD RIVER                     CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               01-21-056-24W5                  
+                                                                                                        
+    PEYTO WILD RIV 15-21-56-24           0497983   ALBERTA CROWN        1089.5M                         
+    100/15-21-056-24W5/00  N   57.2M  W  317.6M    DRAYTON VALLEY       3750.0M                         
+    DEV (C)                              WILD RIVER                     CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               01-21-056-24W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SPL 15-35 HZ 103 MARTENH 16-2-74-25   0495589    UWI:                                               
+    00/15-02-074-25W4/3                              03/16-02-074-25W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-35 HZ MARTENH 16-2-74-25                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 1-5 HZ MARTEN 4-4-77-6            0496050    UWI:                                               
+    02/04-03-077-06W5/8                              00/02-04-077-06W5/8                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 1-5 HZ 102 MARTEN 2-4-77-6                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2900.00                                  
+
+    TQN HZ FERRIER 1-28-43-11             0496514    TARGET SUBSTANCE(1)                                
+    1W0/01-28-043-11W5/00                            GAS FROM NOTIKEWIN MBR                             
+
+    TURNSTONE HZ GODIN 2-19-81-4          0496618    UWI:                                               
+    00/07-18-081-04W5/3                              02/10-18-081-04W5/3                                
+
+                                                     WELL NAME:                                         
+                                                     TURNSTONE HZ GODIN 10-18-81-4                      
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.05                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    TAC 13-27 HZ 103 PROVOST 16-34-34-9   0496713    UWI:                                               
+    03/16-34-034-09W4/0                              02/15-34-034-09W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TAC 13-27 HZ 103 PROVOST 15-34-34-9                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM VIKING FM                           
+
+    CNRL HZ 102 WEMBLEY 14-11-73-11       0496775    UWI:                                               
+    02/14-11-073-11W6/0                              00/04-14-073-11W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL HZ 102 WEMBLEY 4-14-73-11                     
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.62                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     3                                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    SUMMERLAND HZ FIGURE 3-21-64-16       0496780    UWI:                                               
+    00/03-21-064-16W4/0                              00/02-21-064-16W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SUMMERLAND HZ FIGURE 2-21-64-16                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     420.00 TO 565.00                                   
+
+    BAYTEX HZ 100 SLAVE 14-23-84-15       0496864    UWI:                                               
+    00/15-15-084-15W5/7                              00/01-22-084-15W5/7                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX HZ 100 SLAVE 1-22-84-15                     
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM BLUESKY FM                      
+
+    BEC HZ FERRIER 13-28-38-7             0496867    UWI:                                               
+    00/13-28-038-07W5/0                              00/05-28-038-07W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     BEC HZ FERRIER 5-28-38-7                           
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM GLAUCONITIC SS                            
+
+    VELVET HZ BEZAN 14-11-69-3            0497217    UWI:                                               
+    00/14-11-069-03W6/0                              S0/03-14-069-03W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     VELVET HZ BEZAN 3-14-69-3                          
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.18                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM MONTNEY FM                          
+
+    WLEC MHZ 2B4 PROVOST 1-5-39-2         0497233    WELL NAME:                                         
+    1S0/04-04-039-02W4/04                            WLEC MHZ 2B4 PROVOST 4-4-                          
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GENERAL PETROLEUM MBR               
+
+    POC HZ UKALTA 8-10-57-18              0497336    UWI:                                               
+    00/01-10-057-18W4/3                              03/08-10-057-18W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     POC UKALTA 8-10-57-18                              
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    POC 02 HZ UKALTA 11-10-57-18          0497337    UWI:                                               
+    02/08-10-057-18W4/6                              00/09-10-057-18W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     POC 02 HZ UKALTA 9-10-57-18                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    GEAR HZ KILLAM 5-21-42-11             0497500    UWI:                                               
+    03/05-21-042-11W4/0                              00/04-28-042-11W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     GEAR HZ KILLAM 4-28-42-11                          
+
+                                                     MINERAL RIGHTS:                                    
+                                                     ALBERTA CROWN                                      
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM LLOYDMINSTER MBR                    
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL 1B LNDBRGH 1-36-54-4             0488702                                                       
+    100/01-36-054-04W4/00                                                                               
+
+    KARVE 102 HZ PROVOST 13-28-35-4       0488709                                                       
+    102/13-28-035-04W4/00                                                                               
+
+    KARVE 103 HZ PROVOST 13-28-35-4       0488710                                                       
+    103/13-28-035-04W4/00                                                                               
+
+    SURGE ENERGY HZ NIPISI 13-10-78-9     0494104                                                       
+    100/13-10-078-09W5/00                                                                               
+
+    SURGE ENERGY HZ NIPISI 15-10-78-9     0494105                                                       
+    100/15-10-078-09W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

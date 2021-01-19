@@ -1,0 +1,103 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 13 May 2020                                                                                   
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    TOURMALINE HZ MEDLOD 5-20-51-21      0498039   ALBERTA CROWN        1129.6M                         
+    100/05-20-051-21W5/00  S  431.3M  E  253.5M    DRAYTON VALLEY       5700.0M                         
+    DEV (C)                              MEDICINE LODGE                 SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                12-08-051-21W5                  
+                                                                                                        
+    TOURMALINE HZ 102 LAMBERT 11-5-51-21 0498040   ALBERTA CROWN        1129.4M                         
+    102/11-05-051-21W5/00  S  432.6M  E  258.2M    DRAYTON VALLEY       5300.0M                         
+    DEV (NC)                             LAMBERT                        SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                12-08-051-21W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SPL 15-35 HZ 103 MARTENH 15-2-74-25   0495267    UWI:                                               
+    00/16-02-074-25W4/7                              03/15-02-074-25W4/7                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-35 HZ MARTENH 15-2-74-25                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    CVE A13 HARDY 13-3-77-6               0495611    UWI:                                               
+    AB/13-03-077-06W4/0                              00/13-03-077-06W4/0                                
+
+                                                     GROUND ELEVATION                                   
+                                                     563.2                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0287.5 E 0395.7                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE B3-15 B3 LEISMER 4-15-77-6        0495635    UWI:                                               
+    S0/03-15-077-06W4/2                              00/03-15-077-06W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CVE B3 LEISMER 3-15-77-6                           
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CRESTWYND RADWAY 16-23-59-20          0496782    UWI:                                               
+    00/16-23-059-20W4/4                              02/12-23-059-20W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND RADWAY 12-23-59-20                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM UPPER MANNVILLE FM                  
+
+    CREW HZ 102 SWIMMING 7-23-52-7        0497817    WELL NAME:                                         
+    100/02-23-052-07W4/06                            CREW HZ 102 SWIMMING 2-23                          
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    HIGH GROUND HZ PROVOST 8-16-35-4      0489113                                                       
+    102/08-16-035-04W4/00                                                                               
+
+    BONTERRA HZ PEMBINA 1-33-46-7         0494409                                                       
+    100/01-33-046-07W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

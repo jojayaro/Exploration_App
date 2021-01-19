@@ -1,0 +1,127 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 17 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    TANGLE CREEK KAYBOBS 9-31-60-18      0498729   ALBERTA CROWN        900.8M                          
+    100/09-31-060-18W5/00  N   25.1M  E  190.0M    ST. ALBERT           3400.0M                         
+    DEV (NC)                             KAYBOB SOUTH                   DUNVEGAN FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TANGLE CREEK ENERGY LTD.                                            04-04-061-18W5                  
+                                                                                                        
+    TANGLE CREEK KAYBOBS 12-5-61-18      0498730   ALBERTA CROWN        900.8M                          
+    100/12-05-061-18W5/00  N   25.1M  E  190.0M    ST. ALBERT           3400.0M                         
+    DEV (C)                              KAYBOB SOUTH                   DUNVEGAN FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TANGLE CREEK ENERGY LTD.                                            04-04-061-18W5                  
+                                                                                                        
+    VELVET HZ BEZAN 6-25-68-3            0498731   ALBERTA CROWN        670.2M                          
+    100/06-25-068-03W6/00  N  762.9M  W  784.0M    GRANDE PRAIRIE       5000.0M                         
+    DEV (C)                              BEZANSON                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VELVET ENERGY LTD.                                                  07-35-068-03W6                  
+                                                                                                        
+    VELVET HZ BEZAN 7-25-68-3            0498732   ALBERTA CROWN        670.2M                          
+    100/07-25-068-03W6/00  N  781.5M  W  799.2M    GRANDE PRAIRIE       5000.0M                         
+    DEV (C)                              BEZANSON                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VELVET ENERGY LTD.                                                  07-35-068-03W6                  
+                                                                                                        
+    VELVET 102 HZ BEZAN 7-25-68-3        0498733   ALBERTA CROWN        670.1M                          
+    102/07-25-068-03W6/00  N  772.2M  W  791.6M    GRANDE PRAIRIE       5000.0M                         
+    DEV (C)                              BEZANSON                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VELVET ENERGY LTD.                                                  07-35-068-03W6                  
+                                                                                                        
+    COPRC 1AB RESDELN 10-9-83-7          0498734   ALBERTA CROWN        709.2M                          
+    1AB/10-09-083-07W4/00  S  569.1M  W  471.4M    BONNYVILLE           507.0M                          
+    OV (C)                               RESDELN                        MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CONOCOPHILLIPS CANADA RESOURCES CORP.                               10-09-083-07W4                  
+                                                                                                        
+    WOODCOTE 102 NIPISI 16-18-76-7       0498735   ALBERTA CROWN        708.1M                          
+    102/16-18-076-07W5/00  S  545.6M  W  103.0M    ST. ALBERT           2500.0M                         
+    DEV (C)                              NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WOODCOTE OIL CORP.                                                  09-17-076-07W5                  
+                                                                                                        
+    WOODCOTE HZ NIPISI 12-15-76-7        0498736   ALBERTA CROWN        708.1M                          
+    100/12-15-076-07W5/00  S  536.3M  W  106.5M    ST. ALBERT           2500.0M                         
+    DEV (C)                              NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WOODCOTE OIL CORP.                                                  09-17-076-07W5                  
+                                                                                                        
+    SANSUM HZ PHOENIX 2-17-39-10         0498737   ALBERTA CROWN        1117.3M                         
+    100/02-17-039-10W5/00  N  288.7M  W   21.7M    RED DEER             4530.0M                         
+    DEV (NC)                             PHOENIX                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SANSUM ENERGY INC.                                                  01-19-039-10W5                  
+                                                                                                        
+    KELT EXP HZ PCOUPES 4-12-77-13       0498738   ALBERTA CROWN        722.6M                          
+    100/04-12-077-13W6/00  S   35.2M  W  698.8M    GRANDE PRAIRIE       5675.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    KELT EXPLORATION LTD.                                               15-13-077-13W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CRESTWYND HZ JILES 5-16-63-21         0498460    UWI:                                               
+    00/03-16-063-21W4/7                              00/05-16-063-21W4/7                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM UPPER MANNVILLE FM                  
+
+    CRESTWYND HZ JILES 3-16-63-21         0498460    UWI:                                               
+    00/03-16-063-21W4/6                              00/05-16-063-21W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND HZ JILES 5-16-63-21                      
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    7GEN HZ 103 KAKWA 14-15-64-6          0491964                                                       
+    103/14-15-064-06W6/00                                                                               
+
+    CVE B1 KIRBY 1-27-71-5                0491977                                                       
+    1AA/01-27-071-05W4/00                                                                               
+
+    CVE A6 FISHER 6-15-71-4               0491979                                                       
+    1AA/06-15-071-04W4/00                                                                               
+
+    CVE B1 FISHER 1-16-71-4               0491980                                                       
+    1AA/01-16-071-04W4/00                                                                               
+
+    CVE B2 FISHER 2-16-71-4               0491981                                                       
+    1AA/02-16-071-04W4/00                                                                               
+
+    CVE A3 FISHER 3-20-71-4               0491992                                                       
+    1AA/03-20-071-04W4/00                                                                               
+
+    CVE B6 KIRBY 6-29-71-4                0491993                                                       
+    1AA/06-29-071-04W4/00                                                                               
+
+    PEYTO ANSELL 5-10-53-21               0492002                                                       
+    100/05-10-053-21W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,20 @@
+Report Number: ST-49                                                                           Alberta Energy Regulator                                                                                   Page 1 of 1
+Run Date: 17 Nov 2020                                                                        DAILY DRILLING ACTIVITY LIST                                                                                            
+                                                                                For the Notification Period 16 Nov 2020 To 17 Nov 2020                                                                               
+
+      WELL ID                  WELL NAME             LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE      FIELD CENTRE BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                              BA ID               NAME              NUMBER                                                                                   TOTAL DEPTH     TYPE    
+------------------- -------------------------------- -------- ------ ------------------------------ ------ ----------------------- ------------ ----- ------------------------------------- ------------- -----------
+00/01-23-041-11W5/0 PEYTO CHAMBERS 1-23-41-11         0498248 A08C   Savanna Drilling Corp.            616 17 Nov 2020 08:00:00 AM Red Deer     0YA2  Peyto Exploration & Development Corp.               Drill To LD
+00/16-17-051-26W4/0 NEP LEDUC-WB 16-17-51-26          0496786 0Z41   Ensign Drilling Inc.               32 16 Nov 2020 10:15:00 PM St. Albert   A637  NEP Canada ULC                                      Drill To LD
+02/03-18-060-02W4/0 CHECKENERGY KENT 3-18-60-2        0498668 0Y52   Precision Drilling Corporation    300 17 Nov 2020 10:30:00 AM Bonnyville   A6M0  Check Energy Ltd.                                   Drill To LD
+02/09-19-073-24W4/0 SPL 9-20 HZ 102 SMITH 9-19-73-24  0498410 0Y52   Precision Drilling Corporation    149 17 Nov 2020 08:30:00 AM St. Albert   A7GR  Spur Petroleum Ltd.                                 Resumption 
+
+                                                                      TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 3                                                                      
+                                                                      TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                      
+                                                                      TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 1                                                                      
+                                                                      TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 0                                                                      
+
+                                                                                          TOTAL NUMBER OF WELLS LISTED = 4                                                                                           
+                                                                                                *** END OF REPORT ***                                                                                                
+

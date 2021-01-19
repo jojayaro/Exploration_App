@@ -1,0 +1,178 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 08 September 2020                                                                             
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL 1C KENT 1-2-61-2                0498360   ALBERTA CROWN        553.7M                          
+    100/01-02-061-02W4/00  N  330.9M  W  624.3M    BONNYVILLE           589.0M                          
+    DEV (NC)                             KENT                           LLOYDMINSTER MBR                
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  02-02-061-02W4                  
+                                                                                                        
+    CNRL 2A KENT 2-2-61-2                0498361   ALBERTA CROWN        553.7M                          
+    100/02-02-061-02W4/00  N  314.9M  W  624.3M    BONNYVILLE           520.0M                          
+    DEV (NC)                             KENT                           LLOYDMINSTER MBR                
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  02-02-061-02W4                  
+                                                                                                        
+    CNRL 2C KENT 2-2-61-2                0498362   ALBERTA CROWN        553.7M                          
+    102/02-02-061-02W4/00  N  302.1M  W  624.3M    BONNYVILLE           425.0M                          
+    DEV (NC)                             KENT                           LLOYDMINSTER MBR                
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  02-02-061-02W4                  
+                                                                                                        
+    CNRL 7A KENT 7-2-61-2                0498363   ALBERTA CROWN        553.7M                          
+    103/07-02-061-02W4/00  N  382.1M  W  625.9M    BONNYVILLE           473.0M                          
+    DEV (NC)                             KENT                           LLOYDMINSTER MBR                
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  02-02-061-02W4                  
+                                                                                                        
+    CNRL 5B KENT 5-1-61-2                0498364   ALBERTA CROWN        553.7M                          
+    103/05-01-061-02W4/00  N  353.3M  W  625.9M    BONNYVILLE           865.0M                          
+    DEV (NC)                             KENT                           LLOYDMINSTER MBR                
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  02-02-061-02W4                  
+                                                                                                        
+    CNRL 9B KENT 9-2-61-2                0498365   ALBERTA CROWN        553.7M                          
+    100/09-02-061-02W4/00  N  367.7M  W  625.9M    BONNYVILLE           749.0M                          
+    DEV (NC)                             KENT                           LLOYDMINSTER MBR                
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  02-02-061-02W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    BAYTEX HZ SLAVE 4-16-85-15            0493537    UWI:                                               
+    00/16-08-085-15W5/3                              00/09-08-085-15W5/3                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX SLAVE 9-8-85-15                             
+
+    CANAMAX 02 PUSKWA 9-15-74-1           0495957    DRILLING OPERATION:                                
+    102/09-15-074-01W6/00                            HORIZONTAL                                         
+
+                                                     PROJECTED DEPTH:                                   
+                                                     4250.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0743.4 E 0296.5                                  
+
+    AVN HZ PCOUPES 8-1-76-12              0496462    TERMINATING ZONE:                                  
+    100/08-01-076-12W6/00                            DOIG FM                                            
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.12                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM DOIG FM                                   
+
+    AVN 102 HZ PCOUPES 1-1-76-12          0496464    TERMINATING ZONE:                                  
+    102/01-01-076-12W6/00                            DOIG FM                                            
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.12                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM DOIG FM                                   
+
+    TOURMALINE HZ ANDERSN 14-36-50-23     0497630    SURFACE CO-ORDINATES:                              
+    100/14-36-050-23W5/00                            S 0387.0 W 0271.7                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM CARDIUM FM                                
+
+    TOURMALINE HZ ANDERSN 8-11-51-23      0497636    UWI:                                               
+    00/08-11-051-23W5/0                              00/01-06-051-22W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ LAMBERT 1-6-51-22                    
+
+                                                     GROUND ELEVATION                                   
+                                                     1180.7                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0384.1 W 0267.8                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM CARDIUM FM                                
+
+    CANAMAX 03 PUSKWA 14-15-74-1          0498265    DRILLING OPERATION:                                
+    103/14-15-074-01W6/00                            HORIZONTAL                                         
+
+                                                     PROJECTED DEPTH:                                   
+                                                     4250.00                                            
+
+                                                     TERMINATING ZONE:                                  
+                                                     WABAMUN GRP                                        
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0743.4 E 0311.5                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.41                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM WABAMUN GRP                         
+
+    MEG T5N HARDY 1-24-77-6               0498293    UWI:                                               
+    16/01-24-077-06W4/0                              05/15-13-077-06W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     MEG HARDY 15-13-77-6                               
+
+                                                     WELL TYPE:                                         
+                                                     PRODUCTION (SCHEME)                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    RRX HZ 11A PEMBINA 11-13-46-2         0490765                                                       
+    100/11-13-046-02W5/00                                                                               
+
+    CNRL VERMIL 12-14-50-6                0493444                                                       
+    100/12-14-050-06W4/00                                                                               
+
+    CNRL 9D FROG LK 9-30-54-3             0493484                                                       
+    100/09-30-054-03W4/00                                                                               
+
+    CNRL 15C FROG LK 15-30-54-3           0493518                                                       
+    100/15-30-054-03W4/00                                                                               
+
+    CNRL 7C ST. PAUL 7-2-54-7             0493539                                                       
+    100/07-02-054-07W4/00                                                                               
+
+    CNRL 15C ST. PAUL 15-2-54-7           0493541                                                       
+    100/15-02-054-07W4/00                                                                               
+
+    CNRL 4B LNDBRGH 4-36-54-4             0493737                                                       
+    100/04-36-054-04W4/00                                                                               
+
+    CNRL 103 6HZ LLOYD 15-29-49-1         0494223                                                       
+    103/15-29-049-01W4/00                                                                               
+
+    CNRL 104 4HZ WILDMERE 16-26-48-6      0494517                                                       
+    104/16-26-048-06W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

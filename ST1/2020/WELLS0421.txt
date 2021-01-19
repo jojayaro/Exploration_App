@@ -1,0 +1,115 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 21 April 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL KN06-01I KIRBY 12-1-75-9        0498003   ALBERTA CROWN        676.4M                          
+    107/12-01-075-09W4/00  N  720.9M  W   77.5M    BONNYVILLE           1770.0M                         
+    DSW (NC)                             KIRBY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    CANADIAN NATURAL RESOURCES LIMITED                                  08-01-075-09W4                  
+                                                                                                        
+    CNRL KN06-02I KIRBY 12-1-75-9        0498004   ALBERTA CROWN        676.2M                          
+    108/12-01-075-09W4/00  N  711.0M  W   78.9M    BONNYVILLE           1750.0M                         
+    DSW (NC)                             KIRBY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    CANADIAN NATURAL RESOURCES LIMITED                                  08-01-075-09W4                  
+                                                                                                        
+    CNRL KN06-03I KIRBY 12-1-75-9        0498005   ALBERTA CROWN        676.3M                          
+    109/12-01-075-09W4/00  N  701.1M  W   80.3M    BONNYVILLE           1740.0M                         
+    DSW (NC)                             KIRBY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    CANADIAN NATURAL RESOURCES LIMITED                                  08-01-075-09W4                  
+                                                                                                        
+    CNRL KN06-04I KIRBY 12-1-75-9        0498006   ALBERTA CROWN        676.5M                          
+    110/12-01-075-09W4/00  N  691.2M  W   81.7M    BONNYVILLE           1730.0M                         
+    DSW (NC)                             KIRBY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    CANADIAN NATURAL RESOURCES LIMITED                                  08-01-075-09W4                  
+                                                                                                        
+    CNRL KN06-05I KIRBY 12-1-75-9        0498007   ALBERTA CROWN        676.6M                          
+    111/12-01-075-09W4/00  N  681.3M  W   83.0M    BONNYVILLE           1720.0M                         
+    DSW (NC)                             KIRBY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    CANADIAN NATURAL RESOURCES LIMITED                                  08-01-075-09W4                  
+                                                                                                        
+    CNRL KN06-06I KIRBY 12-1-75-9        0498008   ALBERTA CROWN        676.6M                          
+    112/12-01-075-09W4/00  N  671.4M  W   84.4M    BONNYVILLE           1730.0M                         
+    DSW (NC)                             KIRBY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    CANADIAN NATURAL RESOURCES LIMITED                                  08-01-075-09W4                  
+                                                                                                        
+    CNRL KN06-07I KIRBY 5-1-75-9         0498009   ALBERTA CROWN        676.6M                          
+    106/05-01-075-09W4/00  N  661.5M  W   85.8M    BONNYVILLE           1735.0M                         
+    DSW (NC)                             KIRBY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    CANADIAN NATURAL RESOURCES LIMITED                                  08-01-075-09W4                  
+                                                                                                        
+    CNRL KN06-08I KIRBY 5-1-75-9         0498010   ALBERTA CROWN        676.6M                          
+    107/05-01-075-09W4/00  N  651.6M  W   87.2M    BONNYVILLE           1750.0M                         
+    DSW (NC)                             KIRBY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    CANADIAN NATURAL RESOURCES LIMITED                                  08-01-075-09W4                  
+                                                                                                        
+    CNRL KN06-09I KIRBY 5-1-75-9         0498011   ALBERTA CROWN        676.6M                          
+    108/05-01-075-09W4/00  N  641.7M  W   88.5M    BONNYVILLE           1810.0M                         
+    DSW (NC)                             KIRBY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    CANADIAN NATURAL RESOURCES LIMITED                                  08-01-075-09W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SPL 15-35 HZ MARTENH 16-2-74-25       0495267    UWI:                                               
+    00/16-02-074-25W4/4                              03/15-02-074-25W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-35 HZ MARTENH 15-2-74-25                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    BAYTEX HZ 100 SLAVE 14-23-84-15       0496864    WELL NAME:                                         
+    100/10-22-084-15W5/08                            BAYTEX HZ 100 SLAVE 10-22                          
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    DELTASTREAM HZ MARTENH 11-23-75-1     0488839                                                       
+    100/11-23-075-01W5/00                                                                               
+
+    OBE 102 HZ ESTHER 1-23-32-2           0488843                                                       
+    102/01-23-032-02W4/00                                                                               
+
+    OBE HZ ESTHER 4-24-32-2               0488844                                                       
+    100/04-24-032-02W4/00                                                                               
+
+    TERVITA KAKWA 5-29-61-4               0494209                                                       
+    100/05-29-061-04W6/00                                                                               
+
+    UNKNOWN UNKNOWN COUNT AL 15-25-94-11  0494212                                                       
+    102/15-25-094-11W4/00                                                                               
+
+    CARDINAL MHZ ALDSON 2-33-15-11        0494216                                                       
+    100/02-33-015-11W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

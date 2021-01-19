@@ -1,0 +1,61 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 09 April 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    IMP N02W2-1125 LEMING 1-35-66-3       0497843    UWI:                                               
+    02/01-35-066-03W4/0                              02/05-36-066-03W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     IMP 20 N02W2 245 LEMING 5-36-66-3                  
+
+                                                     GROUND ELEVATION                                   
+                                                     641.5                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     529.00                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0259.3 E 0096.4                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.04                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM GRAND RAPIDS FM                          
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL 9B BNNYVLLE 9-28-59-7            0483359                                                       
+    100/09-28-059-07W4/00                                                                               
+
+    CEQUENCE 16-14 HZ LATORNLL 4-22-62-1  0488731                                                       
+    100/04-22-062-01W6/00                                                                               
+
+    CVE 10-35 OBS MARTENH 7-35-74-25      0494146                                                       
+    100/07-35-074-25W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

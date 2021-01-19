@@ -1,0 +1,37 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 27 December 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    TQN FERRIER 2-29-42-10               0499144   ALBERTA CROWN        1020.2M                         
+    100/02-29-042-10W5/00  N   60.0M  W  279.2M    RED DEER             5663.0M                         
+    DEV (NC)                             FERRIER                        UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TAQA NORTH LTD.                                                     01-05-043-10W5                  
+                                                                                                        
+    TQN FERRIER 9-4-43-10                0499145   ALBERTA CROWN        1019.7M                         
+    100/09-04-043-10W5/00  N   58.2M  W  269.4M    RED DEER             4876.0M                         
+    DEV (C)                              FERRIER                        UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TAQA NORTH LTD.                                                     01-05-043-10W5                  
+                                                                                                        
+    TQN FERRIER 15-4-43-10               0499146   ALBERTA CROWN        1019.2M                         
+    100/15-04-043-10W5/00  N   56.4M  W  259.5M    RED DEER             4526.0M                         
+    DEV (C)                              FERRIER                        UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TAQA NORTH LTD.                                                     01-05-043-10W5                  
+                                                                                                        
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,22 @@
+Report Number: ST-49                                                                       Alberta Energy Regulator                                                                                Page 1 of 1
+Run Date: 19 Nov 2020                                                                    DAILY DRILLING ACTIVITY LIST                                                                                         
+                                                                            For the Notification Period 18 Nov 2020 To 19 Nov 2020                                                                            
+
+      WELL ID                  WELL NAME             LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID           LICENSEE           NEW PROJECTED  ACTIVITY  
+                                                              BA ID               NAME              NUMBER                                                                            TOTAL DEPTH     TYPE    
+------------------- -------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ---------------------------- ------------- -----------
+00/13-23-048-06W4/0 HUSKY 3HZ T2 WILDMERE 13-23-48-6  0497591 0Y52   Precision Drilling Corporation    197 19 Nov 2020 03:30:00 AM Wainwright     0R46  Husky Oil Operations Limited               Drill To LD
+00/15-16-050-17W5/0 BEC HZ EDSON 15-16-50-17          0498654 A08C   Savanna Drilling Corp.            631 19 Nov 2020 09:00:00 AM Drayton Valley A5RX  Bonavista Energy Corporation               Drill To LD
+00/09-28-057-01W6/0 TOURMALINE HZ SMOKY 9-28-57-1     0498037 A6PR   Nabors Drilling Canada Limited   58AC 19 Nov 2020 05:30:00 AM Drayton Valley A573  Tourmaline Oil Corp.                       Set Surface
+00/13-27-068-25W5/0 ARC HZ ANTEN 13-27-68-25          0498326 0Y52   Precision Drilling Corporation    465 19 Nov 2020 02:00:00 PM Grande Prairie 0G30  ARC Resources Ltd.                         Drill To LD
+03/04-23-072-09W6/0 ECA HZ 103 WEMBLEY 4-23-72-9      0495354 0Y52   Precision Drilling Corporation    534 18 Nov 2020 08:30:00 PM Grande Prairie 0026  Ovintiv Canada ULC                         Drill To LD
+00/09-36-076-08W5/0 SPL 12-32 HZ NIPISI 9-36-76-8     0498623 0GE9   Tempco Drilling Company Inc.        7 19 Nov 2020 05:00:00 PM St. Albert     A7GR  Spur Petroleum Ltd.                        Drill To LD
+
+                                                                  TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 5                                                                   
+                                                                  TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                   
+                                                                  TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                   
+                                                                  TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                                   
+
+                                                                                       TOTAL NUMBER OF WELLS LISTED = 6                                                                                       
+                                                                                            *** END OF REPORT ***                                                                                             
+

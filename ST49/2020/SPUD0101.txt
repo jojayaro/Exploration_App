@@ -1,0 +1,21 @@
+Report Number: ST-49                                                                      Alberta Energy Regulator                                                                               Page 1 of 1
+Run Date: 01 Jan 2020                                                                   DAILY DRILLING ACTIVITY LIST                                                                                        
+                                                                           For the Notification Period 31 Dec 2019 To 01 Jan 2020                                                                           
+
+      WELL ID                   WELL NAME              LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID         LICENSEE         NEW PROJECTED  ACTIVITY  
+                                                                BA ID               NAME              NUMBER                                                                        TOTAL DEPTH     TYPE    
+------------------- ---------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------ ------------- -----------
+00/08-19-058-01W6/0 TOURMALINE SMOKY 8-19-58-1          0495304 A6PR   Nabors Drilling Canada Limited     16 01 Jan 2020 12:00:00 AM Drayton Valley A573  Tourmaline Oil Corp.                   Resumption 
+00/05-33-060-18W5/0 TANGLE CREEK HZ KAYBOBS 5-33-60-18  0496796 A08C   Savanna Drilling Corp.            638 31 Dec 2019 11:59:00 PM St. Albert     A5WA  Tangle Creek Energy Ltd.               Drill To LD
+00/13-12-060-24W5/0 DELPHI HZ PLACID 13-12-60-24        0496825 0Z41   Ensign Drilling Inc.               66 01 Jan 2020 01:30:00 AM Drayton Valley 0CT7  Delphi Energy Corp.                    Drill To LD
+00/15-35-062-17W5/0 CHEVRON HZ TWOCK 15-35-62-17        0492209 0Z41   Ensign Drilling Inc.              770 01 Jan 2020 12:40:00 AM St. Albert     0045  Chevron Canada Limited                 Set Surface
+04/04-30-072-09W6/0 NUVISTA 104 HZ B WEMBLEY 4-30-72-9  0496862 A6PR   Nabors Drilling Canada Limited     79 31 Dec 2019 11:00:00 PM Grande Prairie A0A7  NuVista Energy Ltd.                    Set Surface
+
+                                                                 TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 2                                                                  
+                                                                 TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                  
+                                                                 TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 1                                                                  
+                                                                 TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 2                                                                  
+
+                                                                                      TOTAL NUMBER OF WELLS LISTED = 5                                                                                      
+                                                                                           *** END OF REPORT ***                                                                                            
+

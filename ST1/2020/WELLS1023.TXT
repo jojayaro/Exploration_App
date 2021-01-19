@@ -1,0 +1,115 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 23 October 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    KARVE 103 HZ PROVOST 4-19-35-4       0498589   ALBERTA CROWN        742.2M                          
+    103/04-19-035-04W4/00  N  392.1M  W  231.0M    WAINWRIGHT           1946.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    KARVE ENERGY INC.                                                   01-19-035-04W4                  
+                                                                                                        
+    ANEGADA HZ 3B WEMBLEY 3-22-71-8      0498590   ALBERTA CROWN        746.4M                          
+    100/03-22-071-08W6/00  S  177.0M  E  706.8M    GRANDE PRAIRIE       6750.0M                         
+    DEV (C)                              WEMBLEY                        CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ANEGADA OIL CORP.                                                   14-34-071-08W6                  
+                                                                                                        
+    ANEGADA HZ 2A WEMBLEY 2-22-71-8      0498591   ALBERTA CROWN        745.6M                          
+    100/02-22-071-08W6/00  S  177.0M  E  731.8M    GRANDE PRAIRIE       6750.0M                         
+    DEV (C)                              WEMBLEY                        CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ANEGADA OIL CORP.                                                   14-34-071-08W6                  
+                                                                                                        
+    ANEGADA HZ 1A WEMBLEY 1-22-71-8      0498592   ALBERTA CROWN        745.2M                          
+    100/01-22-071-08W6/00  S  177.0M  E  746.8M    GRANDE PRAIRIE       6750.0M                         
+    DEV (C)                              WEMBLEY                        CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ANEGADA OIL CORP.                                                   14-34-071-08W6                  
+                                                                                                        
+    TANGLE CREEK 103 KAYBOBS 1-29-60-18  0498593   ALBERTA CROWN        992.9M                          
+    104/01-29-060-18W5/00  N  256.9M  W  136.2M    ST. ALBERT           3400.0M                         
+    DEV (NC)                             KAYBOB SOUTH                   DUNVEGAN FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TANGLE CREEK ENERGY LTD.                                            01-30-060-18W5                  
+                                                                                                        
+    TANGLE CREEK 102 KAYBOBS 8-29-60-18  0498594   ALBERTA CROWN        993M                            
+    103/08-29-060-18W5/00  N  266.8M  W  137.8M    ST. ALBERT           3400.0M                         
+    DEV (NC)                             KAYBOB SOUTH                   DUNVEGAN FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TANGLE CREEK ENERGY LTD.                                            01-30-060-18W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    ECA HZ 102 WEMBLEY 3-23-72-9          0495353    GROUND ELEVATION                                   
+    102/03-23-072-09W6/00                            785.9                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0118.0 W 0426.7                                  
+
+    ECA HZ 103 WEMBLEY 4-23-72-9          0495354    GROUND ELEVATION                                   
+    103/04-23-072-09W6/00                            785.9                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0118.0 W 0436.7                                  
+
+    ECA HZ 104 WEMBLEY 4-23-72-9          0495355    GROUND ELEVATION                                   
+    104/04-23-072-09W6/00                            786.0                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0118.0 W 0446.7                                  
+
+    ECA HZ 105 WEMBLEY 4-23-72-9          0495356    GROUND ELEVATION                                   
+    105/04-23-072-09W6/00                            786.1                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0118.0 W 0456.7                                  
+
+    SURGE ENERGY HZ PROVOST 4-27-39-2     0496640    GROUND ELEVATION                                   
+    100/04-27-039-02W4/00                            702.7                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     2560.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0448.1 E 0060.0                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM SPARKY MBR                          
+
+    SURGE ENERGY HZ PROVOST 5-27-39-2     0496642    GROUND ELEVATION                                   
+    100/05-27-039-02W4/00                            702.6                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     2485.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0463.1 E 0060.0                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM SPARKY MBR                          
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

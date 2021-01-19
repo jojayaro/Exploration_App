@@ -1,0 +1,211 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 04 December 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL HZ 102 SMITH 5-17-73-24         0498890   ALBERTA CROWN        626.4M                          
+    104/05-17-073-24W4/00  N  642.2M  W  228.0M    ST. ALBERT           2328.0M                         
+    DEV (NC)                             SMITH                          CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  08-13-073-25W4                  
+                                                                                                        
+    CNRL HZ SMITH 4-17-73-24             0498891   ALBERTA CROWN        626.4M                          
+    103/04-17-073-24W4/00  N  640.9M  W  235.4M    ST. ALBERT           2344.0M                         
+    DEV (NC)                             SMITH                          CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  08-13-073-25W4                  
+                                                                                                        
+    CNRL HZ SMITH 1-12-73-25             0498892   ALBERTA CROWN        626.4M                          
+    103/01-12-073-25W4/00  N  639.6M  W  242.8M    ST. ALBERT           2601.0M                         
+    DEV (NC)                             SMITH                          CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  08-13-073-25W4                  
+                                                                                                        
+    CNRL HZ SMITH 2-12-73-25             0498893   ALBERTA CROWN        626.4M                          
+    103/02-12-073-25W4/00  N  631.1M  W  292.1M    ST. ALBERT           2679.0M                         
+    DEV (NC)                             SMITH                          CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  08-13-073-25W4                  
+                                                                                                        
+    CNRL HZ MARTENH 1-14-73-25           0498894   ALBERTA CROWN        626.4M                          
+    103/01-14-073-25W4/00  N  629.8M  W  299.5M    ST. ALBERT           2127.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  08-13-073-25W4                  
+                                                                                                        
+    CNRL HZ 102 MARTENH 8-14-73-25       0498895   ALBERTA CROWN        626.4M                          
+    106/08-14-073-25W4/00  N  628.6M  W  306.9M    ST. ALBERT           2057.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  08-13-073-25W4                  
+                                                                                                        
+    TXNE 11B-20 HZ ALDSON 6-30-15-15     0498896   FREEHOLD             761.4M                          
+    102/06-30-015-15W4/00  S  743.7M  E  463.4M    MEDICINE HAT         3400.0M                         
+    DEV (NC)                             ALDERSON                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  11-20-015-15W4                  
+                                                                                                        
+    SURGE ENERGY 102 PROVOST 12-34-36-4  0498897   ALBERTA CROWN        666.7M                          
+    102/12-34-036-04W4/00  S  175.5M  E  180.0M    WAINWRIGHT           2650.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   13-35-036-04W4                  
+                                                                                                        
+    SURGE ENERGY 102 PROVOST 13-34-36-4  0498898   ALBERTA CROWN        666.5M                          
+    102/13-34-036-04W4/00  S  160.5M  E  180.0M    WAINWRIGHT           2550.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   13-35-036-04W4                  
+                                                                                                        
+    SURGE ENERGY HZ PROVOST 11-36-36-4   0498899   ALBERTA CROWN        666.6M                          
+    100/11-36-036-04W4/00  S  205.5M  E  215.0M    WAINWRIGHT           3200.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   13-35-036-04W4                  
+                                                                                                        
+    SURGE ENERGY HZ PROVOST 14-36-36-4   0498900   ALBERTA CROWN        666.5M                          
+    100/14-36-036-04W4/00  S  175.5M  E  215.0M    WAINWRIGHT           3000.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   13-35-036-04W4                  
+                                                                                                        
+    SURGE ENERGY 102 PROVOST 14-36-36-4  0498901   ALBERTA CROWN        666.6M                          
+    102/14-36-036-04W4/00  S  190.5M  E  215.0M    WAINWRIGHT           3020.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   13-35-036-04W4                  
+                                                                                                        
+    TAC 4-7 HZ PROVOST 9-7-35-8          0498902   ALBERTA CROWN        805.1M                          
+    100/09-07-035-08W4/00  N  152.4M  E   55.0M    WAINWRIGHT           2803.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          04-07-035-08W4                  
+                                                                                                        
+    TAC 4-7 HZ PROVOST 16-7-35-8         0498903   ALBERTA CROWN        805.4M                          
+    100/16-07-035-08W4/00  N  162.4M  E   55.0M    WAINWRIGHT           2793.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          04-07-035-08W4                  
+                                                                                                        
+    TAC 4-7 HZ PROVOST 1-18-35-8         0498904   ALBERTA CROWN        805.6M                          
+    100/01-18-035-08W4/00  N  172.4M  E   55.0M    WAINWRIGHT           2935.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          04-07-035-08W4                  
+                                                                                                        
+    TAC 8-6 HZ 1F1 PROVOST 4-32-34-8     0498905   ALBERTA CROWN        796M                            
+    1F1/04-32-034-08W4/00  N  604.2M  W  325.4M    WAINWRIGHT           2610.0M                         
+    OTH (NC)                             PROVOST                        BASAL BELLY RIVER SD            
+    HORIZONTAL                           NEW       PRODUCTION           WATER                           
+    TAMARACK ACQUISITION CORP.                                          08-06-035-08W4                  
+                                                                                                        
+    CVE 9-26 MARTENH 9-26-74-25          0498906   ALBERTA CROWN        680.6M                          
+    102/09-26-074-25W4/00  S  612.3M  W  394.0M    ST. ALBERT           610.0M                          
+    OTH (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    VERTICAL                             NEW       EVALUATION           NONE                            
+    CENOVUS ENERGY INC.                                                 09-26-074-25W4                  
+                                                                                                        
+    TXNE 11B-20 HZ ENCHANT 3-24-15-16    0498907   BOTH                 761.5M                          
+    100/03-24-015-16W4/00  S  755.7M  E  463.5M    MEDICINE HAT         3950.0M                         
+    DEV (NC)                             ENCHANT                        BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  11-20-015-15W4                  
+                                                                                                        
+    CRESTWYND HZ REDEARTH 10-16-89-8     0498908   ALBERTA CROWN        541.6M                          
+    100/10-16-089-08W5/00  S  667.6M  W  676.5M    ST. ALBERT           1898.0M                         
+    DEV (C)                              RED EARTH                      SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CRESTWYND EXPLORATION LTD.                                          10-15-089-08W5                  
+                                                                                                        
+    TAC 4-12 HZ 1F1 PROVOST 16-35-34-8   0498909   ALBERTA CROWN        773.5M                          
+    1F1/16-35-034-08W4/00  N   79.0M  E  153.1M    WAINWRIGHT           2312.0M                         
+    OTH (NC)                             PROVOST                        BASAL BELLY RIVER SD            
+    HORIZONTAL                           NEW       PRODUCTION           WATER                           
+    TAMARACK ACQUISITION CORP.                                          04-12-035-08W4                  
+                                                                                                        
+    CRESTWYND HZ NEWBRK 13-8-63-20       0498910   ALBERTA CROWN        684.5M                          
+    100/13-08-063-20W4/00  S  395.0M  E  235.0M    ST. ALBERT           2600.0M                         
+    DEV (NC)                             NEWBROOK                       UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    CRESTWYND EXPLORATION LTD.                                          13-09-063-20W4                  
+                                                                                                        
+    CRESTWYND HZ NEWBRK 12-8-63-20       0498911   ALBERTA CROWN        684.4M                          
+    100/12-08-063-20W4/00  S  395.0M  E  245.0M    ST. ALBERT           2600.0M                         
+    DEV (NC)                             NEWBROOK                       UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    CRESTWYND EXPLORATION LTD.                                          13-09-063-20W4                  
+                                                                                                        
+    TAC 4-12 HZ 102 PROVOST 16-12-35-8   0498912   ALBERTA CROWN        773.7M                          
+    102/16-12-035-08W4/00  N   49.0M  E  153.6M    WAINWRIGHT           2728.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          04-12-035-08W4                  
+                                                                                                        
+    TAC 4-12 HZ 103 PROVOST 16-12-35-8   0498913   ALBERTA CROWN        773.6M                          
+    103/16-12-035-08W4/00  N   69.0M  E  153.3M    WAINWRIGHT           2763.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          04-12-035-08W4                  
+                                                                                                        
+    TAC 4-12 HZ PROVOST 1-13-35-8        0498914   ALBERTA CROWN        773.6M                          
+    100/01-13-035-08W4/00  N   59.0M  E  153.5M    WAINWRIGHT           2706.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          04-12-035-08W4                  
+                                                                                                        
+    TAC 2-12 HZ PROVOST 13-7-35-7        0498915   ALBERTA CROWN        779.9M                          
+    100/13-07-035-07W4/00  N  228.9M  W  673.0M    WAINWRIGHT           2438.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          02-12-035-08W4                  
+                                                                                                        
+    TAC 2-12 HZ PROVOST 11-7-35-7        0498916   ALBERTA CROWN        779.4M                          
+    100/11-07-035-07W4/00  N  208.9M  W  673.0M    WAINWRIGHT           2546.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          02-12-035-08W4                  
+                                                                                                        
+    TAC 2-12 HZ 102 PROVOST 5-1-35-8     0498917   ALBERTA CROWN        779.1M                          
+    102/05-01-035-08W4/00  N  198.9M  W  673.0M    WAINWRIGHT           2306.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          02-12-035-08W4                  
+                                                                                                        
+    TAC 2-12 HZ PROVOST 13-1-35-8        0498918   ALBERTA CROWN        779.7M                          
+    100/13-01-035-08W4/00  N  218.9M  W  673.0M    WAINWRIGHT           1787.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          02-12-035-08W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    PARA HZ 103 ELM 6-16-68-6              0496907   SURFACE CO-ORDINATES:                              
+    103/06-16-068-06W6/00                            N 0623.2 E 0545.8                                  
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    TXNE 11B-20 HZ ENCHANT 2-24-15-16     0497611                                                       
+    100/02-24-015-16W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

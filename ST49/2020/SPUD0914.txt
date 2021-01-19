@@ -1,0 +1,20 @@
+Report Number: ST-49                                                                        Alberta Energy Regulator                                                                                 Page 1 of 1
+Run Date: 14 Sep 2020                                                                     DAILY DRILLING ACTIVITY LIST                                                                                          
+                                                                             For the Notification Period 13 Sep 2020 To 14 Sep 2020                                                                             
+
+      WELL ID                    WELL NAME              LICENCE  +--------CONTRACTOR---------+  RIG        ACTIVITY DATE      FIELD CENTRE BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                                 BA ID           NAME          NUMBER                                                                                   TOTAL DEPTH     TYPE    
+------------------- ----------------------------------- -------- ------ ---------------------- ------ ----------------------- ------------ ----- ------------------------------------- ------------- -----------
+02/01-15-041-11W5/0 PEYTO CHAMBERS 1-15-41-11            0497821 A08C   Savanna Drilling Corp.    616 14 Sep 2020 01:30:00 AM Red Deer     0YA2  Peyto Exploration & Development Corp.               Drill To LD
+02/15-14-057-18W4/0 SPL 15-11 HZ 102 UKALTA 15-14-57-18  0498309 A2CL   Komat Drilling Ltd.         3 14 Sep 2020 12:00:00 PM St. Albert   A7GR  Spur Petroleum Ltd.                                 Set Surface
+03/05-14-062-19W5/0 CHEVRON 103 HZ FOXCK 5-14-62-19      0496509 0Z41   Ensign Drilling Inc.      770 14 Sep 2020 09:38:00 AM St. Albert   0045  Chevron Canada Limited                              Drill To LD
+02/11-14-062-19W5/0 CHEVRON 102 HZ FOXCK 11-14-62-19     0496508 0Z41   Ensign Drilling Inc.      770 13 Sep 2020 10:30:00 PM St. Albert   0045  Chevron Canada Limited                              Drill To LD
+
+                                                                   TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 3                                                                    
+                                                                   TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                    
+                                                                   TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                    
+                                                                   TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                                    
+
+                                                                                        TOTAL NUMBER OF WELLS LISTED = 4                                                                                        
+                                                                                             *** END OF REPORT ***                                                                                              
+

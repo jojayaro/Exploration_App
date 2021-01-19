@@ -1,0 +1,21 @@
+Report Number: ST-49                                                                    Alberta Energy Regulator                                                                             Page 1 of 1
+Run Date: 26 Nov 2020                                                                 DAILY DRILLING ACTIVITY LIST                                                                                      
+                                                                         For the Notification Period 25 Nov 2020 To 26 Nov 2020                                                                         
+
+      WELL ID                  WELL NAME             LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID        LICENSEE        NEW PROJECTED  ACTIVITY  
+                                                              BA ID               NAME              NUMBER                                                                      TOTAL DEPTH     TYPE    
+------------------- -------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ---------------------- ------------- -----------
+00/15-24-043-15W5/0 TOURMALINE HZ PLUTO 15-24-43-15   0498656 0Z41   Ensign Drilling Inc.             T038 25 Nov 2020 07:45:00 PM Drayton Valley A573  Tourmaline Oil Corp.                 Set Surface
+02/04-25-044-10W5/0 WINSLOW FERRIER 4-25-44-10        0497389 A6EC   Twilight Drilling Ltd.              1 26 Nov 2020 04:00:00 AM Red Deer       A172  Winslow Resources Inc.               Drill To LD
+00/14-22-073-24W4/0 SPL 9-20 HZ SMITH 14-22-73-24     0498408 0Y52   Precision Drilling Corporation    149 25 Nov 2020 08:30:00 AM St. Albert     A7GR  Spur Petroleum Ltd.                  Resumption 
+00/15-26-073-25W4/0 SPL 15-35 HZ MARTENH 15-26-73-25  0498568 0Y52   Precision Drilling Corporation    147 26 Nov 2020 03:00:00 PM St. Albert     A7GR  Spur Petroleum Ltd.                  Drill To LD
+00/02-36-076-08W5/0 SPL 1-31 HZ NIPISI 2-36-76-8      0498476 A2CL   Komat Drilling Ltd.                 3 26 Nov 2020 11:00:00 AM St. Albert     A7GR  Spur Petroleum Ltd.                  Set Surface
+
+                                                               TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 2                                                                
+                                                               TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                
+                                                               TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 1                                                                
+                                                               TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 2                                                                
+
+                                                                                    TOTAL NUMBER OF WELLS LISTED = 5                                                                                    
+                                                                                         *** END OF REPORT ***                                                                                          
+

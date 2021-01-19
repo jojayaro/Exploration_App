@@ -1,0 +1,130 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 30 September 2020                                                                             
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL OBS PS72 RE FISHER 10-33-68-4   0197878   ALBERTA CROWN        725.4M                          
+    100/10-33-068-04W4/03  S  402.9M  W  528.2M    BONNYVILLE           483.0M                          
+    DSW (NC)                             FISHER                         CLEARWATER FM                   
+    VERTICAL                             RESUMPTIONOBSERVATION          NONE                            
+    CANADIAN NATURAL RESOURCES LIMITED                                  10-33-068-04W4                  
+                                                                                                        
+    7GEN HZ KAKWA 6-14-64-5              0338018   ALBERTA CROWN        933.6M                          
+    102/06-14-064-05W6/03  N  354.9M  E  353.4M    GRANDE PRAIRIE       2163.0M                         
+    DEV (C)                              KAKWA                          SHAFTESBURY FM                  
+    HORIZONTAL                           RESUMPTIONPRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       04-14-064-05W6                  
+                                                                                                        
+    TAC 14-20 HZ PEMBINA 13-23-45-7      0498492   ALBERTA CROWN        928.1M                          
+    100/13-23-045-07W5/00  S  292.0M  E  607.3M    DRAYTON VALLEY       6824.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          14-20-045-06W5                  
+                                                                                                        
+    TAC 14-20 HZ PEMBINA 12-23-45-7      0498493   ALBERTA CROWN        928.3M                          
+    100/12-23-045-07W5/00  S  305.9M  E  606.0M    DRAYTON VALLEY       6912.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          14-20-045-06W5                  
+                                                                                                        
+    DELTASTREAM MARTENH 16-3-75-25       0498494   ALBERTA CROWN        681.7M                          
+    100/16-03-075-25W4/00  S  250.1M  E  668.7M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      14-33-074-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 16-3-75-25       0498495   ALBERTA CROWN        681.8M                          
+    102/16-03-075-25W4/00  S  250.1M  E  658.8M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      14-33-074-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 15-3-75-25       0498496   ALBERTA CROWN        681.7M                          
+    100/15-03-075-25W4/00  S  250.1M  E  648.8M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      14-33-074-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 15-3-75-25       0498497   ALBERTA CROWN        682.2M                          
+    102/15-03-075-25W4/00  S  250.1M  E  638.8M    ST. ALBERT           2500.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      14-33-074-25W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CVE SNUBA LEISMER 15-15-77-6          0495643    UWI:                                               
+    AD/11-15-077-06W4/0                              AA/16-15-077-06W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CVE SNUBA LEISMER 16-15-77-6                       
+
+    TOURMALINE HZ KAKWA 3-16-61-4         0497845    UWI:                                               
+    00/03-16-061-04W6/0                              00/13-16-061-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ KAKWA 13-16-61-4                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+    CRESTWYND HZ MEANOOK 16-18-63-21      0498088    UWI:                                               
+    S0/16-18-063-21W4/0                              00/15-19-063-21W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND HZ MEANOOK 15-19-63-21                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    TOURMALINE 102 HZ EDSON 14-33-51-16   0498147    UWI:                                               
+    02/14-33-051-16W5/0                              00/08-33-051-16W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE 102 HZ EDSON 8-33-51-16                 
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    BAYTEX TANGENT 7-30-80-21             0491126                                                       
+    1AA/07-30-080-21W5/00                                                                               
+
+    CNRL HTLP6-2D BRINT 2-27-81-22        0491128                                                       
+    103/02-27-081-22W4/00                                                                               
+
+    OUTLIER HZ KAYBOBS 5-15-60-17         0491182                                                       
+    100/05-15-060-17W5/00                                                                               
+
+    BONTERRA 103 HZ PEMBINA 14-22-46-7    0495914                                                       
+    103/14-22-046-07W5/00                                                                               
+
+    BIRCHILL BRAZR 2-18-45-14             0495917                                                       
+    100/02-18-045-14W5/00                                                                               
+
+    BIRCHILL BRAZR 4-30-45-14             0495918                                                       
+    100/04-30-045-14W5/00                                                                               
+
+    IMP H93 PSW LEMING 3-15-66-4          0495921                                                       
+    100/03-15-066-04W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

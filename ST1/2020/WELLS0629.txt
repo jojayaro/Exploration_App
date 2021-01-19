@@ -1,0 +1,130 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 29 June 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    BEC HZ EDSON 1-17-53-19              0498137   ALBERTA CROWN        986M                            
+    100/01-17-053-19W5/00  N  202.6M  W   70.0M    DRAYTON VALLEY       5600.0M                         
+    DEV (NC)                             EDSON                          UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BONAVISTA ENERGY CORPORATION                                        01-13-053-19W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    HIGHWOOD NIPISI 16-25-76-7            0496203    UWI:                                               
+    00/16-25-076-07W5/3                              03/15-25-076-07W5/3                                
+
+                                                     WELL NAME:                                         
+                                                     HIGHWOOD NIPISI 15-25-76-7                         
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    CHEVRON 103 HZ FOXCK 15-10-62-19      0496509    UWI:                                               
+    03/15-10-062-19W5/0                              03/05-14-062-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     CHEVRON 102 HZ FOXCK 5-14-62-19                    
+
+                                                     PROJECTED DEPTH:                                   
+                                                     6182.00                                            
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.09                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM DUVERNAY FM                               
+
+    CHEVRON HZ KAYBOBS 14-20-62-19        0496510    UWI:                                               
+    00/14-20-062-19W5/0                              03/01-15-062-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     CHEVRON 102 HZ FOXCK 1-15-62-19                    
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5946.00                                            
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.09                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM DUVERNAY FM                               
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL BEAVRDM 10-8-59-4                0490723                                                       
+    1AA/10-08-059-04W4/00                                                                               
+
+    CNRL BEAVRDM 14-16-59-4               0490724                                                       
+    1AA/14-16-059-04W4/00                                                                               
+
+    CNRL BEAVRDM 9-21-59-4                0490725                                                       
+    1AA/09-21-059-04W4/00                                                                               
+
+    CNRL BEAVRDM 16-22-59-4               0490726                                                       
+    1AA/16-22-059-04W4/00                                                                               
+
+    CNRL BEAVRDM 15-27-59-4               0490727                                                       
+    1AA/15-27-059-04W4/00                                                                               
+
+    CNRL BEAVRDM 10-28-59-4               0490728                                                       
+    1AA/10-28-059-04W4/00                                                                               
+
+    CNRL 1AA KIRBY 15-30-73-7             0491885                                                       
+    1AA/15-30-073-07W4/00                                                                               
+
+    CNRL 1AB KIRBY 6-34-73-8              0491889                                                       
+    1AB/06-34-073-08W4/00                                                                               
+
+    CNRL 1AD KIRBY 12-35-73-8             0491900                                                       
+    1AD/12-35-073-08W4/00                                                                               
+
+    CNRL 1AA KIRBY 9-8-73-6               0492024                                                       
+    1AA/09-08-073-06W4/00                                                                               
+
+    CNRL 1AA KIRBY 1-16-73-6              0492027                                                       
+    1AA/01-16-073-06W4/00                                                                               
+
+    CNRL 1AA KIRBY 3-16-73-6              0492028                                                       
+    1AA/03-16-073-06W4/00                                                                               
+
+    CNRL 1AA KIRBY 9-35-72-7              0492055                                                       
+    1AA/09-35-072-07W4/00                                                                               
+
+    CNRL 1AA KIRBY 3-13-73-7              0492061                                                       
+    1AA/03-13-073-07W4/00                                                                               
+
+    CNRL 1AA KIRBY 4-15-73-7              0492064                                                       
+    1AA/04-15-073-07W4/00                                                                               
+
+    CNRL 1AG DEVENISH 6-12-75-9           0492532                                                       
+    1AG/06-12-075-09W4/00                                                                               
+
+    CNRL 1AB DEVENISH 11-12-75-9          0492533                                                       
+    1AB/11-12-075-09W4/00                                                                               
+
+    CNRL 1AE KIRBY 5-1-75-9               0492534                                                       
+    1AE/05-01-075-09W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

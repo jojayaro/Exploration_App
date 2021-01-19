@@ -1,0 +1,139 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 07 October 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    WINSLOW HZ FERRIER 7-1-44-10         0498516   FREEHOLD             1062.3M                         
+    100/07-01-044-10W5/00  S  270.2M  W   94.7M    RED DEER             5600.0M                         
+    DEV (NC)                             FERRIER                        FALHER MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WINSLOW RESOURCES INC.                                              16-12-044-10W5                  
+                                                                                                        
+    DELTASTREAM MARTENH 4-15-74-25       0498517   ALBERTA CROWN        695.5M                          
+    100/04-15-074-25W4/00  N   30.0M  E  375.0M    ST. ALBERT           3000.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      04-14-074-25W4                  
+                                                                                                        
+    CRESTWYND HZ EVI 5-19-87-13          0498518   ALBERTA CROWN        635.9M                          
+    100/05-19-087-13W5/00  N  286.2M  E  410.8M    ST. ALBERT           1638.0M                         
+    DEV (C)                              EVI                            SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CRESTWYND EXPLORATION LTD.                                          03-24-087-14W5                  
+                                                                                                        
+    RHE 100 MEANOOK 8-30-63-22           0498519   ALBERTA CROWN        680.7M                          
+    100/08-30-063-22W4/00  N  580.2M  E  210.6M    ST. ALBERT           2900.0M                         
+    DEV (C)                              MEANOOK                        CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ROLLING HILLS ENERGY LTD.                                           05-28-063-22W4                  
+                                                                                                        
+    GRL 16-27 HZ 102 PROGRESS 16-34-78-8 0498520   ALBERTA CROWN        707.6M                          
+    102/16-34-078-08W6/00  S   45.0M  W   55.0M    GRANDE PRAIRIE       2000.0M                         
+    DEV (NC)                             PROGRESS                       DOE CREEK MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    GRIZZLY RESOURCES LTD.                                              16-27-078-08W6                  
+                                                                                                        
+    WESTBRICK HZ BRAZR 5-28-46-13        0498521   ALBERTA CROWN        1094.3M                         
+    100/05-28-046-13W5/00  N  558.5M  E  370.6M    DRAYTON VALLEY       6100.0M                         
+    DEV (C)                              BRAZEAU RIVER                  ROCK CREEK MBR                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WESTBRICK ENERGY LTD.                                               05-26-046-13W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CRESTWYND HZ MEANOOK 15-19-63-21      0498088    UWI:                                               
+    S0/16-18-063-21W4/5                              00/02-19-063-21W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND MEANOOK 2-19-63-21                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    PARA HZ KARR 1-6-66-4                 0498366    GROUND ELEVATION                                   
+    100/01-06-066-04W6/00                            787.6                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0521.5 W 0487.2                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.86                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     1                                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    PARA HZ 102 KARR 1-6-66-4             0498451    WELL NAME:                                         
+    102/01-06-066-04W6/00                            PARA KARR 1-6-66-4                                 
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.86                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     1                                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    PARA HZ KARR 2-6-66-4                 0498452    MAXIMUM CALCULATED EPZ                             
+    100/02-06-066-04W6/00                            0.86                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     1                                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    PARA HZ 103 KARR 3-6-66-4             0498453    MAXIMUM CALCULATED EPZ                             
+    103/03-06-066-04W6/00                            0.86                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     1                                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    PARA HZ 102 KARR 2-6-66-4             0498454    MAXIMUM CALCULATED EPZ                             
+    102/02-06-066-04W6/00                            0.86                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     1                                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    7GEN HZ KAKWA 5-13-63-4               0491279                                                       
+    100/05-13-063-04W6/00                                                                               
+
+    TXNR 15D-17 HZ BANTRY 14-29-20-14     0495984                                                       
+    102/14-29-020-14W4/00                                                                               
+
+    TXNR 15D-17 HZ BANTRY 15-29-20-14     0495985                                                       
+    100/15-29-020-14W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

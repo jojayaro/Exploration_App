@@ -1,0 +1,322 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 28 April 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CNRL KN01-07I DEVENISH 13-33-74-8     0484073    UWI:                                               
+    18/13-33-074-08W4/0                              W0/13-33-074-08W4/0                                
+
+    SPL 15-35 HZ 103 MARTENH 15-2-74-25   0495268    UWI:                                               
+    02/16-02-074-25W4/6                              03/14-02-074-25W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-35 HZ 102 MARTENH 14-2-74-25                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 15-35 HZ 102 MARTENH 16-2-74-25   0495268    UWI:                                               
+    02/16-02-074-25W4/5                              03/14-02-074-25W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-35 HZ 102 MARTENH 14-2-74-25                
+
+    AQUISITION OIL HZ CRAN 16-12-95-6     0495461    UWI:                                               
+    00/16-12-095-06W6/2                              00/09-12-095-06W6/2                                
+
+                                                     WELL NAME:                                         
+                                                     AQUISITION OIL HZ CRAN 9-12-95-6                   
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM SLAVE POINT FM                      
+
+    AQUISITION OIL HZ CRAN 16-12-95-6     0495461    UWI:                                               
+    00/16-12-095-06W6/0                              00/02-01-095-06W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     AQUISITION OIL HZ CRAN 2-1-95-6                    
+
+    SPL 10-13 HZ MARTEN 9-18-76-5         0495537    UWI:                                               
+    00/09-18-076-05W5/4                              00/08-18-076-05W5/4                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 10-13 HZ MARTEN 8-18-76-5                      
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 3000.00                                  
+
+    CVE SNUBA LEISMER 11-15-77-6          0495643    UWI:                                               
+    AD/11-15-077-06W4/3                              AA/15-15-077-06W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     CVE SNUBA LEISMER 15-15-77-6                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    CVE SNUBA LEISMER 11-15-77-6          0495643    UWI:                                               
+    AD/11-15-077-06W4/2                              AE/09-15-077-06W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CVE SNUBA LEISMER 9-15-77-6                        
+
+    SPL 6-31 HZ 102 MARTEN 3-30-76-6      0495883    UWI:                                               
+    02/02-30-076-06W5/3                              02/03-30-076-06W5/3                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2600.00                                  
+
+    SPL 6-31 HZ 102 MARTEN 2-30-76-6      0495883    UWI:                                               
+    02/02-30-076-06W5/2                              02/03-30-076-06W5/2                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 6-31 HZ 102 MARTEN 3-30-76-6                   
+
+    SPL 4-6 HZ NIPISI 1-2-77-7            0496064    UWI:                                               
+    00/01-02-077-07W5/0                              00/16-35-076-07W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 4-6 HZ NIPISI 16-35-76-7                       
+
+    CRESTWYND RADWAY 16-23-59-20          0496782    UWI:                                               
+    00/16-23-059-20W4/2                              02/12-23-059-20W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND RADWAY 12-23-59-20                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM UPPER MANNVILLE FM                  
+
+    CRESTWYND RADWAY 16-23-59-20          0496782    UWI:                                               
+    00/16-23-059-20W4/0                              00/13-23-059-20W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND RADWAY 13-23-59-20                       
+
+    SUNCOR OB242 7-31 FIREBAG 12-32-94-5  0496821    UWI:                                               
+    00/12-32-094-05W4/0                              W0/12-32-094-05W4/0                                
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.63                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    TXNE 14D-15 HZ COUNTESS 13-16-21-16   0496873    UWI:                                               
+    02/13-16-021-16W4/0                              02/16-17-021-16W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TXNE 14D-15 HZ COUNTESS 16-17-21-16                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GLAUCONITIC SS                      
+
+    BAYTEX HZ SLAVE 5-20-84-15            0496881    UWI:                                               
+    00/05-20-084-15W5/4                              W0/05-20-084-15W5/4                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX SLAVE 5-20-84-15                            
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM BLUESKY FM                      
+
+    BAYTEX HZ SLAVE 5-20-84-15            0496881    UWI:                                               
+    00/05-20-084-15W5/3                              W0/05-20-084-15W5/3                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX HZ SLAVE 5-20-84-15                         
+
+    DELPHI 102 HZ PLACID 13-12-60-24      0497000    UWI:                                               
+    02/13-12-060-24W5/0                              00/14-12-060-24W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     DELPHI 102 HZ PLACID 14-12-60-24                   
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.36                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    SPL 16-3 HZ JARVIE 9-2-63-1           0497312    UWI:                                               
+    00/10-01-063-01W5/5                              00/15-02-063-01W5/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 16-3 HZ JARVIE 15-2-63-1                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM UPPER MANNVILLE FM                  
+
+    SPL 16-3 HZ JARVIE 10-1-63-1          0497312    UWI:                                               
+    00/10-01-063-01W5/4                              02/09-02-063-01W5/4                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 16-3 HZ JARVIE 9-2-63-1                        
+
+    TXNE 15C-16 HZ  ALDSON 9-8-15-14      0497333    UWI:                                               
+    00/09-08-015-14W4/0                              00/08-08-015-14W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TXNE 15C-16 HZ ALDSON 8-8-15-14                    
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.04                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM BASAL QUARTZ SD                     
+
+    POC UKALTA 8-10-57-18                 0497336    WELL NAME:                                         
+    103/08-10-057-18W4/06                            POC HZ UKALTA 8-10-57-18                           
+
+    SPL 6-31 HZ 102 MARTEN 4-30-76-6      0497393    UWI:                                               
+    00/02-36-076-07W5/4                              02/04-30-076-06W5/4                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 6-31 HZ MARTEN 4-30-76-6                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2600.00                                  
+
+    SPL 6-31 HZ NIPISI 2-36-76-7          0497393    UWI:                                               
+    00/02-36-076-07W5/3                              02/04-30-076-06W5/3                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 6-31 HZ MARTEN 4-30-76-6                       
+
+    WLEC 8HZ 1B3 SWIMMING 11-25-52-7      0497520    UWI:                                               
+    00/03-25-052-07W4/9                              00/06-25-052-07W4/9                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC 8HZ 1B3 SWIMMING 6-25-52-7                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM REX MBR                             
+
+    WLEC 8HZ 1B3 SWIMMING 3-25-52-7       0497520    UWI:                                               
+    00/03-25-052-07W4/5                              00/11-25-052-07W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC 8HZ 1B3 SWIMMING 11-25-52-7                   
+
+    WLEC MHZ 4A5 PROVOST 6-15-38-3        0497712    UWI:                                               
+    03/05-15-038-03W4/7                              02/06-15-038-03W4/7                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GENERAL PETROLEUM MBR               
+
+    WLEC MHZ 4A5 PROVOST 5-15-38-3        0497712    UWI:                                               
+    03/05-15-038-03W4/6                              02/06-15-038-03W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC MHZ 4A5 PROVOST 6-15-38-3                     
+
+    WLEC MHZ 2D14 PROVOST 14-15-38-3      0497803    UWI:                                               
+    00/14-15-038-03W4/6                              02/11-15-038-03W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC MHZ 2D14 PROVOST 11-15-38-3                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GENERAL PETROLEUM MBR               
+
+    WLEC MHZ 2D14 PROVOST 14-15-38-3      0497803    UWI:                                               
+    00/14-15-038-03W4/5                              02/11-15-038-03W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC MHZ 2D14 PROVOST 11-15-38-3                   
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    PEYTO WILD RIV 15-32-55-22            0488882                                                       
+    103/15-32-055-22W5/00                                                                               
+
+    ECA HZ 105 WEMBLEY 1-18-72-8          0488887                                                       
+    105/01-18-072-08W6/00                                                                               
+
+    ECA HZ 102 WEMBLEY 2-18-72-8          0488889                                                       
+    102/02-18-072-08W6/00                                                                               
+
+    CNRL TT1I CONKLIN 7-30-75-7           0488891                                                       
+    115/07-30-075-07W4/00                                                                               
+
+    CNRL TT2I CONKLIN 7-30-75-7           0488892                                                       
+    116/07-30-075-07W4/00                                                                               
+
+    CNRL TT3I CONKLIN 7-30-75-7           0488893                                                       
+    117/07-30-075-07W4/00                                                                               
+
+    CNRL TT4I CONKLIN 7-30-75-7           0488894                                                       
+    118/07-30-075-07W4/00                                                                               
+
+    CNRL TT5I CONKLIN 7-30-75-7           0488895                                                       
+    119/07-30-075-07W4/00                                                                               
+
+    CNRL TT6I CONKLIN 6-30-75-7           0488896                                                       
+    109/06-30-075-07W4/00                                                                               
+
+    CNRL TT7I CONKLIN 6-30-75-7           0488897                                                       
+    110/06-30-075-07W4/00                                                                               
+
+    CNRL TT8I CONKLIN 6-30-75-7           0488898                                                       
+    111/06-30-075-07W4/00                                                                               
+
+    OUC 103 HZ KAKWA 1-17-63-5            0488899                                                       
+    103/01-17-063-05W6/00                                                                               
+
+    CNRL 8A SWIMMING 8-18-51-6            0488937                                                       
+    100/08-18-051-06W4/00                                                                               
+
+    PIPE 102 HZ DIMSD 8-12-71-7           0488943                                                       
+    102/08-12-071-07W6/00                                                                               
+
+    PEYTO WHHORSE 9-6-50-15               0488959                                                       
+    100/09-06-050-15W5/00                                                                               
+
+    ECA HZ 102 WEMBLEY 4-20-71-8          0489074                                                       
+    102/04-20-071-08W6/00                                                                               
+
+    CANAMAX HZ FLOOD 4-6-85-24            0494285                                                       
+    100/04-06-085-24W5/00                                                                               
+
+    CANAMAX 02 HZ FLOOD 4-6-85-24         0494286                                                       
+    102/04-06-085-24W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

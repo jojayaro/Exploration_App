@@ -1,0 +1,85 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 24 September 2020                                                                             
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    ATH 103 HZ PLACID 13-27-60-24        0498466   ALBERTA CROWN        1088.8M                         
+    103/13-27-060-24W5/00  S  473.0M  E  485.0M    GRANDE PRAIRIE       5800.0M                         
+    DEV (NC)                             PLACID                         MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ATHABASCA OIL CORPORATION                                           11-23-060-24W5                  
+                                                                                                        
+    ATH 103 HZ PLACID 14-28-60-24        0498467   ALBERTA CROWN        1100.4M                         
+    103/14-28-060-24W5/00  S  313.9M  E  597.0M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             PLACID                         MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ATHABASCA OIL CORPORATION                                           14-22-060-24W5                  
+                                                                                                        
+    ATH 106 HZ PLACID 4-17-60-23         0498468   ALBERTA CROWN        1084M                           
+    106/04-17-060-23W5/00  S  492.7M  E  359.7M    GRANDE PRAIRIE       6900.0M                         
+    DEV (NC)                             PLACID                         MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ATHABASCA OIL CORPORATION                                           12-24-060-24W5                  
+                                                                                                        
+    R S R HZ MIRAGE 12-28-79-8           0498469   ALBERTA CROWN        680.7M                          
+    100/12-28-079-08W6/00  S  474.6M  E  408.6M    GRANDE PRAIRIE       3250.0M                         
+    DEV (NC)                             MIRAGE                         CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    RISING STAR RESOURCES LTD.                                          11-27-079-08W6                  
+                                                                                                        
+    R S R HZ MIRAGE 13-28-79-8           0498470   ALBERTA CROWN        680.8M                          
+    100/13-28-079-08W6/00  S  456.7M  E  417.6M    GRANDE PRAIRIE       3210.0M                         
+    DEV (NC)                             MIRAGE                         CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    RISING STAR RESOURCES LTD.                                          11-27-079-08W6                  
+                                                                                                        
+    OUC HZ LOCHEND 16-11-26-3            0498471   ALBERTA CROWN        1283.9M                         
+    100/16-11-026-03W5/00  N  705.8M  W  112.2M    MIDNAPORE            5439.0M                         
+    DEV (NC)                             LOCHEND                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ORLEN UPSTREAM CANADA LTD.                                          08-09-026-03W5                  
+                                                                                                        
+    OUC HZ LOCHEND 8-11-26-3             0498472   ALBERTA CROWN        1284.1M                         
+    100/08-11-026-03W5/00  N  675.8M  W  111.4M    MIDNAPORE            5446.0M                         
+    DEV (NC)                             LOCHEND                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ORLEN UPSTREAM CANADA LTD.                                          08-09-026-03W5                  
+                                                                                                        
+    OUC HZ LOCHEND 9-33-25-3             0498473   ALBERTA CROWN        1284.1M                         
+    100/09-33-025-03W5/00  N  675.2M  W  136.4M    MIDNAPORE            4654.0M                         
+    DEV (NC)                             LOCHEND                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ORLEN UPSTREAM CANADA LTD.                                          08-09-026-03W5                  
+                                                                                                        
+    KELT EXP HZ VALHALLA 13-10-75-9      0498474   FREEHOLD             819.1M                          
+    100/13-10-075-09W6/00  S   83.0M  E  433.9M    GRANDE PRAIRIE       6620.0M                         
+    DEV (C)                              VALHALLA                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    KELT EXPLORATION LTD.                                               14-34-074-09W6                  
+                                                                                                        
+    CPEC HZ JUDYCK 7-17-64-10            0498475   ALBERTA CROWN        983.2M                          
+    100/07-17-064-10W5/00  N  180.5M  W  470.9M    ST. ALBERT           5455.0M                         
+    DEV (NC)                             JUDY CREEK                     SLAVE POINT FM                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESCENT POINT ENERGY CORP.                                         02-29-064-10W5                  
+                                                                                                        
+    SPL 1-31 HZ NIPISI 2-36-76-8         0498476   ALBERTA CROWN        722.4M                          
+    100/02-36-076-08W5/00  N  153.8M  W   78.5M    ST. ALBERT           2900.0M                         
+    DEV (C)                              UNDEFINED                      CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SPUR PETROLEUM LTD.                                                 01-31-076-07W5                  
+                                                                                                        
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

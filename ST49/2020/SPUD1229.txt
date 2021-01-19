@@ -1,0 +1,32 @@
+Report Number: ST-49                                                                               Alberta Energy Regulator                                                                                       Page 1 of 1
+Run Date: 29 Dec 2020                                                                            DAILY DRILLING ACTIVITY LIST                                                                                                
+                                                                                    For the Notification Period 28 Dec 2020 To 29 Dec 2020                                                                                   
+
+      WELL ID                    WELL NAME               LICENCE  +---------------CONTRACTOR---------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID              LICENSEE              NEW PROJECTED  ACTIVITY  
+                                                                  BA ID                 NAME                 NUMBER                                                                                  TOTAL DEPTH     TYPE    
+------------------- ------------------------------------ -------- ------ ----------------------------------- ------ ----------------------- -------------- ----- ---------------------------------- ------------- -----------
+00/13-20-034-07W4/0 TAC 7-19 HZ PROVOST 13-20-34-7        0498616 0GE9   Tempco Drilling Company Inc.             5 29 Dec 2020 05:00:00 AM Wainwright     A5TT  Tamarack Acquisition Corp.                       Drill To LD
+04/01-19-034-09W4/0 TAC 16-24 HZ 104  PROVOST 1-19-34-9   0498883 0GE9   Tempco Drilling Company Inc.             9 29 Dec 2020 04:00:00 AM Wainwright     A5TT  Tamarack Acquisition Corp.                       Drill To LD
+02/12-34-036-04W4/0 SURGE ENERGY 102 PROVOST 12-34-36-4   0498897 A8AF   Hertz & Paluck Energy Services Inc.      1 28 Dec 2020 10:30:00 AM Wainwright     0YK4  Surge Energy Inc.                                Set Surface
+02/01-32-044-07W4/0 SURGE ENERGY HZ 102 WAINWR 1-32-44-7  0498657 A77K   Star Valley Drilling Ltd.              102 28 Dec 2020 08:15:00 PM Wainwright     0YK4  Surge Energy Inc.                                Drill To LD
+03/04-25-044-10W5/0 WINSLOW HZ 103 FERRIER 4-25-44-10     0498843 A6EC   Twilight Drilling Ltd.                   1 28 Dec 2020 11:00:00 AM Red Deer       A172  Winslow Resources Inc.                           Drill To LD
+00/14-11-044-14W5/0 TOURMALINE HZ BRAZR 14-11-44-14       0498938 0Z41   Ensign Drilling Inc.                  T038 29 Dec 2020 08:30:00 AM Drayton Valley A573  Tourmaline Oil Corp.                             Set Surface
+02/05-02-051-13W5/0 VEI HZ PEMBINA 5-2-51-13              0498920 A2EN   Ironhand Drilling Inc.                   9 28 Dec 2020 10:05:00 PM Drayton Valley A6FW  Vermilion Energy Inc.                            Drill To LD
+02/07-30-057-27W5/0 TOURMALINE HZ LELAND 7-30-57-27       0498036 A6PR   Nabors Drilling Canada Limited          58 27 Dec 2020 07:00:00 PM Drayton Valley A573  Tourmaline Oil Corp.                             Resumption 
+00/16-16-062-02W6/0 WHITECAP HZ LATOR 16-16-62-2          0498532 0Y52   Precision Drilling Corporation         403 29 Dec 2020 12:00:00 PM Grande Prairie A5BE  Whitecap Resources Inc.                          Drill To LD
+00/06-17-063-06W4/0 CNRL 6D HZ LA COREY 6-17-63-6         0498722 0Y52   Precision Drilling Corporation         300 29 Dec 2020 03:00:00 AM Bonnyville     0HE9  Canadian Natural Resources Limited               Drill To LD
+02/13-20-063-23W4/0 RHE 102 PERRY 13-20-63-23             0498936 A1TW   Bonanza Drilling Inc.                    4 29 Dec 2020 12:00:00 AM St. Albert     A6W2  Rolling Hills Energy Ltd.                        Drill To LD
+00/08-22-064-05W6/0 7GEN HZ KAKWA 8-22-64-5               0498552 A6PR   Nabors Drilling Canada Limited           5 28 Dec 2020 06:00:00 PM Grande Prairie A54C  Seven Generations Energy Ltd.                    Set Surface
+13/01-25-077-06W4/0 MEG AF7P HARDY 1-25-77-6              0498435 0Y52   Precision Drilling Corporation         140 29 Dec 2020 03:30:00 PM Bonnyville     0Z9C  MEG Energy Corp.                                 Drill To LD
+00/10-06-082-10W6/0 RIDGEBACK HZ BONANZA 10-6-82-10       0498500 0ZG2   Excalibur Drilling Ltd.                 11 29 Dec 2020 02:00:00 PM Grande Prairie A7G2  Ridgeback Resources Inc.                         Drill To LD
+W2/03-15-095-06W4/0 SUNCOR P131S2 FIREBAG 3-15-95-6       0497862 A6PR   Nabors Drilling Canada Limited         102 28 Dec 2020 09:00:00 PM Bonnyville     0054  Suncor Energy Inc.                               Set Surface
+11/14-15-095-06W4/0 SUNCOR P131S1 FIREBAG 14-15-95-6      0497861 A6PR   Nabors Drilling Canada Limited         102 29 Dec 2020 07:30:00 AM Bonnyville     0054  Suncor Energy Inc.                               Set Surface
+
+                                                                         TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 10                                                                          
+                                                                         TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  =  0                                                                          
+                                                                         TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well =  1                                                                          
+                                                                         TOTAL  - Set Surface - Drilling to Set Surface Casing Only            =  5                                                                          
+
+                                                                                              TOTAL NUMBER OF WELLS LISTED = 16                                                                                              
+                                                                                                    *** END OF REPORT ***                                                                                                    
+

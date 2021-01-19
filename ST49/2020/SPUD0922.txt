@@ -1,0 +1,21 @@
+Report Number: ST-49                                                                        Alberta Energy Regulator                                                                                 Page 1 of 1
+Run Date: 22 Sep 2020                                                                     DAILY DRILLING ACTIVITY LIST                                                                                          
+                                                                             For the Notification Period 21 Sep 2020 To 22 Sep 2020                                                                             
+
+      WELL ID                   WELL NAME             LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID           LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                               BA ID               NAME              NUMBER                                                                             TOTAL DEPTH     TYPE    
+------------------- --------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ----------------------------- ------------- -----------
+02/08-18-047-06W5/0 BONTERRA 102 HZ PEMBINA 8-18-47-6  0497799 A2EN   Ironhand Drilling Inc.              1 22 Sep 2020 12:45:00 PM Drayton Valley 0XZ4  Bonterra Energy Corp.                       Drill To LD
+03/01-15-062-19W5/0 CHEVRON 103 HZ FOXCK 1-15-62-19    0496510 0Z41   Ensign Drilling Inc.              770 21 Sep 2020 12:55:00 PM St. Albert     0045  Chevron Canada Limited                      Drill To LD
+00/15-30-068-02W6/0 VELVET HZ BEZAN 15-30-68-2         0498234 A08C   Savanna Drilling Corp.            639 22 Sep 2020 01:30:00 PM Grande Prairie A5YK  Velvet Energy Ltd.                          Drill To LD
+00/05-14-071-08W6/0 PIPE 100 HZ ELM 5-14-71-8          0497192 0Y52   Precision Drilling Corporation    520 22 Sep 2020 05:00:00 AM Grande Prairie A82B  Pipestone Energy Corp.                      Drill To LD
+10/08-13-082-12W4/0 CLC 202 INF04 DIVIDE 8-13-82-12    0498287 0Y52   Precision Drilling Corporation    199 22 Sep 2020 12:15:00 AM Bonnyville     0A9H  Connacher Oil And Gas Limited               Drill To LD
+
+                                                                   TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 5                                                                    
+                                                                   TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                    
+                                                                   TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                    
+                                                                   TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 0                                                                    
+
+                                                                                        TOTAL NUMBER OF WELLS LISTED = 5                                                                                        
+                                                                                             *** END OF REPORT ***                                                                                              
+

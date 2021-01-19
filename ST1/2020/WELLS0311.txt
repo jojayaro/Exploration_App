@@ -1,0 +1,172 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 11 March 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    IMP 20 N01W-713 LEMING 12-36-66-3    0497869   ALBERTA CROWN        650.9M                          
+    103/12-36-066-03W4/00  S  727.1M  E    4.9M    BONNYVILLE           390.0M                          
+    DSW (NC)                             UNDEFINED                      GRAND RAPIDS FM                 
+    SLANT                                NEW       OBSERVATION          NONE                            
+    IMPERIAL OIL RESOURCES LIMITED                                      12-36-066-03W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    OEI SIMON 16-35-62-26                 0450159    UWI:                                               
+    00/16-35-062-26W5/2                              00/01-26-062-26W5/2                                
+
+                                                     WELL NAME:                                         
+                                                     GAIN SIMON 1-26-62-26                              
+
+    BAYTEX HZ SLAVE 4-16-85-15            0493537    UWI:                                               
+    00/04-16-085-15W5/8                              00/08-08-085-15W5/8                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX HZ SLAVE 8-8-85-15                          
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM BLUESKY FM                      
+
+    BAYTEX HZ SLAVE 4-16-85-15            0493537    UWI:                                               
+    00/04-16-085-15W5/7                              00/09-08-085-15W5/7                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX HZ SLAVE 9-8-85-15                          
+
+    SPL 10-36 HZ MARTENH 16-1-74-25       0494563    UWI:                                               
+    00/10-01-074-25W4/3                              03/16-01-074-25W4/3                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 10-36 HZ MARTENH 10-1-74-25       0494563    UWI:                                               
+    00/10-01-074-25W4/2                              03/16-01-074-25W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 10-36 HZ MARTENH 16-1-74-25                    
+
+    SPL 10-36 HZ MARTENH 16-1-74-25       0494564    UWI:                                               
+    00/09-01-074-25W4/3                              02/16-01-074-25W4/3                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 10-36 HZ MARTENH 9-1-74-25        0494564    UWI:                                               
+    00/09-01-074-25W4/2                              02/16-01-074-25W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 10-36 HZ MARTENH 16-1-74-25                    
+
+    SPL 10-24 HZ MARTEN 6-23-76-6         0494995    UWI:                                               
+    00/05-23-076-06W5/2                              00/06-23-076-06W5/2                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     750.00 TO 2700.00                                  
+
+    HUSKY 3HZ R2 WILDMERE 8-19-48-5       0496292    UWI:                                               
+    02/08-19-048-05W4/3                              00/01-19-048-05W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     HUSKY 3HZ R2 WILDMERE 1-19-48-5                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GENERAL PETROLEUM MBR               
+
+    HUSKY 3HZ R2 WILDMERE 8-19-48-5       0496292    UWI:                                               
+    02/08-19-048-05W4/2                              00/01-19-048-05W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     HUSKY 3HZ R2 WILDMERE 1-19-48-5                    
+
+    RHE 100 EDWAND 6-14-62-16             0496779    UWI:                                               
+    00/03-14-062-16W4/4                              00/05-14-062-16W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     RHE 100 EDWAND 5-14-62-16                          
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    RHE 100 EDWAND 3-14-62-16             0496779    UWI:                                               
+    00/03-14-062-16W4/3                              00/06-14-062-16W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     RHE 100 EDWAND 6-14-62-16                          
+
+    TXNE 15D-17 HZ BANTRY 15-29-20-14     0496904    UWI:                                               
+    02/15-29-020-14W4/2                              00/10-29-020-14W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     TXNE 15D-17 HZ BANTRY 10-29-20-14                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GLAUCONITIC SS                      
+
+    WLEC MHZ 3B11 PROVOST 16-31-38-2      0496923    WELL NAME:                                         
+    100/15-31-038-02W4/09                            WLEC MHZ 3B11 PROVOST 15-                          
+
+    WLEC MHZ 3B11 PROVOST 16-31-38-2      0496923    WELL NAME:                                         
+    102/16-31-038-02W4/08                            WLEC MHZ 3B11 PROVOST 15-                          
+
+    SPL 2-16 HZ MARTENH 6-21-76-3         0496927    UWI:                                               
+    00/06-21-076-03W5/3                              00/14-16-076-03W5/3                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 2-16 HZ MARTENH 14-16-76-3                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    WLEC 9HZ 1A1 PROVOST 3-28-39-5        0497033    UWI:                                               
+    02/01-28-039-05W4/8                              00/08-28-039-05W4/8                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC 9HZ 1A1 PROVOST 8-28-39-5                     
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM REX MBR                             
+
+    WLEC 9HZ 1A1 PROVOST 1-28-39-5        0497033    UWI:                                               
+    02/01-28-039-05W4/6                              00/15-21-039-05W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC 9HZ 1A1 PROVOST 15-21-39-5                    
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    ANEGADA HZ 7B GRANDPR 7-31-73-7       0493939                                                       
+    100/07-31-073-07W6/00                                                                               
+
+    ANEGADA HZ 1A GRANDPR 1-34-73-7       0493940                                                       
+    100/01-34-073-07W6/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

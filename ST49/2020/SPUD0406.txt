@@ -1,0 +1,17 @@
+Report Number: ST-49                                                          Alberta Energy Regulator                                                                  Page 1 of 1
+Run Date: 06 Apr 2020                                                       DAILY DRILLING ACTIVITY LIST                                                                           
+                                                               For the Notification Period 05 Apr 2020 To 06 Apr 2020                                                              
+
+      WELL ID             WELL NAME        LICENCE  +------CONTRACTOR------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID         LICENSEE         NEW PROJECTED  ACTIVITY  
+                                                    BA ID        NAME        NUMBER                                                                        TOTAL DEPTH     TYPE    
+------------------- ---------------------- -------- ------ ----------------- ------ ----------------------- -------------- ----- ------------------------ ------------- -----------
+00/05-18-066-05W6/0 PARA HZ KARR 5-18-66-5  0489282 A5DR   Fox Drilling Inc.      3 06 Apr 2020 08:04:00 AM Grande Prairie 0AW4  Paramount Resources Ltd.               Drill To LD
+
+                                                     TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 1                                                     
+                                                     TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                     
+                                                     TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                     
+                                                     TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 0                                                     
+
+                                                                         TOTAL NUMBER OF WELLS LISTED = 1                                                                          
+                                                                               *** END OF REPORT ***                                                                               
+

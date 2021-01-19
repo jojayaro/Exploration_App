@@ -1,0 +1,184 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 06 April 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CPEC HZ JUDYCK 2-5-64-9              0497976   ALBERTA CROWN        1021.5M                         
+    102/02-05-064-09W5/00  N   85.7M  W  216.4M    ST. ALBERT           5500.0M                         
+    DEV (NC)                             JUDY CREEK                     SLAVE POINT FM                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESCENT POINT ENERGY CORP.                                         01-01-064-10W5                  
+                                                                                                        
+    PARA KARR 4-18-66-4                  0497977   ALBERTA CROWN        797.8M                          
+    100/04-18-066-04W6/00  S  164.1M  E  250.9M    GRANDE PRAIRIE       3883.0M                         
+    OTH (NC)                             KARR                           WINTERBURN GRP                  
+    DIRECTIONAL                          NEW       DISPOSAL             WATER                           
+    PARAMOUNT RESOURCES LTD.                                            13-07-066-04W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SPL 15-35 HZ MARTENH 16-2-74-25       0495589    UWI:                                               
+    00/15-02-074-25W4/2                              03/16-02-074-25W4/2                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 15-35 HZ 102 MARTENH 16-2-74-25   0495590    UWI:                                               
+    02/14-02-074-25W4/3                              02/15-02-074-25W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-35 HZ 102 MARTENH 15-2-74-25                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    CVE A8 HARDY 8-14-77-6                0495692    UWI:                                               
+    AC/08-14-077-06W4/0                              02/08-14-077-06W4/0                                
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SPL 6-31 HZ MARTEN 2-30-76-6          0495882    UWI:                                               
+    00/02-30-076-06W5/0                              00/04-30-076-06W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 6-31 HZ MARTEN 4-30-76-6                       
+
+    SPL 1-5 HZ 102 MARTEN 4-4-77-6        0496050    UWI:                                               
+    02/04-03-077-06W5/7                              00/03-04-077-06W5/7                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 1-5 HZ 102 MARTEN 3-4-77-6                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2900.00                                  
+
+    T5 ENERGY FERRIER 4-23-43-10          0496454    UWI:                                               
+    00/04-23-043-10W5/0                              00/07-24-043-10W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     T5 ENERGY WILLGR 7-24-43-10                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+    TURNSTONE HZ GODIN 7-18-81-4          0496618    UWI:                                               
+    00/07-18-081-04W5/0                              00/02-19-081-04W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TURNSTONE HZ GODIN 2-19-81-4                       
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.05                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    TAC 13-27 HZ 102 PROVOST 16-34-34-9   0496712    UWI:                                               
+    02/16-34-034-09W4/0                              02/09-34-034-09W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TAC 13-27 HZ 102 PROVOST 9-34-34-9                 
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM VIKING FM                           
+
+    TAC 8-10 HZ PENNY 13-16-9-23          0496752    UWI:                                               
+    00/13-16-009-23W4/0                              02/08-10-009-23W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TAC 8-10 HZ PENNY 8-10-9-23                        
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM BANFF FM                            
+
+                                                     DRILL CUTTINGS:                                    
+                                                     1075.00 TO 5245.00                                 
+
+    BAYTEX HZ 100 SLAVE 14-23-84-15       0496864    UWI:                                               
+    00/15-15-084-15W5/5                              00/12-23-084-15W5/5                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX HZ 100 SLAVE 12-23-84-15                    
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM BLUESKY FM                      
+
+    WLEC MHZ 2B4 PROVOST 1-5-39-2         0497233    UWI:                                               
+    S0/04-04-039-02W4/3                              00/01-05-039-02W4/3                                
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GENERAL PETROLEUM MBR               
+
+    POC HZ UKALTA 1-10-57-18              0497336    UWI:                                               
+    00/01-10-057-18W4/2                              03/08-10-057-18W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     POC HZ UKALTA 8-10-57-18                           
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    POC 02 HZ UKALTA 11-10-57-18          0497337    UWI:                                               
+    02/08-10-057-18W4/5                              00/09-10-057-18W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     POC 02 HZ UKALTA 9-10-57-18                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    CREW HZ SWIMMING 16-13-52-7           0497350    UWI:                                               
+    00/16-13-052-07W4/5                              00/15-13-052-07W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     CREW HZ SWIMMING 15-13-52-7                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM REX MBR                             
+
+    BAYTEX HZ 12C ESTHER 12-7-32-1        0497372    UWI:                                               
+    00/12-07-032-01W4/0                              00/11-07-032-01W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX HZ 12C ESTHER 11-7-32-1                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM VIKING FM                           
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,265 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 09 March 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SUNCOR F2PB DOVER 3-9-93-12          0320561   ALBERTA CROWN        403M                            
+    102/03-09-093-12W4/02  S  347.5M  W  155.8M    BONNYVILLE           1040.0M                         
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  16-05-093-12W4                  
+                                                                                                        
+    IMP N02W-825 LEMING 1-35-66-3        0497841   ALBERTA CROWN        641.7M                          
+    100/01-35-066-03W4/00  N  252.4M  E   66.2M    BONNYVILLE           420.0M                          
+    DSW (NC)                             UNDEFINED                      GRAND RAPIDS FM                 
+    SLANT                                NEW       OBSERVATION          NONE                            
+    IMPERIAL OIL RESOURCES LIMITED                                      04-36-066-03W4                  
+                                                                                                        
+    IMP N02W2-845 LEMING 16-26-66-3      0497842   ALBERTA CROWN        641.5M                          
+    103/16-26-066-03W4/00  N  260.7M  E   61.5M    BONNYVILLE           530.0M                          
+    DSW (NC)                             LEMING                         GRAND RAPIDS FM                 
+    SLANT                                NEW       OBSERVATION          NONE                            
+    IMPERIAL OIL RESOURCES LIMITED                                      04-36-066-03W4                  
+                                                                                                        
+    IMP N02W2-1125 LEMING 1-35-66-3      0497843   ALBERTA CROWN        641.6M                          
+    102/01-35-066-03W4/00  N  272.6M  E   74.6M    BONNYVILLE           420.0M                          
+    DSW (NC)                             UNDEFINED                      GRAND RAPIDS FM                 
+    SLANT                                NEW       OBSERVATION          NONE                            
+    IMPERIAL OIL RESOURCES LIMITED                                      04-36-066-03W4                  
+                                                                                                        
+    IMP N02W2-1145 LEMING 8-35-66-3      0497844   ALBERTA CROWN        641.7M                          
+    102/08-35-066-03W4/00  N  278.8M  E   80.8M    BONNYVILLE           530.0M                          
+    DSW (NC)                             UNDEFINED                      GRAND RAPIDS FM                 
+    SLANT                                NEW       OBSERVATION          NONE                            
+    IMPERIAL OIL RESOURCES LIMITED                                      04-36-066-03W4                  
+                                                                                                        
+    TOURMALINE HZ KAKWA 3-16-61-4        0497845   ALBERTA CROWN        1149.3M                         
+    100/03-16-061-04W6/00  N  403.0M  W   14.7M    GRANDE PRAIRIE       4911.0M                         
+    DEV (C)                              KAKWA                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                08-20-061-04W6                  
+                                                                                                        
+    TOURMALINE HZ KAKWA 4-16-61-4        0497846   ALBERTA CROWN        1149.4M                         
+    100/04-16-061-04W6/00  N  403.1M  W   19.7M    GRANDE PRAIRIE       4733.0M                         
+    DEV (C)                              KAKWA                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                08-20-061-04W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    BAYTEX HZ SLAVE 4-16-85-15            0493537    UWI:                                               
+    00/04-16-085-15W5/5                              00/16-08-085-15W5/5                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX HZ SLAVE 16-8-85-15                         
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM BLUESKY FM                      
+
+    BAYTEX HZ SLAVE 9-8-85-15             0493537    UWI:                                               
+    00/09-08-085-15W5/3                              00/16-08-085-15W5/3                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX SLAVE 16-8-85-15                            
+
+    BAYTEX HZ SLAVE 4-16-85-15            0493537    UWI:                                               
+    00/04-16-085-15W5/3                              00/09-08-085-15W5/3                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX HZ SLAVE 9-8-85-15                          
+
+    TOURMALINE HZ LELAND 7-19-58-27       0493820    UWI:                                               
+    00/07-19-058-27W5/0                              00/08-19-058-27W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ LELAND 8-19-58-27                    
+
+    TOURMALINE HZ 102 PECO 13-29-46-15    0494813    UWI:                                               
+    02/13-29-046-15W5/3                              00/16-30-046-15W5/3                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ 102 PECO 16-30-46-15                 
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM VIKING FM                                 
+
+                                                     DRILL CUTTINGS:                                    
+                                                     1778.00 TO 4233.00                                 
+
+    CNRL ET AL HZ KARR 13-11-66-4         0494905    GROUND ELEVATION                                   
+    100/13-11-066-04W6/00                            802.5                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0441.3 E 0014.5                                  
+
+    CNRL ET AL HZ KARR 14-11-66-4         0494906    GROUND ELEVATION                                   
+    100/14-11-066-04W6/00                            802.5                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0440.8 E 0024.5                                  
+
+    CNRL ET AL HZ KARR 16-10-66-4         0494907    GROUND ELEVATION                                   
+    100/16-10-066-04W6/00                            802.5                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0441.7 E 0004.5                                  
+
+    CNRL ET AL HZ KARR 15-10-66-4         0494920    GROUND ELEVATION                                   
+    100/15-10-066-04W6/00                            802.6                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0442.2 W 1611.5                                  
+
+    SPL 11-24 HZ MARTEN 15-25-76-6        0494994    UWI:                                               
+    00/14-25-076-06W5/7                              00/15-25-076-06W5/7                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     750.00 TO 2700.00                                  
+
+    TOURMALINE SMOKY 8-19-58-1            0495304    UWI:                                               
+    00/08-19-058-01W6/0                              00/06-19-058-01W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE SMOKY 6-19-58-1                         
+
+    PEYTO CHAMBERS 14-34-41-11            0495911    UWI:                                               
+    02/14-34-041-11W5/2                              00/04-03-042-11W5/2                                
+
+                                                     WELL NAME:                                         
+                                                     PEYTO FERRIER 4-3-42-11                            
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM NOTIKEWIN MBR                             
+
+    SPL 1-13 HZ 102 MARTENH 5-17-74-25    0495930    UWI:                                               
+    02/04-17-074-25W4/6                              00/05-17-074-25W4/6                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    VEI HZ WESTPEM 16-6-50-13             0496011    UWI:                                               
+    00/16-06-050-13W5/0                              00/12-05-050-13W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     VEI HZ WESTPEM 12-5-50-13                          
+
+    COPRC 1AB ML RESDELN 2-16-83-7        0496012    UWI:                                               
+    AB/02-16-083-07W4/2                              AA/08-16-083-07W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     COPRC 1AB ML RESDELN 8-16-83-7                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    7GEN HZ 106 KAKWA 7-29-62-4           0496019    UWI:                                               
+    06/07-29-062-04W6/2                              02/10-29-062-04W6/2                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 106 KAKWA 10-29-62-4                       
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    7GEN HZ 106 KAKWA 7-29-62-4           0496019    UWI:                                               
+    06/07-29-062-04W6/0                              00/05-28-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 106 KAKWA 5-28-62-4                        
+
+    OBE HZ 102 WILLGR 3-21-43-8           0496058    UWI:                                               
+    03/03-21-043-08W5/0                              00/15-16-043-08W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     OBE HZ 102 WILLGR 15-16-43-8                       
+
+    POC 02 HZ UKALTA 14-2-57-18           0496661    UWI:                                               
+    02/13-02-057-18W4/0                              02/14-02-057-18W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     POC HZ UKALTA 14-2-57-18                           
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    POC 02 HZ UKALTA 14-2-57-18           0496661    UWI:                                               
+    02/13-02-057-18W4/0                              02/14-02-057-18W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     POC HZ UKALTA 14-2-57-18                           
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    POC 02 HZ UKALTA 14-2-57-18           0496661    UWI:                                               
+    02/13-02-057-18W4/0                              02/14-02-057-18W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     POC HZ UKALTA 14-2-57-18                           
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    WLEC MHZ 3B11 PROVOST 16-31-38-2      0496923    UWI:                                               
+    00/11-31-038-02W4/9                              00/15-31-038-02W4/9                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC MHZ 3B11 PROVOST 15-31-38-2                   
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GENERAL PETROLEUM MBR               
+
+    WLEC MHZ 3B11 PROVOST 11-31-38-2      0496923    UWI:                                               
+    00/11-31-038-02W4/8                              02/16-31-038-02W4/8                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC MHZ 3B11 PROVOST 16-31-38-2                   
+
+    WLEC 9HZ 1A1 PROVOST 3-28-39-5        0497033    UWI:                                               
+    02/01-28-039-05W4/4                              02/16-21-039-05W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC 9HZ 1A1 PROVOST 16-21-39-5                    
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM REX MBR                             
+
+    WLEC 9HZ 1A1 PROVOST 1-28-39-5        0497033    UWI:                                               
+    02/01-28-039-05W4/3                              00/14-21-039-05W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC 9HZ 1A1 PROVOST 14-21-39-5                    
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,175 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 30 June 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    PEYTO SUNDANCE 15-10-56-21           0498138   ALBERTA CROWN        1210.4M                         
+    100/15-10-056-21W5/00  S  197.1M  W  572.4M    DRAYTON VALLEY       4400.0M                         
+    DEV (NC)                             SUNDANCE                       BLUESKY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               15-03-056-21W5                  
+                                                                                                        
+    PEYTO SUNDANCE 16-10-56-21           0498139   ALBERTA CROWN        1210.4M                         
+    102/16-10-056-21W5/00  S  201.9M  W  571.6M    DRAYTON VALLEY       4450.0M                         
+    DEV (NC)                             SUNDANCE                       BLUESKY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               15-03-056-21W5                  
+                                                                                                        
+    PEYTO LAWRNC 14-17-42-12             0498140   ALBERTA CROWN        1287.2M                         
+    100/14-17-042-12W5/00  S  588.8M  W  686.7M    RED DEER             4500.0M                         
+    DEV (C)                              LAWRENCE                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               10-19-042-12W5                  
+                                                                                                        
+    ENHANCEENERGY CLIVE 10-27-39-24      0498141   FREEHOLD             845.4M                          
+    100/10-27-039-24W4/00  N  615.8M  W  605.0M    RED DEER             3864.0M                         
+    DEV (NC)                             CLIVE                          LEDUC FM                        
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ENHANCE ENERGY INC.                                                 07-35-039-24W4                  
+                                                                                                        
+    ENHANCEENERGY CLIVE 3-1-40-24        0498142   BOTH                 845.8M                          
+    100/03-01-040-24W4/00  N  630.8M  W  605.0M    RED DEER             3467.0M                         
+    DEV (NC)                             CLIVE                          LEDUC FM                        
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ENHANCE ENERGY INC.                                                 07-35-039-24W4                  
+                                                                                                        
+    ENHANCEENERGY CLIVE 14-1-40-24       0498143   BOTH                 871.6M                          
+    100/14-01-040-24W4/00  N  320.1M  W  635.4M    RED DEER             3249.0M                         
+    DEV (NC)                             CLIVE                          LEDUC FM                        
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ENHANCE ENERGY INC.                                                 02-02-040-24W4                  
+                                                                                                        
+    ENHANCEENERGY CLIVE 7-34-39-24       0498144   BOTH                 871.7M                          
+    100/07-34-039-24W4/00  N  305.1M  W  635.0M    RED DEER             3681.0M                         
+    DEV (NC)                             CLIVE                          LEDUC FM                        
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ENHANCE ENERGY INC.                                                 02-02-040-24W4                  
+                                                                                                        
+    OVV HZ 103 WEMBLEY 15-25-71-9        0498145   ALBERTA CROWN        817.4M                          
+    102/15-25-071-09W6/00  S  125.0M  E  163.4M    GRANDE PRAIRIE       5767.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  13-35-071-09W6                  
+                                                                                                        
+    OVV HZ 104 WEMBLEY 15-25-71-9        0498146   ALBERTA CROWN        817.5M                          
+    103/15-25-071-09W6/00  S  125.0M  E  173.4M    GRANDE PRAIRIE       5767.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  13-35-071-09W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    ECA HZ 103 WEMBLEY 10-25-71-9         0490533    GROUND ELEVATION                                   
+    103/10-25-071-09W6/00                            817.1                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0125.0 E 0153.4                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     1.21                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     7                                                  
+
+    ECA HZ 104 WEMBLEY 10-25-71-9         0490534    GROUND ELEVATION                                   
+    104/10-25-071-09W6/00                            816.5                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0195.0 E 0174.9                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     1.21                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     7                                                  
+
+    ECA HZ 103 WEMBLEY 11-25-71-9         0490539    GROUND ELEVATION                                   
+    103/11-25-071-09W6/00                            816.1                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0195.0 E 0154.9                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     1.21                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     7                                                  
+
+    HIGHWOOD NIPISI 16-25-76-7            0496203    UWI:                                               
+    00/16-25-076-07W5/4                              03/15-25-076-07W5/4                                
+
+                                                     WELL NAME:                                         
+                                                     HIGHWOOD NIPISI 15-25-76-7                         
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    TQN HZ FERRIER 1-28-43-11             0496514    UWI:                                               
+    W0/01-28-043-11W5/0                              00/01-28-043-11W5/0                                
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    HUSKY KAYBOBS 16-14-60-18             0479323                                                       
+    100/16-14-060-18W5/00                                                                               
+
+    HUSKY KAYBOBS 5-24-60-18              0479325                                                       
+    100/05-24-060-18W5/00                                                                               
+
+    HUSKY KAYBOBS 2-7-60-17               0479326                                                       
+    100/02-07-060-17W5/00                                                                               
+
+    HUSKY KAYBOBS 13-13-60-18             0479327                                                       
+    100/13-13-060-18W5/00                                                                               
+
+    HUSKY KAYBOBS 8-7-60-17               0479328                                                       
+    100/08-07-060-17W5/00                                                                               
+
+    HUSKY KAYBOBS 15-12-60-18             0479329                                                       
+    102/15-12-060-18W5/00                                                                               
+
+    HUSKY KAYBOBS 8-23-60-18              0479330                                                       
+    100/08-23-060-18W5/00                                                                               
+
+    HUSKY KAYBOBS 1-23-60-18              0479331                                                       
+    102/01-23-060-18W5/00                                                                               
+
+    WESTBRICK HZ BRAZR 16-28-48-12        0489728                                                       
+    100/16-28-048-12W5/00                                                                               
+
+    CNRL 4C2 LEISMER 4-29-75-6            0489754                                                       
+    1AC/04-29-075-06W4/00                                                                               
+
+    TIMBERROCK HZ GARR 13-19-33-3         0494977                                                       
+    100/13-19-033-03W5/00                                                                               
+
+    TIMBERROCK HZ GARR 16-24-33-4         0494978                                                       
+    100/16-24-033-04W5/00                                                                               
+
+    POC HZ EDSON 14-33-51-16              0496055                                                       
+    100/14-33-051-16W5/00                                                                               
+
+    POC HZ EDSON 8-23-51-16               0496056                                                       
+    100/08-23-051-16W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

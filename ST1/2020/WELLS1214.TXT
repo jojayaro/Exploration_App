@@ -1,0 +1,184 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 14 December 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    HUSKY 9C LLOYD 9-31-51-1             0499011   FREEHOLD             638.7M                          
+    100/09-31-051-01W4/00  S  126.5M  W  353.0M    WAINWRIGHT           898.0M                          
+    DEV (NC)                             LLOYDMINSTER                   DINA MBR                        
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    HUSKY OIL OPERATIONS LIMITED                                        16-31-051-01W4                  
+                                                                                                        
+    HUSKY 10C LLOYD 10-31-51-1           0499012   FREEHOLD             639.5M                          
+    100/10-31-051-01W4/00  S  139.5M  W  353.0M    WAINWRIGHT           974.0M                          
+    DEV (NC)                             LLOYDMINSTER                   DINA MBR                        
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    HUSKY OIL OPERATIONS LIMITED                                        16-31-051-01W4                  
+                                                                                                        
+    HUSKY 16D LLOYD 16-31-51-1           0499013   FREEHOLD             638.9M                          
+    102/16-31-051-01W4/00  S  113.5M  W  353.0M    WAINWRIGHT           748.0M                          
+    DEV (NC)                             LLOYDMINSTER                   DINA MBR                        
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    HUSKY OIL OPERATIONS LIMITED                                        16-31-051-01W4                  
+                                                                                                        
+    TOURMALINE HZ KAKWA 2-15-61-4        0499014   ALBERTA CROWN        1022.4M                         
+    100/02-15-061-04W6/00  S   33.3M  W    2.2M    GRANDE PRAIRIE       4800.0M                         
+    DEV (C)                              KAKWA                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                16-16-061-04W6                  
+                                                                                                        
+    TOURMALINE HZ KAKWA 3-15-61-4        0499015   ALBERTA CROWN        1022.3M                         
+    102/03-15-061-04W6/00  S   34.6M  W 1625.2M    GRANDE PRAIRIE       4290.0M                         
+    DEV (C)                              KAKWA                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                13-15-061-04W6                  
+                                                                                                        
+    SURGE ENERGY HZ 102 WAINWR 4-32-44-7 0499016   ALBERTA CROWN        675.6M                          
+    102/04-32-044-07W4/00  N  126.5M  E  152.4M    WAINWRIGHT           2450.0M                         
+    DEV (NC)                             WAINWRIGHT                     SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   04-05-045-07W4                  
+                                                                                                        
+    SURGE ENERGY HZ 102 WAINWR 3-32-44-7 0499017   ALBERTA CROWN        675.4M                          
+    102/03-32-044-07W4/00  N  141.5M  E  152.4M    WAINWRIGHT           2700.0M                         
+    DEV (NC)                             WAINWRIGHT                     SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   04-05-045-07W4                  
+                                                                                                        
+    SURGE ENERGY HZ WAINWR 4-6-45-7      0499018   BOTH                 676.3M                          
+    100/04-06-045-07W4/00  N  156.5M  E  152.3M    WAINWRIGHT           2460.0M                         
+    DEV (NC)                             WAINWRIGHT                     SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   04-05-045-07W4                  
+                                                                                                        
+    SURGE ENERGY HZ 102 WAINWR 4-6-45-7  0499019   BOTH                 676.3M                          
+    102/04-06-045-07W4/00  N  171.5M  E  152.3M    WAINWRIGHT           2450.0M                         
+    DEV (NC)                             WAINWRIGHT                     SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   04-05-045-07W4                  
+                                                                                                        
+    SURGE ENERGY HZ 103 WAINWR 4-6-45-7  0499020   BOTH                 676.5M                          
+    103/04-06-045-07W4/00  N  186.5M  E  152.3M    WAINWRIGHT           2510.0M                         
+    DEV (NC)                             WAINWRIGHT                     SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   04-05-045-07W4                  
+                                                                                                        
+    CNRL HZ 102 WEMBLEY 6-27-74-11       0499021   ALBERTA CROWN        786.2M                          
+    102/06-27-074-11W6/00  S  510.9M  W  424.7M    GRANDE PRAIRIE       6840.0M                         
+    DSW (NC)                             WEMBLEY                        BELLOY FM                       
+    HORIZONTAL                           NEW       INJECTION            GAS                             
+    CANADIAN NATURAL RESOURCES LIMITED                                  10-10-074-11W6                  
+                                                                                                        
+    CNRL MILO 2-13-19-23                 0499023   ALBERTA CROWN        1056.9M                         
+    100/02-13-019-23W4/00  N  616.8M  W  693.8M    MIDNAPORE            1834.0M                         
+    DEV (NC)                             MILO                           BASAL QUARTZ SD                 
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    CANADIAN NATURAL RESOURCES LIMITED                                  07-13-019-23W4                  
+                                                                                                        
+    CNRL MILO 14-13-19-23                0499024   ALBERTA CROWN        1057.7M                         
+    100/14-13-019-23W4/00  N  611.0M  W  712.9M    MIDNAPORE            2000.0M                         
+    DEV (NC)                             MILO                           BASAL QUARTZ SD                 
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    CANADIAN NATURAL RESOURCES LIMITED                                  07-13-019-23W4                  
+                                                                                                        
+    SPL 4-7 HZ GOODLOW 5-18-82-4         0499026   ALBERTA CROWN        583.2M                          
+    100/05-18-082-04W5/00  N  212.2M  E  134.5M    ST. ALBERT           2600.0M                         
+    DEV (NC)                             UNDEFINED                      CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 04-07-082-04W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    GRL 103 HZ PROGRESS 4-2-79-8           0493620   AER CLASSIFICATION/CONFIDENTIAL STATUS             
+    103/04-02-079-08W6/00                            DSW (NC)                                           
+
+                                                     GROUND ELEVATION                                   
+                                                     682.50                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0425.0 E 0141.9                                  
+
+                                                     SURFACE RIGHTS:                                    
+                                                     Alberta Crown                                      
+
+                                                     TARGET SUBSTANCE                                   
+                                                     Crude Oil                                          
+
+                                                     WELL TYPE:                                         
+                                                     Production                                         
+
+    7GEN HZ KAKWA 12-28-62-4               0498193   CATEGORY:                                          
+    100/12-28-062-04W6/00                            C280                                               
+
+                                                     GROUND ELEVATION                                   
+                                                     1053.30                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0503.8 W 0144.9                                  
+
+    CVE C16-13 B1 HARDY 1-24-76-6          0498403   CATEGORY:                                          
+    1AC/01-24-076-06W4/00                            D570                                               
+
+    JUPITER HZ RESTHA 13-11-60-2           0498464   UWI:                                               
+    00/13-11-060-02W6/0                              02/15-11-060-02W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     JUPITER HZ RESTHA 15-11-60-2                       
+
+                                                     GROUND ELEVATION                                   
+                                                     1350.20                                            
+
+                                                     PROJECTED DEPTH:                                   
+                                                     6162.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0465.2 E 0733.3                                  
+
+    BIR 5-7 HZ PCOUPES 13-13-79-12         0498984   MAX CALC EPZ:                                      
+    100/13-13-079-12W6/00                            0.39                                               
+
+    BIR 5-7 HZ 102 PCOUPES 13-13-79-12     0498987   MAX CALC EPZ:                                      
+    102/13-13-079-12W6/00                            0.39                                               
+
+    BIR 5-7 HZ 103 PCOUPES 13-13-79-12     0498990   MAX CALC EPZ:                                      
+    103/13-13-079-12W6/00                            0.39                                               
+
+    BIR 507 HZ 102 PCOUPES 14-13-79-12     0498992   WELL NAME:                                         
+    102/14-13-079-12W6/00                            BIR 5-7 HZ 102 PCOUPES 14-13-79-12                 
+
+                                                     MAX CALC EPZ:                                      
+                                                     0.39                                               
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    7GEN HZ KARR 12-5-65-5                 0496117   UWI:                                               
+    00/12-05-065-05W6/0                              00/11-05-065-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KARR 11-5-65-5                             
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     11-05-065-05W6                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

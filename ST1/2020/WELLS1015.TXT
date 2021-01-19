@@ -1,0 +1,190 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 15 October 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    7GEN HZ KAKWA 8-22-64-5              0498552   ALBERTA CROWN        932.9M                          
+    100/08-22-064-05W6/00  S  554.7M  E   43.7M    GRANDE PRAIRIE       6300.0M                         
+    DEV (NC)                             KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       12-28-064-05W6                  
+                                                                                                        
+    7GEN HZ 102 KAKWA 8-22-64-5          0498553   ALBERTA CROWN        932.9M                          
+    102/08-22-064-05W6/00  S  554.4M  E   54.7M    GRANDE PRAIRIE       6300.0M                         
+    DEV (NC)                             KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       12-28-064-05W6                  
+                                                                                                        
+    7GEN HZ KAKWA 9-22-64-5              0498554   ALBERTA CROWN        932.9M                          
+    100/09-22-064-05W6/00  S  554.2M  E   65.7M    GRANDE PRAIRIE       6300.0M                         
+    DEV (NC)                             KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       12-28-064-05W6                  
+                                                                                                        
+    7GEN HZ 102 KAKWA 9-22-64-5          0498555   ALBERTA CROWN        932.9M                          
+    102/09-22-064-05W6/00  S  553.9M  E   76.7M    GRANDE PRAIRIE       6300.0M                         
+    DEV (NC)                             KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       12-28-064-05W6                  
+                                                                                                        
+    LONGSHORE HZ 102 PROVOST 15-13-40-7  0498556   ALBERTA CROWN        681.3M                          
+    102/15-13-040-07W4/00  N   94.1M  E  201.4M    WAINWRIGHT           1541.0M                         
+    DEV (NC)                             PROVOST                        CUMMINGS MBR                    
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    LONGSHORE RESOURCES LTD.                                            04-19-040-06W4                  
+                                                                                                        
+    SPL 3-13 HZ MARTENH 3-12-75-25       0498557   ALBERTA CROWN        718.5M                          
+    100/03-12-075-25W4/00  N  339.1M  E  469.0M    ST. ALBERT           2700.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 03-13-075-25W4                  
+                                                                                                        
+    SPL 3-13 HZ 102 MARTENH 3-12-75-25   0498558   ALBERTA CROWN        718.7M                          
+    102/03-12-075-25W4/00  N  330.5M  E  474.1M    ST. ALBERT           2700.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 03-13-075-25W4                  
+                                                                                                        
+    SPL 3-13 HZ 102 MARTENH 4-12-75-25   0498559   ALBERTA CROWN        717.7M                          
+    103/04-12-075-25W4/00  N  334.0M  E  460.4M    ST. ALBERT           2700.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 03-13-075-25W4                  
+                                                                                                        
+    SPL 3-13 HZ 103 MARTENH 4-12-75-25   0498560   ALBERTA CROWN        718.2M                          
+    104/04-12-075-25W4/00  N  325.4M  E  465.5M    ST. ALBERT           2700.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 03-13-075-25W4                  
+                                                                                                        
+    HHR 103 HZ KARR 13-18-66-3           0498561   ALBERTA CROWN        747.8M                          
+    103/13-18-066-03W6/00  S   42.9M  E  147.6M    GRANDE PRAIRIE       4500.0M                         
+    DEV (NC)                             KARR                           MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    HAMMERHEAD RESOURCES INC.                                           13-07-066-03W6                  
+                                                                                                        
+    7GEN HZ KARR 13-8-65-5               0498562   ALBERTA CROWN        832.5M                          
+    100/13-08-065-05W6/00  S  583.7M  W  304.0M    GRANDE PRAIRIE       6300.0M                         
+    DEV (C)                              KARR                           MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       09-04-065-05W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CRESTWYND HZ MEANOOK 14-30-63-21      0498087    UWI:                                               
+    S0/14-30-063-21W4/2                              00/07-30-063-21W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND HZ MEANOOK 7-30-63-21                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    CRESTWYND HZ MEANOOK 15-19-63-21      0498088    UWI:                                               
+    S0/16-18-063-21W4/9                              00/02-19-063-21W4/9                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND MEANOOK 2-19-63-21                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL 13B DEVENISH 13-12-76-8          0491378                                                       
+    1AB/13-12-076-08W4/00                                                                               
+
+    CNRL 8A DEVENISH 8-35-75-8            0491379                                                       
+    1AA/08-35-075-08W4/00                                                                               
+
+    CNRL 9A DEVENISH 9-35-75-8            0491380                                                       
+    1AB/09-35-075-08W4/00                                                                               
+
+    CNRL 3A DEVENISH 3-2-76-8             0491381                                                       
+    1AA/03-02-076-08W4/00                                                                               
+
+    CNRL 10A DEVENISH 10-35-75-8          0491382                                                       
+    1AA/10-35-075-08W4/00                                                                               
+
+    CNRL 9D DEVENISH 9-1-76-8             0491383                                                       
+    1AA/09-01-076-08W4/00                                                                               
+
+    CNRL 5D DEVENISH 5-1-76-8             0491384                                                       
+    1AB/05-01-076-08W4/00                                                                               
+
+    CNRL 9D DEVENISH 9-2-76-8             0491385                                                       
+    1AB/09-02-076-08W4/00                                                                               
+
+    CNRL 15D DEVENISH 15-35-75-8          0491386                                                       
+    1AC/15-35-075-08W4/00                                                                               
+
+    CNRL 6A DEVENISH 6-11-76-8            0491387                                                       
+    1AA/06-11-076-08W4/00                                                                               
+
+    CNRL 13D DEVENISH 13-2-76-8           0491388                                                       
+    1AA/13-02-076-08W4/00                                                                               
+
+    CNRL 9A DEVENISH 9-11-76-8            0491389                                                       
+    1AB/09-11-076-08W4/00                                                                               
+
+    CNRL 15B DEVENISH 15-11-76-8          0491390                                                       
+    1AA/15-11-076-08W4/00                                                                               
+
+    CNRL 15D DEVENISH 15-1-76-8           0491391                                                       
+    1AB/15-01-076-08W4/00                                                                               
+
+    CNRL 14B DEVENISH 14-1-76-8           0491392                                                       
+    1AB/14-01-076-08W4/00                                                                               
+
+    CNRL 3B DEVENISH 3-12-76-8            0491393                                                       
+    1AB/03-12-076-08W4/00                                                                               
+
+    CNRL 11B DEVENISH 11-12-76-8          0491394                                                       
+    1AB/11-12-076-08W4/00                                                                               
+
+    CNRL 7D DEVENISH 7-12-76-8            0491395                                                       
+    1AB/07-12-076-08W4/00                                                                               
+
+    CNRL 16D DEVENISH 16-1-76-8           0491396                                                       
+    1AA/16-01-076-08W4/00                                                                               
+
+    CNRL 8A DEVENISH 8-12-76-8            0491397                                                       
+    1AA/08-12-076-08W4/00                                                                               
+
+    CNRL 15D DEVENISH 15-12-76-8          0491398                                                       
+    1AB/15-12-076-08W4/00                                                                               
+
+    CNRL 16B DEVENISH 16-12-76-8          0491399                                                       
+    1AA/16-12-076-08W4/00                                                                               
+
+    CNRL 1A DEVENISH 1-13-76-8            0491400                                                       
+    1AA/01-13-076-08W4/00                                                                               
+
+    CNRL 2C DEVENISH 2-13-76-8            0491401                                                       
+    1AB/02-13-076-08W4/00                                                                               
+
+    CNRL 4C DEVENISH 4-13-76-8            0491402                                                       
+    1AB/04-13-076-08W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

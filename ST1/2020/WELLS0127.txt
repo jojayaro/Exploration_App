@@ -1,0 +1,181 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 27 January 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    TAC 6-35 HZ 107 PROVOST 13-36-34-8   0497541   ALBERTA CROWN        774.1M                          
+    107/13-36-034-08W4/00  N  635.9M  E  689.0M    WAINWRIGHT           2339.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          06-35-034-08W4                  
+                                                                                                        
+    TAC 6-35 HZ 103 PROVOST 10-27-34-8   0497542   ALBERTA CROWN        773.8M                          
+    103/10-27-034-08W4/00  N  635.9M  E  636.0M    WAINWRIGHT           2681.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          06-35-034-08W4                  
+                                                                                                        
+    CVE 13-24 HZ MARTENH 5-26-74-25      0497543   ALBERTA CROWN        684.3M                          
+    100/05-26-074-25W4/00  S    3.2M  E  310.3M    ST. ALBERT           2685.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 13-24-074-25W4                  
+                                                                                                        
+    SCL HZ FC7B MCKINLEY 2-17-64-22      0497544   ALBERTA CROWN        844.2M                          
+    100/02-17-064-22W5/00  N  272.7M  E   99.0M    ST. ALBERT           6304.0M                         
+    DEV (C)                              MCKINLEY                       DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHELL CANADA LIMITED                                                04-19-064-22W5                  
+                                                                                                        
+    SCL HZ FC7C MCKINLEY 4-17-64-22      0497545   ALBERTA CROWN        843.7M                          
+    100/04-17-064-22W5/00  N  272.9M  E   94.1M    ST. ALBERT           7305.0M                         
+    DEV (C)                              MCKINLEY                       DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHELL CANADA LIMITED                                                04-19-064-22W5                  
+                                                                                                        
+    SCL HZ FC7D WAHIGAN 16-26-64-23      0497546   ALBERTA CROWN        843.2M                          
+    100/16-26-064-23W5/00  N  273.1M  E   89.1M    ST. ALBERT           6140.0M                         
+    DEV (C)                              WASKAHIGAN                     DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHELL CANADA LIMITED                                                04-19-064-22W5                  
+                                                                                                        
+    SCL HZ FC7E WAHIGAN 14-26-64-23      0497547   ALBERTA CROWN        842.2M                          
+    100/14-26-064-23W5/00  N  273.3M  E   84.2M    ST. ALBERT           5723.0M                         
+    DEV (C)                              WASKAHIGAN                     DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHELL CANADA LIMITED                                                04-19-064-22W5                  
+                                                                                                        
+    SCL HZ FC7F MCKINLEY 2-18-64-22      0497548   ALBERTA CROWN        842.5M                          
+    100/02-18-064-22W5/00  N  273.5M  E   79.3M    ST. ALBERT           5613.0M                         
+    DEV (C)                              MCKINLEY                       DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHELL CANADA LIMITED                                                04-19-064-22W5                  
+                                                                                                        
+    SCL HZ FC696A ANTEN 12-9-65-23       0497549   ALBERTA CROWN        872.6M                          
+    100/12-09-065-23W5/00  S  736.6M  E  241.1M    GRANDE PRAIRIE       8477.0M                         
+    DEV (C)                              ANTE CREEK NORTH               DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHELL CANADA LIMITED                                                12-26-064-23W5                  
+                                                                                                        
+    SCL HZ FC696B WAHIGAN 1-13-64-23     0497550   ALBERTA CROWN        872.6M                          
+    100/01-13-064-23W5/00  S  745.4M  E  236.6M    GRANDE PRAIRIE       7929.0M                         
+    DEV (C)                              WASKAHIGAN                     DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHELL CANADA LIMITED                                                12-26-064-23W5                  
+                                                                                                        
+    SCL HZ FC696C WAHIGAN 3-13-64-23     0497551   ALBERTA CROWN        872.6M                          
+    100/03-13-064-23W5/00  S  754.1M  E  232.0M    GRANDE PRAIRIE       7945.0M                         
+    DEV (C)                              WASKAHIGAN                     DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SHELL CANADA LIMITED                                                12-26-064-23W5                  
+                                                                                                        
+    NEP HZ LEDUC-WB 16-34-48-25          0497552   BOTH                 744.6M                          
+    100/16-34-048-25W4/00  N   81.0M  W   95.0M    ST. ALBERT           4900.0M                         
+    DEV (C)                              LEDUC-WOODBEND                 NISKU FM                        
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    NEP CANADA ULC                                                      01-05-049-25W4                  
+                                                                                                        
+    BEC HZ WILLGR 14-35-39-6             0497553   BOTH                 967M                            
+    100/14-35-039-06W5/00  N  517.9M  E  523.0M    RED DEER             4909.0M                         
+    DEV (NC)                             WILLESDEN GREEN                GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BONAVISTA ENERGY CORPORATION                                        06-26-039-06W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    VESTA GILBY 8-32-39-28                0488503    UWI:                                               
+    00/08-32-039-28W4/2                              02/03-20-039-28W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     VESTA CYGNET 3-20-39-28                            
+
+    CVE 9-22 MARTENH 9-23-74-26           0495275    UWI:                                               
+    00/09-23-074-26W4/3                              00/11-23-074-26W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     CVE 9-22 MARTENH 11-23-74-26                       
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    DELTASTREAM HZ MARTENH 2-10-75-25     0495344    UWI:                                               
+    02/02-10-075-25W4/2                              00/01-10-075-25W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     DELTASTREAM HZ MARTENH 1-10-75-25                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    VEI HZ CARROT 14-26-52-13             0495962    UWI:                                               
+    02/14-26-052-13W5/0                              00/12-26-052-13W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     VEI HZ CARROT 12-26-52-13                          
+
+    WESTBRICK 102 HZ WILLGR 9-2-45-9      0496173    UWI:                                               
+    02/09-02-045-09W5/0                              02/10-02-045-09W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     WESTBRICK 102 HZ WILLGR 10-2-45-9                  
+
+    CLC HANGSTN 1-20-82-11                0496748    GROUND ELEVATION                                   
+    1AB/01-20-082-11W4/00                            725.6                                              
+
+    INCEPTION EXP HZ ELM 9-20-69-5        0497025    WELL NAME:                                         
+    102/09-20-069-05W6/00                            INCEPTION EXP 102 HZ ELM                           
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0506.3 E 0323.6                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.60                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM MONTNEY FM                          
+
+    INCEPTION EXP HZ ELM 8-20-69-5        0497026    GROUND ELEVATION                                   
+    100/08-20-069-05W6/00                            669.3                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0514.9 E 0340.3                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.60                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM MONTNEY FM                          
+
+    LONGSHORE HZ PROGRESS 1-13-77-10      0497229    GROUND ELEVATION                                   
+    100/01-13-077-10W6/00                            798.7                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0092.4 E 0672.1                                  
+
+    LONGSHORE 102 HZ PROGRESS 1-13-77-10  0497230    GROUND ELEVATION                                   
+    102/01-13-077-10W6/00                            798.8                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0092.3 E 0687.1                                  
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

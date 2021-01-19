@@ -1,0 +1,82 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 11 February 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CARDINAL 102 MHZ ALDSON 1-24-17-11   0497686   FREEHOLD             749.6M                          
+    102/01-24-017-11W4/00  N  350.0M  W  350.0M    MEDICINE HAT         2731.0M                         
+    DEV (NC)                             ALDERSON                       ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CARDINAL ENERGY LTD.                                                01-25-017-11W4                  
+                                                                                                        
+    CARDINAL 102 HZ SUFFIELD 3-22-20-8   0497687   ALBERTA CROWN        734.9M                          
+    100/03-22-020-08W4/00  N  202.4M  E  528.9M    MEDICINE HAT         2600.0M                         
+    DEV (NC)                             SUFFIELD                       ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CARDINAL ENERGY LTD.                                                03-23-020-08W4                  
+                                                                                                        
+    VEI HZ PEMBINA 13-8-51-12            0497688   ALBERTA CROWN        970M                            
+    102/13-08-051-12W5/00  S  258.2M  E  106.7M    DRAYTON VALLEY       3937.0M                         
+    DEV (C)                              PEMBINA                        NORDEGG MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VERMILION ENERGY INC.                                               13-09-051-12W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    TOURMALINE HZ02 MINEHEAD 14-29-49-19  0495345    UWI:                                               
+    02/14-29-049-19W5/0                              02/06-05-050-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ ANSELL 6-5-50-19                     
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    SCL HZ FC6B KAYBOBS 12-35-62-20       0488027                                                       
+    100/12-35-062-20W5/00                                                                               
+
+    SCL HZ FC6C KAYBOBS 5-35-62-20        0488028                                                       
+    100/05-35-062-20W5/00                                                                               
+
+    TOURMALINE HZ MULLIGAN 14-26-82-8     0488030                                                       
+    100/14-26-082-08W6/00                                                                               
+
+    TOURMALINE HZ MULLIGAN 11-26-82-8     0488032                                                       
+    100/11-26-082-08W6/00                                                                               
+
+    TOURMALINE HZ CECIL 9-4-83-8          0488033                                                       
+    100/09-04-083-08W6/00                                                                               
+
+    TOURMALINE HZ CECIL 8-4-83-8          0488034                                                       
+    100/08-04-083-08W6/00                                                                               
+
+    HUSKY LLOYD 16-9-49-2                 0493707                                                       
+    100/16-09-049-02W4/00                                                                               
+
+    TAC 12-33 HZ PEMBINA 2-36-44-6        0493714                                                       
+    100/02-36-044-06W5/00                                                                               
+
+    OAN RESOURCES PANNY 13-26-95-5        0493719                                                       
+    100/13-26-095-05W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

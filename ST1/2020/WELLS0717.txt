@@ -1,0 +1,97 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 17 July 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    TOURMALINE HZ PECO 16-26-46-16       0498173   ALBERTA CROWN        1181.7M                         
+    100/16-26-046-16W5/00  N   61.1M  W   34.2M    DRAYTON VALLEY       5135.0M                         
+    DEV (NC)                             PECO                           VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                01-25-046-16W5                  
+                                                                                                        
+    TOURMALINE HZ PECO 2-36-46-16        0498174   ALBERTA CROWN        1181.7M                         
+    100/02-36-046-16W5/00  N   65.3M  W   31.6M    DRAYTON VALLEY       4852.0M                         
+    DEV (NC)                             PECO                           VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                01-25-046-16W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    7GEN HZ KAKWA 12-10-65-7              0493981    UWI:                                               
+    00/12-10-065-07W6/0                              00/11-02-065-07W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 11-2-65-7                            
+
+    SCL HZ FC781B KAYBOB 1-24-63-18       0495234    UWI:                                               
+    00/01-24-063-18W5/0                              00/01-24-063-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     SCL HZ FC781B KAYBOB 1-24-63-19                    
+
+    HIGHWOOD NIPISI 16-25-76-7            0496203    UWI:                                               
+    00/16-25-076-07W5/8                              03/15-25-076-07W5/8                                
+
+                                                     WELL NAME:                                         
+                                                     HIGHWOOD NIPISI 15-25-76-7                         
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    PIPE HZ DIMSD 4-17-71-7               0497563    SURFACE CO-ORDINATES:                              
+    102/04-17-071-07W6/00                            N 0654.5 E 0645.4                                  
+
+    PIPE 102 DIMSD 4-17-71-7              0497565    SURFACE CO-ORDINATES:                              
+    100/04-17-071-07W6/00                            N 0654.5 E 0665.4                                  
+
+    OVV HZ 102 WEMBLEY 13-26-71-9         0498030    UWI:                                               
+    02/13-26-071-09W6/0                              05/04-35-071-09W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     OVV HZ 102 WEMBLEY 4-35-71-9                       
+
+    OVV HZ 103 WEMBLEY 13-26-71-9         0498032    UWI:                                               
+    03/13-26-071-09W6/0                              00/12-26-071-09W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     OVV HZ 103 WEMBLEY 12-26-71-9                      
+
+    TOURMALINE HZ EDSON 14-33-51-16       0498147    WELL NAME:                                         
+    102/14-33-051-16W5/00                            TOURMALINE 102 HZ EDSON 1                          
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0189.0 W 0150.7                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+    TOURMALINE HZ EDSON 8-23-51-16        0498148    WELL NAME:                                         
+    102/08-23-051-16W5/00                            TOURMALINE 102 HZ EDSON 8                          
+
+                                                     GROUND ELEVATION                                   
+                                                     986.3                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0192.7 W 0147.4                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,20 @@
+Report Number: ST-49                                                                             Alberta Energy Regulator                                                                                      Page 1 of 1
+Run Date: 24 Sep 2020                                                                          DAILY DRILLING ACTIVITY LIST                                                                                               
+                                                                                  For the Notification Period 23 Sep 2020 To 24 Sep 2020                                                                                  
+
+      WELL ID                    WELL NAME              LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                                 BA ID               NAME              NUMBER                                                                                     TOTAL DEPTH     TYPE    
+------------------- ----------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------------------- ------------- -----------
+02/04-21-043-13W5/0 BIRCHILL BRAZR 4-21-43-13            0498418 A0KC   Horizon Drilling Inc.              43 23 Sep 2020 04:00:00 PM Drayton Valley A6WF  Birchill Canada Corp.                               Drill To LD
+00/14-01-054-19W5/0 PEYTO EDSON 14-1-54-19               0498274 0Z41   Ensign Drilling Inc.             T401 23 Sep 2020 07:45:00 PM Drayton Valley 0YA2  Peyto Exploration & Development Corp.               Drill To LD
+02/16-14-057-18W4/0 SPL 15-11 HZ 102 UKALTA 16-14-57-18  0498308 0Y52   Precision Drilling Corporation    147 23 Sep 2020 09:15:00 PM St. Albert     A7GR  Spur Petroleum Ltd.                                 Resumption 
+00/14-01-075-25W4/0 DELTASTREAM MARTENH 14-1-75-25       0497321 A0KC   Horizon Drilling Inc.              14 23 Sep 2020 05:00:00 PM St. Albert     A6YA  Deltastream Energy Corporation                      Resumption 
+
+                                                                        TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 2                                                                         
+                                                                        TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                         
+                                                                        TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 2                                                                         
+                                                                        TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 0                                                                         
+
+                                                                                             TOTAL NUMBER OF WELLS LISTED = 4                                                                                             
+                                                                                                  *** END OF REPORT ***                                                                                                   
+

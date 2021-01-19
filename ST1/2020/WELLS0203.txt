@@ -1,0 +1,133 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 03 February 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    WHITECAP HZ FERRIER 8-8-38-7         0497601   FREEHOLD             1025.3M                         
+    102/08-08-038-07W5/00  N   69.5M  W  654.9M    RED DEER             3280.0M                         
+    DEV (NC)                             FERRIER                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WHITECAP RESOURCES INC.                                             02-08-038-07W5                  
+                                                                                                        
+    HUSKY OB-216 STEEPBK 6-20-95-7       0497602   ALBERTA CROWN        441.4M                          
+    100/06-20-095-07W4/00  N  444.9M  E  792.3M    BONNYVILLE           206.0M                          
+    DSW (C)                              UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    HUSKY OIL OPERATIONS LIMITED                                        06-20-095-07W4                  
+                                                                                                        
+    PEYTO SUNDANCE 13-7-55-20            0497603   ALBERTA CROWN        1143.8M                         
+    102/13-07-055-20W5/00  N   10.0M  W  281.5M    DRAYTON VALLEY       4730.0M                         
+    DEV (NC)                             SUNDANCE                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               01-14-055-21W5                  
+                                                                                                        
+    HUSKY OB-220 STEEPBK 5-2-95-7        0497604   ALBERTA CROWN        520.5M                          
+    100/05-02-095-07W4/00  N  631.4M  E  373.9M    BONNYVILLE           271.0M                          
+    DSW (C)                              UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    HUSKY OIL OPERATIONS LIMITED                                        05-02-095-07W4                  
+                                                                                                        
+    TXNE 13D-9 HZ COUNTESS 8-5-22-17     0497605   FREEHOLD             772.6M                          
+    102/08-05-022-17W4/00  S  128.4M  E  368.5M    MIDNAPORE            3665.0M                         
+    DEV (NC)                             COUNTESS                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  13-09-022-17W4                  
+                                                                                                        
+    PERSIST OIL 102 HZ WAYNE 12-27-28-21 0497606   FREEHOLD             836.5M                          
+    102/12-27-028-21W4/00  S  481.1M  E   83.8M    MIDNAPORE            3152.0M                         
+    DEV (NC)                             WAYNE-ROSEDALE                 BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PERSIST OIL AND GAS INC.                                            12-34-028-21W4                  
+                                                                                                        
+    TXNE 14C-9 HZ COUNTESS 8-5-22-17     0497607   FREEHOLD             772.6M                          
+    103/08-05-022-17W4/00  S  123.6M  E  408.2M    MIDNAPORE            3750.0M                         
+    DEV (NC)                             COUNTESS                       GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  14-09-022-17W4                  
+                                                                                                        
+    TXNE 13D-9 HZ COUNTESS 12-8-22-17    0497608   FREEHOLD             772.8M                          
+    102/12-08-022-17W4/00  S  132.0M  E  338.7M    MIDNAPORE            2900.0M                         
+    DEV (NC)                             COUNTESS                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  13-09-022-17W4                  
+                                                                                                        
+    COR4 105 MHZ JENNER 5-4-21-8         0497609   ALBERTA CROWN        764.4M                          
+    105/05-04-021-08W4/00  S   63.5M  E  148.3M    MEDICINE HAT         1929.0M                         
+    DEV (C)                              JENNER                         LOWER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    COR4 OIL CORP.                                                      13-04-021-08W4                  
+                                                                                                        
+    ANEGADA HZ 2A WEMBLEY 2-5-72-8       0497610   ALBERTA CROWN        792.3M                          
+    100/02-05-072-08W6/00  S  558.8M  W  319.3M    GRANDE PRAIRIE       6730.0M                         
+    DEV (C)                              WEMBLEY                        CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ANEGADA OIL CORP.                                                   09-17-072-08W6                  
+                                                                                                        
+    TXNE 11B-20 HZ ENCHANT 2-24-15-16    0497611   FREEHOLD             761.4M                          
+    100/02-24-015-16W4/00  S  743.7M  E  463.4M    MEDICINE HAT         3920.0M                         
+    DEV (NC)                             ENCHANT                        BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  11-20-015-15W4                  
+                                                                                                        
+    ANEGADA HZ 8A VALHALLA 8-21-76-7     0497612   ALBERTA CROWN        778.7M                          
+    100/08-21-076-07W6/00  N  415.0M  W  149.7M    GRANDE PRAIRIE       3550.0M                         
+    DEV (C)                              VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ANEGADA OIL CORP.                                                   08-20-076-07W6                  
+                                                                                                        
+    ANEGADA HZ 1A VALHALLA 1-21-76-7     0497613   ALBERTA CROWN        778.8M                          
+    100/01-21-076-07W6/00  N  400.0M  W  149.7M    GRANDE PRAIRIE       3550.0M                         
+    DEV (C)                              VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ANEGADA OIL CORP.                                                   01-20-076-07W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    IPCCAN 8D-10HZ SUFFIELD 3-10-20-7     0495073    UWI:                                               
+    06/03-10-020-07W4/0                              03/02-10-020-07W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     IPCCAN 8D-10HZ SUFFIELD 2-10-20-7                  
+
+    SPL 4-28 HZ MARTENH 4-28-73-24        0495968    UWI:                                               
+    00/04-21-073-24W4/5                              00/01-20-073-24W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 4-28 HZ SMITH 1-20-73-24                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 4-28 HZ SMITH 4-21-73-24          0495968    UWI:                                               
+    00/04-21-073-24W4/4                              00/01-20-073-24W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 4-28 HZ SMITH 1-20-73-24                       
+
+    WLEC 11HZ 4B6 PROVOST 6-27-40-2       0497528    PROJECTED DEPTH:                                   
+    102/06-27-040-02W4/00                            2000.00                                            
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GENERAL PETROLEUM MBR               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

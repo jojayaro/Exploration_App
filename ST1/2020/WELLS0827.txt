@@ -1,0 +1,361 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 27 August 2020                                                                                
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    IMP F04-02ST COLD LK 8-18-65-3       0210783   ALBERTA CROWN        597.9M                          
+    109/08-18-065-03W4/02  S  685.7M  W   52.5M    BONNYVILLE           615.0M                          
+    DEV (NC)                             UNDEFINED                      CLEARWATER FM                   
+    DIRECTIONAL                          RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      09-18-065-03W4                  
+                                                                                                        
+    IMP F04-08ST COLD LK 8-18-65-3       0210792   ALBERTA CROWN        598.1M                          
+    107/08-18-065-03W4/02  S  705.1M  W   47.7M    BONNYVILLE           556.0M                          
+    DEV (NC)                             UNDEFINED                      CLEARWATER FM                   
+    DIRECTIONAL                          RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      09-18-065-03W4                  
+                                                                                                        
+    IMP COLD LK 5-17-65-3                0210813   ALBERTA CROWN        597.9M                          
+    102/05-17-065-03W4/02  S  658.8M  W   28.4M    BONNYVILLE           688.0M                          
+    DEV (NC)                             ETHEL LAKE                     CLEARWATER FM                   
+    DIRECTIONAL                          RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      09-18-065-03W4                  
+                                                                                                        
+    IMP G01-15ST COLD LK 9-8-65-3        0221373   ALBERTA CROWN        601.4M                          
+    109/09-08-065-03W4/02  S  709.7M  W   57.7M    BONNYVILLE           502.0M                          
+    DEV (NC)                             ETHEL LAKE                     CLEARWATER FM                   
+    DIRECTIONAL                          RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      09-08-065-03W4                  
+                                                                                                        
+    IMP G01-32ST COLD LK 12-9-65-3       0221394   ALBERTA CROWN        601.3M                          
+    108/12-09-065-03W4/02  S  645.6M  E    1.0M    BONNYVILLE           626.0M                          
+    DEV (NC)                             ETHEL LAKE                     CLEARWATER FM                   
+    DIRECTIONAL                          RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      12-09-065-03W4                  
+                                                                                                        
+    IMP G02-31ST COLD LK 14-9-65-3       0222286   ALBERTA CROWN        600.7M                          
+    100/14-09-065-03W4/02  N    2.8M  E  400.8M    BONNYVILLE           593.4M                        
+    DEV (NC)                             ETHEL LAKE                     CLEARWATER FM                   
+    DIRECTIONAL                          RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      04-16-065-03W4                  
+                                                                                                        
+    IMP G02-24ST COLD LK 13-9-65-3       0222380   ALBERTA CROWN        600.8M                          
+    109/13-09-065-03W4/02  N   15.7M  E  393.5M    BONNYVILLE           560.9M                        
+    DEV (NC)                             ETHEL LAKE                     CLEARWATER FM                   
+    DIRECTIONAL                          RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      04-16-065-03W4                  
+                                                                                                        
+    SPL 15-11 HZ UKALTA 16-14-57-18      0498308   ALBERTA CROWN        632.1M                          
+    102/16-14-057-18W4/00  S   92.0M  W  620.3M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             UKALTA                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SPUR PETROLEUM LTD.                                                 15-11-057-18W4                  
+                                                                                                        
+    SPL 15-11 HZ 102 UKALTA 15-14-57-18  0498309   ALBERTA CROWN        632M                            
+    102/15-14-057-18W4/00  S   92.0M  W  630.3M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             UKALTA                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SPUR PETROLEUM LTD.                                                 15-11-057-18W4                  
+                                                                                                        
+    SPL 15-11 HZ UKALTA 14-14-57-18      0498310   ALBERTA CROWN        632M                            
+    100/14-14-057-18W4/00  S  102.0M  W  630.4M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             UKALTA                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SPUR PETROLEUM LTD.                                                 15-11-057-18W4                  
+                                                                                                        
+    SPL 15-11 HZ UKALTA 2-11-57-18       0498311   ALBERTA CROWN        632.1M                          
+    102/02-11-057-18W4/00  S  102.0M  W  620.4M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             UKALTA                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SPUR PETROLEUM LTD.                                                 15-11-057-18W4                  
+                                                                                                        
+    YANGARRA HZ CAROL 1-29-36-7          0498312   ALBERTA CROWN        1092.7M                         
+    100/01-29-036-07W5/00  N  198.5M  W  498.2M    RED DEER             5636.0M                         
+    DEV (NC)                             CAROLINE                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    YANGARRA RESOURCES CORP.                                            02-05-037-07W5                  
+                                                                                                        
+    YANGARRA 102 HZ CAROL 1-29-36-7      0498313   ALBERTA CROWN        1091.2M                         
+    102/01-29-036-07W5/00  N  246.1M  W  529.7M    RED DEER             5635.0M                         
+    DEV (NC)                             CAROLINE                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    YANGARRA RESOURCES CORP.                                            02-05-037-07W5                  
+                                                                                                        
+    DELTASTREAM MARTENH 13-14-74-25      0498314   ALBERTA CROWN        695.5M                          
+    100/13-14-074-25W4/00  N   30.0M  E  385.0M    ST. ALBERT           2800.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      04-14-074-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 4-11-74-25       0498315   ALBERTA CROWN        695.2M                          
+    100/04-11-074-25W4/00  N   30.0M  E  395.0M    ST. ALBERT           2800.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      04-14-074-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 4-11-74-25       0498316   ALBERTA CROWN        694.5M                          
+    102/04-11-074-25W4/00  N   30.0M  E  405.0M    ST. ALBERT           2800.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      03-14-074-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 13-14-74-25      0498317   ALBERTA CROWN        694.6M                          
+    102/13-14-074-25W4/00  N   30.0M  E  415.0M    ST. ALBERT           2800.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      03-14-074-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 14-14-74-25      0498318   ALBERTA CROWN        694.8M                          
+    100/14-14-074-25W4/00  N   30.0M  E  425.0M    ST. ALBERT           2800.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      03-14-074-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 14-14-74-25      0498319   ALBERTA CROWN        695.5M                          
+    102/14-14-074-25W4/00  N   30.0M  E  435.0M    ST. ALBERT           2800.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      03-14-074-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 3-11-74-25       0498320   ALBERTA CROWN        694.6M                          
+    100/03-11-074-25W4/00  N   30.0M  E  445.0M    ST. ALBERT           2800.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      03-14-074-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 3-11-74-25       0498321   ALBERTA CROWN        694.6M                          
+    102/03-11-074-25W4/00  N   30.0M  E  455.0M    ST. ALBERT           2800.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      03-14-074-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 2-11-74-25       0498322   ALBERTA CROWN        694.8M                          
+    103/02-11-074-25W4/00  N   30.0M  E  465.0M    ST. ALBERT           2800.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      03-14-074-25W4                  
+                                                                                                        
+    DELTASTREAM MARTENH 15-14-74-25      0498323   ALBERTA CROWN        694M                            
+    104/15-14-074-25W4/00  N   30.0M  E  475.0M    ST. ALBERT           2800.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    DELTASTREAM ENERGY CORPORATION                                      03-14-074-25W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CHEVRON HZ FOXCK 1-16-62-19           0489388    UWI:                                               
+    00/01-16-062-19W5/0                              03/04-15-062-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     CHEVRON HZ FOXCK 4-15-62-19                        
+
+    OVV HZ 103 WEMBLEY 12-15-72-9         0490073    UWI:                                               
+    03/12-15-072-09W6/0                              06/13-15-072-09W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     OVV HZ 103 WEMBLEY 13-15-72-9                      
+
+    OVV HZ 105 WEMBLEY 13-15-72-9         0497747    UWI:                                               
+    05/13-15-072-09W6/0                              05/12-15-072-09W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     OVV HZ 105 WEMBLEY 12-15-72-9                      
+
+    PEYTO LAWRNC 4-21-42-12               0498050    UWI:                                               
+    00/04-21-042-12W5/2                              00/06-21-042-12W5/2                                
+
+                                                     WELL NAME:                                         
+                                                     PEYTO LAWRNC 6-21-42-12                            
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM CARDIUM FM                                
+
+    IMP H87-H07 LEMING 4-10-66-4          0498075    UWI:                                               
+    08/04-10-066-04W4/0                              11/10-03-066-04W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     IMP H87-H07 COLD LK 10-3-66-4                      
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.05                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    IMP H87-H09 LEMING 11-3-66-4          0498077    UWI:                                               
+    11/11-03-066-04W4/0                              12/10-03-066-04W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     IMP H87-H09 COLD LK 10-3-66-4                      
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.05                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    7GEN HZ KAKWA 12-28-62-4              0498193    GROUND ELEVATION                                   
+    100/12-28-062-04W6/00                            1053.8                                             
+
+                                                     PROJECTED DEPTH:                                   
+                                                     6600.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0456.4 W 0164.2                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    7GEN HZ 102 KAKWA 12-28-62-4          0498194    GROUND ELEVATION                                   
+    102/12-28-062-04W6/00                            1054.1                                             
+
+                                                     PROJECTED DEPTH:                                   
+                                                     6600.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0450.2 W 0155.2                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    7GEN HZ KAKWA 11-28-62-4              0498195    GROUND ELEVATION                                   
+    100/11-28-062-04W6/00                            1054.3                                             
+
+                                                     PROJECTED DEPTH:                                   
+                                                     7200.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0443.9 W 0146.1                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    7GEN HZ 102 KAKWA 11-28-62-4          0498196    GROUND ELEVATION                                   
+    102/11-28-062-04W6/00                            1054.4                                             
+
+                                                     PROJECTED DEPTH:                                   
+                                                     7000.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0437.7 W 0137.1                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    7GEN HZ 103 KAKWA 11-28-62-4          0498197    GROUND ELEVATION                                   
+    103/11-28-062-04W6/00                            1054.0                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0497.6 W 0135.8                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    7GEN HZ 102 KAKWA 10-28-62-4          0498198    GROUND ELEVATION                                   
+    102/10-28-062-04W6/00                            1054.2                                             
+
+                                                     PROJECTED DEPTH:                                   
+                                                     6800.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0491.3 W 0126.8                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    7GEN HZ 103 KAKWA 10-28-62-4          0498199    GROUND ELEVATION                                   
+    103/10-28-062-04W6/00                            1054.3                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0485.1 W 0117.7                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    7GEN HZ 104 KAKWA 10-28-62-4          0498200    GROUND ELEVATION                                   
+    104/10-28-062-04W6/00                            1054.5                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0478.8 W 0108.7                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    7GEN HZ KAKWA 9-28-62-4               0498201    SURFACE CO-ORDINATES:                              
+    100/09-28-062-04W6/00                            N 0533.1 W 0099.2                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    7GEN HZ KAKWA 16-28-62-4              0498202    SURFACE CO-ORDINATES:                              
+    100/16-28-062-04W6/00                            N 0526.8 W 0090.1                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    7GEN HZ 102 KAKWA 16-28-62-4          0498203    SURFACE CO-ORDINATES:                              
+    102/16-28-062-04W6/00                            N 0520.6 W 0081.1                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    7GEN HZ 103 KAKWA 16-28-62-4          0498204    SURFACE CO-ORDINATES:                              
+    103/16-28-062-04W6/00                            N 0514.3 W 0072.0                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

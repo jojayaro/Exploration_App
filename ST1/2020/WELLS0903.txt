@@ -1,0 +1,100 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 03 September 2020                                                                             
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SUNCOR 750P1B DOVER 15-7-93-12       0453579   ALBERTA CROWN        431.1M                          
+    118/15-07-093-12W4/02  S   78.3M  W  452.7M    BONNYVILLE           1404.8M                       
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  15-06-093-12W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    TOURMALINE HZ05 SUNDANCE 16-14-54-23  0495389    UWI:                                               
+    05/16-14-054-23W5/0                              04/01-23-054-23W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ05 SUNDANCE 1-23-54-23                
+
+    7GEN HZ 102 KAKWA 13-4-63-5           0496211    UWI:                                               
+    02/13-04-063-05W6/0                              02/12-04-063-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 102 KAKWA 12-4-63-5                        
+
+    TOURMALINE HZ PLUTO 2-36-43-15        0496235    UWI:                                               
+    00/02-36-043-15W5/0                              00/04-01-044-15W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ COLUMBIA 4-1-44-15                   
+
+    PIPE 103 HZ ELM 4-14-71-8             0497193    UWI:                                               
+    03/04-14-071-08W6/0                              02/05-14-071-08W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     PIPE 102 HZ ELM 5-14-71-8                          
+
+                                                     GROUND ELEVATION                                   
+                                                     692.0                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5299.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0130.0 E 0714.4                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.33                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    WESTBRICK HZ PEMBINA 14-18-45-11      0498153    UWI:                                               
+    00/14-18-045-11W5/0                              02/02-18-045-11W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     WESTBRICK HZ PEMBINA 2-18-45-11                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM UPPER MANNVILLE FM                        
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL 4B BEAVRDM 4-1-59-3              0490735                                                       
+    100/04-01-059-03W4/00                                                                               
+
+    CNRL 1B BEAVRDM 1-2-59-3              0490736                                                       
+    100/01-02-059-03W4/00                                                                               
+
+    CNRL 2B BEAVRDM 2-2-59-3              0490737                                                       
+    100/02-02-059-03W4/00                                                                               
+
+    CNRL 8A BEAVRDM 8-2-59-3              0490738                                                       
+    100/08-02-059-03W4/00                                                                               
+
+    CARDINAL 102 DD ALDSON 14-11-18-11    0495588                                                       
+    102/14-11-018-11W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

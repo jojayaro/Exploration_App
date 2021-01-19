@@ -1,0 +1,334 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 14 February 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    HHR ELM 16-12-68-4                   0497722   ALBERTA CROWN        711.1M                          
+    100/16-12-068-04W6/00  S  673.0M  E  716.6M    GRANDE PRAIRIE       2792.0M                         
+    DSW (C)                              ELMWORTH                       BELLOY FM                       
+    DIRECTIONAL                          NEW       INJECTION            WATER                           
+    HAMMERHEAD RESOURCES INC.                                           11-12-068-04W6                  
+                                                                                                        
+    TOURMALINE HZ SUNDANCE 16-18-55-22   0497723   ALBERTA CROWN        1105.2M                         
+    100/16-18-055-22W5/00  N  231.1M  E  265.1M    DRAYTON VALLEY       4400.0M                         
+    DEV (NC)                             SUNDANCE                       SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                04-19-055-22W5                  
+                                                                                                        
+    TOURMALINE HZ SUNDANCE 4-24-55-23    0497724   ALBERTA CROWN        1104.4M                         
+    100/04-24-055-23W5/00  N  218.5M  E  257.6M    DRAYTON VALLEY       4700.0M                         
+    DEV (NC)                             SUNDANCE                       SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                04-19-055-22W5                  
+                                                                                                        
+    TOURMALINE HZ SUNDANCE 12-24-55-23   0497725   ALBERTA CROWN        1104.7M                         
+    100/12-24-055-23W5/00  N  222.7M  E  260.1M    DRAYTON VALLEY       4800.0M                         
+    DEV (NC)                             SUNDANCE                       SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                04-19-055-22W5                  
+                                                                                                        
+    TOURMALINE 102 SUNDANCE 3-20-55-22   0497726   ALBERTA CROWN        1104.9M                         
+    102/03-20-055-22W5/00  N  226.9M  E  262.6M    DRAYTON VALLEY       5300.0M                         
+    DEV (NC)                             SUNDANCE                       SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                04-19-055-22W5                  
+                                                                                                        
+    JACOS HANGSTN 16-1-84-11             0497727   ALBERTA CROWN        650.4M                          
+    1AC/16-01-084-11W4/00  S   46.0M  W   91.0M    BONNYVILLE           415.0M                          
+    OV (C)                               HANGINGSTONE                   MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    JAPAN CANADA OIL SANDS LIMITED                                      16-01-084-11W4                  
+                                                                                                        
+    SBE 102 HZ WIZARDLK 9-5-48-27        0497728   BOTH                 793.1M                          
+    102/09-05-048-27W4/00  N   98.6M  W  175.0M    ST. ALBERT           3500.0M                         
+    DEV (C)                              WIZARD LAKE                    REX MBR                         
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SALT BUSH ENERGY LTD.                                               01-17-048-27W4                  
+                                                                                                        
+    SBE HZ WIZARDLK 7-20-48-27           0497729   BOTH                 793.2M                          
+    100/07-20-048-27W4/00  N   89.6M  W  150.0M    ST. ALBERT           3500.0M                         
+    DEV (C)                              WIZARD LAKE                    REX MBR                         
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SALT BUSH ENERGY LTD.                                               01-17-048-27W4                  
+                                                                                                        
+    IMP 14-23-51-27 GSPIKE 14-23-51-27   0497730   ALBERTA CROWN        706.3M                          
+    108/14-23-051-27W4/00  S   67.3M  E  562.9M    ST. ALBERT           1803.0M                         
+    OTH (NC)                             GOLDEN SPIKE                   LEDUC FM                        
+    VERTICAL                             NEW       STORAGE              GAS                             
+    IMPERIAL OIL RESOURCES LIMITED                                      14-23-051-27W4                  
+                                                                                                        
+    PPR HZ CRAIGML 15-16-32-17           0497731   ALBERTA CROWN        848.8M                          
+    100/15-16-032-17W4/00  S  200.0M  W  385.0M    MEDICINE HAT         4525.0M                         
+    DEV (NC)                             CRAIGMYLE                      BANFF FM                        
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PRAIRIE PROVIDENT RESOURCES CANADA LTD.                             16-04-032-17W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CHEVRON HZ KAYBOBS 15-8-62-20         0489949    GROUND ELEVATION                                   
+    100/15-08-062-20W5/00                            878.4                                              
+
+    CHEVRON HZ KAYBOBS 16-8-62-20         0489950    GROUND ELEVATION                                   
+    100/16-08-062-20W5/00                            878.4                                              
+
+    CHEVRON HZ KAYBOBS 13-9-62-20         0489951    GROUND ELEVATION                                   
+    100/13-09-062-20W5/00                            878.4                                              
+
+    CHEVRON 102 HZ KAYBOBS 16-8-62-20     0489952    GROUND ELEVATION                                   
+    102/16-08-062-20W5/00                            878.4                                              
+
+    CHEVRON HZ KAYBOBS 14-9-62-20         0489953    GROUND ELEVATION                                   
+    100/14-09-062-20W5/00                            878.4                                              
+
+    CHEVRON HZ KAYBOBS 15-9-62-20         0489954    GROUND ELEVATION                                   
+    100/15-09-062-20W5/00                            878.4                                              
+
+    CHEVRON HZ KAYBOBS 16-9-62-20         0489955    GROUND ELEVATION                                   
+    100/16-09-062-20W5/00                            878.4                                              
+
+    CHEVRON HZ KAYBOBS 13-10-62-20        0489956    GROUND ELEVATION                                   
+    100/13-10-062-20W5/00                            878.4                                              
+
+    HHR HZ ELM 1-9-68-3                   0491225    UWI:                                               
+    00/01-09-068-03W6/0                              00/02-09-068-03W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     HHR HZ ELM 2-9-68-3                                
+
+    7GEN HZ KARR 7-10-64-4                0493960    UWI:                                               
+    00/07-10-064-04W6/0                              04/13-11-064-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 105 KARR 13-11-64-4                        
+
+                                                     GROUND ELEVATION                                   
+                                                     915.0                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0590.5 E 0094.6                                  
+
+    DELTASTREAM HZ MARTEN 4-20-76-5       0494400    UWI:                                               
+    00/04-20-076-05W5/0                              W0/04-20-076-05W5/0                                
+
+    INPLAY OIL 102 HZ WILLGR 10-26-41-6   0494540    UWI:                                               
+    02/10-26-041-06W5/0                              00/15-26-041-06W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     INPLAY OIL 102 HZ WILLGR 15-26-41-6                
+
+    CHEVRON HZ KAYBOBS 15-26-61-20        0494545    GROUND ELEVATION                                   
+    100/15-26-061-20W5/00                            878.4                                              
+
+    CHEVRON HZ KAYBOBS 16-26-61-20        0494546    GROUND ELEVATION                                   
+    100/16-26-061-20W5/00                            878.4                                              
+
+    CHEVRON HZ KAYBOBS 1-35-61-20         0494547    GROUND ELEVATION                                   
+    100/01-35-061-20W5/00                            878.4                                              
+
+    CHEVRON 102 HZ KAYBOBS 1-35-61-20     0494548    GROUND ELEVATION                                   
+    102/01-35-061-20W5/00                            878.4                                              
+
+    SPL 10-14 HZ MARTEN 12-15-76-6        0494853    UWI:                                               
+    00/12-15-076-06W5/6                              00/10-15-076-06W5/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 10-14 HZ MARTEN 10-15-76-6                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2800.00                                  
+
+    SPL 10-14 HZ MARTEN 12-15-76-6        0494853    UWI:                                               
+    00/12-15-076-06W5/3                              00/05-15-076-06W5/3                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 10-14 HZ MARTEN 5-15-76-6                      
+
+    SPL 10-14 HZ MARTEN 12-15-76-6        0494853    UWI:                                               
+    00/12-15-076-06W5/2                              00/05-15-076-06W5/2                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 10-14 HZ MARTEN 5-15-76-6                      
+
+    CVE 12-35 HZ MARTENH 5-34-74-25       0495028    UWI:                                               
+    00/05-34-074-25W4/4                              02/04-34-074-25W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     CVE 12-35 HZ MARTENH 4-34-74-25                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    PRED NIPISI 8-24-76-7                 0495046    UWI:                                               
+    00/08-24-076-07W5/4                              00/07-24-076-07W5/4                                
+
+                                                     WELL NAME:                                         
+                                                     HIGHWOOD NIPISI 7-24-76-7                          
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    CVE 12-29 HZ MARTENH 5-30-75-2        0495060    UWI:                                               
+    00/05-30-075-02W5/2                              00/04-30-075-02W5/2                                
+
+                                                     WELL NAME:                                         
+                                                     CVE 12-29 HZ MARTENH 4-30-75-2                     
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    CRESTWYND JILES 5-20-63-21            0495217    UWI:                                               
+    02/05-20-063-21W4/0                              00/04-20-063-21W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND JILES 4-20-63-21                         
+
+    HEL KAYBOB 16-17-66-19                0495796    UWI:                                               
+    00/16-17-066-19W5/0                              00/15-17-066-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     HEL KAYBOB 15-17-66-19                             
+
+    TOURMALINE HZ102 ANSELL 5-9-50-19     0495903    UWI:                                               
+    02/12-04-050-19W5/2                              00/04-09-050-19W5/2                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ102 ANSELL 4-9-50-19                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+    SPL 4-28 HZ MARTENH 4-28-73-24        0495968    UWI:                                               
+    00/04-21-073-24W4/9                              00/01-20-073-24W4/9                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 4-28 HZ SMITH 1-20-73-24                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    PTRL HZ GILBY 1-22-41-1               0495986    UWI:                                               
+    00/01-22-041-01W5/0                              00/10-22-041-01W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     PTRL GILBY 10-22-41-1                              
+
+    WESTBRICK 102 HZ WILLGR 1-13-43-9     0496086    UWI:                                               
+    02/01-13-043-09W5/0                              00/08-13-043-09W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     WESTBRICK 102 HZ WILLGR 8-13-43-9                  
+
+    T5 ENERGY FERRIER 15-7-43-9           0496280    UWI:                                               
+    00/02-07-043-09W5/3                              00/15-07-043-09W5/3                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+    TXNR 6D-34 HZ  COUNTESS 1-27-19-18    0496471    UWI:                                               
+    00/01-27-019-18W4/0                              02/08-27-019-18W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TXNR 6D-34 HZ COUNTESS 8-27-19-18                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GLAUCONITIC SS                      
+
+    CARDINAL HZ BANTRY 11-1-17-12         0496516    UWI:                                               
+    00/11-01-017-12W4/0                              02/06-01-017-12W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CARDINAL HZ BANTRY 6-1-17-12                       
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.04                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GLAUCONITIC SS                      
+
+    PEYTO STOLBERG 11-30-43-14            0496559    UWI:                                               
+    00/04-30-043-14W5/2                              00/11-30-043-14W5/2                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+    CVE MP36 FISHER 3-21-70-4             0496757    UWI:                                               
+    12/03-21-070-04W4/0                              08/06-21-070-04W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CVE MP36 FISHER 6-21-70-4                          
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.58                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    ECA HZ WAHIGAN 2-23-62-22             0496857    UWI:                                               
+    00/02-23-062-22W5/0                              00/05-04-063-22W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     OVV HZ WAHIGAN 5-4-63-22                           
+
+                                                     GROUND ELEVATION                                   
+                                                     874.4                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     6945.00                                            
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.34                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM DUVERNAY FM                               
+
+    INCEPTION EXP HZ ELM 16-20-69-5       0497023    SURFACE CO-ORDINATES:                              
+    100/16-20-069-05W6/00                            S 0489.1 E 0315.2                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.60                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM MONTNEY FM                          
+
+    INCEPTION EXP HZ 102 ELM 9-20-69-5    0497024    WELL NAME:                                         
+    100/09-20-069-05W6/00                            INCEPTION EXP HZ ELM 9-20                          
+
+                                                     GROUND ELEVATION                                   
+                                                     665.2                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0497.7 E 0332.0                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.60                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM MONTNEY FM                          
+
+    PERSIST OIL 102 HZ WAYNE 12-27-28-21  0497606    TARGET SUBSTANCE(1)                                
+    102/12-27-028-21W4/00                            CRUDE OIL FROM BASAL QUAR                          
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,76 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 26 March 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    IMP N02W2-845 LEMING 16-26-66-3       0497842    SURFACE CO-ORDINATES:                              
+    103/16-26-066-03W4/00                            N 0265.0 E 0065.8                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.04                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM GRAND RAPIDS FM                          
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL 14A BNNYVLLE 14-28-62-7          0483222                                                       
+    100/14-28-062-07W4/00                                                                               
+
+    CNRL 8D BNNYVLLE 8-13-62-8            0483236                                                       
+    100/08-13-062-08W4/00                                                                               
+
+    CNRL 11A BNNYVLLE 11-13-62-8          0483237                                                       
+    100/11-13-062-08W4/00                                                                               
+
+    CNRL 12C BNNYVLLE 12-18-62-7          0483238                                                       
+    100/12-18-062-07W4/00                                                                               
+
+    CNRL 15B BNNYVLLE 15-13-62-8          0483239                                                       
+    100/15-13-062-08W4/00                                                                               
+
+    CNRL 4C LNDBRGH 4-3-55-4              0488608                                                       
+    100/04-03-055-04W4/00                                                                               
+
+    TOURMALINE HZ BLUEB 8-7-82-7          0488627                                                       
+    100/08-07-082-07W6/00                                                                               
+
+    TOURMALINE HZ BLUEB 9-7-82-7          0488628                                                       
+    100/09-07-082-07W6/00                                                                               
+
+    TOURMALINE HZ BLUEB 16-7-82-7         0488629                                                       
+    100/16-07-082-07W6/00                                                                               
+
+    HIGH GROUND HZ 102 PROVOST 8-10-35-4  0488632                                                       
+    102/08-10-035-04W4/00                                                                               
+
+    INSIGNIAENERGY 2 VALHALLA 1-34-75-11  0493993                                                       
+    102/01-34-075-11W6/00                                                                               
+
+    NAL HZ GARR 1-5-37-3                  0493999                                                       
+    102/01-05-037-03W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

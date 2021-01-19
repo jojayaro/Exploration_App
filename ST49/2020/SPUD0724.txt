@@ -1,0 +1,17 @@
+Report Number: ST-49                                                                     Alberta Energy Regulator                                                                              Page 1 of 1
+Run Date: 24 Jul 2020                                                                  DAILY DRILLING ACTIVITY LIST                                                                                       
+                                                                          For the Notification Period 23 Jul 2020 To 24 Jul 2020                                                                          
+
+      WELL ID                    WELL NAME               LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID       LICENSEE       NEW PROJECTED  ACTIVITY  
+                                                                  BA ID               NAME              NUMBER                                                                    TOTAL DEPTH     TYPE    
+------------------- ------------------------------------ -------- ------ ------------------------------ ------ ----------------------- -------------- ----- -------------------- ------------- -----------
+02/13-34-077-08W6/0 TOURMALINE HZ102 VALHALLA 13-34-77-8  0497915 0Y52   Precision Drilling Corporation    541 24 Jul 2020 06:00:00 AM Grande Prairie A573  Tourmaline Oil Corp.               Drill To LD
+
+                                                                TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 1                                                                 
+                                                                TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                 
+                                                                TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                 
+                                                                TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 0                                                                 
+
+                                                                                     TOTAL NUMBER OF WELLS LISTED = 1                                                                                     
+                                                                                          *** END OF REPORT ***                                                                                           
+

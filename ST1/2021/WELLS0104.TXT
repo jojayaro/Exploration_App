@@ -1,0 +1,148 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 04 January 2021                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    OVV HZ 102 WEMBLEY 13-33-72-9        0499161   ALBERTA CROWN        806M                            
+    102/13-33-072-09W6/00  S  105.0M  E  267.6M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  13-27-072-09W6                  
+                                                                                                        
+    OVV HZ 103 WEMBLEY 13-33-72-9        0499162   ALBERTA CROWN        806M                            
+    103/13-33-072-09W6/00  S  105.0M  E  277.6M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  13-27-072-09W6                  
+                                                                                                        
+    OVV HZ 102 WEMBLEY 4-22-72-9         0499163   ALBERTA CROWN        806M                            
+    102/04-22-072-09W6/00  S  105.0M  E  287.6M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  13-27-072-09W6                  
+                                                                                                        
+    OVV HZ 103 WEMBLEY 4-22-72-9         0499164   ALBERTA CROWN        806M                            
+    103/04-22-072-09W6/00  S  105.0M  E  327.6M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  13-27-072-09W6                  
+                                                                                                        
+    OVV HZ 103 WEMBLEY 3-22-72-9         0499165   ALBERTA CROWN        806M                            
+    103/03-22-072-09W6/00  S  105.0M  E  337.6M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  13-27-072-09W6                  
+                                                                                                        
+    OVV HZ 104 WEMBLEY 13-33-72-9        0499166   ALBERTA CROWN        806M                            
+    104/13-33-072-09W6/00  S  105.0M  E  347.6M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  13-27-072-09W6                  
+                                                                                                        
+    PEYTO SUNDANCE 1-22-55-22            0499167   ALBERTA CROWN        930.3M                          
+    103/01-22-055-22W5/00  S  167.5M  W  234.9M    DRAYTON VALLEY       5430.0M                         
+    DEV (NC)                             SUNDANCE                       FALHER MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               16-27-055-22W5                  
+                                                                                                        
+    TXNE 3A-24 HZ VERGER 9-12-22-16      0499168   BOTH                 732.8M                          
+    102/09-12-022-16W4/00  N   65.7M  E  636.0M    MIDNAPORE            3400.0M                         
+    DEV (NC)                             VERGER                         BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  03-24-022-16W4                  
+                                                                                                        
+    PEYTO SUNDANCE 2-22-55-22            0499169   ALBERTA CROWN        929.8M                          
+    100/02-22-055-22W5/00  S  159.8M  W  247.8M    DRAYTON VALLEY       5440.0M                         
+    DEV (NC)                             SUNDANCE                       FALHER MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               16-27-055-22W5                  
+                                                                                                        
+    OVV HZ ELM 4-4-71-8                  0499170   ALBERTA CROWN        729.7M                          
+    100/04-04-071-08W6/00  S  482.2M  W  119.2M    GRANDE PRAIRIE       5546.0M                         
+    DEV (NC)                             ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  09-12-071-09W6                  
+                                                                                                        
+    OVV HZ 102 ELM 4-4-71-8              0499171   ALBERTA CROWN        729.8M                          
+    102/04-04-071-08W6/00  S  492.2M  W  119.2M    GRANDE PRAIRIE       5546.0M                         
+    DEV (NC)                             ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  09-12-071-09W6                  
+                                                                                                        
+    OVV HZ ELM 1-5-71-8                  0499172   ALBERTA CROWN        729.9M                          
+    102/01-05-071-08W6/00  S  502.2M  W  119.2M    GRANDE PRAIRIE       5546.0M                         
+    DEV (NC)                             ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  09-12-071-09W6                  
+                                                                                                        
+    OVV HZ 102 ELM 1-5-71-8              0499173   ALBERTA CROWN        730.1M                          
+    103/01-05-071-08W6/00  S  512.2M  W  119.2M    GRANDE PRAIRIE       5546.0M                         
+    DEV (NC)                             ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  09-12-071-09W6                  
+                                                                                                        
+    OVV HZ ELM 2-5-71-8                  0499174   ALBERTA CROWN        730.5M                          
+    100/02-05-071-08W6/00  S  507.1M  W  189.2M    GRANDE PRAIRIE       5546.0M                         
+    DEV (NC)                             ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  09-12-071-09W6                  
+                                                                                                        
+    OVV HZ 102 ELM 2-5-71-8              0499175   ALBERTA CROWN        730.6M                          
+    102/02-05-071-08W6/00  S  517.1M  W  189.2M    GRANDE PRAIRIE       5546.0M                         
+    DEV (NC)                             ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  09-12-071-09W6                  
+                                                                                                        
+    OVV HZ ELM 3-5-71-8                  0499176   ALBERTA CROWN        730.7M                          
+    100/03-05-071-08W6/00  S  527.1M  W  189.2M    GRANDE PRAIRIE       5546.0M                         
+    DEV (NC)                             ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  09-12-071-09W6                  
+                                                                                                        
+    OVV HZ 102 ELM 3-5-71-8              0499177   ALBERTA CROWN        730.8M                          
+    102/03-05-071-08W6/00  S  537.1M  W  189.2M    GRANDE PRAIRIE       5546.0M                         
+    DEV (NC)                             ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  09-12-071-09W6                  
+                                                                                                        
+    LONGSHORE HZ PCOUPES 6-1-77-10       0499178   ALBERTA CROWN        823.8M                          
+    100/06-01-077-10W6/00  S  403.2M  W  129.2M    GRANDE PRAIRIE       4289.0M                         
+    DEV (C)                              POUCE COUPE SOUTH              CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    LONGSHORE RESOURCES LTD.                                            09-03-077-10W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    VEI HZ PEMBINA 14-17-50-12             0498428   UWI:                                               
+    00/14-17-050-12W5/0                              00/12-08-050-12W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     VEI HZ PEMBINA 12-8-50-12                          
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     12-08-050-12W5                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

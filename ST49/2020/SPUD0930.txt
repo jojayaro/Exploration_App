@@ -1,0 +1,20 @@
+Report Number: ST-49                                                                           Alberta Energy Regulator                                                                                    Page 1 of 1
+Run Date: 30 Sep 2020                                                                        DAILY DRILLING ACTIVITY LIST                                                                                             
+                                                                                For the Notification Period 29 Sep 2020 To 30 Sep 2020                                                                                
+
+      WELL ID                  WELL NAME            LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                             BA ID               NAME              NUMBER                                                                                     TOTAL DEPTH     TYPE    
+------------------- ------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------------------- ------------- -----------
+00/13-32-051-16W5/0 TOURMALINE HZ EDSON 13-32-51-16  0498295 A6PR   Nabors Drilling Canada Limited     16 30 Sep 2020 06:00:00 AM Drayton Valley A573  Tourmaline Oil Corp.                                Set Surface
+02/08-12-055-21W5/0 PEYTO SUNDANCE 8-12-55-21        0496870 0Z41   Ensign Drilling Inc.             T438 29 Sep 2020 06:00:00 PM Drayton Valley 0YA2  Peyto Exploration & Development Corp.               Drill To LD
+00/03-20-063-21W4/0 CRESTWYND HZ JILES 3-20-63-21    0498459 0Y52   Precision Drilling Corporation    187 29 Sep 2020 09:00:00 PM St. Albert     A7MT  Crestwynd Exploration Ltd.                          Drill To LD
+03/02-11-074-25W4/0 DELTASTREAM MARTENH 2-11-74-25   0498322 A2CL   Komat Drilling Ltd.                 3 30 Sep 2020 04:00:00 AM St. Albert     A6YA  Deltastream Energy Corporation                      Set Surface
+
+                                                                      TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 2                                                                       
+                                                                      TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                       
+                                                                      TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                       
+                                                                      TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 2                                                                       
+
+                                                                                           TOTAL NUMBER OF WELLS LISTED = 4                                                                                           
+                                                                                                *** END OF REPORT ***                                                                                                 
+

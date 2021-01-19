@@ -1,0 +1,130 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 14 September 2020                                                                             
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SYNCRUDE 201745L01 ATHA OS 4-4-96-10 0498420   ALBERTA CROWN        296.2M                          
+    1S2/04-04-096-10W4/00  S 1622.6M  E  115.9M    BONNYVILLE           88.0M                           
+    DSW (NC)                             UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    SYNCRUDE CANADA LTD.                                                04-04-096-10W4                  
+                                                                                                        
+    TOURMALINE HZ ANDERSN 15-36-50-23    0498421   ALBERTA CROWN        1200.2M                         
+    100/15-36-050-23W5/00  S  233.5M  E  746.6M    DRAYTON VALLEY       4700.0M                         
+    DEV (C)                              ANDERSON                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                14-30-050-22W5                  
+                                                                                                        
+    TOURMALINE LAMBERT 14-30-50-22       0498422   ALBERTA CROWN        1200.4M                         
+    100/14-30-050-22W5/00  S  230.3M  E  743.0M    DRAYTON VALLEY       3580.0M                         
+    DEV (C)                              LAMBERT                        SPIRIT RIVER FM                 
+    VERTICAL                             NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                14-30-050-22W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CHEVRON HZ FOXCK 2-16-62-19           0490415    UWI:                                               
+    00/02-16-062-19W5/0                              04/01-16-062-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     CHEVRON HZ FOXCK 1-16-62-19                        
+
+    SUNCOR LEWIS 12-32-92-8               0497295    UWI:                                               
+    AA/12-32-092-08W4/0                              00/12-32-092-08W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SUNCOR OB LEWIS 12-32-92-8                         
+
+                                                     GROUND ELEVATION                                   
+                                                     402.7                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0633.4 E 0379.6                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SUNCOR LEWIS 13-29-92-7               0497296    UWI:                                               
+    AA/13-29-092-07W4/0                              00/13-29-092-07W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SUNCOR OB LEWIS 13-29-92-7                         
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0367.4 E 0243.0                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SUNCOR LEWIS 13-30-92-7               0497297    UWI:                                               
+    AA/13-30-092-07W4/0                              00/13-30-092-07W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SUNCOR OB LEWIS 13-30-92-7                         
+
+                                                     GROUND ELEVATION                                   
+                                                     476.5                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0162.1 E 0152.7                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SUNCOR LEWIS 14-12-92-8               0497298    UWI:                                               
+    AC/14-12-092-08W4/0                              02/14-12-092-08W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SUNCOR OB LEWIS 14-12-92-8                         
+
+                                                     GROUND ELEVATION                                   
+                                                     465.9                                              
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0282.3 E 0419.8                                  
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

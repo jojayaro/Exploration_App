@@ -1,0 +1,79 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 18 September 2020                                                                             
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    ANEGADA HZ 9D VALHALLA 9-35-75-8     0498441   ALBERTA CROWN        937.3M                          
+    100/09-35-075-08W6/00  N  709.4M  E   65.0M    GRANDE PRAIRIE       4900.0M                         
+    DEV (C)                              VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ANEGADA OIL CORP.                                                   05-34-075-08W6                  
+                                                                                                        
+    ANEGADA HZ 8A VALHALLA 8-35-75-8     0498442   ALBERTA CROWN        936.9M                          
+    100/08-35-075-08W6/00  N  689.4M  E   65.0M    GRANDE PRAIRIE       4900.0M                         
+    DEV (C)                              VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ANEGADA OIL CORP.                                                   05-34-075-08W6                  
+                                                                                                        
+    ANEGADA HZ 1A VALHALLA 1-35-75-8     0498443   ALBERTA CROWN        936.3M                          
+    103/01-35-075-08W6/00  N  669.4M  E   65.0M    GRANDE PRAIRIE       4900.0M                         
+    DEV (C)                              VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ANEGADA OIL CORP.                                                   05-34-075-08W6                  
+                                                                                                        
+    VEI HZ CARROT 4-35-52-13             0498444   ALBERTA CROWN        883.1M                          
+    100/04-35-052-13W5/00  N  404.9M  E  330.0M    DRAYTON VALLEY       5372.0M                         
+    DEV (NC)                             CARROT CREEK                   ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    VERMILION ENERGY INC.                                               05-31-052-12W5                  
+                                                                                                        
+    VEI HZ WESTPEM 13-27-49-13           0498445   ALBERTA CROWN        984.4M                          
+    100/13-27-049-13W5/00  S   63.3M  E  638.2M    DRAYTON VALLEY       4497.0M                         
+    DEV (NC)                             WESTPEM                        ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    VERMILION ENERGY INC.                                               14-26-049-13W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    VEI HZ CARROT 10-24-52-12             0497792    UWI:                                               
+    00/10-24-052-12W5/0                              02/12-24-052-12W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     VEI HZ CARROT 12-24-52-12                          
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5322.00                                            
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM ELLERSLIE MBR                             
+
+    VEI HZ CARROT 15-24-52-12             0497793    UWI:                                               
+    00/15-24-052-12W5/0                              00/13-24-052-12W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     VEI HZ CARROT 13-24-52-12                          
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5258.00                                            
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM ELLERSLIE MBR                             
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

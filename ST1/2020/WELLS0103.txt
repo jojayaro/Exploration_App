@@ -1,0 +1,133 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 03 January 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    HIGHWOOD JUDYCK 15-31-64-12          0497232   ALBERTA CROWN        591.1M                          
+    100/15-31-064-12W5/00  S  463.3M  E  322.9M    BONNYVILLE           2800.0M                         
+    XPL (C)                              VIRGINIA HILLS                 CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    HIGHWOOD OIL COMPANY LTD.                                           12-30-064-12W4                  
+                                                                                                        
+    WLEC MHZ 2B4 PROVOST 4-4-39-2        0497233   BOTH                 676.4M                          
+    1S0/04-04-039-02W4/00  N   70.0M  E   65.0M    WAINWRIGHT           2350.0M                         
+    DEV (NC)                             PROVOST                        GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WEST LAKE ENERGY CORP.                                              04-05-039-02W4                  
+                                                                                                        
+    TOURMALINE BRAZR 8-15-44-14          0497234   ALBERTA CROWN        1063.9M                         
+    100/08-15-044-14W5/00  S  197.9M  E   60.1M    DRAYTON VALLEY       4500.0M                         
+    DEV (NC)                             BRAZEAU RIVER                  VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                13-15-044-14W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    NUVISTA 103 HZ D WEMBLEY 13-19-72-9   0496851    GROUND ELEVATION                                   
+    103/13-19-072-09W6/00                            771.9                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5673.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0673.2 E 0659.7                                  
+
+                                                     MINERAL RIGHTS:                                    
+                                                     ALBERTA CROWN                                      
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.43                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     1                                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    NUVISTA 102 HZ A WEMBLEY 4-30-72-9    0496860    GROUND ELEVATION                                   
+    102/04-30-072-09W6/00                            771.9                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5801.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0693.2 E 0659.7                                  
+
+                                                     MINERAL RIGHTS:                                    
+                                                     ALBERTA CROWN                                      
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.43                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     1                                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    NUVISTA 100 HZ C WEMBLEY 12-30-72-9   0497215    WELL NAME:                                         
+    100/12-30-072-09W6/00                            NUVISTA HZ 100 C WEMBLEY                           
+
+                                                     GROUND ELEVATION                                   
+                                                     771.9                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     6947.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0683.2 E 0709.7                                  
+
+                                                     MINERAL RIGHTS:                                    
+                                                     ALBERTA CROWN                                      
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.43                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     1                                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    NUVISTA 102 HZ B WEMBLEY 5-30-72-9    0497216    WELL NAME:                                         
+    102/05-30-072-09W6/00                            NUVISTA HZ 102 B WEMBLEY                           
+
+                                                     GROUND ELEVATION                                   
+                                                     772.0                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     6727.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0693.2 E 0709.7                                  
+
+                                                     MINERAL RIGHTS:                                    
+                                                     ALBERTA CROWN                                      
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.43                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     1                                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

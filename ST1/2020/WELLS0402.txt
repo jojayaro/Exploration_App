@@ -1,0 +1,244 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 02 April 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SYNCRUDE 29ROVCH194254L01 16-7-93-9   0493147    UWI:                                               
+    AA/16-07-093-09W4/0                              00/16-07-093-09W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SYNCRUDE 29ROVCH194254L01  16-7-93-9               
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SYNCRUDE 29ROVCH194121L01 6-25-93-9   0493167    UWI:                                               
+    AA/06-25-093-09W4/0                              00/06-25-093-09W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SYNCRUDE SYNCRUDE 29ROVCH1 6-25-93-9               
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SYNCRUDE 29ROVCH194163L01 12-23-93-9  0493172    UWI:                                               
+    AB/12-23-093-09W4/0                              00/12-23-093-09W4/0                                
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SYNCRUDE 29ROVCH194274L01 1-9-93-9    0493216    UWI:                                               
+    AB/01-09-093-09W4/0                              00/01-09-093-09W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SYNCRUDE 29ROVCH194274L01 1 1-9-93-9               
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    SYNCRUDE 29ROVCH194278L01 2-12-93-10  0493278    UWI:                                               
+    AA/02-12-093-10W4/0                              00/02-12-093-10W4/0                                
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    7GEN HZ 103 KAKWA 16-19-62-4          0493314    UWI:                                               
+    03/16-19-062-04W6/0                              00/15-17-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 103 KAKWA 15-17-62-4                       
+
+    MURPHY 15-19A KAYBOB 2-36-64-18       0494829    UWI:                                               
+    00/02-36-064-18W5/0                              00/03-36-064-18W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     MURPHY 15-19A KAYBOB 3-36-64-18                    
+
+    BEC HZ WILLGR 14-1-41-7               0495084    UWI:                                               
+    00/14-01-041-07W5/0                              00/03-01-041-07W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     BEC HZ WILLGR 3-1-41-7                             
+
+    7GEN HZ KAKWA 4-6-64-5                0495477    UWI:                                               
+    00/04-06-064-05W6/0                              08/06-06-064-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 6-6-64-5                             
+
+    CVE D2 HARDY 2-19-76-5                0495696    UWI:                                               
+    AB/02-19-076-05W4/0                              02/02-19-076-05W4/0                                
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     WELL TYPE:                                         
+                                                     OBSERVATION                                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     NONE FROM MCMURRAY FM                              
+
+    CVE D9-19 C8 HARDY 8-19-76-5          0495698    UWI:                                               
+    AC/08-19-076-05W4/2                              AA/09-19-076-05W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CVE D9-19 C8 HARDY 9-19-76-5                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    CVE A16-19 B13 HARDY 13-20-76-5       0495702    UWI:                                               
+    AC/13-20-076-05W4/0                              AD/16-19-076-05W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CVE A16-19 B13 HARDY 16-19-76-5                    
+
+                                                     REGULATION SECTION:                                
+                                                     2.030                                              
+
+                                                     WELL TYPE:                                         
+                                                     OIL SAND EVALUATION                                
+
+    CVE A16-19 B13 HARDY 13-20-76-5       0495702    UWI:                                               
+    AC/13-20-076-05W4/2                              03/13-20-076-05W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CVE A16-19 B13 HARDY 13-20-76-5                    
+
+    SPL 1-5 HZ 102 MARTEN 4-4-77-6        0496050    UWI:                                               
+    02/04-03-077-06W5/4                              00/03-04-077-06W5/4                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 1-5 HZ 102 MARTEN 3-4-77-6                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2900.00                                  
+
+    7GEN HZ KAKWA 5-18-64-4               0496157    UWI:                                               
+    02/05-18-064-04W6/0                              03/08-13-064-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 8-13-64-5                            
+
+    JUPITER HZ 104 KAKWA 16-14-62-5       0496171    UWI:                                               
+    04/16-14-062-05W6/0                              02/08-11-062-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     JUPITER HZ 104 KAKWA 8-11-62-5                     
+
+    7GEN HZ 103 KAKWA 11-18-63-3          0496286    UWI:                                               
+    03/11-18-063-03W6/0                              02/05-18-063-03W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 103 KAKWA 5-18-63-3                        
+
+    HUSKY 3HZ R3 WILDMERE 1-13-48-6       0496293    UWI:                                               
+    00/01-13-048-06W4/3                              02/02-13-048-06W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     HUSKY 3HZ R3 WILDMERE 2-13-48-6                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GENERAL PETROLEUM MBR               
+
+    BAYTEX HZ 100 SLAVE 14-23-84-15       0496864    UWI:                                               
+    00/15-15-084-15W5/3                              00/14-23-084-15W5/3                                
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM BLUESKY FM                      
+
+    SPL 2-16 HZ MARTENH 7-21-76-3         0496927    WELL NAME:                                         
+    100/15-16-076-03W5/07                            SPL 2-16 HZ MARTENH 15-16                          
+
+    WLEC 9HZ 1A1 PROVOST 8-28-39-5        0497033    WELL NAME:                                         
+    102/02-28-039-05W4/09                            WLEC 9HZ 1A1 PROVOST 2-28                          
+
+    ECA HZ 103 SIMON 13-13-61-25          0497282    UWI:                                               
+    00/13-13-061-25W5/0                              03/13-13-062-25W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     OVV HZ 103 WAHIGAN 13-13-62-25                     
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.48                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    POC 02 HZ UKALTA 8-10-57-18           0497337    UWI:                                               
+    02/08-10-057-18W4/4                              00/11-10-057-18W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     POC 02 HZ UKALTA 11-10-57-18                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    JOURNEY HZ CESS 15-33-23-13           0494054                                                       
+    100/15-33-023-13W4/00                                                                               
+
+    XTO E07 KAYBOBS 1-19-60-19            0494068                                                       
+    103/01-19-060-19W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

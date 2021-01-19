@@ -1,0 +1,67 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 07 July 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    ANEGADA HZ 9D VALHALLA 9-16-76-7     0498149   FREEHOLD             751.6M                          
+    100/09-16-076-07W6/00  S  384.9M  E  605.5M    GRANDE PRAIRIE       4000.0M                         
+    DEV (NC)                             VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ANEGADA OIL CORP.                                                   14-17-076-07W6                  
+                                                                                                        
+    ANEGADA HZ 16D VALHALLA 16-16-76-7   0498150   FREEHOLD             751.4M                          
+    102/16-16-076-07W6/00  S  369.9M  E  605.5M    GRANDE PRAIRIE       4000.0M                         
+    DEV (NC)                             VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ANEGADA OIL CORP.                                                   14-17-076-07W6                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    HHR ELM 5-1-68-4                      0489816                                                       
+    100/05-01-068-04W6/00                                                                               
+
+    HHR ELM 11-36-67-4                    0489817                                                       
+    100/11-36-067-04W6/00                                                                               
+
+    PEYTO LAWRNC 10-19-42-12              0489824                                                       
+    103/10-19-042-12W5/00                                                                               
+
+    VELVET HZ ELM 9-16-68-3               0489826                                                       
+    100/09-16-068-03W6/00                                                                               
+
+    VELVET HZ ELM 16-16-68-3              0489827                                                       
+    100/16-16-068-03W6/00                                                                               
+
+    VELVET 102 HZ ELM 9-16-68-3           0489833                                                       
+    102/09-16-068-03W6/00                                                                               
+
+    TXNE 16C-1 HZ COUNTESS 13-7-20-15     0495009                                                       
+    102/13-07-020-15W4/00                                                                               
+
+    TXNE 16C-1 HZ COUNTESS 9-3-20-16      0495010                                                       
+    100/09-03-020-16W4/00                                                                               
+
+    MEG J4PR HARDY 16-6-77-5              0495011                                                       
+    109/16-06-077-05W4/00                                                                               
+
+    MEG J6PR HARDY 10-6-77-5              0495024                                                       
+    108/10-06-077-05W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

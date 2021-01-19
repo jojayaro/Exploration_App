@@ -1,0 +1,199 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 07 February 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    YANGARRA HZ CHEDDER 1-5-37-7         0497653   ALBERTA CROWN        1071.2M                         
+    100/01-05-037-07W5/00  N  254.5M  W  438.1M    RED DEER             5565.0M                         
+    DEV (NC)                             CHEDDERVILLE                   CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    YANGARRA RESOURCES CORP.                                            02-17-037-07W5                  
+                                                                                                        
+    YANGARRA 102 HZ CHEDDER 1-5-37-7     0497654   ALBERTA CROWN        1070.9M                         
+    102/01-05-037-07W5/00  N  243.6M  W  427.8M    RED DEER             5585.0M                         
+    DEV (NC)                             CHEDDERVILLE                   CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    YANGARRA RESOURCES CORP.                                            02-17-037-07W5                  
+                                                                                                        
+    BIR HZ 102 PCOUPE 10-18-79-12        0497655   ALBERTA CROWN        652.5M                          
+    102/10-18-079-12W6/00  S  269.4M  E  681.2M    GRANDE PRAIRIE       4350.0M                         
+    DEV (C)                              POUCE COUPE                    MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-19-079-12W6                  
+                                                                                                        
+    BIR HZ 102 PCOUPE 9-18-79-12         0497656   ALBERTA CROWN        653M                            
+    102/09-18-079-12W6/00  S  306.0M  E  697.4M    GRANDE PRAIRIE       4360.0M                         
+    DEV (C)                              POUCE COUPE                    MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-19-079-12W6                  
+                                                                                                        
+    BIR HZ PCOUPE 11-18-79-12            0497657   ALBERTA CROWN        652.4M                          
+    100/11-18-079-12W6/00  S  339.4M  E  646.6M    GRANDE PRAIRIE       4200.0M                         
+    DEV (C)                              POUCE COUPE                    MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-19-079-12W6                  
+                                                                                                        
+    BIR HZ PCOUPE 12-18-79-12            0497658   ALBERTA CROWN        652M                            
+    100/12-18-079-12W6/00  S  302.7M  E  630.4M    GRANDE PRAIRIE       4500.0M                         
+    DEV (C)                              POUCE COUPE                    MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-19-079-12W6                  
+                                                                                                        
+    BIR HZ 103 PCOUPE 9-18-79-12         0497659   ALBERTA CROWN        652.6M                          
+    103/09-18-079-12W6/00  S  296.9M  E  693.4M    GRANDE PRAIRIE       4400.0M                         
+    DEV (C)                              POUCE COUPE                    MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-19-079-12W6                  
+                                                                                                        
+    BIR HZ 103 PCOUPE 10-18-79-12        0497660   ALBERTA CROWN        652.5M                          
+    103/10-18-079-12W6/00  S  278.6M  E  685.3M    GRANDE PRAIRIE       4255.0M                         
+    DEV (C)                              POUCE COUPE                    MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-19-079-12W6                  
+                                                                                                        
+    BIR HZ 102 PCOUPE 11-18-79-12        0497661   ALBERTA CROWN        652.3M                          
+    102/11-18-079-12W6/00  S  330.2M  E  642.6M    GRANDE PRAIRIE       4260.0M                         
+    DEV (C)                              POUCE COUPE                    MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-19-079-12W6                  
+                                                                                                        
+    BIR HZ 104 PCOUPE 10-18-79-12        0497662   ALBERTA CROWN        652.7M                          
+    104/10-18-079-12W6/00  S  315.2M  E  701.5M    GRANDE PRAIRIE       4250.0M                         
+    DEV (C)                              POUCE COUPE                    MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-19-079-12W6                  
+                                                                                                        
+    BIR HZ 103 PCOUPE 11-18-79-12        0497663   ALBERTA CROWN        652.2M                          
+    103/11-18-079-12W6/00  S  321.0M  E  638.5M    GRANDE PRAIRIE       4160.0M                         
+    DEV (C)                              POUCE COUPE                    MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-19-079-12W6                  
+                                                                                                        
+    BIR HZ 102 PCOUPE 12-18-79-12        0497664   ALBERTA CROWN        652M                            
+    102/12-18-079-12W6/00  S  293.6M  E  626.4M    GRANDE PRAIRIE       4405.0M                         
+    DEV (C)                              POUCE COUPE                    MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-19-079-12W6                  
+                                                                                                        
+    BIR HZ 105 PCOUPE 10-18-79-12        0497665   ALBERTA CROWN        652.7M                          
+    105/10-18-079-12W6/00  S  324.4M  E  705.5M    GRANDE PRAIRIE       4280.0M                         
+    DEV (C)                              POUCE COUPE                    MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-19-079-12W6                  
+                                                                                                        
+    BIR HZ 104 PCOUPE 11-18-79-12        0497666   ALBERTA CROWN        652.1M                          
+    104/11-18-079-12W6/00  S  311.9M  E  634.5M    GRANDE PRAIRIE       4410.0M                         
+    DEV (C)                              POUCE COUPE                    MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-19-079-12W6                  
+                                                                                                        
+    BIR HZ 106 PCOUPE 10-18-79-12        0497667   ALBERTA CROWN        652.5M                          
+    106/10-18-079-12W6/00  S  348.5M  E  650.7M    GRANDE PRAIRIE       4170.0M                         
+    DEV (C)                              POUCE COUPE                    MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-19-079-12W6                  
+                                                                                                        
+    TOURMALINE HZ WILD RIV 9-30-57-25    0497668   ALBERTA CROWN        1177.4M                         
+    100/09-30-057-25W5/00  N  521.0M  W  787.5M    DRAYTON VALLEY       5817.0M                         
+    DEV (C)                              WILD RIVER                     SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                07-06-058-25W5                  
+                                                                                                        
+    TOURMALINE HZ WILD RIV 10-30-57-25   0497669   ALBERTA CROWN        1177.1M                         
+    100/10-30-057-25W5/00  N  516.1M  W  787.6M    DRAYTON VALLEY       5586.0M                         
+    DEV (C)                              WILD RIVER                     SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                07-06-058-25W5                  
+                                                                                                        
+    TOURMALINE HZ WILD RIV 12-30-57-25   0497670   ALBERTA CROWN        1176.7M                         
+    100/12-30-057-25W5/00  N  511.2M  W  787.8M    DRAYTON VALLEY       5763.0M                         
+    DEV (C)                              WILD RIVER                     SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                07-06-058-25W5                  
+                                                                                                        
+    TXNE 5-7 HZ ALDSON 3-17-16-13        0497671   FREEHOLD             741.3M                          
+    100/03-17-016-13W4/00  N  714.3M  E   50.0M    MEDICINE HAT         3250.0M                         
+    DEV (NC)                             ALDERSON                       LOWER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  05-07-016-13W4                  
+                                                                                                        
+    TOURMALINE HZ 102 MIRAGE 1-25-78-7   0497672   ALBERTA CROWN        647.1M                          
+    102/01-25-078-07W6/00  N  272.5M  E  532.8M    GRANDE PRAIRIE       3400.0M                         
+    DEV (C)                              VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TOURMALINE OIL CORP.                                                03-36-078-07W6                  
+                                                                                                        
+    TOURMALINE HZ MIRAGE 2-25-78-7       0497673   ALBERTA CROWN        647.1M                          
+    100/02-25-078-07W6/00  N  263.8M  E  532.8M    GRANDE PRAIRIE       3200.0M                         
+    DEV (C)                              VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TOURMALINE OIL CORP.                                                03-36-078-07W6                  
+                                                                                                        
+    TOURMALINE HZ MIRAGE 3-25-78-7       0497674   ALBERTA CROWN        647.1M                          
+    100/03-25-078-07W6/00  N  255.0M  E  532.7M    GRANDE PRAIRIE       3200.0M                         
+    DEV (C)                              VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TOURMALINE OIL CORP.                                                03-36-078-07W6                  
+                                                                                                        
+    CVE GP3-1 FISHER 15-15-70-4          0497675   ALBERTA CROWN        667.9M                          
+    123/15-15-070-04W4/00  N  532.7M  E  444.7M    BONNYVILLE           1595.0M                         
+    DEV (NC)                             FISHER                         MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 06-15-070-04W4                  
+                                                                                                        
+    CNRL HZ ELM 4-6-67-5                 0497676   ALBERTA CROWN        810.1M                          
+    100/04-06-067-05W6/00  S  788.9M  W   87.8M    GRANDE PRAIRIE       6100.0M                         
+    DEV (NC)                             ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CANADIAN NATURAL RESOURCES LIMITED                                  09-05-067-05W6                  
+                                                                                                        
+    WHITECAP HZ WAPITI 15-7-67-8         0497677   ALBERTA CROWN        864.3M                          
+    102/15-07-067-08W6/00  S  321.9M  W   76.2M    GRANDE PRAIRIE       3000.0M                         
+    DEV (NC)                             WAPITI                         CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WHITECAP RESOURCES INC.                                             16-06-067-08W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    JACOS HANGSTN 1-12-84-11              0496160    GROUND ELEVATION                                   
+    1AA/01-12-084-11W4/00                            634.2                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0338.7 W 0087.3                                  
+
+    JACOS OV6 HANGSTN 12-13-84-11         0496322    GROUND ELEVATION                                   
+    1AF/12-13-084-11W4/00                            612.8                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0732.6 E 0024.0                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    JACOS HANGSTN 16-12-84-11             0496582    GROUND ELEVATION                                   
+    1AB/16-12-084-11W4/00                            624.0                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0369.3 W 0218.6                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

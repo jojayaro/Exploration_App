@@ -1,0 +1,20 @@
+Report Number: ST-49                                                                       Alberta Energy Regulator                                                                                Page 1 of 1
+Run Date: 09 Sep 2020                                                                    DAILY DRILLING ACTIVITY LIST                                                                                         
+                                                                            For the Notification Period 08 Sep 2020 To 09 Sep 2020                                                                            
+
+      WELL ID                  WELL NAME            LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID           LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                             BA ID               NAME              NUMBER                                                                             TOTAL DEPTH     TYPE    
+------------------- ------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ----------------------------- ------------- -----------
+04/10-28-062-04W6/0 7GEN HZ 104 KAKWA 10-28-62-4     0498200 A6GJ   Dc Drilling Inc.                   1E 09 Sep 2020 11:00:00 AM Grande Prairie A54C  Seven Generations Energy Ltd.               Drill To LD
+00/01-32-062-05W6/0 KCK 13-30 HZ KAKWA 1-32-62-5     0498347 0ZG2   Excalibur Drilling Ltd.            12 09 Sep 2020 01:45:00 PM Grande Prairie A7GG  Kicking Horse Oil & Gas Ltd.                Drill To LD
+00/05-08-065-05W6/0 7GEN HZ KARR 5-8-65-5            0498206 A6PR   Nabors Drilling Canada Limited     17 08 Sep 2020 04:30:00 PM Grande Prairie A54C  Seven Generations Energy Ltd.               Drill To LD
+07/04-35-094-06W4/0 SUNCOR P122P2 FIREBAG 4-35-94-6  0496410 A6PR   Nabors Drilling Canada Limited    102 08 Sep 2020 07:00:00 PM Bonnyville     0054  Suncor Energy Inc.                          Resumption 
+
+                                                                  TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 3                                                                   
+                                                                  TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                   
+                                                                  TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 1                                                                   
+                                                                  TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 0                                                                   
+
+                                                                                       TOTAL NUMBER OF WELLS LISTED = 4                                                                                       
+                                                                                            *** END OF REPORT ***                                                                                             
+

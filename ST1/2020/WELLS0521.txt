@@ -1,0 +1,67 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 21 May 2020                                                                                   
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL 11B HZ SUGDEN 11-18-63-6        0498053   ALBERTA CROWN        556.1M                          
+    100/11-18-063-06W4/00  S  303.1M  W  745.8M    BONNYVILLE           2293.0M                         
+    DEV (NC)                             SUGDEN                         GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  15-19-063-06W4                  
+                                                                                                        
+    CNRL 10D HZ SUGDEN 10-18-63-6        0498054   ALBERTA CROWN        556M                            
+    102/10-18-063-06W4/00  S  303.1M  W  718.9M    BONNYVILLE           2060.0M                         
+    DEV (NC)                             SUGDEN                         GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  15-19-063-06W4                  
+                                                                                                        
+    CNRL 11C HZ SUGDEN 11-18-63-6        0498055   ALBERTA CROWN        556M                            
+    102/11-18-063-06W4/00  S  303.1M  W  732.3M    BONNYVILLE           2091.0M                         
+    DEV (NC)                             SUGDEN                         SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  15-19-063-06W4                  
+                                                                                                        
+    CNRL 15A HZ SUGDEN 15-18-63-6        0498056   ALBERTA CROWN        556M                            
+    102/15-18-063-06W4/00  S  303.1M  W  705.5M    BONNYVILLE           1797.0M                         
+    DEV (NC)                             SUGDEN                         SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  15-19-063-06W4                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL 1C LNDBRGH 1-7-55-5              0489216                                                       
+    102/01-07-055-05W4/00                                                                               
+
+    CNRL 16A CONKLIN 16-29-75-7           0489221                                                       
+    1AB/16-29-075-07W4/00                                                                               
+
+    CNRL 9B CONKLIN 9-31-75-7             0489223                                                       
+    1AA/09-31-075-07W4/00                                                                               
+
+    CNRL 10B LEISMER 10-29-75-6           0489224                                                       
+    1AA/10-29-075-06W4/00                                                                               
+
+    CNRL 10D CONKLIN 10-31-75-7           0489225                                                       
+    1AA/10-31-075-07W4/00                                                                               
+
+    CNRL 16C CONKLIN 16-31-75-7           0489226                                                       
+    1AB/16-31-075-07W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,130 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 03 March 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    ENVOLVE ENERGY GOLDCR ELM 4-7-70-5   0447319   ALBERTA CROWN        654.7M                          
+    100/04-07-070-05W6/04  N  163.7M  E  170.1M    GRANDE PRAIRIE       2475.0M                         
+    OTH (NC)                             ELMWORTH                       GOLATA FM                       
+    VERTICAL                             RESUMPTIONDISPOSAL             WATER                           
+    ENVOLVE ENERGY SERVICES CORP.                                       04-07-070-05W6                  
+                                                                                                        
+    PEWML HZ HANGSTN 1-24-85-10          0484551   ALBERTA CROWN        541.8M                          
+    100/01-24-085-10W4/02  S  767.3M  W  532.1M    BONNYVILLE           2950.0M                         
+    OTH (NC)                             UNDEFINED                      KEG RIVER FM                    
+    HORIZONTAL                           RESUMPTIONDISPOSAL             BRINE                           
+    PURE ENVIRONMENTAL WASTE MANAGEMENT LTD.                            10-25-085-10W4                  
+                                                                                                        
+    AVN HZ VALHALLA 5-6-77-9             0497811   ALBERTA CROWN        898.7M                          
+    100/05-06-077-09W6/00  S  697.0M  E   13.1M    GRANDE PRAIRIE       5200.0M                         
+    DEV (C)                              VALHALLA                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ADVANTAGE OIL & GAS LTD.                                            12-04-077-09W6                  
+                                                                                                        
+    PEYTO SUNDANCE 13-2-56-22            0497812   ALBERTA CROWN        996.1M                          
+    100/13-02-056-22W5/00  S  175.4M  E  410.2M    DRAYTON VALLEY       3650.0M                         
+    DEV (NC)                             SUNDANCE                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               14-35-055-22W5                  
+                                                                                                        
+    PEYTO SUNDANCE 14-2-56-22            0497813   ALBERTA CROWN        996.1M                          
+    102/14-02-056-22W5/00  S  180.3M  E  409.9M    DRAYTON VALLEY       3625.0M                         
+    DEV (NC)                             SUNDANCE                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               14-35-055-22W5                  
+                                                                                                        
+    AVN HZ VALHALLA 12-6-77-9            0497814   FREEHOLD             898.6M                          
+    100/12-06-077-09W6/00  S  677.0M  E   13.4M    GRANDE PRAIRIE       5200.0M                         
+    DEV (C)                              VALHALLA                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ADVANTAGE OIL & GAS LTD.                                            12-04-077-09W6                  
+                                                                                                        
+    PEYTO CHAMBERS 1-27-41-11            0497815   ALBERTA CROWN        1086.9M                         
+    100/01-27-041-11W5/00  N  197.2M  W  373.1M    RED DEER             4000.0M                         
+    DEV (C)                              CHAMBERS                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               01-34-041-11W5                  
+                                                                                                        
+    HHR HZ KARR 3-6-65-3                 0497816   ALBERTA CROWN        849.8M                          
+    100/03-06-065-03W6/00  S  175.5M  E  499.0M    GRANDE PRAIRIE       6836.0M                         
+    DEV (C)                              KARR                           MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    HAMMERHEAD RESOURCES INC.                                           14-34-064-04W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CNRL HZ 102 GORD 8-23-79-12           0490749    PROJECTED DEPTH:                                   
+    102/08-23-079-12W6/00                            5356.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0794.2 W 0329.1                                  
+
+    CNRL HZ 102 GORD 1-23-79-12           0490750    PROJECTED DEPTH:                                   
+    102/01-23-079-12W6/00                            5637.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0798.6 W 0317.7                                  
+
+    CNRL HZ GORD 8-23-79-12               0490751    PROJECTED DEPTH:                                   
+    100/08-23-079-12W6/00                            5449.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0802.4 W 0323.4                                  
+
+    CNRL HZ GORD 1-23-79-12               0490752    PROJECTED DEPTH:                                   
+    100/01-23-079-12W6/00                            5846.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0790.4 W 0312.0                                  
+
+    BAYTEX HZ SLAVE 4-16-85-15            0493537    UWI:                                               
+    00/04-16-085-15W5/0                              S0/04-16-085-15W5/0                                
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    BLACKPEARL PORTAGE 15-36-76-18        0493868                                                       
+    102/15-36-076-18W4/00                                                                               
+
+    AVN HZ PCOUPES 4-20-76-12             0493876                                                       
+    100/04-20-076-12W6/00                                                                               
+
+    AVN HZ PCOUPES 15-9-76-12             0493877                                                       
+    100/15-09-076-12W6/00                                                                               
+
+    AVN HZ PCOUPES 16-9-76-12             0493878                                                       
+    100/16-09-076-12W6/00                                                                               
+
+    AVN 102 HZ PCOUPES 5-20-76-12         0493879                                                       
+    102/05-20-076-12W6/00                                                                               
+
+    SURGE ENERGY HZ SAWN LK 4-2-92-13     0493887                                                       
+    102/04-02-092-13W5/00                                                                               
+
+    SURGE ENERGY HZ SAWN LK 6-14-92-13    0493888                                                       
+    100/06-14-092-13W5/00                                                                               
+
+    SURGE ENERGY HZ SAWN LK 7-14-92-13    0493889                                                       
+    100/07-14-092-13W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

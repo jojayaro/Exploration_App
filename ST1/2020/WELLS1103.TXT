@@ -1,0 +1,202 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 03 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    MANCAL 102 HZ PEMBINA 13-34-49-12    0498652   ALBERTA CROWN        939.5M                          
+    102/13-34-049-12W5/00  N  766.6M  E  167.4M    DRAYTON VALLEY       4516.0M                         
+    DEV (NC)                             PEMBINA                        ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    MANCAL ENERGY INC.                                                  05-27-049-12W5                  
+                                                                                                        
+    BEC HZ EDSON 13-15-50-17             0498653   ALBERTA CROWN        1046.4M                         
+    100/13-15-050-17W5/00  N   70.2M  W  140.5M    DRAYTON VALLEY       6066.0M                         
+    DEV (NC)                             EDSON                          WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BONAVISTA ENERGY CORPORATION                                        01-09-050-17W5                  
+                                                                                                        
+    BEC HZ EDSON 15-16-50-17             0498654   ALBERTA CROWN        1046.5M                         
+    100/15-16-050-17W5/00  N   70.2M  W  160.5M    DRAYTON VALLEY       5942.0M                         
+    DEV (NC)                             EDSON                          WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BONAVISTA ENERGY CORPORATION                                        01-09-050-17W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    PARA HZ KARR 8-15-66-5                0495189    SURFACE CO-ORDINATES:                              
+    100/08-15-066-05W6/00                            N 0343.2 E 0073.9                                  
+
+    PARA HZ KARR 1-15-66-5                0495190    SURFACE CO-ORDINATES:                              
+    100/01-15-066-05W6/00                            N 0328.2 E 0074.3                                  
+
+    PARA HZ 102 KARR 8-15-66-5            0495220    SURFACE CO-ORDINATES:                              
+    102/08-15-066-05W6/00                            N 0350.7 E 0073.7                                  
+
+    PARA HZ 102 KARR 1-15-66-5            0495221    SURFACE CO-ORDINATES:                              
+    102/01-15-066-05W6/00                            N 0335.7 E 0074.1                                  
+
+    PARA HZ 103 KARR 8-15-66-5            0495227    UWI:                                               
+    03/08-15-066-05W6/0                              00/09-15-066-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     PARA HZ KARR 9-15-66-5                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0358.2 E 0073.6                                  
+
+    TOURMALINE HZ LAMBERT 5-30-50-22      0497489    UWI:                                               
+    00/05-30-050-22W5/3                              00/03-30-050-22W5/3                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ LAMBERT 3-30-50-22                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM CARDIUM FM                                
+
+    CRESTWYND HZ JILES 15-20-63-21        0498086    TARGET SUBSTANCE(1)                                
+    1S0/15-20-063-21W4/04                            CRUDE OIL FROM CLEARWATER                          
+
+    CANAMAX 03 PUSKWA 14-15-74-1          0498265    UWI:                                               
+    03/14-15-074-01W6/3                              03/09-15-074-01W6/3                                
+
+                                                     WELL NAME:                                         
+                                                     CANAMAX 03 PUSKWA 9-15-74-1                        
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.41                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM WABAMUN GRP                         
+
+    SPL 15-11 HZ 102 UKALTA 15-14-57-18   0498309    UWI:                                               
+    02/15-14-057-18W4/6                              02/14-14-057-18W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-11 HZ 102 UKALTA 14-14-57-18                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    SPL 9-10 HZ 102 NIPISI 12-12-77-7     0498356    UWI:                                               
+    02/05-12-077-07W5/6                              00/09-11-077-07W5/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 9-10 HZ 102 NIPISI 9-11-77-7                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    PARA HZ TONY CKN 2-25-63-21           0491587                                                       
+    100/02-25-063-21W5/00                                                                               
+
+    CVE FCCL D10 HARDY 10-27-77-5         0491613                                                       
+    1AA/10-27-077-05W4/00                                                                               
+
+    CVE FCCL B1 HARDY 1-34-77-5           0491614                                                       
+    1AA/01-34-077-05W4/00                                                                               
+
+    CVE FCCL B4 HARDY 4-2-78-5            0491615                                                       
+    1AA/04-02-078-05W4/00                                                                               
+
+    CVE FCCL B1 HARDY 1-3-78-5            0491616                                                       
+    1AA/01-03-078-05W4/00                                                                               
+
+    CNRL 1C FROG LK 1-14-55-3             0491622                                                       
+    100/01-14-055-03W4/00                                                                               
+
+    CNRL 3D FROG LK 3-14-55-3             0491623                                                       
+    100/03-14-055-03W4/00                                                                               
+
+    CNRL 16C COLD LK 16-9-63-4            0491633                                                       
+    100/16-09-063-04W4/00                                                                               
+
+    WESTBRICK HZ PEMBINA 16-23-44-6       0491637                                                       
+    100/16-23-044-06W5/00                                                                               
+
+    WESTBRICK HZ PEMBINA 16-7-44-5        0491638                                                       
+    100/16-07-044-05W5/00                                                                               
+
+    CNRL 11D KIRBY 11-19-75-5             0491665                                                       
+    1AB/11-19-075-05W4/00                                                                               
+
+    CNRL 2D KIRBY 2-29-75-5               0491668                                                       
+    1AA/02-29-075-05W4/00                                                                               
+
+    CNRL 11B KIRBY 11-29-75-5             0491669                                                       
+    1AA/11-29-075-05W4/00                                                                               
+
+    CNRL 2B KIRBY 2-31-75-5               0491672                                                       
+    1AB/02-31-075-05W4/00                                                                               
+
+    CNRL 14D KIRBY 14-33-75-5             0491673                                                       
+    1AC/14-33-075-05W4/00                                                                               
+
+    CNRL 2C KIRBY 2-4-76-5                0491674                                                       
+    1AC/02-04-076-05W4/00                                                                               
+
+    CNRL 4D KIRBY 4-4-76-5                0491675                                                       
+    1AB/04-04-076-05W4/00                                                                               
+
+    CNRL 6A KIRBY 6-4-76-5                0491676                                                       
+    1AC/06-04-076-05W4/00                                                                               
+
+    CNRL 12A KIRBY 12-4-76-5              0491677                                                       
+    1AC/12-04-076-05W4/00                                                                               
+
+    CNRL 12A KIRBY 12-23-75-6             0491678                                                       
+    1AA/12-23-075-06W4/00                                                                               
+
+    CNRL 5A KIRBY 5-24-75-6               0491679                                                       
+    1AB/05-24-075-06W4/00                                                                               
+
+    CNRL 10C KIRBY 10-24-75-6             0491680                                                       
+    1AC/10-24-075-06W4/00                                                                               
+
+    CNRL 7C KIRBY 7-24-75-6               0491681                                                       
+    1AB/07-24-075-06W4/00                                                                               
+
+    JACOS HANGSTN 1-18-84-10              0496161                                                       
+    1AA/01-18-084-10W4/00                                                                               
+
+    JACOS HANGSTN 3-18-84-10              0496163                                                       
+    1AB/03-18-084-10W4/00                                                                               
+
+    JACOS HANGSTN 4-6-84-10               0496164                                                       
+    1AA/04-06-084-10W4/00                                                                               
+
+    PENGROWTH D03-F1 LNDBRGH 11-24-58-5   0496188                                                       
+    105/11-24-058-05W4/00                                                                               
+
+    HIGHWOOD 102 NIPISI 16-25-76-7        0496204                                                       
+    102/16-25-076-07W5/00                                                                               
+
+    7GEN HZ 104 KAKWA 5-9-63-5            0496205                                                       
+    104/05-09-063-05W6/00                                                                               
+
+    OUTLIER HZ FOXCK 4-5-61-17            0496230                                                       
+    102/04-05-061-17W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

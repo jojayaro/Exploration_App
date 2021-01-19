@@ -1,0 +1,232 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 30 January 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SUNCOR OO9IPB DOVER 13-9-93-12       0409698   ALBERTA CROWN        412.8M                          
+    110/13-09-093-12W4/02  N  638.1M  W  728.4M    BONNYVILLE           1172.0M                         
+    DSW (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONINJECTION            WATER                           
+    SUNCOR ENERGY INC.                                                  07-08-093-12W4                  
+                                                                                                        
+    IMP H91-H01 LEMING 2-9-66-4          0497579   ALBERTA CROWN        619.7M                          
+    103/02-09-066-04W4/00  S  282.3M  W  590.3M    BONNYVILLE           2432.0M                         
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      15-05-066-04W4                  
+                                                                                                        
+    IMP H91-H02 LEMING 2-9-66-4          0497580   ALBERTA CROWN        619.7M                          
+    104/02-09-066-04W4/00  S  292.3M  W  590.4M    BONNYVILLE           2334.0M                         
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      15-05-066-04W4                  
+                                                                                                        
+    IMP H91-H03 LEMING 15-4-66-4         0497581   ALBERTA CROWN        619.7M                          
+    106/15-04-066-04W4/00  S  302.3M  W  590.4M    BONNYVILLE           2045.0M                         
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      15-05-066-04W4                  
+                                                                                                        
+    IMP H91-H04 LEMING 15-4-66-4         0497582   ALBERTA CROWN        619.7M                          
+    107/15-04-066-04W4/00  S  282.5M  W  550.3M    BONNYVILLE           1924.0M                         
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      15-05-066-04W4                  
+                                                                                                        
+    IMP H91-H05 LEMING 15-4-66-4         0497583   ALBERTA CROWN        619.7M                          
+    108/15-04-066-04W4/00  S  292.5M  W  550.4M    BONNYVILLE           1876.0M                         
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      15-05-066-04W4                  
+                                                                                                        
+    IMP H91-H06 LEMING 15-4-66-4         0497584   ALBERTA CROWN        619.7M                          
+    109/15-04-066-04W4/00  S  302.5M  W  550.4M    BONNYVILLE           1849.0M                         
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      15-05-066-04W4                  
+                                                                                                        
+    IMP H91-H07 LEMING 10-4-66-4         0497585   ALBERTA CROWN        619.7M                          
+    100/10-04-066-04W4/00  S  312.5M  W  550.5M    BONNYVILLE           1934.0M                         
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      15-05-066-04W4                  
+                                                                                                        
+    IMP H91-H08 LEMING 10-4-66-4         0497586   ALBERTA CROWN        619.7M                          
+    102/10-04-066-04W4/00  S  322.5M  W  550.5M    BONNYVILLE           1908.0M                         
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      15-05-066-04W4                  
+                                                                                                        
+    IMP H91-H09 LEMING 12-4-66-4         0497587   ALBERTA CROWN        619.7M                          
+    104/12-04-066-04W4/00  S  312.3M  W  590.5M    BONNYVILLE           1475.0M                         
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      15-05-066-04W4                  
+                                                                                                        
+    IMP H91-H10 LEMING 12-4-66-4         0497588   ALBERTA CROWN        619.7M                          
+    105/12-04-066-04W4/00  S  322.3M  W  590.6M    BONNYVILLE           1532.0M                         
+    DEV (NC)                             LEMING                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    IMPERIAL OIL RESOURCES LIMITED                                      15-05-066-04W4                  
+                                                                                                        
+    CNRL  3A HZ5GP LIND 3-36-56-4        0497589   ALBERTA CROWN        622.9M                          
+    102/03-36-056-04W4/00  N  164.9M  E  692.9M    BONNYVILLE           2016.0M                         
+    DEV (NC)                             LINDBERGH                      GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  03-01-057-04W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SPL 14-14 HZ MARTENH 1-26-73-25       0491050    UWI:                                               
+    00/01-26-073-25W4/0                              02/02-26-073-25W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 14-14 HZ MARTENH 2-26-73-25                    
+
+    TXNE 15C-35 HZ WINTERH 3-4-26-17      0494901    UWI:                                               
+    00/03-04-026-17W4/0                              00/02-04-026-17W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TXNE 15C-35 HZ WINTERH 2-4-26-17                   
+
+    TXNR 7-5 HZ ALDSON 3-9-16-15          0495518    UWI:                                               
+    00/03-09-016-15W4/0                              00/06-09-016-15W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TXNR 7-5 HZ ALDSON 6-9-16-15                       
+
+    SPL 4-28 HZ SMITH 4-21-73-24          0495968    UWI:                                               
+    00/04-21-073-24W4/0                              00/04-28-073-24W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 4-28 HZ MARTENH 4-28-73-24                     
+
+    PTRL HZ GILBY 2-22-41-1               0495987    UWI:                                               
+    00/02-22-041-01W5/2                              00/06-22-041-01W5/2                                
+
+                                                     WELL NAME:                                         
+                                                     PTRL HZ GILBY 6-22-41-1                            
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM DUVERNAY FM                         
+
+                                                     DRILL CUTTINGS:                                    
+                                                     2700.00 TO 7000.00                                 
+
+    7GEN HZ KAKWA 9-29-62-4               0496021    PROJECTED DEPTH:                                   
+    100/09-29-062-04W6/00                            6600.00                                            
+
+    JACOS OV2 HANGSTN 7-7-84-10           0496143    GROUND ELEVATION                                   
+    1AC/07-07-084-10W4/00                            633.0                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0728.1 E 0786.2                                  
+
+    JACOS HANGSTN 1-7-84-10               0496159    GROUND ELEVATION                                   
+    1AA/01-07-084-10W4/00                            650.0                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0316.8 W 0219.8                                  
+
+    BIR HZ 103 PCOUPES 15-20-78-12        0496223    UWI:                                               
+    02/15-20-078-12W6/0                              04/15-05-079-12W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     BIR HZ 103 PCOUPE 15-5-79-12                       
+
+    WLEC HZ 8D14 SWIMMING 14-32-52-6      0496305    UWI:                                               
+    02/14-32-052-06W4/0                              02/15-32-052-06W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC HZ 8D14 SWIMMING 15-32-52-6                   
+
+    TXNR 4C-6 HZ HUSSAR 2-5-25-19         0496340    UWI:                                               
+    00/02-05-025-19W4/0                              00/03-05-025-19W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     TXNR 4C-6 HZ HUSSAR 3-5-25-19                      
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.02                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM BASAL QUARTZ SD                     
+
+    RIDGEBACK HZ BONANZA 4-34-82-11       0496527    UWI:                                               
+    00/04-34-082-11W6/0                              00/04-22-082-11W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     RIDGEBACK HZ BONANZA 4-22-82-11                    
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.08                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CHARLIE LAKE FM                     
+
+    SUNCOR OB239 FIREBAG 13-17-95-6       0496566    SURFACE CO-ORDINATES:                              
+    1AB/13-17-095-06W4/00                            S 0388.3 E 0397.6                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    JACOS OV2 HANGSTN 12-7-84-10          0496580    GROUND ELEVATION                                   
+    1AC/12-07-084-10W4/00                            624.0                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0504.6 E 0383.8                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    JACOS OV2 HANGSTN 16-1-84-11          0496588    UWI:                                               
+    AB/16-01-084-11W4/0                              AB/01-12-084-11W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     JACOS OV2 HANGSTN 1-12-84-11                       
+
+                                                     GROUND ELEVATION                                   
+                                                     638.7                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0045.6 W 0387.7                                  
+
+                                                     SURFACE LOCATION:                                  
+                                                     01-12-084-11W4                                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    JACOS HANGSTN 10-6-84-10              0496591    SURFACE CO-ORDINATES:                              
+    1AB/10-06-084-10W4/00                            S 0475.9 W 0714.9                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    CLC HANGSTN 3-20-82-11                0496749    GROUND ELEVATION                                   
+    1AB/03-20-082-11W4/00                            741.0                                              
+
+    WLEC MHZ 2B4 PROVOST 4-4-39-2         0497233    MAXIMUM CALCULATED EPZ                             
+    1S0/04-04-039-02W4/00                            0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GENERAL PETROLEUM MBR               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

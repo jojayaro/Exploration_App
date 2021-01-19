@@ -1,0 +1,21 @@
+Report Number: ST-49                                                                        Alberta Energy Regulator                                                                                 Page 1 of 1
+Run Date: 17 Dec 2020                                                                     DAILY DRILLING ACTIVITY LIST                                                                                          
+                                                                             For the Notification Period 16 Dec 2020 To 17 Dec 2020                                                                             
+
+      WELL ID                  WELL NAME            LICENCE  +---------------CONTRACTOR---------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID          LICENSEE          NEW PROJECTED  ACTIVITY  
+                                                             BA ID                 NAME                 NUMBER                                                                          TOTAL DEPTH     TYPE    
+------------------- ------------------------------- -------- ------ ----------------------------------- ------ ----------------------- -------------- ----- -------------------------- ------------- -----------
+00/01-13-035-08W4/0 TAC 4-12 HZ PROVOST 1-13-35-8    0498914 A8AF   Hertz & Paluck Energy Services Inc.      1 17 Dec 2020 12:15:00 PM Wainwright     A5TT  Tamarack Acquisition Corp.               Set Surface
+00/04-30-053-13W5/0 VEI HZ CARROT 4-30-53-13         0498821 A5DG   CWC Energy Services Corp.                5 17 Dec 2020 12:15:00 AM Drayton Valley A6FW  Vermilion Energy Inc.                    Drill To LD
+03/03-15-070-08W6/0 NUVISTA 103 HZ C ELM 3-15-70-8   0498626 A6PR   Nabors Drilling Canada Limited         79E 16 Dec 2020 07:00:00 PM Grande Prairie A0A7  NuVista Energy Ltd.                      Resumption 
+00/03-22-071-08W6/0 ANEGADA HZ 3B WEMBLEY 3-22-71-8  0498590 A1TW   Bonanza Drilling Inc.                    9 17 Dec 2020 12:15:00 AM Grande Prairie A789  Anegada Oil Corp.                        Drill To LD
+00/01-21-075-26W4/0 SPL 1-24 HZ MARTENH 1-21-75-26   0498538 A2CL   Komat Drilling Ltd.                      3 16 Dec 2020 09:00:00 PM St. Albert     A7GR  Spur Petroleum Ltd.                      Set Surface
+
+                                                                   TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 2                                                                    
+                                                                   TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                    
+                                                                   TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 1                                                                    
+                                                                   TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 2                                                                    
+
+                                                                                        TOTAL NUMBER OF WELLS LISTED = 5                                                                                        
+                                                                                             *** END OF REPORT ***                                                                                              
+

@@ -1,0 +1,30 @@
+Report Number: ST-49                                                                                Alberta Energy Regulator                                                                                        Page 1 of 1
+Run Date: 02 Feb 2020                                                                             DAILY DRILLING ACTIVITY LIST                                                                                                 
+                                                                                     For the Notification Period 01 Feb 2020 To 02 Feb 2020                                                                                    
+
+      WELL ID                    WELL NAME              LICENCE  +---------------CONTRACTOR---------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                                 BA ID                 NAME                 NUMBER                                                                                     TOTAL DEPTH     TYPE    
+------------------- ----------------------------------- -------- ------ ----------------------------------- ------ ----------------------- -------------- ----- ------------------------------------- ------------- -----------
+03/13-30-034-07W4/0 TAC 7-25 HZ 103 PROVOST 13-30-34-7   0496968 A8AF   Hertz & Paluck Energy Services Inc.      1 02 Feb 2020 08:00:00 AM Wainwright     A5TT  Tamarack Acquisition Corp.                          Set Surface
+04/06-31-034-09W4/0 TAC 16-30 HZ 104 PROVOST 6-31-34-9   0494723 0GE9   Tempco Drilling Company Inc.             8 01 Feb 2020 07:00:00 PM Wainwright     A5TT  Tamarack Acquisition Corp.                          Drill To LD
+00/01-23-047-02W5/0 DELTAWEST HZ PEMBINA 1-23-47-2       0496865 A08C   Savanna Drilling Corp.                 687 01 Feb 2020 11:30:00 PM Drayton Valley A840  Deltawest Energy Ltd.                               Drill To LD
+03/12-16-050-26W4/0 NEP 103 HZ LEDUC-WB 12-16-50-26      0497447 0Z41   Ensign Drilling Inc.                    32 01 Feb 2020 05:00:00 PM St. Albert     A637  NEP Canada ULC                                      Drill To LD
+00/08-17-054-05W4/0 HUSKY 8C LIND 8-17-54-5              0496468 0Y52   Precision Drilling Corporation         186 01 Feb 2020 10:00:00 PM Bonnyville     0R46  Husky Oil Operations Limited                        Drill To LD
+13/12-24-058-05W4/0 PENGROWTH D03-F6 LNDBRGH 12-24-58-5  0496193 0Y55   Akita Drilling Ltd.                     26 02 Feb 2020 05:15:00 PM Bonnyville     A5K1  Cona Resources Ltd.                                 Drill To LD
+00/09-18-062-16W5/0 CHEVRON HZ CHICKDEE 9-18-62-16       0492210 0Z41   Ensign Drilling Inc.                   770 01 Feb 2020 02:10:00 PM St. Albert     0045  Chevron Canada Limited                              Resumption 
+20/03-04-075-08W4/2 CNRL KN01-02I DEVENISH 3-4-75-8      0484068 A6PR   Nabors Drilling Canada Limited         104 02 Feb 2020 12:45:00 AM Bonnyville     0HE9  Canadian Natural Resources Limited                  Drill To LD
+AC/07-03-077-06W4/0 CVE D7 HARDY 7-3-77-6                0495610 0Y52   Precision Drilling Corporation         135 02 Feb 2020 10:39:00 AM Bonnyville     A5D4  Cenovus Energy Inc.                                 Drill To LD
+AB/07-15-077-06W4/0 CVE B7 LEISMER 7-15-77-6             0495638 0Y52   Precision Drilling Corporation         133 02 Feb 2020 01:32:00 PM Bonnyville     A5D4  Cenovus Energy Inc.                                 Drill To LD
+AD/06-18-077-06W4/0 CVE C6 LEISMER 6-18-77-6             0495671 0Y52   Precision Drilling Corporation         180 01 Feb 2020 09:16:00 PM Bonnyville     A5D4  Cenovus Energy Inc.                                 Drill To LD
+AB/12-11-083-07W4/0 COPRC 1AB ML RESDELN 12-11-83-7      0496013 0Y52   Precision Drilling Corporation         140 02 Feb 2020 07:00:00 AM Bonnyville     A5G3  ConocoPhillips Canada Resources Corp.               Drill To LD
+00/05-23-091-06W5/0 CREST JINN KIDNEY 5-23-91-6          0496335 0X47   Beaver Drilling Ltd.                     3 02 Feb 2020 12:00:00 AM St. Albert     A7MZ  Crest Jinn Petroleum Corporation                    Drill To LD
+AA/13-32-092-07W4/0 SUNCOR LEWIS 13-32-92-7              0496728 0Z41   Ensign Drilling Inc.                   403 02 Feb 2020 05:30:00 AM Bonnyville     0054  Suncor Energy Inc.                                  Drill To LD
+
+                                                                          TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 12                                                                           
+                                                                          TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  =  0                                                                           
+                                                                          TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well =  1                                                                           
+                                                                          TOTAL  - Set Surface - Drilling to Set Surface Casing Only            =  1                                                                           
+
+                                                                                               TOTAL NUMBER OF WELLS LISTED = 14                                                                                               
+                                                                                                     *** END OF REPORT ***                                                                                                     
+

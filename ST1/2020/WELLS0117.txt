@@ -1,0 +1,292 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 17 January 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    COPRC 1AB NEWBY 12-27-82-6           0497434   ALBERTA CROWN        492.3M                          
+    1AB/12-27-082-06W4/00  S  460.2M  E  289.8M    BONNYVILLE           283.0M                          
+    OV (C)                               NEWBY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CONOCOPHILLIPS CANADA RESOURCES CORP.                               12-27-082-06W4                  
+                                                                                                        
+    COPRC 1AB NEWBY 12-31-82-5           0497435   ALBERTA CROWN        483.3M                          
+    1AB/12-31-082-05W4/00  S  489.4M  E  182.6M    BONNYVILLE           299.0M                          
+    OV (C)                               NEWBY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CONOCOPHILLIPS CANADA RESOURCES CORP.                               12-31-082-05W4                  
+                                                                                                        
+    COPRC 1AC NEWBY 5-31-82-5            0497436   ALBERTA CROWN        484.4M                          
+    1AC/05-31-082-05W4/00  N  642.6M  E   63.6M    BONNYVILLE           305.0M                          
+    OV (C)                               NEWBY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CONOCOPHILLIPS CANADA RESOURCES CORP.                               05-31-082-05W4                  
+                                                                                                        
+    RSO HZ 102 HAYTER 1-32-41-1          0497437   ALBERTA CROWN        643.9M                          
+    102/01-32-041-01W4/00  N  340.1M  E  664.7M    WAINWRIGHT           1392.0M                         
+    DEV (NC)                             HAYTER                         DINA MBR                        
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    RIFLE SHOT OIL CORP.                                                03-33-041-01W4                  
+                                                                                                        
+    VEI HZ PEMBINA 1-4-50-12             0497438   ALBERTA CROWN        945.4M                          
+    100/01-04-050-12W5/00  S   50.0M  W  142.0M    DRAYTON VALLEY       5345.0M                         
+    DEV (NC)                             PEMBINA                        ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    VERMILION ENERGY INC.                                               16-31-049-12W5                  
+                                                                                                        
+    TOURMALINE HZ VALHALLA 6-11-78-8     0497439   ALBERTA CROWN        751.9M                          
+    100/06-11-078-08W6/00  N  620.8M  E  430.8M    GRANDE PRAIRIE       3800.0M                         
+    DEV (NC)                             VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TOURMALINE OIL CORP.                                                06-10-078-08W6                  
+                                                                                                        
+    TOURMALINE HZ VALHALLA 15-15-78-8    0497440   ALBERTA CROWN        752M                            
+    100/15-15-078-08W6/00  N  629.6M  E  431.4M    GRANDE PRAIRIE       4100.0M                         
+    DEV (NC)                             VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TOURMALINE OIL CORP.                                                06-10-078-08W6                  
+                                                                                                        
+    TOURMALINE HZ VALHALLA 14-15-78-8    0497441   ALBERTA CROWN        752M                            
+    100/14-15-078-08W6/00  N  638.3M  E  431.9M    GRANDE PRAIRIE       4000.0M                         
+    DEV (NC)                             VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TOURMALINE OIL CORP.                                                06-10-078-08W6                  
+                                                                                                        
+    TOURMALINE HZ VALHALLA 13-15-78-8    0497442   ALBERTA CROWN        752M                            
+    100/13-15-078-08W6/00  N  647.0M  E  432.4M    GRANDE PRAIRIE       4000.0M                         
+    DEV (NC)                             VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TOURMALINE OIL CORP.                                                06-10-078-08W6                  
+                                                                                                        
+    SURGE ENERGY HZ VIK-KINS 16-7-45-7   0497443   FREEHOLD             666.5M                          
+    100/16-07-045-07W4/00  S  141.3M  W  374.0M    WAINWRIGHT           2580.0M                         
+    DEV (NC)                             VIKING-KINSELLA                SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   16-12-045-08W4                  
+                                                                                                        
+    SURGE ENERGY HZ VIK-KINS 16-13-45-8  0497444   ALBERTA CROWN        666.8M                          
+    100/16-13-045-08W4/00  S  141.3M  W  389.0M    WAINWRIGHT           2460.0M                         
+    DEV (NC)                             VIKING-KINSELLA                SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   16-12-045-08W4                  
+                                                                                                        
+    TXNE 4B-8 HZ ALDSON 12-31-14-13      0497445   FREEHOLD             743.8M                          
+    100/12-31-014-13W4/00  N   54.9M  E   98.7M    MEDICINE HAT         3325.0M                         
+    DEV (NC)                             ALDERSON                       LOWER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  04-08-015-13W4                  
+                                                                                                        
+    TXNE 4B-8 HZ ALDSON 10-12-15-14      0497446   FREEHOLD             743.8M                          
+    100/10-12-015-14W4/00  N   54.9M  E   86.7M    MEDICINE HAT         3325.0M                         
+    DEV (NC)                             ALDERSON                       LOWER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  04-08-015-13W4                  
+                                                                                                        
+    NEP 103 HZ LEDUC-WB 12-16-50-26      0497447   BOTH                 714.9M                          
+    103/12-16-050-26W4/00  N  632.3M  W  600.7M    ST. ALBERT           4500.0M                         
+    DEV (NC)                             LEDUC-WOODBEND                 NISKU FM                        
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    NEP CANADA ULC                                                      07-22-050-26W4                  
+                                                                                                        
+    NEP 103 HZ LEDUC-WB 12-21-50-26      0497448   BOTH                 715M                            
+    103/12-21-050-26W4/00  N  632.3M  W  630.7M    ST. ALBERT           4000.0M                         
+    DEV (NC)                             LEDUC-WOODBEND                 NISKU FM                        
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    NEP CANADA ULC                                                      07-22-050-26W4                  
+                                                                                                        
+    NEP 103 HZ LEDUC-WB 10-34-50-26      0497449   BOTH                 714.9M                          
+    103/10-34-050-26W4/00  N  632.3M  W  615.7M    ST. ALBERT           5125.0M                         
+    DEV (NC)                             LEDUC-WOODBEND                 NISKU FM                        
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    NEP CANADA ULC                                                      07-22-050-26W4                  
+                                                                                                        
+    HUSKY B 15-16 P0A STEEPBK 6-21-95-7  0497450   ALBERTA CROWN        471.6M                          
+    103/06-21-095-07W4/00  S  284.6M  E  710.1M    BONNYVILLE           1154.0M                         
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    HUSKY OIL OPERATIONS LIMITED                                        14-16-095-07W4                  
+                                                                                                        
+    MEG HARDY 10-32-76-5                 0497451   ALBERTA CROWN        574.6M                          
+    1AD/10-32-076-05W4/00  S  425.8M  W  427.8M    BONNYVILLE           407.0M                          
+    OV (C)                               HARDY                          MCMURRAY FM                     
+    VERTICAL                             NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    MEG ENERGY CORP.                                                    10-32-076-05W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SPL 12-32 HZ NIPISI 6-33-76-7         0491913    UWI:                                               
+    00/06-33-076-07W5/6                              00/11-33-076-07W5/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 12-32 HZ NIPISI 11-33-76-7                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     700.00 TO 2500.00                                  
+
+    ECA HZ WEMBLEY 14-24-72-9             0494035    GROUND ELEVATION                                   
+    100/14-24-072-09W6/00                            809.1                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0195.1 E 0663.3                                  
+
+    VEI HZ PEMBINA 12-33-49-12            0494966    GROUND ELEVATION                                   
+    100/12-33-049-12W5/00                            945.6                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0050.0 W 0157.0                                  
+
+    SPL 15-12 HZ 102 MARTENH 9-1-74-25    0495071    UWI:                                               
+    02/09-01-074-25W4/0                              00/15-13-074-25W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-12 HZ 102 MARTENH 15-13-74-25               
+
+    KCK 14-35 HZ KAKWA 13-11-62-5         0495266    UWI:                                               
+    00/13-11-062-05W6/0                              00/12-11-062-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     KCK 14-35 HZ KAKWA 12-11-62-5                      
+
+    R S R HZ VALHALLA 1-19-78-6           0495950    UWI:                                               
+    02/01-19-078-06W6/0                              02/16-18-078-06W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     R S R HZ VALHALLA 16-18-78-6                       
+
+    SPL 8-20 HZ 102 SMITH 1-19-73-24      0495970    UWI:                                               
+    02/01-19-073-24W4/3                              02/08-19-073-24W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 8-20 HZ 102 SMITH 8-19-73-24                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    JACOS HANGSTN 3-6-84-10               0496140    DRILLING OPERATION:                                
+    1AA/03-06-084-10W4/00                            DIRECTIONAL                                        
+
+                                                     GROUND ELEVATION                                   
+                                                     670.5                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     617.10                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0542.4 E 0719.2                                  
+
+                                                     SURFACE LOCATION:                                  
+                                                     06-06-084-10W4                                     
+
+    JACOS HANGSTN 16-7-84-10              0496579    GROUND ELEVATION                                   
+    1AA/16-07-084-10W4/00                            637.8                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0190.5 W 0265.6                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    JACOS OV2 HANGSTN 6-6-84-10           0496600    GROUND ELEVATION                                   
+    1AB/06-06-084-10W4/00                            670.4                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     620.90                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0545.4 E 0719.2                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    FHEC 20-WR687-MR1-VW  16-18-97-9      0497200    WELL NAME:                                         
+    1AB/16-18-097-09W4/00                            FHEC 20-WR687-MR1-VW 16-1                          
+
+                                                     GROUND ELEVATION                                   
+                                                     306.0                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     157.30                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0129.9 W 0080.4                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM GRANITE WASH                    
+
+    FHEC 20-WR699-MR1-VW  2-18-97-9       0497201    WELL NAME:                                         
+    1AA/02-18-097-09W4/00                            FHEC 20-WR699-MR1-VW 2-18                          
+
+                                                     PROJECTED DEPTH:                                   
+                                                     168.80                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 1623.0 W 0445.4                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM GRANITE WASH                    
+
+    FHEC 20-WR687-MR2-PW  16-18-97-9      0497203    WELL NAME:                                         
+    1AC/16-18-097-09W4/00                            FHEC 20-WR687-MR2-PW 16-1                          
+
+                                                     GROUND ELEVATION                                   
+                                                     306.2                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     152.70                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0130.4 W 0085.4                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    FHEC 20-WR699-MR2-PW  2-18-97-9       0497204    WELL NAME:                                         
+    1AB/02-18-097-09W4/00                            FHEC 20-WR699-MR2-PW 2-18                          
+
+                                                     GROUND ELEVATION                                   
+                                                     331.5                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     176.60                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 1619.0 W 0447.8                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    CARDINAL HZ COUNTESS 7-30-21-15       0497316    PROJECTED DEPTH:                                   
+    100/07-30-021-15W4/00                            3083.16                                            
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GLAUCONITIC SS                      
+
+    CNRL 5C BEAVX 5-1-62-2                0497419    UWI:                                               
+    00/05-01-062-02W4/0                              02/05-01-061-02W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL 5C BEAVRDM 5-1-61-2                           
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCLAREN MBR                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

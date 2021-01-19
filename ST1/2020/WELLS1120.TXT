@@ -1,0 +1,67 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 20 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    BEC HZ MORNSIDE 7-24-42-28           0498799   BOTH                 930.8M                          
+    102/07-24-042-28W4/00  S  101.0M  E  742.0M    RED DEER             5801.0M                         
+    DEV (NC)                             MORNINGSIDE                    UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BONAVISTA ENERGY CORPORATION                                        14-01-042-28W4                  
+                                                                                                        
+    BEC HZ MORNSIDE 6-24-42-28           0498800   BOTH                 931.7M                          
+    100/06-24-042-28W4/00  S  101.0M  E  722.0M    RED DEER             5772.0M                         
+    DEV (NC)                             MORNINGSIDE                    UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BONAVISTA ENERGY CORPORATION                                        14-01-042-28W4                  
+                                                                                                        
+    PEYTO SUNDANCE 12-1-56-21            0498801   ALBERTA CROWN        1256.1M                         
+    100/12-01-056-21W5/00  N  654.1M  W  225.6M    DRAYTON VALLEY       4210.0M                         
+    DEV (NC)                             SUNDANCE                       NOTIKEWIN MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               08-01-056-21W5                  
+                                                                                                        
+    PEYTO SUNDANCE 4-1-56-21             0498802   ALBERTA CROWN        1256.1M                         
+    100/04-01-056-21W5/00  N  647.4M  W  218.6M    DRAYTON VALLEY       4200.0M                         
+    DEV (NC)                             SUNDANCE                       NOTIKEWIN MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               08-01-056-21W5                  
+                                                                                                        
+    PARA HZ 102 ELM 16-32-66-4           0498803   ALBERTA CROWN        801M                            
+    102/16-32-066-04W6/00  N  217.6M  E  126.0M    GRANDE PRAIRIE       5600.0M                         
+    DEV (NC)                             ELMWORTH                       BELLOY FM                       
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PARAMOUNT RESOURCES LTD.                                            04-28-066-04W6                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    OUTLIER HZ KAYBOBS 14-17-60-17        0492100                                                       
+    102/14-17-060-17W5/00                                                                               
+
+    LONGSHORE HZ BILAW 12-17-80-9         0492107                                                       
+    100/12-17-080-09W6/00                                                                               
+
+    PEYTO SUNDANCE 8-10-54-22             0492109                                                       
+    103/08-10-054-22W5/00                                                                               
+
+    PEYTO SUNDANCE 16-3-54-22             0492110                                                       
+    102/16-03-054-22W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,400 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 10 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL 13C MURIELLK 13-30-59-4         0498680   ALBERTA CROWN        607.3M                          
+    103/13-30-059-04W4/00  S   62.6M  E  426.4M    BONNYVILLE           609.0M                          
+    DEV (NC)                             MURIEL LAKE                    REX MBR                         
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  14-30-059-04W4                  
+                                                                                                        
+    CNRL 13D MURIELLK 13-30-59-4         0498681   ALBERTA CROWN        607.3M                          
+    104/13-30-059-04W4/00  S   72.3M  E  434.3M    BONNYVILLE           467.0M                          
+    DEV (NC)                             MURIEL LAKE                    REX MBR                         
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  14-30-059-04W4                  
+                                                                                                        
+    CNRL 3C MURIELLK 3-31-59-4           0498682   ALBERTA CROWN        607.3M                          
+    103/03-31-059-04W4/00  S   82.0M  E  442.2M    BONNYVILLE           656.0M                          
+    DEV (NC)                             MURIEL LAKE                    CLEARWATER FM                   
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  14-30-059-04W4                  
+                                                                                                        
+    CNRL 14D MURIELLK 14-30-59-4         0498683   ALBERTA CROWN        607.3M                          
+    102/14-30-059-04W4/00  S   91.7M  E  450.1M    BONNYVILLE           498.0M                          
+    DEV (NC)                             MURIEL LAKE                    REX MBR                         
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  14-30-059-04W4                  
+                                                                                                        
+    CNRL 4A MURIELLK 4-31-59-4           0498684   ALBERTA CROWN        607.3M                          
+    104/04-31-059-04W4/00  S  101.5M  E  457.9M    BONNYVILLE           562.0M                          
+    DEV (NC)                             MURIEL LAKE                    REX MBR                         
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  14-30-059-04W4                  
+                                                                                                        
+    COPRC 100 OBS RESDELN 8-14-83-7      0498685   ALBERTA CROWN        674.6M                          
+    100/08-14-083-07W4/00  N  607.8M  W   30.9M    BONNYVILLE           474.0M                          
+    DSW (NC)                             RESDELN                        MCMURRAY FM                     
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    CONOCOPHILLIPS CANADA RESOURCES CORP.                               08-14-083-07W4                  
+                                                                                                        
+    OVV HZ WEMBLEY 13-36-71-9            0498686   ALBERTA CROWN        781.4M                          
+    100/13-36-071-09W6/00  N  417.3M  E  100.0M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  05-31-071-08W6                  
+                                                                                                        
+    OVV HZ 104 WEMBLEY 4-1-72-9          0498687   ALBERTA CROWN        781.4M                          
+    102/04-01-072-09W6/00  N  427.3M  E  100.0M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  05-31-071-08W6                  
+                                                                                                        
+    OVV HZ 103 WEMBLEY 4-1-72-9          0498688   ALBERTA CROWN        781.4M                          
+    103/04-01-072-09W6/00  N  437.3M  E  100.0M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  05-31-071-08W6                  
+                                                                                                        
+    OVV HZ 102 WEMBLEY 4-1-72-9          0498689   ALBERTA CROWN        781.4M                          
+    104/04-01-072-09W6/00  N  447.3M  E  100.0M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  05-31-071-08W6                  
+                                                                                                        
+    OVV HZ WEMBLEY 4-1-72-9              0498690   ALBERTA CROWN        781.4M                          
+    105/04-01-072-09W6/00  N  457.3M  E  100.0M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  05-31-071-08W6                  
+                                                                                                        
+    OVV HZ 104 WEMBLEY 5-1-72-9          0498691   ALBERTA CROWN        781.4M                          
+    104/05-01-072-09W6/00  N  472.3M  E  100.0M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  05-31-071-08W6                  
+                                                                                                        
+    OVV HZ 102 WEMBLEY 9-20-71-8         0498692   ALBERTA CROWN        781.4M                          
+    104/09-20-071-08W6/00  N  482.3M  E  100.0M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  05-31-071-08W6                  
+                                                                                                        
+    OVV HZ 103 WEMBLEY 9-20-71-8         0498693   ALBERTA CROWN        781.4M                          
+    105/09-20-071-08W6/00  N  492.3M  E  100.0M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  05-31-071-08W6                  
+                                                                                                        
+    OVV HZ 104 WEMBLEY 16-35-71-9        0498694   ALBERTA CROWN        781.5M                          
+    100/16-35-071-09W6/00  N  334.0M  E  170.0M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  04-31-071-08W6                  
+                                                                                                        
+    OVV HZ 103 WEMBLEY 16-35-71-9        0498695   ALBERTA CROWN        781.5M                          
+    102/16-35-071-09W6/00  N  344.0M  E  170.0M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  04-31-071-08W6                  
+                                                                                                        
+    OVV HZ 102 WEMBLEY 16-35-71-9        0498696   ALBERTA CROWN        781.5M                          
+    103/16-35-071-09W6/00  N  354.0M  E  170.0M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  04-31-071-08W6                  
+                                                                                                        
+    OVV HZ  WEMBLEY 16-35-71-9           0498697   ALBERTA CROWN        781.4M                          
+    104/16-35-071-09W6/00  N  364.0M  E  170.0M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  04-31-071-08W6                  
+                                                                                                        
+    OVV HZ 102 WEMBLEY 13-36-71-9        0498698   ALBERTA CROWN        781.4M                          
+    102/13-36-071-09W6/00  N  374.0M  E  170.0M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  04-31-071-08W6                  
+                                                                                                        
+    OVV HZ 103 WEMBLEY 1-20-71-8         0498699   ALBERTA CROWN        781.4M                          
+    104/01-20-071-08W6/00  N  389.0M  E  170.0M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  04-31-071-08W6                  
+                                                                                                        
+    OVV HZ 106 WEMBLEY 8-20-71-8         0498700   ALBERTA CROWN        781.4M                          
+    107/08-20-071-08W6/00  N  399.0M  E  170.0M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  04-31-071-08W6                  
+                                                                                                        
+    OVV HZ 102 WEMBLEY 8-20-71-8         0498701   ALBERTA CROWN        781.4M                          
+    108/08-20-071-08W6/00  N  409.0M  E  170.0M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  05-31-071-08W6                  
+                                                                                                        
+    BONTERRA HZ PEMBINA 3-30-46-7        0498702   ALBERTA CROWN        917.4M                          
+    100/03-30-046-07W5/00  N  201.3M  E  175.8M    DRAYTON VALLEY       3270.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BONTERRA ENERGY CORP.                                               04-31-046-07W5                  
+                                                                                                        
+    BONTERRA HZ 102 PEMBINA 4-30-46-7    0498703   ALBERTA CROWN        917.1M                          
+    102/04-30-046-07W5/00  N  201.3M  E  165.8M    DRAYTON VALLEY       3240.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BONTERRA ENERGY CORP.                                               04-31-046-07W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    GRL 102 HZ VALHALLA 1-29-78-7         0492951    UWI:                                               
+    02/01-29-078-07W6/0                              02/10-20-078-07W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     GRL 13-28 HZ 102 VALHALLA 10-20-78-7               
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0106.0 E 0127.0                                  
+
+    GRL 100 HZ VALHALLA 5-29-78-7         0493212    GROUND ELEVATION                                   
+    100/05-29-078-07W6/00                            683.5                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0106.0 E 0113.0                                  
+
+                                                     SURFACE LOCATION:                                  
+                                                     13-28-078-07W6                                     
+
+    BACCALIEU HZ BRAZR 16-22-48-12        0494364    SURFACE CO-ORDINATES:                              
+    100/16-22-048-12W5/00                            N 0208.5 E 0597.3                                  
+
+    WINSLOW FERRIER 4-25-44-10            0497389    SURFACE CO-ORDINATES:                              
+    102/04-25-044-10W5/00                            S 0055.6 E 0516.6                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM UPPER MANNVILLE FM                        
+
+    PEYTO SUNDANCE 12-7-55-20             0497603    PROJECTED DEPTH:                                   
+    103/12-07-055-20W5/00                            5050.00                                            
+
+    BONTERRA HZ 102 PEMBINA 14-21-46-7    0498209    SURFACE CO-ORDINATES:                              
+    102/14-21-046-07W5/00                            S 0202.7 E 0641.9                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CARDIUM FM                          
+
+    BONTERRA HZ 102 PEMBINA 2-28-46-7     0498210    SURFACE CO-ORDINATES:                              
+    102/02-28-046-07W5/00                            S 0202.7 E 0631.9                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CARDIUM FM                          
+
+    PEYTO CHAMBERS 1-23-41-11             0498248    GROUND ELEVATION                                   
+    100/01-23-041-11W5/00                            1083.3                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0264.4 W 0194.3                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM CARDIUM FM                                
+
+    PEYTO CHAMBERS 9-23-41-11             0498249    GROUND ELEVATION                                   
+    100/09-23-041-11W5/00                            1083.3                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0266.2 W 0189.8                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM CARDIUM FM                                
+
+    CRESTWYND HZ JILES 5-16-63-21         0498460    UWI:                                               
+    00/03-16-063-21W4/2                              00/05-16-063-21W4/2                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM UPPER MANNVILLE FM                  
+
+    SPL 5-22 HZ MARTENH 5-21-73-25        0498548    UWI:                                               
+    00/05-21-073-25W4/0                              00/08-20-073-25W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 5-22 HZ MARTENH 8-20-73-25                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    ECA HZ 106 WEMBLEY 8-20-71-8          0491765                                                       
+    106/08-20-071-08W6/00                                                                               
+
+    HEL HZ KAYBOB 3-17-65-18              0491767                                                       
+    100/03-17-065-18W5/00                                                                               
+
+    HEL HZ KAYBOB 13-24-65-19             0491768                                                       
+    100/13-24-065-19W5/00                                                                               
+
+    HEL HZ KAYBOB 14-24-65-19             0491773                                                       
+    100/14-24-065-19W5/00                                                                               
+
+    HUSKY HZ ANSELL 13-9-51-19            0491791                                                       
+    102/13-09-051-19W5/00                                                                               
+
+    IMP OB-10 STEEPBK 4-11-94-7           0491802                                                       
+    1AA/04-11-094-07W4/00                                                                               
+
+    IMP OB-11 STEEPBK 13-2-94-7           0491803                                                       
+    1AB/13-02-094-07W4/00                                                                               
+
+    IMP OB-12 STEEPBK 12-2-94-7           0491804                                                       
+    1AB/12-02-094-07W4/00                                                                               
+
+    IMP OB-24 STEEPBK 13-3-94-7           0491811                                                       
+    1AB/13-03-094-07W4/00                                                                               
+
+    IMP OB-26 14-34-93-7                  0491813                                                       
+    1AA/14-34-093-07W4/00                                                                               
+
+    IMP OB-29 STEEPBK 4-2-94-7            0491816                                                       
+    1AB/04-02-094-07W4/00                                                                               
+
+    IMP OB-30 STEEPBK 4-3-94-7            0491817                                                       
+    1AB/04-03-094-07W4/00                                                                               
+
+    IMP OB-31 STEEPBK 2-11-94-7           0491818                                                       
+    1AC/02-11-094-07W4/00                                                                               
+
+    IMP OB-32 STEEPBK 6-2-94-7            0491819                                                       
+    1AB/06-02-094-07W4/00                                                                               
+
+    IMP OB-33 STEEPBK 14-3-94-7           0491820                                                       
+    1AB/14-03-094-07W4/00                                                                               
+
+    IMP OB-14 STEEPBK 2-10-94-7           0491821                                                       
+    1AA/02-10-094-07W4/00                                                                               
+
+    IMP OB-15 STEEPBK 6-10-94-7           0491822                                                       
+    1AB/06-10-094-07W4/00                                                                               
+
+    IMP OB-16 STEEPBK 9-3-94-7            0491823                                                       
+    1AB/09-03-094-07W4/00                                                                               
+
+    IMP OB-17 STEEPBK 8-3-94-7            0491824                                                       
+    1AB/08-03-094-07W4/00                                                                               
+
+    IMP OB-18 STEEPBK 6-3-94-7            0491825                                                       
+    1AB/06-03-094-07W4/00                                                                               
+
+    IMP OB-19 STEEPBK 2-3-94-7            0491826                                                       
+    1AB/02-03-094-07W4/00                                                                               
+
+    IMP OB-20 STEEPBK 2-3-94-7            0491827                                                       
+    1AC/02-03-094-07W4/00                                                                               
+
+    IMP OB-21 STEEPBK 2-3-94-7            0491828                                                       
+    1AD/02-03-094-07W4/00                                                                               
+
+    IMP OB-22 STEEPBK 10-4-94-7           0491829                                                       
+    1AB/10-04-094-07W4/00                                                                               
+
+    IMP OB-23 STEEPBK 16-4-94-7           0491830                                                       
+    1AB/16-04-094-07W4/00                                                                               
+
+    BAYTEX HARMON 9-7-83-18               0491831                                                       
+    1AA/09-07-083-18W5/00                                                                               
+
+    BAYTEX HARMON 7-16-83-18              0491832                                                       
+    1AA/07-16-083-18W5/00                                                                               
+
+    BAYTEX HARMON 14-12-83-19             0491833                                                       
+    1AC/14-12-083-19W5/00                                                                               
+
+    IMP 18-OV-02 STEEPBK 1-10-94-7        0491835                                                       
+    1AB/01-10-094-07W4/00                                                                               
+
+    IMP 18-OV-05 15-34-93-7               0491836                                                       
+    1AB/15-34-093-07W4/00                                                                               
+
+    IMP 18-OV-12 STEEPBK 5-3-94-7         0491837                                                       
+    1AA/05-03-094-07W4/00                                                                               
+
+    IMP 18-OV-23 STEEPBK 3-2-94-7         0491838                                                       
+    1AA/03-02-094-07W4/00                                                                               
+
+    IMP OB-37 STEEPBK 11-11-94-7          0491839                                                       
+    1AB/11-11-094-07W4/00                                                                               
+
+    IMP OB-38 STEEPBK 4-14-94-7           0491840                                                       
+    1AB/04-14-094-07W4/00                                                                               
+
+    IMP OB-45 STEEPBK 10-11-94-7          0491841                                                       
+    1AD/10-11-094-07W4/00                                                                               
+
+    IMP OB-46 STEEPBK 11-11-94-7          0491842                                                       
+    1AC/11-11-094-07W4/00                                                                               
+
+    IMP OB-53 STEEPBK 9-2-94-7            0491844                                                       
+    1AC/09-02-094-07W4/00                                                                               
+
+    IMP OB-54 STEEPBK 15-11-94-7          0491845                                                       
+    1AA/15-11-094-07W4/00                                                                               
+
+    IMP 18-OV-25 STEEPBK 5-2-94-7         0491847                                                       
+    1AB/05-02-094-07W4/00                                                                               
+
+    IMP 18-OV-28 STEEPBK 5-11-94-7        0491848                                                       
+    1AC/05-11-094-07W4/00                                                                               
+
+    IMP 18-OV-29 STEEPBK 14-3-94-7        0491849                                                       
+    1AC/14-03-094-07W4/00                                                                               
+
+    IMP 18-OV-30 STEEPBK 10-3-94-7        0491850                                                       
+    1AB/10-03-094-07W4/00                                                                               
+
+    IMP 18-OV-39 STEEPBK 16-4-94-7        0491852                                                       
+    1AC/16-04-094-07W4/00                                                                               
+
+    IMP 18-OV-40 STEEPBK 1-11-94-7        0491853                                                       
+    1AB/01-11-094-07W4/00                                                                               
+
+    IMP 18-OV-38 STEEPBK 6-3-94-7         0491854                                                       
+    1AC/06-03-094-07W4/00                                                                               
+
+    IMP OB-35 STEEPBK 10-1-94-7           0491855                                                       
+    1AB/10-01-094-07W4/00                                                                               
+
+    ABE HZ 105 PROVOST 10-20-40-7         0496310                                                       
+    105/10-20-040-07W4/00                                                                               
+
+    ABE HZ 102 PROVOST 15-20-40-7         0496311                                                       
+    102/15-20-040-07W4/00                                                                               
+
+    ABE 103 PROVOST 4-21-40-7             0496312                                                       
+    103/04-21-040-07W4/00                                                                               
+
+    ABE HZ 109 PROVOST 7-20-40-7          0496314                                                       
+    109/07-20-040-07W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

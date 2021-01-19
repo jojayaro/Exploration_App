@@ -1,0 +1,97 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 20 May 2020                                                                                   
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    BACCALIEU HZ PEMBINA 16-4-47-10      0498052   ALBERTA CROWN        1008.1M                         
+    102/16-04-047-10W5/00  S  780.5M  W   70.0M    DRAYTON VALLEY       4000.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BACCALIEU ENERGY INC.                                               09-05-047-10W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CNRL KN01-07I DEVENISH 13-33-74-8     0484073    UWI:                                               
+    18/13-33-074-08W4/0                              W2/13-33-074-08W4/0                                
+
+    CVE D2-25 B15 FISHER 15-26-70-6       0496267    UWI:                                               
+    AA/15-26-070-06W4/2                              AA/05-25-070-06W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CVE D2-25 B15 FISHER 5-25-70-6                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    CRESTWYND RADWAY 16-23-59-20          0496782    UWI:                                               
+    00/16-23-059-20W4/9                              00/14-23-059-20W4/9                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND RADWAY 14-23-59-20                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM UPPER MANNVILLE FM                  
+
+    CRESTWYND RADWAY 16-23-59-20          0496782    UWI:                                               
+    00/16-23-059-20W4/8                              02/12-23-059-20W4/8                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND RADWAY 12-23-59-20                       
+
+    CRESTWYND RADWAY 16-23-59-20          0496782    UWI:                                               
+    00/16-23-059-20W4/7                              00/13-23-059-20W4/7                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND RADWAY 13-23-59-20                       
+
+    CNRL 15D FT KENT 15-9-63-4            0497557    UWI:                                               
+    02/15-09-063-04W4/0                              00/01-16-063-04W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL 1B COLD LK 1-16-63-4                          
+
+                                                     PROJECTED DEPTH:                                   
+                                                     582.00                                             
+
+                                                     TERMINATING ZONE:                                  
+                                                     LLOYDMINSTER MBR                                   
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0405.3 W 0078.4                                  
+
+                                                     SURFACE LOCATION:                                  
+                                                     08-16-063-04W4                                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM WASECA MBR                      
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    JUPITER HZ SMOKY 15-23-59-1           0489875                                                       
+    100/15-23-059-01W6/00                                                                               
+
+    BONTERRA 102 HZ PEMBINA 7-23-46-7     0494518                                                       
+    102/07-23-046-07W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

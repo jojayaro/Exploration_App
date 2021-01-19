@@ -1,0 +1,94 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 05 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SHACKLETON FERIN 3-15-44-20          0498665   BOTH                 782.2M                          
+    100/03-15-044-20W4/00  N   60.0M  E  610.7M    ST. ALBERT           2660.0M                         
+    DEV (NC)                             FERINTOSH                      UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SHACKLETON EXPLORATION LTD.                                         03-22-044-20W4                  
+                                                                                                        
+    IMP T05-PSW ETHELLK 5-32-64-3        0498666   ALBERTA CROWN        634.9M                          
+    107/05-32-064-03W4/00  N  637.5M  E    2.7M    BONNYVILLE           449.0M                          
+    DSW (NC)                             ETHEL LAKE                     GRAND RAPIDS FM                 
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    IMPERIAL OIL RESOURCES LIMITED                                      05-32-064-03W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    WESTBRICK HZ BRAZR 4-23-46-13         0494619    SURFACE CO-ORDINATES:                              
+    100/04-23-046-13W5/00                            N 0558.5 E 0370.6                                  
+
+    CRESTWYND HZ JILES 15-20-63-21        0498086    TARGET SUBSTANCE(1)                                
+    1S0/15-20-063-21W4/06                            CRUDE OIL FROM CLEARWATER                          
+
+    CRESTWYND HZ MEANOOK 15-30-63-21      0498087    UWI:                                               
+    02/11-30-063-21W4/7                              00/10-30-063-21W4/7                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND HZ MEANOOK 10-30-63-21                   
+
+    CRESTWYND HZ MEANOOK 15-30-63-21      0498087    UWI:                                               
+    02/11-30-063-21W4/7                              00/10-30-063-21W4/7                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND HZ MEANOOK 10-30-63-21                   
+
+    CRESTWYND HZ MEANOOK 15-30-63-21      0498087    UWI:                                               
+    02/11-30-063-21W4/7                              00/10-30-063-21W4/7                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND HZ MEANOOK 10-30-63-21                   
+
+    WESTBRICK HZ PEMBINA 16-18-45-11      0498151    SURFACE CO-ORDINATES:                              
+    100/16-18-045-11W5/00                            S 0228.6 W 0032.0                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM UPPER MANNVILLE FM                        
+
+    WESTBRICK HZ PEMBINA 14-18-45-11      0498153    WELL NAME:                                         
+    102/02-18-045-11W5/00                            WESTBRICK HZ PEMBINA 2-18                          
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0228.6 W 0002.0                                  
+
+    WESTBRICK HZ BRAZR 5-28-46-13         0498521    SURFACE CO-ORDINATES:                              
+    100/05-28-046-13W5/00                            N 0551.1 E 0363.9                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.02                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM ROCK CREEK MBR                      
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    JUPITER HZ KAKWA 16-26-62-7           0491709                                                       
+    100/16-26-062-07W6/00                                                                               
+
+    ATH L8I1 LEISMER 14-5-79-10           0491728                                                       
+    102/14-05-079-10W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

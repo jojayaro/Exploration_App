@@ -1,0 +1,22 @@
+Report Number: ST-49                                                                         Alberta Energy Regulator                                                                                 Page 1 of 1
+Run Date: 06 Oct 2020                                                                      DAILY DRILLING ACTIVITY LIST                                                                                          
+                                                                              For the Notification Period 05 Oct 2020 To 06 Oct 2020                                                                             
+
+      WELL ID                   WELL NAME             LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID            LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                               BA ID               NAME              NUMBER                                                                              TOTAL DEPTH     TYPE    
+------------------- --------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------------ ------------- -----------
+00/04-31-056-25W5/0 TOURMALINE HZ WILD RIV 4-31-56-25  0498188 0Z41   Ensign Drilling Inc.               39 05 Oct 2020 11:32:00 PM Drayton Valley A573  Tourmaline Oil Corp.                         Resumption 
+05/01-09-066-04W4/0 IMP H92-H08 LEMING 1-9-66-4        0498224 0Y55   Akita Drilling Ltd.                21 06 Oct 2020 09:15:00 AM Bonnyville     0007  Imperial Oil Resources Limited               Resumption 
+02/05-14-071-08W6/0 PIPE 102 HZ ELM 5-14-71-8          0497193 0Y52   Precision Drilling Corporation    520 05 Oct 2020 08:45:00 PM Grande Prairie A82B  Pipestone Energy Corp.                       Drill To LD
+02/04-11-074-25W4/0 DELTASTREAM MARTENH 4-11-74-25     0498316 A2CL   Komat Drilling Ltd.                 3 06 Oct 2020 03:00:00 AM St. Albert     A6YA  Deltastream Energy Corporation               Set Surface
+02/13-01-075-25W4/0 DELTASTREAM MARTENH 13-1-75-25     0497320 A0KC   Horizon Drilling Inc.              14 06 Oct 2020 05:12:00 PM St. Albert     A6YA  Deltastream Energy Corporation               Resumption 
+04/12-12-077-07W5/0 SPL 9-10 HZ 104 NIPISI 12-12-77-7  0498357 0GE9   Tempco Drilling Company Inc.        7 06 Oct 2020 02:45:00 PM St. Albert     A7GR  Spur Petroleum Ltd.                          Drill To LD
+
+                                                                    TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 2                                                                    
+                                                                    TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                    
+                                                                    TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 3                                                                    
+                                                                    TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                                    
+
+                                                                                        TOTAL NUMBER OF WELLS LISTED = 6                                                                                         
+                                                                                              *** END OF REPORT ***                                                                                              
+

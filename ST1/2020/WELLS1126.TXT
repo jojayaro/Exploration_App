@@ -1,0 +1,100 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 26 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    VEI HZ CARROT 4-30-53-13             0498821   ALBERTA CROWN        873.5M                          
+    100/04-30-053-13W5/00  N  319.1M  W   85.0M    DRAYTON VALLEY       5030.0M                         
+    DEV (NC)                             CARROT CREEK                   ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    VERMILION ENERGY INC.                                               01-29-053-13W5                  
+                                                                                                        
+    VEI HZ WESTPEM 12-16-50-13           0498822   ALBERTA CROWN        980.5M                          
+    100/12-16-050-13W5/00  S  317.4M  E  178.1M    DRAYTON VALLEY       5630.0M                         
+    DEV (NC)                             WESTPEM                        ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    VERMILION ENERGY INC.                                               13-14-050-13W5                  
+                                                                                                        
+    VEI HZ WESTPEM 13-16-50-13           0498823   ALBERTA CROWN        980.4M                          
+    100/13-16-050-13W5/00  S  331.4M  E  172.6M    DRAYTON VALLEY       5537.0M                         
+    DEV (NC)                             WESTPEM                        ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    VERMILION ENERGY INC.                                               13-14-050-13W5                  
+                                                                                                        
+    BIR 4-4 HZ 102 PCOUPES 7-7-78-13     0498824   ALBERTA CROWN        846.6M                          
+    102/07-07-078-13W6/00  N  247.0M  E  144.7M    GRANDE PRAIRIE       5441.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              04-04-078-13W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SPL 1-31 HZ NIPISI 3-33-76-7           0498816   UWI:                                               
+    00/03-33-076-07W5/0                              00/04-29-076-07W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 1-31 HZ NIPISI 4-29-76-7                       
+
+                                                     PROJECTED DEPTH:                                   
+                                                     2600.00                                            
+
+    OUC 102 HZ FERRIER 9-17-39-8          0494020    GROUND ELEVATION                                   
+    102/09-17-039-08W5/00                            1046.7                                             
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5191.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0690.3 E 0125.0                                  
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CANAMAX 02 PUSKWA 9-15-74-1            0495957   UWI:                                               
+    02/09-15-074-01W6/0                              00/04-15-074-01W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     CANAMAX HZ PUSKWA 4-15-74-1                        
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     04-15-074-01W6                                     
+
+    CANAMAX 02 PUSKWA 9-15-74-1            0495957   UWI:                                               
+    02/09-15-074-01W6/3                              02/04-15-074-01W6/3                                
+
+                                                     WELL NAME:                                         
+                                                     CANAMAX HZ PUSKWA 4-15-74-1                        
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     04-15-074-01W6                                     
+
+    CANAMAX 02 PUSKWA 9-15-74-1            0495957   UWI:                                               
+    02/09-15-074-01W6/2                              02/06-15-074-01W6/2                                
+
+                                                     WELL NAME:                                         
+                                                     CANAMAX 02 HZ PUSKWA 6-15-74-1                     
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     06-15-074-01W6                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

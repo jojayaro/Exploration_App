@@ -1,0 +1,343 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 14 January 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SURGE ENERGY HZ PROVOST 16-4-37-3    0497368   ALBERTA CROWN        661M                            
+    100/16-04-037-03W4/00  S  281.5M  W  288.1M    WAINWRIGHT           2650.0M                         
+    DEV (NC)                             PROVOST                        SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SURGE ENERGY INC.                                                   16-05-037-03W4                  
+                                                                                                        
+    TOURMALINE HZ102 VALHALLA 14-14-78-7 0497369   ALBERTA CROWN        720.2M                          
+    102/14-14-078-07W6/00  N  100.0M  E  210.0M    GRANDE PRAIRIE       4500.0M                         
+    DEV (NC)                             VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TOURMALINE OIL CORP.                                                04-11-078-07W6                  
+                                                                                                        
+    TOURMALINE HZ102 VALHALLA 15-14-78-7 0497370   ALBERTA CROWN        720.3M                          
+    102/15-14-078-07W6/00  N   91.3M  E  210.0M    GRANDE PRAIRIE       4500.0M                         
+    DEV (NC)                             VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TOURMALINE OIL CORP.                                                04-11-078-07W6                  
+                                                                                                        
+    NORTH 40 HZ CESFRD WAYNE 11-7-27-17  0497371   BOTH                 795.3M                          
+    100/11-07-027-17W4/00  N   66.9M  E  385.0M    MEDICINE HAT         3736.0M                         
+    DEV (NC)                             WAYNE-ROSEDALE                 BANFF FM                        
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    NORTH 40 RESOURCES LTD.                                             04-19-027-17W4                  
+                                                                                                        
+    BAYTEX HZ 12C ESTHER 12-7-32-1       0497372   ALBERTA CROWN        704.2M                          
+    100/12-07-032-01W4/00  S  299.5M  E  164.0M    MEDICINE HAT         2400.0M                         
+    DEV (C)                              ESTHER                         VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BAYTEX ENERGY LTD.                                                  13-08-032-01W4                  
+                                                                                                        
+    CNRL 3A LIND 3-10-56-4               0497373   ALBERTA CROWN        609.8M                          
+    100/03-10-056-04W4/00  N  664.1M  W  495.2M    BONNYVILLE           790.0M                          
+    DEV (NC)                             LINDBERGH                      CLEARWATER FM                   
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  07-10-056-04W4                  
+                                                                                                        
+    CNRL 10C LIND 10-10-56-4             0497374   ALBERTA CROWN        609.9M                          
+    100/10-10-056-04W4/00  N  660.2M  W  481.8M    BONNYVILLE           728.0M                          
+    DEV (NC)                             LINDBERGH                      CLEARWATER FM                   
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  07-10-056-04W4                  
+                                                                                                        
+    CNRL 16B LIND 16-10-56-4             0497375   ALBERTA CROWN        609.9M                          
+    102/16-10-056-04W4/00  N  656.2M  W  468.3M    BONNYVILLE           865.0M                          
+    DEV (NC)                             LINDBERGH                      CLEARWATER FM                   
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  07-10-056-04W4                  
+                                                                                                        
+    CNRL 9B LIND 9-10-56-4               0497376   ALBERTA CROWN        610M                            
+    102/09-10-056-04W4/00  N  652.3M  W  454.9M    BONNYVILLE           575.0M                          
+    DEV (NC)                             LINDBERGH                      CLEARWATER FM                   
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  07-10-056-04W4                  
+                                                                                                        
+    CNRL 12C LIND 12-11-56-4             0497377   ALBERTA CROWN        610.1M                          
+    100/12-11-056-04W4/00  N  648.3M  W  441.5M    BONNYVILLE           918.0M                          
+    DEV (NC)                             LINDBERGH                      CLEARWATER FM                   
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  07-10-056-04W4                  
+                                                                                                        
+    CNRL 5C LIND 5-11-56-4               0497378   ALBERTA CROWN        610.2M                          
+    100/05-11-056-04W4/00  N  639.5M  W  428.9M    BONNYVILLE           800.0M                          
+    DEV (NC)                             LINDBERGH                      CLEARWATER FM                   
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  07-10-056-04W4                  
+                                                                                                        
+    CNRL 7C LIND 7-10-56-4               0497379   ALBERTA CROWN        610.3M                          
+    100/07-10-056-04W4/00  N  643.3M  W  413.8M    BONNYVILLE           585.0M                          
+    DEV (NC)                             LINDBERGH                      CLEARWATER FM                   
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  07-10-056-04W4                  
+                                                                                                        
+    CNRL 4D LIND 4-9-56-4                0497380   ALBERTA CROWN        592.8M                          
+    100/04-09-056-04W4/00  N  287.4M  E  653.5M    BONNYVILLE           566.0M                          
+    DEV (NC)                             LINDBERGH                      CLEARWATER FM                   
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  03-09-056-04W4                  
+                                                                                                        
+    CNRL 1A LIND 1-8-56-4                0497381   ALBERTA CROWN        593.2M                          
+    102/01-08-056-04W4/00  N  283.1M  E  667.9M    BONNYVILLE           913.0M                          
+    DEV (NC)                             LINDBERGH                      CLEARWATER FM                   
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  03-09-056-04W4                  
+                                                                                                        
+    CNRL 15B LIND 15-4-56-4              0497382   ALBERTA CROWN        593.7M                          
+    100/15-04-056-04W4/00  N  278.8M  E  682.3M    BONNYVILLE           775.0M                          
+    DEV (NC)                             LINDBERGH                      CLEARWATER FM                   
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  03-09-056-04W4                  
+                                                                                                        
+    CNRL 16C LIND 16-4-56-4              0497383   ALBERTA CROWN        594.2M                          
+    102/16-04-056-04W4/00  N  280.3M  E  698.4M    BONNYVILLE           772.0M                          
+    DEV (NC)                             LINDBERGH                      CLEARWATER FM                   
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  03-09-056-04W4                  
+                                                                                                        
+    CNRL 6C LIND 6-9-56-4                0497384   ALBERTA CROWN        594.1M                          
+    100/06-09-056-04W4/00  N  291.2M  E  710.6M    BONNYVILLE           672.0M                          
+    DEV (NC)                             LINDBERGH                      CLEARWATER FM                   
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  03-09-056-04W4                  
+                                                                                                        
+    CNRL 2C LIND 2-9-56-4                0497385   ALBERTA CROWN        594.3M                          
+    100/02-09-056-04W4/00  N  289.5M  E  725.5M    BONNYVILLE           525.0M                          
+    DEV (NC)                             LINDBERGH                      CLEARWATER FM                   
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  03-09-056-04W4                  
+                                                                                                        
+    CNRL 8B LIND 8-9-56-4                0497386   ALBERTA CROWN        594.5M                          
+    100/08-09-056-04W4/00  N  287.7M  E  740.4M    BONNYVILLE           809.0M                          
+    DEV (NC)                             LINDBERGH                      CLEARWATER FM                   
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  03-09-056-04W4                  
+                                                                                                        
+    TXNE 1B-6 HZ COUNTESS 4-31-20-17     0497387   FREEHOLD             774.5M                          
+    100/04-31-020-17W4/00  N  144.8M  W  399.0M    MIDNAPORE            3250.0M                         
+    DEV (NC)                             COUNTESS                       LOWER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  01-06-021-17W4                  
+                                                                                                        
+    TXNE 1B-6 HZ COUNTESS 10-30-20-17    0497388   FREEHOLD             774.7M                          
+    103/10-30-020-17W4/00  N  144.8M  W  384.0M    MIDNAPORE            3550.0M                         
+    DEV (NC)                             COUNTESS                       LOWER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  01-06-021-17W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    GEAR 7HZ 102 WILDMERE 14-29-48-5      0487566    UWI:                                               
+    02/12-29-048-05W4/6                              03/13-29-048-05W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     GEAR 7HZ 102 WILDMERE 13-29-48-5                   
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GENERAL PETROLEUM MBR               
+
+    GEAR 9HZ WILDMERE 12-29-48-5          0487568    UWI:                                               
+    00/12-29-048-05W4/7                              04/13-29-048-05W4/7                                
+
+                                                     WELL NAME:                                         
+                                                     GEAR 9 HZ WILDMERE 13-29-48-5                      
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM SPARKY MBR                          
+
+    CNRL HZ 102 WEMBLEY 4-20-73-9         0491018    UWI:                                               
+    02/04-20-073-09W6/0                              02/14-36-073-10W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL HZ WEMBLEY 14-36-73-10                        
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5459.00                                            
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     1                                                  
+
+    CNRL HZ WEMBLEY 14-36-73-10           0491287    UWI:                                               
+    00/14-36-073-10W6/0                              02/13-36-073-10W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL 102 HZ WEMBLEY 13-36-73-10                    
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5894.00                                            
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     1                                                  
+
+    TOURMALINE HZ LELAND 2-30-57-27       0493871    UWI:                                               
+    00/02-30-057-27W5/0                              00/02-25-057-01W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ SMOKY 2-25-57-1                      
+
+    CVE 5-35 HZ MARTENH 4-34-74-25        0495041    UWI:                                               
+    00/04-34-074-25W4/0                              00/05-35-074-25W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CVE 5-35 HZ MARTENH 5-35-74-25                     
+
+    CVE 9-22 MARTENH 9-23-74-26           0495275    UWI:                                               
+    00/09-23-074-26W4/0                              00/09-22-074-26W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CVE 9-22 MARTENH 9-22-74-26                        
+
+    SPL 3-36 HZ NIPISI 3-31-76-6          0495937    GROUND ELEVATION                                   
+    100/03-31-076-06W5/00                            754.1                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0361.3 E 0492.5                                  
+
+    SPL 3-36 HZ 102 NIPISI 3-31-76-6      0495938    GROUND ELEVATION                                   
+    102/03-31-076-06W5/00                            754.3                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0361.0 E 0502.5                                  
+
+    SPL 8-20 HZ SMITH 6-22-73-24          0495973    UWI:                                               
+    00/05-22-073-24W4/5                              00/06-22-073-24W4/5                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 11-31 HZ 102 MARTEN 13-6-76-5     0495988    UWI:                                               
+    02/13-06-076-05W5/8                              W0/13-06-076-05W5/8                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2800.00                                  
+
+    SPL 11-31 HZ MARTEN 15-6-76-5         0495989    UWI:                                               
+    00/15-06-076-05W5/2                              02/14-06-076-05W5/2                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 11-31 HZ MARTEN 14-6-76-5                      
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2800.00                                  
+
+    7GEN HZ 103 KAKWA 2-10-62-4           0496041    UWI:                                               
+    03/02-10-062-04W6/0                              02/13-11-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 103 KAKWA 13-11-62-4                       
+
+    WLEC MHZ 1B2 SWIMMING 2-19-52-6       0496476    UWI:                                               
+    02/02-19-052-06W4/2                              00/07-19-052-06W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC MHZ 1B2 SWIMMING 7-19-52-6                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM REX MBR                             
+
+    OUC HZ FERRIER 15-24-39-9             0496783    PROJECTED DEPTH:                                   
+    100/15-24-039-09W5/00                            4039.00                                            
+
+    BONTERRA 102 HZ WILLGR 2-36-39-6      0496800    SURFACE CO-ORDINATES:                              
+    102/02-36-039-06W5/00                            N 0173.7 W 0529.7                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CARDIUM FM                          
+
+    NUVISTA 104 HZ B WEMBLEY 4-30-72-9    0496862    PROJECTED DEPTH:                                   
+    104/04-30-072-09W6/00                            6094.00                                            
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.43                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     1                                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    NUVISTA 100 HZ C WEMBLEY 5-30-72-9    0496863    PROJECTED DEPTH:                                   
+    100/05-30-072-09W6/00                            6243.00                                            
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.43                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     1                                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    GEAR 2HZ 102 WILDMERE 13-29-48-5      0487567                                                       
+    102/13-29-048-05W4/00                                                                               
+
+    CNRL 8B WOLF LK 8-2-65-6              0487585                                                       
+    100/08-02-065-06W4/00                                                                               
+
+    CNRL 9A WOLF LK 9-2-65-6              0487586                                                       
+    100/09-02-065-06W4/00                                                                               
+
+    TOURMALINE HZ MINEHEAD 3-5-49-19      0487592                                                       
+    100/03-05-049-19W5/00                                                                               
+
+    CVE B07P02-1 HARDY 5-13-76-6          0493215                                                       
+    123/05-13-076-06W4/00                                                                               
+
+    OAN RESOURCES PANNY 9-34-95-5         0493260                                                       
+    100/09-34-095-05W5/00                                                                               
+
+    TXNE HUSSAR 1-28-27-20                0493261                                                       
+    102/01-28-027-20W4/00                                                                               
+
+    LANCE HZ WOOLFD 14-13-2-24            0493331                                                       
+    100/14-13-002-24W4/00                                                                               
+
+    JUPITER HZ KAKWA 1-32-61-6            0493354                                                       
+    103/01-32-061-06W6/00                                                                               
+
+    JUPITER HZ KAKWA 2-32-61-6            0493355                                                       
+    103/02-32-061-06W6/00                                                                               
+
+    KNOWLEDGE HZ MIRAGE 4-6-79-6          0493360                                                       
+    100/04-06-079-06W6/00                                                                               
+
+    TXNR ALDSON 5-4-15-13                 0493375                                                       
+    102/05-04-015-13W4/00                                                                               
+
+    KNOWLEDGE HZ VALHALLA 4-31-78-6       0493376                                                       
+    102/04-31-078-06W6/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

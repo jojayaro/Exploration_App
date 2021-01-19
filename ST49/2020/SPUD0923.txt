@@ -1,0 +1,21 @@
+Report Number: ST-49                                                                      Alberta Energy Regulator                                                                               Page 1 of 1
+Run Date: 23 Sep 2020                                                                   DAILY DRILLING ACTIVITY LIST                                                                                        
+                                                                           For the Notification Period 22 Sep 2020 To 23 Sep 2020                                                                           
+
+      WELL ID                    WELL NAME               LICENCE  +--------CONTRACTOR---------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID            LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                                  BA ID           NAME          NUMBER                                                                              TOTAL DEPTH     TYPE    
+------------------- ------------------------------------ -------- ------ ---------------------- ------ ----------------------- -------------- ----- ------------------------------ ------------- -----------
+00/02-31-056-25W5/0 TOURMALINE HZ WILD RIV 2-31-56-25     0498189 0Z41   Ensign Drilling Inc.     T039 22 Sep 2020 04:30:00 PM Drayton Valley A573  Tourmaline Oil Corp.                         Set Surface
+13/05-10-066-04W4/0 IMP H92-H06 LEMING 5-10-66-4          0498222 0Y55   Akita Drilling Ltd.        21 22 Sep 2020 12:30:00 PM Bonnyville     0007  Imperial Oil Resources Limited               Resumption 
+00/04-23-073-09W6/0 KELT EXP HZ WEMBLEY 4-23-73-9         0495955 A08C   Savanna Drilling Corp.    656 23 Sep 2020 04:00:00 AM Grande Prairie A6D7  Kelt Exploration Ltd.                        Drill To LD
+05/08-09-076-13W6/0 AVN 105 HZ PCOUPES 8-9-76-13          0498125 A0KC   Horizon Drilling Inc.      30 22 Sep 2020 08:30:00 PM Grande Prairie 0TD9  Advantage Oil & Gas Ltd.                     Drill To LD
+S0/04-04-096-10W4/0 SYNCRUDE 201735L01 ATHA OS 4-4-96-10  0498354 0Y80   SDS Drilling               37 22 Sep 2020 07:45:00 PM Bonnyville     0362  Syncrude Canada Ltd.                         Drill To LD
+
+                                                                 TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 3                                                                  
+                                                                 TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                  
+                                                                 TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 1                                                                  
+                                                                 TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                                  
+
+                                                                                      TOTAL NUMBER OF WELLS LISTED = 5                                                                                      
+                                                                                           *** END OF REPORT ***                                                                                            
+

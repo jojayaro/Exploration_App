@@ -1,0 +1,190 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 28 January 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SUNCOR OB64 DOVER 15-7-93-12         0100307F  ALBERTA CROWN        433.1M                          
+    133/15-07-093-12W4/02  S   19.1M  W  733.7M    BONNYVILLE           152.8M                        
+    DSW (NC)                             UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             RESUMPTIONOBSERVATION          NONE                            
+    SUNCOR ENERGY INC.                                                  15-07-093-12W4                  
+                                                                                                        
+    YANGARRA 102 HZ CHEDDER 3-4-37-7     0497554   ALBERTA CROWN        1072.1M                         
+    100/03-04-037-07W5/00  N  355.6M  W  391.3M    RED DEER             5665.0M                         
+    DEV (NC)                             CHEDDERVILLE                   CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    YANGARRA RESOURCES CORP.                                            01-16-037-07W5                  
+                                                                                                        
+    CNRL 4A FT KENT 4-15-63-4            0497555   ALBERTA CROWN        542.6M                          
+    100/04-15-063-04W4/00  N  414.6M  W   90.1M    BONNYVILLE           713.0M                          
+    DEV (NC)                             FORT KENT                      LLOYDMINSTER MBR                
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  08-16-063-04W4                  
+                                                                                                        
+    CNRL 15C FT KENT 15-9-63-4           0497556   ALBERTA CROWN        542.6M                          
+    100/15-09-063-04W4/00  N  405.3M  W   78.4M    BONNYVILLE           939.0M                          
+    DEV (NC)                             FORT KENT                      LLOYDMINSTER MBR                
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  08-16-063-04W4                  
+                                                                                                        
+    CNRL 15D FT KENT 15-9-63-4           0497557   ALBERTA CROWN        542.6M                          
+    102/15-09-063-04W4/00  N  395.9M  W   66.7M    BONNYVILLE           769.0M                          
+    DEV (NC)                             FORT KENT                      DINA MBR                        
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  01-16-063-04W4                  
+                                                                                                        
+    CNRL 16B FT KENT 16-9-63-4           0497558   ALBERTA CROWN        542.6M                          
+    102/16-09-063-04W4/00  N  386.5M  W   55.0M    BONNYVILLE           871.0M                          
+    DEV (NC)                             FORT KENT                      LLOYDMINSTER MBR                
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  01-16-063-04W4                  
+                                                                                                        
+    PEYTO CHAMBERS 15-34-41-11           0497559   ALBERTA CROWN        1065.5M                         
+    100/15-34-041-11W5/00  S  377.4M  E  121.7M    RED DEER             5075.0M                         
+    DEV (C)                              CHAMBERS                       MANNVILLE GRP                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               13-36-041-11W5                  
+                                                                                                        
+    PIPE HZ ELM 12-17-71-8               0497560   ALBERTA CROWN        726.2M                          
+    100/12-17-071-08W6/00  N  704.5M  E  645.4M    GRANDE PRAIRIE       5861.0M                         
+    DEV (C)                              ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PIPESTONE ENERGY CORP.                                              06-24-071-08W6                  
+                                                                                                        
+    PIPE HZ ELM 5-17-71-8                0497561   ALBERTA CROWN        726.2M                          
+    100/05-17-071-08W6/00  N  704.5M  E  655.4M    GRANDE PRAIRIE       5727.0M                         
+    DEV (C)                              ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PIPESTONE ENERGY CORP.                                              06-24-071-08W6                  
+                                                                                                        
+    PIPE 102 HZ ELM 5-17-71-8            0497562   ALBERTA CROWN        726.2M                          
+    102/05-17-071-08W6/00  N  704.5M  E  665.4M    GRANDE PRAIRIE       5658.0M                         
+    DEV (C)                              ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PIPESTONE ENERGY CORP.                                              06-24-071-08W6                  
+                                                                                                        
+    PIPE 103 HZ ELM 5-17-71-8            0497563   ALBERTA CROWN        725.8M                          
+    103/05-17-071-08W6/00  N  654.5M  E  665.4M    GRANDE PRAIRIE       5557.0M                         
+    DEV (C)                              ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PIPESTONE ENERGY CORP.                                              06-24-071-08W6                  
+                                                                                                        
+    PIPE 104 HZ ELM 5-17-71-8            0497564   ALBERTA CROWN        725.9M                          
+    104/05-17-071-08W6/00  N  654.5M  E  655.4M    GRANDE PRAIRIE       5571.0M                         
+    DEV (C)                              ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PIPESTONE ENERGY CORP.                                              06-24-071-08W6                  
+                                                                                                        
+    PIPE HZ ELM 4-17-71-8                0497565   ALBERTA CROWN        725.8M                          
+    100/04-17-071-08W6/00  N  654.5M  E  645.4M    GRANDE PRAIRIE       5530.0M                         
+    DEV (C)                              ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PIPESTONE ENERGY CORP.                                              06-24-071-08W6                  
+                                                                                                        
+    TXNE 13C-28 DV COUNTESS 16-29-22-17  0497566   FREEHOLD             785.1M                          
+    102/16-29-022-17W4/00  S  132.7M  E  159.1M    MIDNAPORE            1375.0M                         
+    DEV (NC)                             COUNTESS                       BASAL QUARTZ SD                 
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  13-28-022-17W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    BLDR 8B-34 HZ BRAZR 2-27-46-15        0496531    UWI:                                               
+    00/02-27-046-15W5/0                              02/07-27-046-15W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     BLDR 8B-34 HZ BRAZR 7-27-46-15                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM BELLY RIVER GROUP                   
+
+    R S R HZ GORD 8-6-79-9                0496543    UWI:                                               
+    00/08-06-079-09W6/0                              00/01-06-079-09W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     R S R HZ GORD 1-6-79-9                             
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.08                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CHARLIE LAKE FM                     
+
+    SUNCOR OB240 FIREBAG 7-30-94-5        0496574    GROUND ELEVATION                                   
+    1AB/07-30-094-05W4/00                            586.0                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0496.2 W 0690.6                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    RSO 106 PROVOST 16-21-39-6            0497506    TERMINATING ZONE:                                  
+    106/16-21-039-06W4/00                            DINA MBR                                           
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.06                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     WATER FROM DINA MBR                                
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    PEYTO SUNDANCE 13-7-55-20             0487771                                                       
+    100/13-07-055-20W5/00                                                                               
+
+    CNUL HZ 108 CADOTTE 4-22-84-17        0487774                                                       
+    108/04-22-084-17W5/00                                                                               
+
+    CNRL WDW HZ MCM05 KIRBY 2-22-74-10    0487777                                                       
+    100/02-22-074-10W4/00                                                                               
+
+    CNUL HZ NAMPA 16-19-84-16             0487791                                                       
+    100/16-19-084-16W5/00                                                                               
+
+    CNUL HZ 102 NAMPA 16-19-84-16         0487797                                                       
+    102/16-19-084-16W5/00                                                                               
+
+    CNUL 108 CADOTTE 1-24-84-17           0487798                                                       
+    108/01-24-084-17W5/00                                                                               
+
+    OUTLIER HZ KAYBOBS 11-14-59-17        0487799                                                       
+    100/11-14-059-17W5/00                                                                               
+
+    CNRL ET AL HZ KARR 15-4-64-2          0487816                                                       
+    100/15-04-064-02W6/00                                                                               
+
+    CNRL ET AL HZ KARR 16-4-64-2          0487817                                                       
+    100/16-04-064-02W6/00                                                                               
+
+    CITY OF MEDH 102 ALDSON 12-6-15-11    0493516                                                       
+    102/12-06-015-11W4/00                                                                               
+
+    WHITECAP PEMBINA 13-19-50-10          0493549                                                       
+    100/13-19-050-10W5/00                                                                               
+
+    ABE 102 HZ CHIGWELL 16-2-43-26        0493570                                                       
+    102/16-02-043-26W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

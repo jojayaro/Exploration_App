@@ -1,0 +1,193 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 09 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    BACCALIEU HZ BRAZR 15-22-48-12       0498675   ALBERTA CROWN        950.3M                          
+    100/15-22-048-12W5/00  N  215.5M  E  590.2M    DRAYTON VALLEY       3900.0M                         
+    DEV (NC)                             BRAZEAU RIVER                  CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BACCALIEU ENERGY INC.                                               03-22-048-12W5                  
+                                                                                                        
+    TOURMALINE HZ VALHALLA 8-2-76-8      0498676   ALBERTA CROWN        924.7M                          
+    100/08-02-076-08W6/00  N  759.0M  W  320.3M    GRANDE PRAIRIE       5500.0M                         
+    DEV (C)                              VALHALLA                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TOURMALINE OIL CORP.                                                08-04-076-08W6                  
+                                                                                                        
+    PEYTO WHHORSE 12-12-50-16            0498677   ALBERTA CROWN        1014.9M                         
+    100/12-12-050-16W5/00  S  474.0M  W   85.4M    DRAYTON VALLEY       5725.0M                         
+    DEV (NC)                             WHITEHORSE                     WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               09-07-050-15W5                  
+                                                                                                        
+    WOODCOTE 102 NIPISI 9-18-76-7        0498678   ALBERTA CROWN        708.1M                          
+    102/09-18-076-07W5/00  S  564.4M  W   96.0M    ST. ALBERT           2500.0M                         
+    DEV (C)                              NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WOODCOTE OIL CORP.                                                  09-17-076-07W5                  
+                                                                                                        
+    WOODCOTE HZ NIPISI 15-20-76-7        0498679   ALBERTA CROWN        708.1M                          
+    100/15-20-076-07W5/00  S  555.0M  W   99.5M    ST. ALBERT           2600.0M                         
+    DEV (C)                              NIPISI                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WOODCOTE OIL CORP.                                                  09-17-076-07W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    KXL RE CROSS 6-36-26-2                0432762    TERMINATING ZONE:                                  
+    100/06-36-026-02W5/02                            SECOND WHITE SPECKS                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SECOND WHITE SPECKS                       
+
+    HUSKY HZ ANSELL 11-2-51-19            0491792    UWI:                                               
+    02/11-02-051-19W5/0                              02/12-02-051-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     HUSKY HZ ANSELL 12-2-51-19                         
+
+    NEP HZ LEDUC-WB 16-3-49-25            0493362    SURFACE CO-ORDINATES:                              
+    100/16-03-049-25W4/00                            N 0225.0 W 0109.6                                  
+
+    GRL 100 HZ VALHALLA 3-26-78-8         0493508    UWI:                                               
+    00/03-26-078-08W6/0                              02/02-26-078-08W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     GRL 16-26 HZ 102 VALHALLA 2-26-78-8                
+
+                                                     GROUND ELEVATION                                   
+                                                     707.0                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     1679.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0100.0 W 0091.2                                  
+
+    NEP 103 HZ LEDUC-WB 4-30-50-26        0496785    WELL NAME:                                         
+    103/04-30-050-26W4/00                            NEP LEDUC-WB 4-30-50-26                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0678.7 W 0666.8                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.09                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM NISKU FM                            
+
+    NEP HZ LEDUC-WB 15-17-51-26           0496786    UWI:                                               
+    00/15-17-051-26W4/0                              00/16-17-051-26W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     NEP LEDUC-WB 16-17-51-26                           
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0689.2 W 0677.2                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.09                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM NISKU FM                            
+
+    AVN HZ PCOUPES 13-3-76-13             0498127    UWI:                                               
+    00/13-03-076-13W6/0                              W0/13-03-076-13W6/0                                
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.12                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    WESTBRICK HZ PEMBINA 16-18-45-11      0498151    UWI:                                               
+    00/16-18-045-11W5/0                              00/15-18-045-11W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     WESTBRICK HZ PEMBINA 15-18-45-11                   
+
+    VELVET HZ BEZAN 14-30-68-2            0498233    UWI:                                               
+    00/14-30-068-02W6/0                              02/05-31-068-02W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     VELVET HZ BEZAN 5-31-68-2                          
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.15                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM MONTNEY FM                          
+
+    CLC 202 INF03 DIVIDE 8-13-82-12       0498286    UWI:                                               
+    09/08-13-082-12W4/0                              06/01-13-082-12W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CLC 202 INF03 DIVIDE 1-13-82-12                    
+
+    CLC 202 INF04 DIVIDE 8-13-82-12       0498287    UWI:                                               
+    10/08-13-082-12W4/0                              00/02-13-082-12W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CLC 202 INF04 DIVIDE 2-13-82-12                    
+
+    CLC 202INF05 DIVIDE 7-13-82-12        0498288    UWI:                                               
+    14/07-13-082-12W4/0                              02/02-13-082-12W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CLC 202 INF05 DIVIDE 2-13-82-12                    
+
+    VEI HZ PEMBINA 14-17-50-12            0498428    SURFACE CO-ORDINATES:                              
+    100/14-17-050-12W5/00                            S 0075.0 W 0112.0                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM ELLERSLIE MBR                             
+
+    VEI HZ PEMBINA 8-4-50-12              0498429    GROUND ELEVATION                                   
+    102/08-04-050-12W5/00                            945.5                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0060.0 W 0112.0                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM ELLERSLIE MBR                             
+
+    CRESTWYND HZ JILES 3-16-63-21         0498460    UWI:                                               
+    00/03-16-063-21W4/0                              00/05-16-063-21W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CRESTWYND HZ JILES 5-16-63-21                      
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM UPPER MANNVILLE FM                  
+
+    NEP 103 HZ LEDUC-WB 1-10-49-25        0498572    WELL NAME:                                         
+    103/01-10-049-25W4/00                            NEP LEDUC-WB 1-10-49-25                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0240.0 W 0109.6                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.08                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM NISKU FM                            
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

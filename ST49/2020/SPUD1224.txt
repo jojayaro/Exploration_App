@@ -1,0 +1,22 @@
+Report Number: ST-49                                                                       Alberta Energy Regulator                                                                                Page 1 of 1
+Run Date: 24 Dec 2020                                                                    DAILY DRILLING ACTIVITY LIST                                                                                         
+                                                                            For the Notification Period 23 Dec 2020 To 24 Dec 2020                                                                            
+
+      WELL ID                    WELL NAME               LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID         LICENSEE         NEW PROJECTED  ACTIVITY  
+                                                                  BA ID               NAME              NUMBER                                                                        TOTAL DEPTH     TYPE    
+------------------- ------------------------------------ -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------ ------------- -----------
+00/01-25-037-03W4/0 SURGE ENERGY HZ PROVOST 1-25-37-3     0498302 0Y52   Precision Drilling Corporation    145 24 Dec 2020 05:15:00 AM Wainwright     0YK4  Surge Energy Inc.                      Resumption 
+02/02-25-037-03W4/0 SURGE ENERGY 102HZ PROVOST 2-25-37-3  0498303 0Y52   Precision Drilling Corporation    145 24 Dec 2020 09:32:00 AM Wainwright     0YK4  Surge Energy Inc.                      Resumption 
+03/08-08-060-01W6/0 JUPITER HZ 102 RESTHA 8-8-60-1        0498463 A6PR   Nabors Drilling Canada Limited    127 24 Dec 2020 01:30:00 PM Grande Prairie A6X1  Jupiter Resources Inc.                 Set Surface
+00/01-06-062-18W5/0 CHEVRON HZ FOXCK 1-6-62-18            0493781 0Z41   Ensign Drilling Inc.              770 24 Dec 2020 11:30:00 AM St. Albert     0045  Chevron Canada Limited                 Drill To LD
+02/11-28-067-06W6/0 PARA HZ 102 ELM 11-28-67-6            0496908 A5DR   Fox Drilling Inc.                   4 24 Dec 2020 12:16:00 PM Grande Prairie 0AW4  Paramount Resources Ltd.               Resumption 
+00/05-13-076-05W5/0 WOODCOTE HZ MARTEN 5-13-76-5          0498615 0Y52   Precision Drilling Corporation    185 23 Dec 2020 11:00:00 PM St. Albert     A7PG  Woodcote Oil Corp.                     Drill To LD
+
+                                                                  TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 2                                                                   
+                                                                  TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                   
+                                                                  TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 3                                                                   
+                                                                  TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                                   
+
+                                                                                       TOTAL NUMBER OF WELLS LISTED = 6                                                                                       
+                                                                                            *** END OF REPORT ***                                                                                             
+

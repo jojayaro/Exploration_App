@@ -1,0 +1,106 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 18 June 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    SCL WW3 BURNT 10-13-30-7             0498117   ALBERTA CROWN        1468M                           
+    1F3/10-13-030-07W5/00  S  556.5M  W  679.4M    RED DEER             250.0M                          
+    OTH (NC)                             UNDEFINED                      BRAZEAU FM                      
+    VERTICAL                             NEW       OBSERVATION          WATER                           
+    SHELL CANADA LIMITED                                                10-13-030-07W5                  
+                                                                                                        
+    SCL WW5 BURNT 10-13-30-7             0498118   ALBERTA CROWN        1468.1M                         
+    1F4/10-13-030-07W5/00  S  486.5M  W  619.5M    RED DEER             250.0M                          
+    OTH (NC)                             UNDEFINED                      BRAZEAU FM                      
+    VERTICAL                             NEW       OBSERVATION          WATER                           
+    SHELL CANADA LIMITED                                                10-13-030-07W5                  
+                                                                                                        
+    SCL WW6 BURNT 10-13-30-7             0498119   ALBERTA CROWN        1466.8M                         
+    1F5/10-13-030-07W5/00  S  683.2M  W  465.6M    RED DEER             250.0M                          
+    OTH (NC)                             UNDEFINED                      BRAZEAU FM                      
+    VERTICAL                             NEW       OBSERVATION          WATER                           
+    SHELL CANADA LIMITED                                                10-13-030-07W5                  
+                                                                                                        
+    SCL WW8 BURNT 10-13-30-7             0498120   ALBERTA CROWN        1467.7M                         
+    1F6/10-13-030-07W5/00  S  651.5M  W  534.6M    RED DEER             250.0M                          
+    OTH (NC)                             UNDEFINED                      BRAZEAU FM                      
+    VERTICAL                             NEW       OBSERVATION          WATER                           
+    SHELL CANADA LIMITED                                                10-13-030-07W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    GRL 103 VALHALLA 4-32-78-7            0472413    WELL NAME:                                         
+    103/04-32-078-07W6/00                            GRL 100 VALHALLA 4-32-78-                          
+
+    SCL HZ FC781A KAYBOB 16-31-63-18      0495232    UWI:                                               
+    00/16-31-063-18W5/0                              00/13-32-063-18W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     SCL HZ FC781A KAYBOB 13-32-63-18                   
+
+    SCL HZ FC781B KAYBOB 4-19-63-18       0495234    UWI:                                               
+    00/04-19-063-18W5/0                              00/01-24-063-18W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     SCL HZ FC781B KAYBOB 1-24-63-18                    
+
+    HIGHWOOD 102 NIPISI 15-25-76-7        0496202    UWI:                                               
+    02/15-25-076-07W5/0                              00/04-25-076-07W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     HIGHWOOD 102 NIPISI 4-25-76-7                      
+
+    HIGHWOOD NIPISI 16-25-76-7            0496203    UWI:                                               
+    00/16-25-076-07W5/0                              03/15-25-076-07W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     HIGHWOOD NIPISI 15-25-76-7                         
+
+    CVE B6-30 D13 KIRBY 4-32-70-5         0496266    UWI:                                               
+    AA/13-29-070-05W4/9                              AA/12-29-070-05W4/9                                
+
+                                                     WELL NAME:                                         
+                                                     CVE B6-30 D13 FISHER 12-29-70-5                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    CVE D2-25 B15 FISHER 15-26-70-6       0496267    UWI:                                               
+    AA/15-26-070-06W4/9                              AA/11-26-070-06W4/9                                
+
+                                                     WELL NAME:                                         
+                                                     CVE D2-25 B15 FISHER 11-26-70-6                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    JUPITER HZ SMOKY 14-23-59-1           0489874                                                       
+    100/14-23-059-01W6/00                                                                               
+
+    STEELHEAD HZ PROVOST 11-4-36-11       0494848                                                       
+    100/11-04-036-11W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,244 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 05 May 2020                                                                                   
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CNRL 9-24 7HZ LNDBRGH 8-19-55-4       0492674    UWI:                                               
+    05/01-19-055-04W4/4                              07/08-19-055-04W4/4                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CUMMINGS MBR                    
+
+    GRL 12-20 HZ 102 VALHALLA 8-20-78-7   0492921    UWI:                                               
+    02/08-20-078-07W6/0                              00/06-20-078-07W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     GRL 12-20 HZ 102 VALHALLA 6-20-78-7                
+
+    SPL 4-6 HZ NIPISI 6-7-77-6            0496063    UWI:                                               
+    00/05-07-077-06W5/5                              00/06-07-077-06W5/5                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2800.00                                  
+
+    7GEN HZ 102 KAKWA 4-9-63-5            0496208    UWI:                                               
+    02/04-09-063-05W6/0                              05/13-04-063-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 102 KAKWA 13-4-63-5                        
+
+    7GEN HZ KAKWA 5-18-63-3               0496288    UWI:                                               
+    00/05-18-063-03W6/0                              05/11-18-063-03W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 11-18-63-3                           
+
+    PEYTO ANSELL 2-20-51-19               0496617    UWI:                                               
+    00/02-20-051-19W5/0                              00/15-17-051-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     PEYTO ANSELL 15-17-51-19                           
+
+    PEYTO SUNDANCE 14-35-54-21            0496717    UWI:                                               
+    02/14-35-054-21W5/0                              03/15-35-054-21W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     PEYTO SUNDANCE 15-35-54-21                         
+
+    TOURMALINE HZ ANSELL 1-8-50-19        0496915    UWI:                                               
+    00/01-08-050-19W5/0                              02/01-18-050-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ ANSELL 1-18-50-19                    
+
+    TOURMALINE HZ 102 ANSELL 7-5-50-19    0496917    UWI:                                               
+    02/07-05-050-19W5/0                              00/06-08-050-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ 102 ANSELL 6-8-50-19                 
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+    IPCCAN 4B-11SH SUFFIELD 15-11-19-8    0497213    UWI:                                               
+    06/12-11-019-08W4/2                              07/05-11-019-08W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     IPCCAN 4B-11SH SUFFIELD 5-11-19-8                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.26                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GLAUCONITIC SS                      
+
+    HIGHWOOD CRAIGND 15-31-64-12          0497232    UWI:                                               
+    00/15-31-064-12W4/5                              00/07-31-064-12W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     HIGHWOOD CRAIGND 7-31-64-12                        
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    DELTASTREAM MARTENH 15-1-75-25        0497322    UWI:                                               
+    02/14-01-075-25W4/7                              00/15-01-075-25W4/7                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    BACCALIEU HZ WILLGR 5-20-40-5         0497346    UWI:                                               
+    00/05-20-040-05W5/0                              00/04-17-040-05W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     BACCALIEU HZ WILLGR 4-17-40-5                      
+
+    SPL 6-31 HZ MARTEN 4-30-76-6          0497393    WELL NAME:                                         
+    102/04-30-076-06W5/04                            SPL 6-31 HZ 102 NIPISI 4-                          
+
+    CROVERROENERGY HZ RIVERCRS 5-1-48-1   0497600    WELL NAME:                                         
+    102/04-01-048-01W4/03                            CROVERROENERGY HZ RIVERCR                          
+
+    COR4 105 MHZ JENNER 12-4-21-8         0497609    UWI:                                               
+    05/05-04-021-08W4/2                              02/12-04-021-08W4/2                                
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.05                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM LOWER MANNVILLE FM                  
+
+    CREW HZ 102 SWIMMING 4-23-52-7        0497817    UWI:                                               
+    02/04-23-052-07W4/4                              00/03-23-052-07W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     CREW HZ 102 SWIMMING 3-23-52-7                     
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM REX MBR                             
+
+    BEC 02 HZ FERRIER 15-20-38-7          0497902    TARGET SUBSTANCE(1)                                
+    103/15-20-038-07W5/00                            GAS FROM GLAUCONITIC SS                            
+
+    BEC HZ FERRIER 16-20-38-7             0497903    TARGET SUBSTANCE(1)                                
+    102/16-20-038-07W5/00                            GAS FROM GLAUCONITIC SS                            
+
+    CNRL 1A LIND 1-5-54-6                 0497904    WELL NAME:                                         
+    100/01-05-054-06W4/00                            CNRL 1A LNDBRGH 1-5-54-6                           
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM SPARKY MBR                      
+
+    CNRL 6C LIND 6-4-54-6                 0497905    WELL NAME:                                         
+    100/06-04-054-06W4/00                            CNRL 6C LNDBRGH 6-4-54-6                           
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM SPARKY MBR                      
+
+    CNRL 3C LIND 3-4-54-6                 0497906    WELL NAME:                                         
+    100/03-04-054-06W4/00                            CNRL 3C LNDBRGH 3-4-54-6                           
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM SPARKY MBR                      
+
+    HARVEST HZ KAKWA 4-18-64-6            0497907    MAXIMUM CALCULATED EPZ                             
+    1W0/04-18-064-06W6/00                            0.24                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    HARVEST HZ KAKWA 16-36-64-7           0497908    MAXIMUM CALCULATED EPZ                             
+    100/16-36-064-07W6/00                            0.24                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    HARVEST HZ KAKWA 1-13-64-7            0497909    MAXIMUM CALCULATED EPZ                             
+    100/01-13-064-07W6/00                            0.24                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    CPEC HZ JUDYCK 2-5-64-9               0497968    MAXIMUM CALCULATED EPZ                             
+    100/02-05-064-09W5/00                            0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM SLAVE POINT FM                      
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL 7C LNDBRGH 7-6-58-5              0489012                                                       
+    100/07-06-058-05W4/00                                                                               
+
+    CNRL 11D LNDBRGH 11-6-58-5            0489014                                                       
+    100/11-06-058-05W4/00                                                                               
+
+    HUSKY HZ KAKWA 1-29-64-6              0489016                                                       
+    100/01-29-064-06W6/00                                                                               
+
+    PARA HZ WILD RIV 2-29-55-22           0489017                                                       
+    100/02-29-055-22W5/00                                                                               
+
+    CNRL 1D WOLF LK 1-29-63-6             0494330                                                       
+    100/01-29-063-06W4/00                                                                               
+
+    CNRL 1D2 WOLF LK 1-29-63-6            0494331                                                       
+    102/01-29-063-06W4/00                                                                               
+
+    TERVITA ELM 2-34-69-5                 0494347                                                       
+    100/02-34-069-05W6/00                                                                               
+
+    BEC 02 HZ FERRIER 15-20-38-7          0497902                                                       
+    103/15-20-038-07W5/00                                                                               
+
+    BEC HZ FERRIER 16-20-38-7             0497903                                                       
+    102/16-20-038-07W5/00                                                                               
+
+    CNRL 1A LIND 1-5-54-6                 0497904                                                       
+    100/01-05-054-06W4/00                                                                               
+
+    CNRL 6C LIND 6-4-54-6                 0497905                                                       
+    100/06-04-054-06W4/00                                                                               
+
+    CNRL 3C LIND 3-4-54-6                 0497906                                                       
+    100/03-04-054-06W4/00                                                                               
+
+    HARVEST HZ KAKWA 4-18-64-6            0497907                                                       
+    1W0/04-18-064-06W6/00                                                                               
+
+    HARVEST HZ KAKWA 16-36-64-7           0497908                                                       
+    100/16-36-064-07W6/00                                                                               
+
+    HARVEST HZ KAKWA 1-13-64-7            0497909                                                       
+    100/01-13-064-07W6/00                                                                               
+
+    CPEC HZ JUDYCK 2-5-64-9               0497968                                                       
+    100/02-05-064-09W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,55 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 11 January 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL 10D WOLF LK 10-13-65-6           0493044                                                       
+    100/10-13-065-06W4/00                                                                               
+
+    CNRL 14D WOLF LK 14-13-65-6           0493045                                                       
+    102/14-13-065-06W4/00                                                                               
+
+    CNRL 14C WOLF LK 14-18-65-5           0493046                                                       
+    102/14-18-065-05W4/00                                                                               
+
+    CNRL 7A WOLF LK 7-24-65-6             0493047                                                       
+    103/07-24-065-06W4/00                                                                               
+
+    CNRL 8A WOLF LK 8-24-65-6             0493048                                                       
+    100/08-24-065-06W4/00                                                                               
+
+    CNRL 10A2 WOLF LK 10-24-65-6          0493049                                                       
+    102/10-24-065-06W4/00                                                                               
+
+    HUSKY B 16-8 P1A STEEPBK 7-17-95-7    0493121                                                       
+    103/07-17-095-07W4/00                                                                               
+
+    PIPE 103 HZ WEMBLEY 12-36-71-8        0493201                                                       
+    103/12-36-071-08W6/00                                                                               
+
+    JUPITER HZ KAKWA 1-32-61-6            0493205                                                       
+    102/01-32-061-06W6/00                                                                               
+
+    JUPITER HZ KAKWA 2-32-61-6            0493206                                                       
+    102/02-32-061-06W6/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

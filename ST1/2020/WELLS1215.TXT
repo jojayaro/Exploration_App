@@ -1,0 +1,223 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 15 December 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CHEVRON 102 HZ KAYBOBS 4-23-61-19    0499027   ALBERTA CROWN        919.2M                          
+    100/04-23-061-19W5/00  N  777.4M  E  638.5M    ST. ALBERT           7248.0M                         
+    DEV (C)                              KAYBOB SOUTH                   DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CHEVRON CANADA LIMITED                                              06-35-061-19W5                  
+                                                                                                        
+    CHEVRON HZ KAYBOBS 4-23-61-19        0499028   ALBERTA CROWN        919.2M                          
+    102/04-23-061-19W5/00  N  775.2M  E  645.4M    ST. ALBERT           7219.0M                         
+    DEV (C)                              KAYBOB SOUTH                   DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CHEVRON CANADA LIMITED                                              06-35-061-19W5                  
+                                                                                                        
+    CHEVRON HZ KAYBOBS 3-23-61-19        0499029   ALBERTA CROWN        919.2M                          
+    100/03-23-061-19W5/00  N  772.9M  E  652.4M    ST. ALBERT           7091.0M                         
+    DEV (C)                              KAYBOB SOUTH                   DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CHEVRON CANADA LIMITED                                              06-35-061-19W5                  
+                                                                                                        
+    CHEVRON HZ KAYBOBS 2-23-61-19        0499030   ALBERTA CROWN        919.2M                          
+    100/02-23-061-19W5/00  N  770.7M  E  659.4M    ST. ALBERT           6861.0M                         
+    DEV (C)                              KAYBOB SOUTH                   DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CHEVRON CANADA LIMITED                                              06-35-061-19W5                  
+                                                                                                        
+    CHEVRON HZ KAYBOBS 1-23-61-19        0499031   ALBERTA CROWN        919.2M                          
+    100/01-23-061-19W5/00  N  768.5M  E  666.4M    ST. ALBERT           6652.0M                         
+    DEV (C)                              KAYBOB SOUTH                   DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CHEVRON CANADA LIMITED                                              06-35-061-19W5                  
+                                                                                                        
+    CHEVRON 102 HZ KAYBOBS 1-23-61-19    0499032   ALBERTA CROWN        919.2M                          
+    102/01-23-061-19W5/00  N  766.3M  E  673.4M    ST. ALBERT           6705.0M                         
+    DEV (C)                              KAYBOB SOUTH                   DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CHEVRON CANADA LIMITED                                              06-35-061-19W5                  
+                                                                                                        
+    CHEVRON HZ KAYBOBS 4-24-61-19        0499033   ALBERTA CROWN        919.2M                          
+    100/04-24-061-19W5/00  N  764.0M  E  680.3M    ST. ALBERT           6540.0M                         
+    DEV (C)                              KAYBOB SOUTH                   DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CHEVRON CANADA LIMITED                                              06-35-061-19W5                  
+                                                                                                        
+    CHEVRON 102 HZ KAYBOBS 6-24-61-19    0499034   ALBERTA CROWN        919.2M                          
+    100/06-24-061-19W5/00  N  761.8M  E  687.3M    ST. ALBERT           6617.0M                         
+    DEV (C)                              KAYBOB SOUTH                   DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CHEVRON CANADA LIMITED                                              06-35-061-19W5                  
+                                                                                                        
+    CHEVRON HZ KAYBOBS 6-24-61-19        0499035   ALBERTA CROWN        919.2M                          
+    102/06-24-061-19W5/00  N  759.6M  E  694.3M    ST. ALBERT           6980.0M                         
+    DEV (C)                              KAYBOB SOUTH                   DUVERNAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CHEVRON CANADA LIMITED                                              06-35-061-19W5                  
+                                                                                                        
+    SPL 13-36 HZ MARTENH 13-1-74-26      0499036   ALBERTA CROWN        662.8M                          
+    100/13-01-074-26W4/00  S  294.9M  E  313.2M    ST. ALBERT           2700.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 13-36-073-26W4                  
+                                                                                                        
+    SPL 13-36 HZ MARTENH 13-25-73-26     0499037   ALBERTA CROWN        663.3M                          
+    100/13-25-073-26W4/00  S  304.9M  E  312.9M    ST. ALBERT           2700.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 13-36-073-26W4                  
+                                                                                                        
+    PEYTO CHAMBERS 8-14-41-11            0499038   ALBERTA CROWN        1125M                           
+    100/08-14-041-11W5/00  S  275.7M  E   23.7M    RED DEER             4330.0M                         
+    DEV (C)                              CHAMBERS                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               13-14-041-11W5                  
+                                                                                                        
+    PEYTO CHAMBERS 1-14-41-11            0499039   ALBERTA CROWN        1125.2M                         
+    100/01-14-041-11W5/00  S  296.2M  E   24.5M    RED DEER             4400.0M                         
+    DEV (C)                              CHAMBERS                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               13-14-041-11W5                  
+                                                                                                        
+    TQN FERRIER 14-7-38-8                0499040   ALBERTA CROWN        1089.4M                         
+    100/14-07-038-08W5/00  N  624.5M  W  698.6M    RED DEER             5340.0M                         
+    DEV (NC)                             FERRIER                        GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TAQA NORTH LTD.                                                     07-06-038-08W5                  
+                                                                                                        
+    TQN FERRIER 13-7-38-8                0499041   ALBERTA CROWN        1089.4M                         
+    102/13-07-038-08W5/00  N  618.1M  W  706.4M    RED DEER             5479.0M                         
+    DEV (NC)                             FERRIER                        GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TAQA NORTH LTD.                                                     07-06-038-08W5                  
+                                                                                                        
+    VELVET HZ KARR 4-26-64-2             0499042   ALBERTA CROWN        951.9M                          
+    100/04-26-064-02W6/00  N  635.8M  E  307.8M    GRANDE PRAIRIE       5000.0M                         
+    DEV (C)                              KARR                           BELLOY FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    VELVET ENERGY LTD.                                                  05-35-064-02W6                  
+                                                                                                        
+    SUNCOR  P119P1 FIREBAG  4-32-94-6    0499043   ALBERTA CROWN        585.3M                          
+    100/04-32-094-06W4/00  S  259.2M  W  209.4M    BONNYVILLE           1801.0M                         
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SUNCOR ENERGY INC.                                                  16-29-094-06W4                  
+                                                                                                        
+    OBE HZ  WILLGR 16-29-43-8            0499044   ALBERTA CROWN        979.6M                          
+    102/02-32-043-08W5/00  S  367.8M  E   56.4M    RED DEER             5650.0M                         
+    DEV (NC)                             WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    OBSIDIAN ENERGY LTD.                                                13-19-043-08W5                  
+                                                                                                        
+    OBE HZ  WILLGR 16-29-43-8            0499045   ALBERTA CROWN        979.6M                          
+    102/16-29-043-08W5/00  S  382.7M  E   56.4M    RED DEER             5650.0M                         
+    DEV (NC)                             WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    OBSIDIAN ENERGY LTD.                                                13-19-043-08W5                  
+                                                                                                        
+    BIR 14-6 HZ PCOUPES 10-36-78-13      0499046   ALBERTA CROWN        686.9M                          
+    100/10-36-078-13W6/00  S  368.1M  E  665.9M    GRANDE PRAIRIE       4485.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-06-079-12W6                  
+                                                                                                        
+    BIR 14-6 HZ 102 PCOUPES 7-36-78-13   0499048   ALBERTA CROWN        686.7M                          
+    102/07-36-078-13W6/00  S  368.2M  E  685.9M    GRANDE PRAIRIE       4560.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-06-079-12W6                  
+                                                                                                        
+    BIR 14-6 HZ 102 PCOUPES 8-36-78-13   0499049   ALBERTA CROWN        686.5M                          
+    100/08-36-078-13W6/00  S  368.3M  E  705.9M    GRANDE PRAIRIE       4820.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-06-079-12W6                  
+                                                                                                        
+    BIR 14-6 HZ 103 PCOUPES 7-36-78-13   0499050   ALBERTA CROWN        686.8M                          
+    103/07-36-078-13W6/00  S  368.1M  E  675.9M    GRANDE PRAIRIE       4600.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-06-079-12W6                  
+                                                                                                        
+    BIR 14-6 HZ 103 PCOUPES 8-36-78-13   0499051   ALBERTA CROWN        686.6M                          
+    102/08-36-078-13W6/00  S  368.2M  E  695.9M    GRANDE PRAIRIE       4670.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-06-079-12W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SHACKLETON FERIN 3-15-44-20            0498665   UWI:                                               
+    00/03-15-044-20W4/0                              00/06-10-044-20W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SHACKLETON FERIN 6-10-44-20                        
+
+                                                     PROJECTED DEPTH:                                   
+                                                     3676.00                                            
+
+    VESTA 100 CYGNET 1-28-38-28            0498877   UWI:                                               
+    03/01-28-038-28W4/0                              02/01-28-037-28W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     VESTA 103 CYGNET 1-28-37-28                        
+
+    VEI HZ PEMBINA 13-2-51-13              0498921   GROUND ELEVATION                                   
+    100/13-02-051-13W5/00                            1008.60                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0205.5 E 0763.4                                  
+
+    OBE HZ  WILLGR 16-29-43-8              0499044   UWI:                                               
+    00/16-29-043-08W5/0                              02/02-32-043-08W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     OBE HZ 102 WILLGR 2-32-43-8                        
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    7GEN HZ KARR 12-5-65-5                 0496117   UWI:                                               
+    00/12-05-065-05W6/2                              05/13-05-065-05W6/2                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 105 KARR 13-5-65-5                         
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     13-05-065-05W6                                     
+
+    7GEN HZ KARR 13-5-65-5                 0496117   WELL NAME:                                         
+    105/13-05-065-05W6/02                            7GEN HZ 105 KARR 13-5-65-5                         
+
+    HUSKY 3HZ T1 WILDMERE 12-23-48-6       0497590   UWI:                                               
+    00/12-23-048-06W4/0                              02/05-23-048-06W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     HUSKY 3HZ T1 WILDMERE 05-23-48-6                   
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     05-23-048-06W4                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

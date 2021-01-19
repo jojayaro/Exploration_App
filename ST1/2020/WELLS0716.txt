@@ -1,0 +1,67 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 16 July 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    HUSKY 3HZ Q3 BVALN 2-19-53-7         0498165   BOTH                 675.5M                          
+    100/02-19-053-07W4/00  N  557.8M  W  608.9M    BONNYVILLE           1638.0M                         
+    DEV (NC)                             BEAUVALLON                     MCLAREN MBR                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    HUSKY OIL OPERATIONS LIMITED                                        07-18-053-07W4                  
+                                                                                                        
+    HUSKY 3HZ Q4 BVALN 1-19-53-7         0498166   BOTH                 674.8M                          
+    100/01-19-053-07W4/00  N  557.7M  W  596.9M    BONNYVILLE           1724.0M                         
+    DEV (NC)                             BEAUVALLON                     MCLAREN MBR                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    HUSKY OIL OPERATIONS LIMITED                                        07-18-053-07W4                  
+                                                                                                        
+    HUSKY HZ Q5 BVALN 1-19-53-7          0498167   BOTH                 674.6M                          
+    102/01-19-053-07W4/00  N  557.7M  W  584.9M    BONNYVILLE           1723.0M                         
+    DEV (NC)                             BEAUVALLON                     MCLAREN MBR                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    HUSKY OIL OPERATIONS LIMITED                                        07-18-053-07W4                  
+                                                                                                        
+    HUSKY HZ Q6 BVALN 1-19-53-7          0498168   BOTH                 674.4M                          
+    103/01-19-053-07W4/00  N  557.6M  W  572.9M    BONNYVILLE           1812.0M                         
+    DEV (NC)                             BEAUVALLON                     MCLAREN MBR                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    HUSKY OIL OPERATIONS LIMITED                                        07-18-053-07W4                  
+                                                                                                        
+    HUSKY HZ Q7 BVALN 1-19-53-7          0498169   BOTH                 674.6M                          
+    104/01-19-053-07W4/00  N  557.6M  W  560.9M    BONNYVILLE           1860.0M                         
+    DEV (NC)                             BEAUVALLON                     MCLAREN MBR                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    HUSKY OIL OPERATIONS LIMITED                                        07-18-053-07W4                  
+                                                                                                        
+    HUSKY HZ Q8 BVALN 1-19-53-7          0498170   BOTH                 674M                            
+    105/01-19-053-07W4/00  N  557.5M  W  548.9M    BONNYVILLE           2014.0M                         
+    DEV (NC)                             BEAUVALLON                     MCLAREN MBR                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    HUSKY OIL OPERATIONS LIMITED                                        07-18-053-07W4                  
+                                                                                                        
+    HUSKY HZ Q9 BVALN 1-19-53-7          0498171   BOTH                 674.1M                          
+    106/01-19-053-07W4/00  N  557.5M  W  536.9M    BONNYVILLE           2084.0M                         
+    DEV (NC)                             BEAUVALLON                     MCLAREN MBR                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    HUSKY OIL OPERATIONS LIMITED                                        07-18-053-07W4                  
+                                                                                                        
+    HUSKY HZ Q10 BVALN 13-17-53-7        0498172   FREEHOLD             674.2M                          
+    100/13-17-053-07W4/00  N  557.4M  W  524.9M    BONNYVILLE           1844.0M                         
+    DSW (NC)                             BEAUVALLON                     MCLAREN MBR                     
+    HORIZONTAL                           NEW       INJECTION            WATER                           
+    HUSKY OIL OPERATIONS LIMITED                                        07-18-053-07W4                  
+                                                                                                        
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

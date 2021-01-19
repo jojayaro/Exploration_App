@@ -1,0 +1,21 @@
+Report Number: ST-49                                                                        Alberta Energy Regulator                                                                                 Page 1 of 1
+Run Date: 04 Dec 2020                                                                     DAILY DRILLING ACTIVITY LIST                                                                                          
+                                                                             For the Notification Period 03 Dec 2020 To 04 Dec 2020                                                                             
+
+      WELL ID                  WELL NAME             LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID            LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                              BA ID               NAME              NUMBER                                                                              TOTAL DEPTH     TYPE    
+------------------- -------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------------ ------------- -----------
+00/14-35-039-06W5/0 BEC HZ WILLGR 14-35-39-6          0497553 A08C   Savanna Drilling Corp.           655E 04 Dec 2020 01:30:00 PM Red Deer       A5RX  Bonavista Energy Corporation                 Drill To LD
+03/04-08-044-09W5/0 WESTBRICK HZ 103 WILLGR 4-8-44-9  0498662 0ZG2   Excalibur Drilling Ltd.            14 03 Dec 2020 11:45:00 PM Red Deer       A5WB  Westbrick Energy Ltd.                        Drill To LD
+00/07-36-057-27W5/0 TOURMALINE HZ LELAND 7-36-57-27   0498359 0Z41   Ensign Drilling Inc.               39 03 Dec 2020 08:28:00 PM Drayton Valley A573  Tourmaline Oil Corp.                         Resumption 
+00/16-03-075-25W4/0 DELTASTREAM MARTENH 16-3-75-25    0498494 A2CL   Komat Drilling Ltd.                 3 04 Dec 2020 12:15:00 AM St. Albert     A6YA  Deltastream Energy Corporation               Set Surface
+00/05-29-078-07W6/0 GRL 100 HZ VALHALLA 5-29-78-7     0493212 0Y52   Precision Drilling Corporation    182 04 Dec 2020 04:00:00 PM Grande Prairie A0TX  Grizzly Resources Ltd.                       Drill To LD
+
+                                                                   TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 3                                                                    
+                                                                   TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                    
+                                                                   TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 1                                                                    
+                                                                   TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                                    
+
+                                                                                        TOTAL NUMBER OF WELLS LISTED = 5                                                                                        
+                                                                                             *** END OF REPORT ***                                                                                              
+

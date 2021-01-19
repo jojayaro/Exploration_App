@@ -1,0 +1,103 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 18 March 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    GEAR 2HZ WILDMERE 8-18-48-5          0497897   ALBERTA CROWN        669.5M                          
+    100/08-18-048-05W4/00  S  682.5M  W  229.8M    WAINWRIGHT           2400.0M                         
+    DEV (NC)                             WILDMERE                       GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    GEAR ENERGY LTD.                                                    09-13-048-06W4                  
+                                                                                                        
+    GEAR 5HZ 103 WILDMERE 8-18-48-5      0497898   ALBERTA CROWN        669.5M                          
+    102/08-18-048-05W4/00  S  696.5M  W  228.8M    WAINWRIGHT           2400.0M                         
+    DEV (NC)                             WILDMERE                       SPARKY MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    GEAR ENERGY LTD.                                                    09-13-048-06W4                  
+                                                                                                        
+    GEAR 2HZ 102 WILDMERE 8-18-48-5      0497899   ALBERTA CROWN        669.6M                          
+    103/08-18-048-05W4/00  S  710.4M  W  227.8M    WAINWRIGHT           2400.0M                         
+    DEV (NC)                             WILDMERE                       GENERAL PETROLEUM MBR           
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    GEAR ENERGY LTD.                                                    09-13-048-06W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SPL 10-24 HZ MARTEN 6-23-76-6         0494995    UWI:                                               
+    00/05-23-076-06W5/4                              00/06-23-076-06W5/4                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     750.00 TO 2700.00                                  
+
+    SPL 2-16 HZ MARTENH 7-21-76-3         0496927    UWI:                                               
+    00/06-21-076-03W5/6                              00/02-21-076-03W5/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 2-16 HZ MARTENH 2-21-76-3                      
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    WLEC 9HZ 1A1 PROVOST 8-28-39-5        0497033    WELL NAME:                                         
+    102/16-21-039-05W4/05                            WLEC 9HZ 1A1 PROVOST 16-2                          
+
+    ROBUS HZ 102 JOARCAM 9-27-47-20       0497874    MINERAL RIGHTS:                                    
+    102/09-27-047-20W4/00                            FREEHOLD                                           
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM VIKING FM                           
+
+                                                     DRILL CUTTINGS:                                    
+                                                     460.00 TO 979.00                                   
+
+    ROBUS HZ 102 JOARCAM 5-27-47-20       0497875    MINERAL RIGHTS:                                    
+    102/05-27-047-20W4/00                            FREEHOLD                                           
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM VIKING FM                           
+
+                                                     DRILL CUTTINGS:                                    
+                                                     460.00 TO 979.00                                   
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    MURPHY 2-7A WAHIGAN 1-36-62-24        0488564                                                       
+    100/01-36-062-24W5/00                                                                               
+
+    MURPHY 2-7B WAHIGAN 2-36-62-24        0488565                                                       
+    100/02-36-062-24W5/00                                                                               
+
+    MURPHY 2-7C WAHIGAN 3-36-62-24        0488566                                                       
+    100/03-36-062-24W5/00                                                                               
+
+    MURPHY 2-7D WAHIGAN 4-36-62-24        0488567                                                       
+    100/04-36-062-24W5/00                                                                               
+
+    VELVET HZ ELM 5-17-68-3               0493982                                                       
+    100/05-17-068-03W6/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

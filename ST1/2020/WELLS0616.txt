@@ -1,0 +1,109 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 16 June 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    STRATH HZ KAKWA 4-5-62-3             0498106   ALBERTA CROWN        1032.2M                         
+    100/04-05-062-03W6/00  S  360.5M  E  713.0M    GRANDE PRAIRIE       5900.0M                         
+    DEV (C)                              KAKWA                          WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    STRATH RESOURCES LTD.                                               14-08-062-03W6                  
+                                                                                                        
+    STRATH HZ KAKWA 5-10-62-3            0498107   ALBERTA CROWN        1032.1M                         
+    100/05-10-062-03W6/00  S  353.0M  E  713.0M    GRANDE PRAIRIE       5900.0M                         
+    DEV (C)                              KAKWA                          WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    STRATH RESOURCES LTD.                                               14-08-062-03W6                  
+                                                                                                        
+    STRATH HZ KAKWA 13-10-62-3           0498108   ALBERTA CROWN        1032.1M                         
+    100/13-10-062-03W6/00  S  345.5M  E  712.9M    GRANDE PRAIRIE       5900.0M                         
+    DEV (C)                              KAKWA                          WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    STRATH RESOURCES LTD.                                               14-08-062-03W6                  
+                                                                                                        
+    SUNCOR OB65 DOVER 2-18-93-12         0498109   ALBERTA CROWN        430.8M                          
+    106/02-18-093-12W4/00  N   84.2M  W  510.3M    BONNYVILLE           177.0M                          
+    DSW (C)                              UNDEFINED                      MCMURRAY FM                     
+    VERTICAL                             NEW       OBSERVATION          NONE                            
+    SUNCOR ENERGY INC.                                                  02-18-093-12W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CVE B6-30 D13 FISHER 16-30-70-5       0496266    UWI:                                               
+    AA/13-29-070-05W4/5                              AA/04-32-070-05W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     CVE B6-30 D13 KIRBY 4-32-70-5                      
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM MCMURRAY FM                     
+
+    PEYTO LAWRNC 11-30-42-12              0498013    GROUND ELEVATION                                   
+    100/11-30-042-12W5/00                            1286.0                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0001.9 E 0627.6                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM CARDIUM FM                                
+
+    PEYTO LAWRNC 4-21-42-12               0498050    GROUND ELEVATION                                   
+    100/04-21-042-12W5/00                            1286.0                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0005.6 E 0624.5                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM CARDIUM FM                                
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    SHIELDENERGY HZ SINCLAIR 14-1-73-12   0489525                                                       
+    100/14-01-073-12W6/00                                                                               
+
+    SHIELDENERGY HZ SINCLAIR 2-7-73-11    0489526                                                       
+    100/02-07-073-11W6/00                                                                               
+
+    COREX HZNTL CECIL 3-30-83-7           0489545                                                       
+    100/03-30-083-07W6/00                                                                               
+
+    OUC 103 HZ KAKWA 4-9-63-6             0489552                                                       
+    103/04-09-063-06W6/00                                                                               
+
+    ROCKEAST HZ 106 PROVOST 10-2-40-9     0494799                                                       
+    106/10-02-040-09W4/00                                                                               
+
+    RSO HZ PROVOST 12-23-39-6             0494818                                                       
+    100/12-23-039-06W4/00                                                                               
+
+    NAL HZ GARR 3-5-35-4                  0494828                                                       
+    100/03-05-035-04W5/00                                                                               
+
+    TAC 12-17 HZ WILLGR 13-18-45-8        0494842                                                       
+    100/13-18-045-08W5/00                                                                               
+
+    TAC 12-17 HZ PEMBINA 13-20-45-8       0494843                                                       
+    100/13-20-045-08W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

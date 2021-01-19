@@ -1,0 +1,20 @@
+Report Number: ST-49                                                                         Alberta Energy Regulator                                                                                  Page 1 of 1
+Run Date: 02 Nov 2020                                                                      DAILY DRILLING ACTIVITY LIST                                                                                           
+                                                                              For the Notification Period 01 Nov 2020 To 02 Nov 2020                                                                              
+
+      WELL ID                   WELL NAME              LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID            LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                                BA ID               NAME              NUMBER                                                                              TOTAL DEPTH     TYPE    
+------------------- ---------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------------ ------------- -----------
+00/12-23-045-07W5/0 TAC 14-20 HZ PEMBINA 12-23-45-7     0498493 A6EC   Twilight Drilling Ltd.              2 02 Nov 2020 05:00:00 AM Drayton Valley A5TT  Tamarack Acquisition Corp.                   Drill To LD
+02/14-29-046-07W5/0 BONTERRA HZ 102 PEMBINA 14-29-46-7  0498207 A2EN   Ironhand Drilling Inc.              1 02 Nov 2020 09:00:00 AM Drayton Valley 0XZ4  Bonterra Energy Corp.                        Drill To LD
+00/08-09-066-04W4/0 IMP H92-H07 LEMING 8-9-66-4         0498223 0Y55   Akita Drilling Ltd.                21 01 Nov 2020 12:45:00 PM Bonnyville     0007  Imperial Oil Resources Limited               Resumption 
+00/05-24-068-25W5/0 ARC HZ ANTEN 5-24-68-25             0498329 0Y52   Precision Drilling Corporation    465 02 Nov 2020 12:30:00 PM Grande Prairie 0G30  ARC Resources Ltd.                           Drill To LD
+
+                                                                    TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 3                                                                     
+                                                                    TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                     
+                                                                    TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 1                                                                     
+                                                                    TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 0                                                                     
+
+                                                                                         TOTAL NUMBER OF WELLS LISTED = 4                                                                                         
+                                                                                              *** END OF REPORT ***                                                                                               
+

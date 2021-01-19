@@ -1,0 +1,76 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 11 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    WINSLOW HZ FERRIER 8-1-44-10         0498704   FREEHOLD             1062.3M                         
+    102/08-01-044-10W5/00  S  280.2M  W   94.7M    RED DEER             5000.0M                         
+    DEV (NC)                             FERRIER                        UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WINSLOW RESOURCES INC.                                              16-12-044-10W5                  
+                                                                                                        
+    WESTBRICK 102 HZ WILLGR 10-12-44-9   0498705   ALBERTA CROWN        976.3M                          
+    102/10-12-044-09W5/00  S  102.2M  E  282.2M    RED DEER             5050.0M                         
+    DEV (C)                              WILLESDEN GREEN                UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WESTBRICK ENERGY LTD.                                               13-36-043-09W5                  
+                                                                                                        
+    WESTBRICK HZ WILLGR 12-12-44-9       0498706   ALBERTA CROWN        975.8M                          
+    100/12-12-044-09W5/00  S  102.2M  E  292.2M    RED DEER             5050.0M                         
+    DEV (C)                              WILLESDEN GREEN                UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WESTBRICK ENERGY LTD.                                               13-36-043-09W5                  
+                                                                                                        
+    BONTERRA HZ 102 PEMBINA 2-30-46-7    0498707   ALBERTA CROWN        921.9M                          
+    102/02-30-046-07W5/00  N  199.6M  W  623.2M    DRAYTON VALLEY       3050.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BONTERRA ENERGY CORP.                                               02-31-046-07W5                  
+                                                                                                        
+    BONTERRA HZ 102 PEMBINA 8-30-46-7    0498708   ALBERTA CROWN        922.2M                          
+    102/08-30-046-07W5/00  N  199.6M  W  613.2M    DRAYTON VALLEY       2870.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    BONTERRA ENERGY CORP.                                               02-31-046-07W5                  
+                                                                                                        
+    ENTRADA HZ  WILLGR 10-25-41-6        0498709   ALBERTA CROWN        1046.4M                         
+    100/10-25-041-06W5/00  N  139.4M  W  601.7M    RED DEER             4200.0M                         
+    DEV (NC)                             WILLESDEN GREEN                CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ENTRADA RESOURCES INC.                                              02-01-042-06W5                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    CNRL 2D SBRT LK 2-3-63-9              0491877                                                       
+    103/02-03-063-09W4/00                                                                               
+
+    IMP OB-02 STEEPBK 16-10-94-7          0491879                                                       
+    1AA/16-10-094-07W4/00                                                                               
+
+    IMP OB-03 STEEPBK 11-10-94-7          0491880                                                       
+    1AA/11-10-094-07W4/00                                                                               
+
+    IMP OB-13 STEEPBK 2-10-94-7           0491881                                                       
+    1AB/02-10-094-07W4/00                                                                               
+
+    IMP OB-34 STEEPBK 9-4-94-7            0491882                                                       
+    1AB/09-04-094-07W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

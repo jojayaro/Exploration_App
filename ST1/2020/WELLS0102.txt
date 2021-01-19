@@ -1,0 +1,142 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 02 January 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    BAYTEX HZ WSW SLAVE 6-28-83-15       0497225   ALBERTA CROWN        690.9M                          
+    1F1/06-28-083-15W5/00  N  191.2M  E  592.8M    ST. ALBERT           2500.0M                         
+    OTH (NC)                             UNDEFINED                      NOTIKEWIN MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           WATER                           
+    BAYTEX ENERGY LTD.                                                  03-27-083-15W5                  
+                                                                                                        
+    BAYTEX  HZ 02 CADOTTE 13-14-84-18    0497226   ALBERTA CROWN        676.2M                          
+    105/13-14-084-18W5/00  S  280.0M  E   62.9M    GRANDE PRAIRIE       2500.0M                         
+    DEV (NC)                             CADOTTE                        BLUESKY FM                      
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    BAYTEX ENERGY LTD.                                                  13-13-084-18W5                  
+                                                                                                        
+    BAYTEX HZ 04 CADOTTE 12-14-84-18     0497227   ALBERTA CROWN        676M                            
+    105/12-14-084-18W5/00  S  265.0M  E   62.9M    GRANDE PRAIRIE       2500.0M                         
+    DEV (NC)                             CADOTTE                        BLUESKY FM                      
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    BAYTEX ENERGY LTD.                                                  13-13-084-18W5                  
+                                                                                                        
+    TXNE 14D-2 DV COUNTESS 14-2-22-17    0497228   FREEHOLD             750.5M                          
+    103/14-02-022-17W4/00  S   58.1M  E  706.2M    MIDNAPORE            1230.0M                         
+    DEV (NC)                             COUNTESS                       BASAL QUARTZ SD                 
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  14-02-022-17W4                  
+                                                                                                        
+    LONGSHORE 02 HZ PROGRESS 1-13-77-10  0497229   ALBERTA CROWN        798.8M                          
+    100/01-13-077-10W6/00  N   92.3M  E  687.1M    GRANDE PRAIRIE       4175.0M                         
+    DEV (C)                              PROGRESS                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    LONGSHORE RESOURCES LTD.                                            03-14-077-10W6                  
+                                                                                                        
+    LONGSHORE HZ PROGRESS 1-13-77-10     0497230   ALBERTA CROWN        798.7M                          
+    102/01-13-077-10W6/00  N   92.4M  E  672.1M    GRANDE PRAIRIE       4175.0M                         
+    DEV (C)                              PROGRESS                       CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    LONGSHORE RESOURCES LTD.                                            03-14-077-10W6                  
+                                                                                                        
+    TXNE 15C-16 HZ  ALDSON 9-22-15-14    0497231   FREEHOLD             769M                            
+    100/09-22-015-14W4/00  S   65.0M  W  742.4M    MEDICINE HAT         3750.0M                         
+    DEV (NC)                             ALDERSON                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  15-16-015-14W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CHEVRON 105 HZ FOXCK 10-36-61-19      0492884    UWI:                                               
+    05/10-36-061-19W5/0                              00/07-36-061-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     CHEVRON HZ FOXCK 7-36-61-19                        
+
+                                                     GROUND ELEVATION                                   
+                                                     905.7                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     6370.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0376.8 E 0262.6                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+    NUVISTA 102 HZ D WEMBLEY 12-19-72-9   0496848    GROUND ELEVATION                                   
+    102/12-19-072-09W6/00                            771.8                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5351.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0643.2 E 0659.7                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.43                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     1                                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    NUVISTA 103 HZ B WEMBLEY 12-19-72-9   0496849    GROUND ELEVATION                                   
+    103/12-19-072-09W6/00                            771.9                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5437.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0653.2 E 0659.7                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.43                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     1                                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+    NUVISTA 102 HZ C WEMBLEY 13-19-72-9   0496850    GROUND ELEVATION                                   
+    102/13-19-072-09W6/00                            771.9                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5529.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0663.2 E 0659.7                                  
+
+                                                     MINERAL RIGHTS:                                    
+                                                     ALBERTA CROWN                                      
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.43                                               
+
+                                                     NUMBER OF DWELLINGS IN TH                          
+                                                     1                                                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MONTNEY FM                                
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

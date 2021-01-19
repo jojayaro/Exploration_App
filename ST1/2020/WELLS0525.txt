@@ -1,0 +1,43 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 25 May 2020                                                                                   
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    JUPITER HZ SMOKY 15-23-59-1          0498061   ALBERTA CROWN        1290.5M                         
+    102/15-23-059-01W6/00  N  169.8M  E  753.3M    DRAYTON VALLEY       5121.0M                         
+    DEV (NC)                             SMOKY                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    JUPITER RESOURCES INC.                                              03-35-059-01W6                  
+                                                                                                        
+    JUPITER HZ SMOKY 12-24-59-1          0498062   ALBERTA CROWN        1290.5M                         
+    100/12-24-059-01W6/00  N  169.7M  E  743.3M    DRAYTON VALLEY       5960.0M                         
+    DEV (NC)                             SMOKY                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    JUPITER RESOURCES INC.                                              03-35-059-01W6                  
+                                                                                                        
+    SCL WW1 BURNT 10-13-30-7             0498063   ALBERTA CROWN        1468.2M                         
+    1F1/10-13-030-07W5/00  S  519.3M  W  585.2M    RED DEER             195.0M                          
+    OTH (NC)                             UNDEFINED                      BRAZEAU FM                      
+    VERTICAL                             NEW       OBSERVATION          WATER                           
+    SHELL CANADA LIMITED                                                10-13-030-07W5                  
+                                                                                                        
+    SCL WW2 BURNT 10-13-30-7             0498064   ALBERTA CROWN        1468.1M                         
+    1F2/10-13-030-07W5/00  S  595.4M  W  589.9M    RED DEER             195.0M                          
+    OTH (NC)                             UNDEFINED                      BRAZEAU FM                      
+    VERTICAL                             NEW       OBSERVATION          WATER                           
+    SHELL CANADA LIMITED                                                10-13-030-07W5                  
+                                                                                                        
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

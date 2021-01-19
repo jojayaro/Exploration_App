@@ -1,0 +1,163 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 30 April 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    JUPITER HZ SMOKY 5-2-60-1             0489873    PROJECTED DEPTH:                                   
+    100/05-02-060-01W6/00                            5621.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0170.2 E 0778.3                                  
+
+    CVE D5-14 A12 HARDY 12-14-77-6        0495630    UWI:                                               
+    00/12-14-077-06W4/2                              00/05-14-077-06W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     CVE D5 HARDY 5-14-77-6                             
+
+    HIGHWOOD NIPISI 14-25-76-7            0496200    UWI:                                               
+    00/14-25-076-07W5/0                              00/11-25-076-07W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     HIGHWOOD NIPISI 11-25-76-7                         
+
+    HIGHWOOD NIPISI 15-25-76-7            0496201    UWI:                                               
+    00/15-25-076-07W5/4                              02/14-25-076-07W5/4                                
+
+                                                     WELL NAME:                                         
+                                                     HIGHWOOD NIPISI 14-25-76-7                         
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    PEYTO ANSELL 2-20-51-19               0496617    SURFACE CO-ORDINATES:                              
+    100/02-20-051-19W5/00                            N 0101.1 W 0497.8                                  
+
+    PEYTO SUNDANCE 14-35-54-21            0496717    SURFACE CO-ORDINATES:                              
+    102/14-35-054-21W5/00                            S 0068.9 E 0262.6                                  
+
+    BEC HZ FERRIER 14-28-38-7             0496869    UWI:                                               
+    03/14-28-038-07W5/0                              00/11-28-038-07W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     BEC HZ FERRIER 11-28-38-7                          
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM GLAUCONITIC SS                            
+
+    BAYTEX SLAVE 5-20-84-15               0496881    UWI:                                               
+    00/05-20-084-15W5/6                              00/04-21-084-15W5/6                                
+
+                                                     WELL NAME:                                         
+                                                     BAYTEX HZ SLAVE 4-21-84-15                         
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM BLUESKY FM                      
+
+    VELVET 102 HZ PEMBINA 8-21-51-13      0496988    UWI:                                               
+    00/08-22-051-13W5/2                              00/06-22-051-13W5/2                                
+
+                                                     WELL NAME:                                         
+                                                     VELVET HZ PEMBINA 6-22-51-13                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM MANNVILLE GRP                             
+
+    VEI HZ PEMBINA 1-35-50-13             0497214    UWI:                                               
+    02/01-35-050-13W5/0                              02/06-35-050-13W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     VEI HZ PEMBINA 6-35-50-13                          
+
+    HIGHWOOD CRAIGND 15-31-64-12          0497232    UWI:                                               
+    00/15-31-064-12W4/0                              00/14-30-064-12W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     HIGHWOOD CRAIGND 14-30-64-12                       
+
+    SPL 16-3 HZ JARVIE 15-2-63-1          0497312    UWI:                                               
+    00/10-01-063-01W5/7                              00/13-01-063-01W5/7                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 16-3 HZ JARVIE 13-1-63-1                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM UPPER MANNVILLE FM                  
+
+    ROCKEAST HZ 102 PROVOST 4-11-40-9     0497345    UWI:                                               
+    02/04-11-040-09W4/0                              00/05-11-040-09W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     ROCKEAST HZ 102 PROVOST 5-11-40-9                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.07                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM GLAUCONITIC SS                      
+
+    SPL 6-31 HZ 102 MARTEN 4-30-76-6      0497393    UWI:                                               
+    00/02-36-076-07W5/6                              02/04-30-076-06W5/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 6-31 HZ MARTEN 4-30-76-6                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+                                                     DRILL CUTTINGS:                                    
+                                                     800.00 TO 2600.00                                  
+
+    CROVERROENERGY HZ RIVERCRS 5-1-48-1   0497600    UWI:                                               
+    02/05-01-048-01W4/0                              02/04-01-048-01W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     CROVERROENERGY HZ RIVERCRS 4-1-48-1                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CUMMINGS MBR                        
+
+    SURGE ENERGY HZ HAYTER 15-25-39-1     0497740    UWI:                                               
+    00/14-25-039-01W4/5                              02/15-25-039-01W4/5                                
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM SPARKY MBR                          
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    OBE HZ ESTHER 13-4-33-2               0488966                                                       
+    100/13-04-033-02W4/00                                                                               
+
+    OBE HZ ESTHER 16-5-33-2               0488967                                                       
+    100/16-05-033-02W4/00                                                                               
+
+    OBE HZ ESTHER 15-5-33-2               0488968                                                       
+    102/15-05-033-02W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

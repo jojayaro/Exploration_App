@@ -1,0 +1,41 @@
+Report Number: ST-49                                                                                Alberta Energy Regulator                                                                                         Page 1 of 1
+Run Date: 04 Jan 2020                                                                             DAILY DRILLING ACTIVITY LIST                                                                                                  
+                                                                                     For the Notification Period 03 Jan 2020 To 04 Jan 2020                                                                                     
+
+      WELL ID                    WELL NAME               LICENCE  +---------------CONTRACTOR---------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                                  BA ID                 NAME                 NUMBER                                                                                     TOTAL DEPTH     TYPE    
+------------------- ------------------------------------ -------- ------ ----------------------------------- ------ ----------------------- -------------- ----- ------------------------------------- ------------- -----------
+02/13-23-017-14W4/0 BLACKSPUR HZ 102 NEWELL 13-23-17-14   0494736 0Y52   Precision Drilling Corporation         204 04 Jan 2020 08:30:00 AM Medicine Hat   A6F7  Blackspur Oil Corp.                                 Drill To LD
+00/15-13-032-25W4/0 ARTIS HZ TWINING 15-13-32-25          0497001 0Z41   Ensign Drilling Inc.                  T418 04 Jan 2020 02:30:00 AM Red Deer       A77W  Artis Exploration Ltd.                              Drill To LD
+02/04-22-034-03W4/0 RHE 102 PROVOST 4-22-34-3             0496094 A57H   Predator Drilling Inc.                  27 04 Jan 2020 07:30:00 AM Wainwright     A6W2  Rolling Hills Energy Ltd.                           Set Surface
+02/14-36-034-03W4/0 RHE 102 PROVOST 14-36-34-3            0496167 A57H   Predator Drilling Inc.                  27 02 Jan 2020 12:00:00 PM Wainwright     A6W2  Rolling Hills Energy Ltd.                           Set Surface
+02/02-20-035-04W4/0 KARVE 102 HZ PROVOST 2-20-35-4        0496077 0Z41   Ensign Drilling Inc.                   348 03 Jan 2020 05:00:00 PM Wainwright     A7BT  Karve Energy Inc.                                   Drill To LD
+00/11-31-038-02W4/0 WLEC MHZ 3B11 PROVOST 11-31-38-2      0496923 A1TW   Bonanza Drilling Inc.                    4 04 Jan 2020 10:00:00 AM Wainwright     A7H7  West Lake Energy Corp.                              Drill To LD
+02/05-06-040-27W4/0 VESTA VESTA 00~ JOFFRE 5-6-40-27      0497039 A6EC   Twilight Drilling Ltd.                   3 03 Jan 2020 06:15:00 PM Red Deer       A0L1  Vesta Energy Ltd.                                   Drill To LD
+00/02-36-040-27W4/0 VESTA JOFFRE 2-36-40-27               0497030 A6EC   Twilight Drilling Ltd.                   2 03 Jan 2020 10:00:00 PM Red Deer       A0L1  Vesta Energy Ltd.                                   Drill To LD
+00/03-24-040-07W5/0 BEC HZ WILLGR 3-24-40-7               0495122 A08C   Savanna Drilling Corp.                 656 04 Jan 2020 12:00:00 AM Red Deer       A5RX  Bonavista Energy Corporation                        Drill To LD
+02/14-34-041-11W5/0 PEYTO CHAMBERS 14-34-41-11            0495911 A08C   Savanna Drilling Corp.                 616 04 Jan 2020 12:30:00 PM Red Deer       0YA2  Peyto Exploration & Development Corp.               Drill To LD
+02/03-19-060-19W5/0 XTO E01 KAYBOBS 3-19-60-19            0494032 0Z41   Ensign Drilling Inc.                    56 04 Jan 2020 04:30:00 AM St. Albert     A6GB  XTO Energy Canada ULC                               Set Surface
+AA/09-21-064-04W4/0 HUSKY COLD LK 9-21-64-4               0495735 0Y52   Precision Drilling Corporation         186 04 Jan 2020 03:30:00 PM Bonnyville     0R46  Husky Oil Operations Limited                        Drill To LD
+02/09-17-065-05W6/0 PARA HZ 102 KARR 9-17-65-5            0495336 A5DR   Fox Drilling Inc.                        6 04 Jan 2020 06:00:00 AM Grande Prairie 0AW4  Paramount Resources Ltd.                            Drill To LD
+00/05-30-067-08W6/0 WHITECAP HZ WAPITI 5-30-67-8          0496840 0Y52   Precision Drilling Corporation         403 04 Jan 2020 05:00:00 PM Grande Prairie A5BE  Whitecap Resources Inc.                             Drill To LD
+12/03-21-070-04W4/0 CVE MP36 FISHER 3-21-70-4             0496757 0Y52   Precision Drilling Corporation         199 03 Jan 2020 08:30:00 PM Bonnyville     A5D4  Cenovus Energy Inc.                                 Drill To LD
+02/05-30-072-09W6/0 NUVISTA HZ 102 B WEMBLEY 5-30-72-9    0497216 A6PR   Nabors Drilling Canada Limited          79 04 Jan 2020 06:00:00 AM Grande Prairie A0A7  NuVista Energy Ltd.                                 Drill To LD
+AB/02-34-073-08W4/0 CNRL 1AB KIRBY 2-34-73-8              0496674 0Z41   Ensign Drilling Inc.                   218 04 Jan 2020 09:00:00 AM Bonnyville     0HE9  Canadian Natural Resources Limited                  Drill To LD
+AC/01-07-077-05W4/0 MEG HARDY 1-7-77-5                    0496611 A57H   Predator Drilling Inc.                  12 03 Jan 2020 09:15:00 PM Bonnyville     0Z9C  MEG Energy Corp.                                    Drill To LD
+AE/15-02-077-06W4/0 CVE B15 HARDY 15-2-77-6               0495608 0Y52   Precision Drilling Corporation         133 04 Jan 2020 01:20:00 AM Bonnyville     A5D4  Cenovus Energy Inc.                                 Drill To LD
+AB/10-11-077-06W4/0 CVE B10-11 B10 HARDY 10-11-77-6       0495623 0Y52   Precision Drilling Corporation         254 04 Jan 2020 03:00:00 AM Bonnyville     A5D4  Cenovus Energy Inc.                                 Drill To LD
+00/03-27-077-11W6/0 INSIGNIAENERGY HZ PCOUPES 3-27-77-11  0497007 A0KC   Horizon Drilling Inc.                   45 04 Jan 2020 06:00:00 AM Grande Prairie A1FX  Insignia Energy Ltd.                                Drill To LD
+00/04-16-085-15W5/0 BAYTEX HZ SLAVE 4-16-85-15            0493537 A0KC   Horizon Drilling Inc.                   14 04 Jan 2020 04:43:00 PM St. Albert     0RL9  Baytex Energy Ltd.                                  Drill To LD
+10/12-27-094-06W4/0 SUNCOR P122P15 FIREBAG 12-27-94-6     0496395 A6PR   Nabors Drilling Canada Limited         102 03 Jan 2020 08:00:00 PM Bonnyville     0054  Suncor Energy Inc.                                  Drill To LD
+AA/05-23-095-06W4/0 SUNCOR FIREBAG 5-23-95-6              0496569 0ZF6   McAllister Water Well Drilling Ltd.      1 03 Jan 2020 06:30:00 PM Bonnyville     0054  Suncor Energy Inc.                                  Set Surface
+AA/07-23-095-06W4/0 SUNCOR FIREBAG 7-23-95-6              0496570 A57H   Predator Drilling Inc.                   3 04 Jan 2020 02:30:00 PM Bonnyville     0054  Suncor Energy Inc.                                  Drill To LD
+
+                                                                           TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 21                                                                           
+                                                                           TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  =  0                                                                           
+                                                                           TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well =  0                                                                           
+                                                                           TOTAL  - Set Surface - Drilling to Set Surface Casing Only            =  4                                                                           
+
+                                                                                               TOTAL NUMBER OF WELLS LISTED = 25                                                                                                
+                                                                                                     *** END OF REPORT ***                                                                                                      
+

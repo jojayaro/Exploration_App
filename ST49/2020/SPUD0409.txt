@@ -1,0 +1,18 @@
+Report Number: ST-49                                                                    Alberta Energy Regulator                                                                            Page 1 of 1
+Run Date: 09 Apr 2020                                                                 DAILY DRILLING ACTIVITY LIST                                                                                     
+                                                                         For the Notification Period 08 Apr 2020 To 09 Apr 2020                                                                        
+
+      WELL ID                   WELL NAME              LICENCE  +-------CONTRACTOR-------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID            LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                                BA ID         NAME         NUMBER                                                                              TOTAL DEPTH     TYPE    
+------------------- ---------------------------------- -------- ------ ------------------- ------ ----------------------- -------------- ----- ------------------------------ ------------- -----------
+09/15-04-066-04W4/0 IMP H91-H06 LEMING 15-4-66-4        0497584 0Y55   Akita Drilling Ltd.     21 09 Apr 2020 09:00:00 AM Bonnyville     0007  Imperial Oil Resources Limited               Set Surface
+03/05-31-078-07W6/0 GRL 1-31 HZ 103 VALHALLA 5-31-78-7  0497689 A2CL   Komat Drilling Ltd.      4 15 Feb 2020 11:00:00 AM Grande Prairie A0TX  Grizzly Resources Ltd.                       Set Surface
+
+                                                               TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 0                                                               
+                                                               TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                               
+                                                               TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                               
+                                                               TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 2                                                               
+
+                                                                                   TOTAL NUMBER OF WELLS LISTED = 2                                                                                    
+                                                                                         *** END OF REPORT ***                                                                                         
+

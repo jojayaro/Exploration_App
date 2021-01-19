@@ -1,0 +1,20 @@
+Report Number: ST-49                                                                        Alberta Energy Regulator                                                                                Page 1 of 1
+Run Date: 12 Aug 2020                                                                     DAILY DRILLING ACTIVITY LIST                                                                                         
+                                                                             For the Notification Period 11 Aug 2020 To 12 Aug 2020                                                                            
+
+      WELL ID                    WELL NAME              LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID          LICENSEE          NEW PROJECTED  ACTIVITY  
+                                                                 BA ID               NAME              NUMBER                                                                          TOTAL DEPTH     TYPE    
+------------------- ----------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- -------------------------- ------------- -----------
+00/08-27-034-08W4/0 TAC 16-26 HZ PROVOST 8-27-34-8       0498160 0GE9   Tempco Drilling Company Inc.        5 12 Aug 2020 10:45:00 AM Wainwright     A5TT  Tamarack Acquisition Corp.               Drill To LD
+02/05-16-046-15W5/0 TOURMALINE HZ COLUMBIA 5-16-46-15    0498102 0Z41   Ensign Drilling Inc.             T038 12 Aug 2020 03:15:00 AM Drayton Valley A573  Tourmaline Oil Corp.                     Set Surface
+02/14-33-051-16W5/0 TOURMALINE 102 HZ EDSON 14-33-51-16  0498147 A6PR   Nabors Drilling Canada Limited     16 11 Aug 2020 07:30:00 PM Drayton Valley A573  Tourmaline Oil Corp.                     Resumption 
+S0/16-18-063-21W4/0 CRESTWYND HZ MEANOOK 16-18-63-21     0498088 0Y52   Precision Drilling Corporation    187 12 Aug 2020 08:00:00 AM St. Albert     A7MT  Crestwynd Exploration Ltd.               Drill To LD
+
+                                                                   TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 2                                                                   
+                                                                   TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                   
+                                                                   TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 1                                                                   
+                                                                   TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                                   
+
+                                                                                       TOTAL NUMBER OF WELLS LISTED = 4                                                                                        
+                                                                                             *** END OF REPORT ***                                                                                             
+

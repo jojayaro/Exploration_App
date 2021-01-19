@@ -1,0 +1,46 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 14 July 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CONCOURSE CINDY 6-28-77-26           0498157   ALBERTA CROWN        611.7M                          
+    103/06-28-077-26W5/00  N   55.0M  W   50.0M    GRANDE PRAIRIE       3300.0M                         
+    XPL (C)                              CINDY                          WABAMUN GRP                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CONCOURSE PETROLEUM INC.                                            01-32-077-26W5                  
+                                                                                                        
+    CONCOURSE CINDY 10-29-77-26          0498158   ALBERTA CROWN        611.8M                          
+    100/10-29-077-26W5/00  N   55.0M  W   70.0M    GRANDE PRAIRIE       2700.0M                         
+    XPL (C)                              CINDY                          WABAMUN GRP                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CONCOURSE PETROLEUM INC.                                            01-32-077-26W5                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    TANGLE CREEK KAYBOBS 8-29-60-18       0489971                                                       
+    102/08-29-060-18W5/00                                                                               
+
+    TANGLE CREEK KAYBOBS 1-29-60-18       0489972                                                       
+    103/01-29-060-18W5/00                                                                               
+
+    MODERN HZ WAPITI 13-9-66-7            0495082                                                       
+    102/13-09-066-07W6/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

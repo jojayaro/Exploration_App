@@ -1,0 +1,97 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 09 July 2020                                                                                  
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    OAK ET AL 02 GRDFKS 13-25-12-14       0087570    UWI:                                               
+    02/12-25-012-14W4/3                              02/13-25-012-14W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     CNRL 102 RE GRDFKS 13-25-12-14                     
+
+                                                     DRILLING OPERATION:                                
+                                                     DIRECTIONAL                                        
+
+    HUSKY HZ ANSELL 4-16-51-19            0491505    GROUND ELEVATION                                   
+    102/04-16-051-19W5/00                            979.4                                              
+
+                                                     PROJECTED DEPTH:                                   
+                                                     4975.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0369.9 E 0120.0                                  
+
+    HUSKY HZ ANSELL 12-2-51-19            0491792    UWI:                                               
+    00/12-02-051-19W5/0                              02/11-02-051-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     HUSKY HZ ANSELL 11-2-51-19                         
+
+                                                     PROJECTED DEPTH:                                   
+                                                     5170.00                                            
+
+    ECA HZ WEMBLEY 4-35-71-9              0494854    UWI:                                               
+    00/04-35-071-09W6/0                              04/05-35-071-09W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     OVV HZ WEMBLEY 5-35-71-9                           
+
+    ECA HZ 103 WEMBLEY 5-35-71-9          0494873    UWI:                                               
+    03/05-35-071-09W6/0                              04/13-26-071-09W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     OVV HZ 103 WEMBLEY 13-26-71-9                      
+
+    7GEN HZ KAKWA 4-11-62-4               0496042    UWI:                                               
+    00/04-11-062-04W6/0                              S0/01-16-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 1-16-62-4                            
+
+    HIGHWOOD NIPISI 16-25-76-7            0496203    UWI:                                               
+    00/16-25-076-07W5/5                              00/07-25-076-07W5/5                                
+
+                                                     WELL NAME:                                         
+                                                     HIGHWOOD NIPISI 7-25-76-7                          
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM CLEARWATER FM                       
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    JUPITER HZ SMOKY 5-2-60-1             0489873                                                       
+    100/05-02-060-01W6/00                                                                               
+
+    VELVET HZ ELM 15-12-68-3              0489886                                                       
+    100/15-12-068-03W6/00                                                                               
+
+    ARTIS HZ 102 HUXLEY 1-18-35-24        0495034                                                       
+    102/01-18-035-24W4/00                                                                               
+
+    ARTIS HZ HUXLEY 2-18-35-24            0495035                                                       
+    100/02-18-035-24W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

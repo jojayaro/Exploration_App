@@ -1,0 +1,43 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 13 March 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    BEC HZ FERRIER 13-20-38-7            0497872   ALBERTA CROWN        1023M                           
+    100/13-20-038-07W5/00  S   70.0M  E  398.6M    RED DEER             5448.0M                         
+    DEV (NC)                             FERRIER                        GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BONAVISTA ENERGY CORPORATION                                        13-08-038-07W5                  
+                                                                                                        
+    BEC HZ FERRIER 14-20-38-7            0497873   ALBERTA CROWN        1022.4M                         
+    100/14-20-038-07W5/00  S   70.0M  E  418.6M    RED DEER             5730.0M                         
+    DEV (NC)                             FERRIER                        GLAUCONITIC SS                  
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BONAVISTA ENERGY CORPORATION                                        14-08-038-07W5                  
+                                                                                                        
+    ROBUS HZ 102 JOARCAM 9-27-47-20      0497874   ALBERTA CROWN        741.4M                          
+    102/09-27-047-20W4/00  N   60.1M  E  323.3M    ST. ALBERT           1870.0M                         
+    DEV (NC)                             JOARCAM                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ROBUS RESOURCES INC.                                                04-34-047-20W4                  
+                                                                                                        
+    ROBUS HZ 102 JOARCAM 5-27-47-20      0497875   ALBERTA CROWN        741.5M                          
+    102/05-27-047-20W4/00  N   71.6M  E  217.7M    ST. ALBERT           1870.0M                         
+    DEV (NC)                             JOARCAM                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ROBUS RESOURCES INC.                                                04-34-047-20W4                  
+                                                                                                        
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

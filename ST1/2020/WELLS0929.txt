@@ -1,0 +1,124 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 29 September 2020                                                                             
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    OVV HZ 105 WEMBLEY 8-16-72-9         0498482   ALBERTA CROWN        803.6M                          
+    105/08-16-072-09W6/00  S  171.0M  E  624.1M    GRANDE PRAIRIE       5900.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-20-072-09W6                  
+                                                                                                        
+    OVV HZ 106 WEMBLEY 8-16-72-9         0498483   ALBERTA CROWN        803.8M                          
+    106/08-16-072-09W6/00  S  171.0M  E  614.1M    GRANDE PRAIRIE       5900.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-20-072-09W6                  
+                                                                                                        
+    OVV HZ 107 WEMBLEY 8-16-72-9         0498484   ALBERTA CROWN        804M                            
+    107/08-16-072-09W6/00  S  171.0M  E  604.1M    GRANDE PRAIRIE       5900.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-20-072-09W6                  
+                                                                                                        
+    OVV HZ  WEMBLEY 9-16-72-9            0498485   ALBERTA CROWN        804.2M                          
+    100/09-16-072-09W6/00  S  171.0M  E  594.1M    GRANDE PRAIRIE       5900.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-20-072-09W6                  
+                                                                                                        
+    OVV HZ 108 WEMBLEY 8-16-72-9         0498486   ALBERTA CROWN        801.8M                          
+    108/08-16-072-09W6/00  S  101.0M  E  689.1M    GRANDE PRAIRIE       5900.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-20-072-09W6                  
+                                                                                                        
+    OVV HZ 103 WEMBLEY 1-16-72-9         0498487   ALBERTA CROWN        802M                            
+    103/01-16-072-09W6/00  S  101.0M  E  679.1M    GRANDE PRAIRIE       5900.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-20-072-09W6                  
+                                                                                                        
+    OVV HZ 104 WEMBLEY 1-16-72-9         0498488   ALBERTA CROWN        802.3M                          
+    104/01-16-072-09W6/00  S  101.0M  E  669.1M    GRANDE PRAIRIE       5900.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-20-072-09W6                  
+                                                                                                        
+    OVV HZ 102 WEMBLEY 9-16-72-9         0498489   ALBERTA CROWN        802.4M                          
+    102/09-16-072-09W6/00  S  101.0M  E  659.1M    GRANDE PRAIRIE       5900.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-20-072-09W6                  
+                                                                                                        
+    OVV HZ WEMBLEY 16-16-72-9            0498490   ALBERTA CROWN        802.5M                          
+    100/16-16-072-09W6/00  S  101.0M  E  649.1M    GRANDE PRAIRIE       5900.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-20-072-09W6                  
+                                                                                                        
+    OVV HZ 102 WEMBLEY 16-16-72-9        0498491   ALBERTA CROWN        802.8M                          
+    102/16-16-072-09W6/00  S  101.0M  E  634.1M    GRANDE PRAIRIE       5900.0M                         
+    DEV (NC)                             WEMBLEY                        MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OVINTIV CANADA ULC                                                  14-20-072-09W6                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    PEYTO ANSELL 3-2-53-21                0491077                                                       
+    100/03-02-053-21W5/00                                                                               
+
+    CNRL 10D BNNYVLLE 10-19-62-7          0491081                                                       
+    100/10-19-062-07W4/00                                                                               
+
+    CNRL 15D BNNYVLLE 15-19-62-7          0491083                                                       
+    102/15-19-062-07W4/00                                                                               
+
+    CNRL 10D LNDBRGH 10-27-56-6           0491095                                                       
+    100/10-27-056-06W4/00                                                                               
+
+    CNRL 16C LNDBRGH 16-27-56-6           0491096                                                       
+    102/16-27-056-06W4/00                                                                               
+
+    BAYTEX TANGENT 6-19-80-21             0491097                                                       
+    1AB/06-19-080-21W5/00                                                                               
+
+    BAYTEX TANGENT 12-17-80-21            0491098                                                       
+    1AB/12-17-080-21W5/00                                                                               
+
+    CNRL 14A BNNYVLLE 14-19-62-7          0491101                                                       
+    100/14-19-062-07W4/00                                                                               
+
+    CNRL 1C BNNYVLLE 1-30-62-7            0491102                                                       
+    103/01-30-062-07W4/00                                                                               
+
+    CNRL 3A BNNYVLLE 3-30-62-7            0491103                                                       
+    100/03-30-062-07W4/00                                                                               
+
+    CNRL 6B BNNYVLLE 6-30-62-7            0491104                                                       
+    102/06-30-062-07W4/00                                                                               
+
+    BAYTEX TANGENT 6-29-80-21             0491107                                                       
+    1AB/06-29-080-21W5/00                                                                               
+
+    PARA 103 HZ TONY CKN 1-25-63-21       0491110                                                       
+    103/01-25-063-21W5/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

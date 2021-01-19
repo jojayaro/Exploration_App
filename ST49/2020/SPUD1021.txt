@@ -1,0 +1,27 @@
+Report Number: ST-49                                                                           Alberta Energy Regulator                                                                                    Page 1 of 1
+Run Date: 21 Oct 2020                                                                        DAILY DRILLING ACTIVITY LIST                                                                                             
+                                                                                For the Notification Period 20 Oct 2020 To 21 Oct 2020                                                                                
+
+      WELL ID                   WELL NAME              LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID              LICENSEE              NEW PROJECTED  ACTIVITY  
+                                                                BA ID               NAME              NUMBER                                                                                  TOTAL DEPTH     TYPE    
+------------------- ---------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ---------------------------------- ------------- -----------
+00/08-21-044-10W5/0 BAYTEX HZ FERRIER 8-21-44-10        0498447 A08C   Savanna Drilling Corp.            636 21 Oct 2020 09:00:00 AM Red Deer       0RL9  Baytex Energy Ltd.                               Drill To LD
+02/04-16-051-19W5/0 HUSKY HZ ANSELL 4-16-51-19          0491505 A0KC   Horizon Drilling Inc.               4 21 Oct 2020 12:00:00 AM Drayton Valley 0R46  Husky Oil Operations Limited                     Drill To LD
+00/13-24-052-12W5/0 VEI HZ CARROT 13-24-52-12           0497793 A5DG   CWC Energy Services Corp.           5 21 Oct 2020 08:00:00 AM Drayton Valley A6FW  Vermilion Energy Inc.                            Drill To LD
+00/04-16-063-21W4/0 CRESTWYND HZ JILES 4-16-63-21       0498566 0Y52   Precision Drilling Corporation    187 21 Oct 2020 01:00:00 AM St. Albert     A7MT  Crestwynd Exploration Ltd.                       Drill To LD
+02/01-13-070-08W6/0 PIPE HZ ELM 1-13-70-8               0498448 0Y52   Precision Drilling Corporation    524 21 Oct 2020 09:30:00 AM Grande Prairie A82B  Pipestone Energy Corp.                           Drill To LD
+00/02-34-072-09W6/0 CNRL HZ WEMBLEY 2-34-72-9           0493402 0Z41   Ensign Drilling Inc.               44 21 Oct 2020 04:00:00 PM Grande Prairie 0HE9  Canadian Natural Resources Limited               Drill To LD
+03/06-22-073-24W4/0 SPL 9-20 HZ 103 SMITH 6-22-73-24    0498409 0Y52   Precision Drilling Corporation    149 20 Oct 2020 11:45:00 PM St. Albert     A7GR  Spur Petroleum Ltd.                              Resumption 
+04/13-09-075-25W4/0 DELTASTREAM MARTENH 13-9-75-25      0498339 A2CL   Komat Drilling Ltd.                 3 20 Oct 2020 10:30:00 PM St. Albert     A6YA  Deltastream Energy Corporation                   Set Surface
+03/11-31-076-06W5/0 SPL 11-31 HZ 103 NIPISI 11-31-76-6  0498225 0GE9   Tempco Drilling Company Inc.        7 21 Oct 2020 02:30:00 PM St. Albert     A7GR  Spur Petroleum Ltd.                              Drill To LD
+00/13-26-094-06W4/0 SUNCOR P122S5 FIREBAG 13-26-94-6    0496404 A6PR   Nabors Drilling Canada Limited    102 21 Oct 2020 04:45:00 AM Bonnyville     0054  Suncor Energy Inc.                               Resumption 
+00/13-08-096-10W4/0 SYNCRUDE AN 20-5825 13-8-96-10      0498536 A57H   Predator Drilling Inc.              2 21 Oct 2020 10:15:00 AM Bonnyville     0362  Syncrude Canada Ltd.                             Drill To LD
+
+                                                                      TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 8                                                                       
+                                                                      TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                       
+                                                                      TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 2                                                                       
+                                                                      TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                                       
+
+                                                                                          TOTAL NUMBER OF WELLS LISTED = 11                                                                                           
+                                                                                                *** END OF REPORT ***                                                                                                 
+

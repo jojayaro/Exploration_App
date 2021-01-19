@@ -1,0 +1,184 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 13 January 2020                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    PEYTO SUNDANCE 12-1-56-22            0497358   ALBERTA CROWN        1032.6M                         
+    100/12-01-056-22W5/00  S  428.7M  E   50.9M    DRAYTON VALLEY       3675.0M                         
+    DEV (NC)                             SUNDANCE                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               12-06-056-21W5                  
+                                                                                                        
+    PEYTO SUNDANCE 13-1-56-22            0497359   ALBERTA CROWN        1032.6M                         
+    102/13-01-056-22W5/00  S  426.9M  E   46.4M    DRAYTON VALLEY       3650.0M                         
+    DEV (NC)                             SUNDANCE                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               12-06-056-21W5                  
+                                                                                                        
+    PEYTO SUNDANCE 2-6-56-21             0497360   ALBERTA CROWN        1032.6M                         
+    100/02-06-056-21W5/00  S  434.3M  E   64.8M    DRAYTON VALLEY       3600.0M                         
+    DEV (NC)                             SUNDANCE                       CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               12-06-056-21W5                  
+                                                                                                        
+    TQN HZ FERRIER 13-6-43-9             0497361   FREEHOLD             982.1M                          
+    100/13-06-043-09W5/00  S  327.5M  W  131.0M    RED DEER             6240.0M                         
+    DEV (C)                              FERRIER                        SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TAQA NORTH LTD.                                                     16-03-043-10W5                  
+                                                                                                        
+    CANAMAX HZ CECIL 13-27-84-7          0497362   ALBERTA CROWN        623.2M                          
+    100/13-27-084-07W6/00  S  530.4M  W   68.5M    GRANDE PRAIRIE       4000.0M                         
+    DEV (NC)                             CECIL                          CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CANAMAX ENERGY LTD.                                                 09-29-084-07W6                  
+                                                                                                        
+    CANAMAX HZ CECIL 4-27-84-7           0497363   ALBERTA CROWN        623M                            
+    100/04-27-084-07W6/00  S  540.4M  W   68.3M    GRANDE PRAIRIE       4000.0M                         
+    DEV (NC)                             CECIL                          CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CANAMAX ENERGY LTD.                                                 09-29-084-07W6                  
+                                                                                                        
+    PETRUS 102 HZ FERRIER 1-17-38-8      0497364   ALBERTA CROWN        1033M                           
+    102/01-17-038-08W5/00  S   64.2M  W   78.0M    RED DEER             4050.0M                         
+    DEV (NC)                             FERRIER                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PETRUS RESOURCES CORP.                                              16-17-038-08W5                  
+                                                                                                        
+    PETRUS 102 HZ FERRIER 4-16-38-8      0497365   ALBERTA CROWN        1033.1M                         
+    102/04-16-038-08W5/00  S   64.2M  W   58.0M    RED DEER             4037.0M                         
+    DEV (NC)                             FERRIER                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PETRUS RESOURCES CORP.                                              16-17-038-08W5                  
+                                                                                                        
+    YANGARRA 102 HZ FERRIER 3-16-37-7    0497366   ALBERTA CROWN        1044M                           
+    102/03-16-037-07W5/00  N  499.0M  W  768.9M    RED DEER             5662.0M                         
+    DEV (NC)                             FERRIER                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    YANGARRA RESOURCES CORP.                                            07-28-037-07W5                  
+                                                                                                        
+    SHALE PETROLEUM HZ RICINUS 11-5-35-8 0497367   ALBERTA CROWN        1292.5M                         
+    100/11-05-035-08W5/00  S  719.9M  W  697.3M    RED DEER             4200.0M                         
+    DEV (C)                              RICINUS                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SHALE PETROLEUM LTD.                                                10-07-035-08W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    GRYPHON 03 HZ REAGAN 4-11-2-20        0471298    UWI:                                               
+    03/04-11-002-20W4/2                              00/03-11-002-20W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     GRYPHON 03 HZ REAGAN 3-11-2-20                     
+
+    RHE MEANOOK 4-19-63-22                0489732    UWI:                                               
+    00/04-19-063-22W4/0                              00/03-24-063-23W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     RHE PERRY 3-24-63-23                               
+
+    OBE 100 HZ WILLGR 4-30-42-7           0491857    GROUND ELEVATION                                   
+    100/04-30-042-07W5/00                            977.7                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0071.8 E 0504.6                                  
+
+    CVE 15-34 HZ MARTENH 10-35-74-25      0494052    UWI:                                               
+    00/09-35-074-25W4/3                              02/10-35-074-25W4/3                                
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.03                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    DELTASTREAM MARTENH 13-30-74-24       0494344    UWI:                                               
+    02/13-30-074-24W4/5                              02/14-30-074-24W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     DELTASTREAM MARTENH 14-30-74-24                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    HEL KAYBOB 9-11-65-19                 0495116    UWI:                                               
+    00/09-11-065-19W5/0                              00/15-11-065-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     HEL KAYBOB 15-11-65-19                             
+
+    TOURMALINE HZ WILD RIV 10-35-56-26    0495576    UWI:                                               
+    00/10-35-056-26W5/2                              00/09-35-056-26W5/2                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ WILD RIV 9-35-56-26                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM SPIRIT RIVER FM                           
+
+    WLEC MHZ 2B12 PROVOST 9-26-38-4       0495760    UWI:                                               
+    00/12-25-038-04W4/6                              00/05-25-038-04W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     WLEC MHZ 2B12 PROVOST 5-25-38-4                    
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM REX MBR                             
+
+    7GEN HZ KAKWA 1-36-62-4               0495860    UWI:                                               
+    00/01-36-062-04W6/0                              00/08-25-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 8-25-62-4                            
+
+    VELVET HZ ELM 10-25-68-3              0495874    UWI:                                               
+    00/10-25-068-03W6/0                              00/08-35-068-03W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     VELVET HZ BEZAN 8-35-68-3                          
+
+    SPL 8-20 HZ SMITH 5-22-73-24          0495973    UWI:                                               
+    00/05-22-073-24W4/4                              00/06-22-073-24W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 8-20 HZ SMITH 6-22-73-24                       
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE BITUMEN FROM CLEARWATER FM                   
+
+    SPL 11-31 HZ MARTEN 15-6-76-5         0495989    UWI:                                               
+    00/15-06-076-05W5/0                              02/14-06-076-05W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 11-31 HZ MARTEN 14-6-76-5                      
+
+    VESTA CYGNET 2-28-38-28               0495995    UWI:                                               
+    00/02-28-038-28W4/0                              02/01-28-038-28W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     VESTA CYGNET 1-28-38-28                            
+
+    BIR HZ 103 PCOUPE 15-5-79-12          0496223    UWI:                                               
+    03/15-05-079-12W6/0                              02/15-20-078-12W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     BIR HZ 103 PCOUPES 15-20-78-12                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,55 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 23 November 2020                                                                              
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL OB2 MOORE 1-4-68-4              0498804   ALBERTA CROWN        690.5M                          
+    102/01-04-068-04W4/00  N  330.7M  W  374.0M    BONNYVILLE           512.0M                          
+    DSW (NC)                             MOORE                          MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OBSERVATION          NONE                            
+    CANADIAN NATURAL RESOURCES LIMITED                                  01-04-068-04W4                  
+                                                                                                        
+    CNRL OB3 MOORE 1-4-68-4              0498805   ALBERTA CROWN        690.4M                          
+    103/01-04-068-04W4/00  N  335.6M  W  373.1M    BONNYVILLE           514.0M                          
+    DSW (NC)                             MOORE                          MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OBSERVATION          NONE                            
+    CANADIAN NATURAL RESOURCES LIMITED                                  01-04-068-04W4                  
+                                                                                                        
+    CNRL OBS MOORE 2-4-68-4              0498806   ALBERTA CROWN        690.2M                          
+    107/02-04-068-04W4/00  N  331.6M  W  378.9M    BONNYVILLE           516.0M                          
+    DSW (NC)                             MOORE                          MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OBSERVATION          NONE                            
+    CANADIAN NATURAL RESOURCES LIMITED                                  01-04-068-04W4                  
+                                                                                                        
+    AVN HZ SINCLAIR 4-35-75-13           0498807   ALBERTA CROWN        838.4M                          
+    100/04-35-075-13W6/00  S  174.6M  E   95.0M    GRANDE PRAIRIE       4800.0M                         
+    DEV (NC)                             SINCLAIR                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ADVANTAGE OIL & GAS LTD.                                            13-34-075-13W6                  
+                                                                                                        
+    SPL 10-24 HZ  MARTEN 13-23-76-6      0498808   ALBERTA CROWN        707M                            
+    100/13-23-076-06W5/00  S  556.3M  W  799.8M    ST. ALBERT           2900.0M                         
+    DEV (NC)                             MARTEN                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SPUR PETROLEUM LTD.                                                 10-24-076-06W5                  
+                                                                                                        
+    SPL 11-24 HZ MARTEN 13-25-76-6       0498809   ALBERTA CROWN        707M                            
+    100/13-25-076-06W5/00  S  556.0M  E  800.9M    ST. ALBERT           2900.0M                         
+    DEV (NC)                             MARTEN                         CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    SPUR PETROLEUM LTD.                                                 11-24-076-06W5                  
+                                                                                                        
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

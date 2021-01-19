@@ -1,0 +1,190 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 05 March 2020                                                                                 
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CVE 9-36 HZ MARTENH 1-31-74-24       0497827   ALBERTA CROWN        690.9M                          
+    100/01-31-074-24W4/00  S  744.8M  W  304.2M    ST. ALBERT           3200.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 09-36-074-25W4                  
+                                                                                                        
+    CNRL 1AJ DEVENISH 12-2-75-9          0497828   ALBERTA CROWN        681.2M                          
+    1AJ/12-02-075-09W4/00  S  685.4M  E  315.0M    BONNYVILLE           600.0M                          
+    OV (C)                               KIRBY                          MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  12-02-075-09W4                  
+                                                                                                        
+    CNRL 1AI DEVENISH 12-2-75-9          0497829   ALBERTA CROWN        680.9M                          
+    1AK/12-02-075-09W4/00  S  700.4M  E  315.0M    BONNYVILLE           600.0M                          
+    OV (C)                               KIRBY                          MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  12-02-075-09W4                  
+                                                                                                        
+    CNRL 1AB DEVENISH 16-34-74-9         0497830   ALBERTA CROWN        677.7M                          
+    1AB/16-34-074-09W4/00  N  209.1M  E  197.7M    BONNYVILLE           600.0M                          
+    OV (C)                               KIRBY                          MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  04-02-075-09W4                  
+                                                                                                        
+    CNRL 1AC DEVENISH 13-34-74-9         0497831   ALBERTA CROWN        664.9M                          
+    1AC/13-34-074-09W4/00  S  192.5M  E  198.5M    BONNYVILLE           570.0M                          
+    OV (C)                               KIRBY                          MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  13-34-074-09W4                  
+                                                                                                        
+    CNRL 1AB DEVENISH 2-3-75-9           0497832   ALBERTA CROWN        671.2M                          
+    1AB/02-03-075-09W4/00  N  101.8M  W  169.1M    BONNYVILLE           610.0M                          
+    OV (C)                               DEVENISH                       MCMURRAY FM                     
+    DIRECTIONAL                          NEW       OIL SAND EVALUATION  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  01-03-075-09W4                  
+                                                                                                        
+    HUSKY B 5-21 P1A STEEPBK 1-29-95-7   0497833   ALBERTA CROWN        453M                            
+    108/01-29-095-07W4/00  N  640.3M  W 1624.3M    BONNYVILLE           1260.0M                         
+    DEV (NC)                             UNDEFINED                      MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    HUSKY OIL OPERATIONS LIMITED                                        05-21-095-07W4                  
+                                                                                                        
+    NUVISTA HZ ELM 16-9-69-8             0497834   ALBERTA CROWN        734.9M                          
+    100/16-09-069-08W6/00  S  354.2M  W  339.5M    GRANDE PRAIRIE       7315.0M                         
+    DEV (NC)                             ELMWORTH                       MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    NUVISTA ENERGY LTD.                                                 16-35-068-08W6                  
+                                                                                                        
+    WSE WD ATMORE 14-23-67-18            0497835   ALBERTA CROWN        592.1M                          
+    100/14-23-067-18W4/00  S  445.4M  E  632.2M    ST. ALBERT           1558.0M                         
+    OTH (NC)                             ATMORE                         LOTSBERG FM                     
+    DIRECTIONAL                          NEW       DISPOSAL             WASTE                           
+    WHITE SWAN ENVIRONMENTAL LTD.                                       11-23-067-18W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    TOURMALINE HZ 102 PECO 13-29-46-15    0494813    UWI:                                               
+    02/13-29-046-15W5/2                              00/02-29-046-15W5/2                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ 102 PECO 2-29-46-15                  
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM VIKING FM                                 
+
+                                                     DRILL CUTTINGS:                                    
+                                                     1778.00 TO 4233.00                                 
+
+    TQN HZ FERRIER 3-35-43-11             0496515    UWI:                                               
+    00/03-35-043-11W5/0                              00/05-35-043-11W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TQN HZ FERRIER 5-35-43-11                          
+
+    SCL HZ FC742A MCKINLEY 2-10-64-22     0497044    SURFACE CO-ORDINATES:                              
+    100/02-10-064-22W5/00                            S 0477.5 E 0465.4                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     1.13                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM DUVERNAY FM                               
+
+    SCL HZ FC742B MCKINLEY 15-29-64-22    0497045    SURFACE CO-ORDINATES:                              
+    100/15-29-064-22W5/00                            S 0472.6 E 0465.1                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     1.13                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM DUVERNAY FM                               
+
+    SCL HZ FC742C MCKINLEY 5-33-64-22     0497046    GROUND ELEVATION                                   
+    100/05-33-064-22W5/00                            837.3                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0467.7 E 0464.8                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     1.13                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM DUVERNAY FM                               
+
+    SCL HZ FC742D MCKINLEY 1-10-64-22     0497047    GROUND ELEVATION                                   
+    100/01-10-064-22W5/00                            837.3                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0462.8 E 0464.5                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     1.13                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM DUVERNAY FM                               
+
+    SCL HZ FC742E MCKINLEY 3-14-64-22     0497048    GROUND ELEVATION                                   
+    100/03-14-064-22W5/00                            837.4                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0457.8 E 0464.2                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     1.13                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM DUVERNAY FM                               
+
+    SCL HZ FC742F MCKINLEY 1-32-64-22     0497049    GROUND ELEVATION                                   
+    100/01-32-064-22W5/00                            837.5                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0452.9 E 0463.8                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     1.13                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     GAS FROM DUVERNAY FM                               
+
+    ARTIS HZ HUXLEY 15-3-34-24            0497761    GROUND ELEVATION                                   
+    100/15-03-034-24W4/00                            924.2                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0060.0 E 0742.4                                  
+
+                                                     MAXIMUM CALCULATED EPZ                             
+                                                     0.01                                               
+
+                                                     TARGET SUBSTANCE(1)                                
+                                                     CRUDE OIL FROM DUVERNAY FM                         
+
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    JUPITER HZ RESTHA 14-19-59-1          0488416                                                       
+    100/14-19-059-01W6/00                                                                               
+
+    JUPITER HZ RESTHA 15-34-59-2          0488417                                                       
+    100/15-34-059-02W6/00                                                                               
+
+    ABE HZ 113 PROVOST 8-20-40-7          0496313                                                       
+    113/08-20-040-07W4/00                                                                               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 
