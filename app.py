@@ -21,9 +21,18 @@ filter_data = data[data['LICENSEE'] == option]
 st.map(filter_data)
 
 '''
+---
+## Data for selected Operator
+
+'''
+#Dataframe showing filtered data from selected Licensee
+st.dataframe(filter_data.sort_values(by='WEEK'))
+
+'''
+---
 # Weekly Activity (2020)
 
-Licenses issued by week broken down by substance
+Licenses issued by week broken down by substance (for all operators)
 '''
 df = data[data['YEAR'] == 2020]
 
