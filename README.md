@@ -14,7 +14,7 @@ All this is being developed in a container for later deployment on a Kubernetes 
 - Improve merging the new data into the main CSVs
 - Move data from dataframes into a DB instead of using CSVs
 
-##Update 1
+## Update 1
 - Deployed container in Kubernetes cluster and using Argo CD (slow)
 - Converted notebooks into python scripts and run them automatically in the server
 - Improved merging the new data into the main CSVs
