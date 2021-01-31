@@ -19,3 +19,5 @@ All this is being developed in a container for later deployment on a Kubernetes 
 - Converted notebooks into python scripts and run them automatically in the server
 - Improved merging the new data into the main CSVs
 
+## Update 2
+- Installed ArgoCD in cluster and testing Automatic refresh when Container gets rebuilt
