@@ -4,7 +4,7 @@ Python Scripts are currently jupyter notebooks that download AER daily reports i
 
 Streamlit App then uses the merged CSV files to visualize the data
 
-All this is being developed in a container for later deployment on a Kubernetes cluster (k3s)
+All this is being developed in a container for later deployment on a Kubernetes cluster (k3s) (https://github.com/jojayaro/Exploration_Data_Container)
 
 ## Next Steps
 
@@ -13,3 +13,9 @@ All this is being developed in a container for later deployment on a Kubernetes 
 - Convert notebooks into python scripts and run them automatically in the server
 - Improve merging the new data into the main CSVs
 - Move data from dataframes into a DB instead of using CSVs
+
+## Update 1
+- Deployed container in Kubernetes cluster
+- Converted notebooks into python scripts and run them automatically in the server
+- Improved merging the new data into the main CSVs
+
