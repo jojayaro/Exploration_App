@@ -1,0 +1,109 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 20 January 2021                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    MEG AT7N HARDY 2-32-76-5             0499325   ALBERTA CROWN        569.5M                          
+    108/02-32-076-05W4/00  S  630.1M  E  786.6M    BONNYVILLE           2283.0M                         
+    DEV (NC)                             HARDY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    MEG ENERGY CORP.                                                    11-33-076-05W4                  
+                                                                                                        
+    MEG AT8N HARDY 2-32-76-5             0499326   ALBERTA CROWN        569.5M                          
+    109/02-32-076-05W4/00  S  639.4M  E  790.5M    BONNYVILLE           2274.0M                         
+    DEV (NC)                             HARDY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    MEG ENERGY CORP.                                                    11-33-076-05W4                  
+                                                                                                        
+    MEG AT9I HARDY 10-32-76-5            0499327   ALBERTA CROWN        569.6M                          
+    104/10-32-076-05W4/00  S  659.8M  E  788.0M    BONNYVILLE           1723.0M                         
+    DEV (NC)                             HARDY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    MEG ENERGY CORP.                                                    11-33-076-05W4                  
+                                                                                                        
+    MEG AT9P HARDY 10-32-76-5            0499328   ALBERTA CROWN        569.6M                          
+    105/10-32-076-05W4/00  S  670.5M  E  762.1M    BONNYVILLE           1683.0M                         
+    DEV (NC)                             HARDY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    MEG ENERGY CORP.                                                    11-33-076-05W4                  
+                                                                                                        
+    MEG AT10I HARDY 10-32-76-5           0499329   ALBERTA CROWN        569.6M                          
+    106/10-32-076-05W4/00  S  669.1M  E  791.8M    BONNYVILLE           1726.0M                         
+    DEV (NC)                             HARDY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    MEG ENERGY CORP.                                                    11-33-076-05W4                  
+                                                                                                        
+    MEG AT10P HARDY 10-32-76-5           0499330   ALBERTA CROWN        569.6M                          
+    107/10-32-076-05W4/00  S  679.7M  E  765.9M    BONNYVILLE           1683.0M                         
+    DEV (NC)                             HARDY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    MEG ENERGY CORP.                                                    11-33-076-05W4                  
+                                                                                                        
+    MEG AT11I HARDY 10-32-76-5           0499331   ALBERTA CROWN        569.6M                          
+    108/10-32-076-05W4/00  S  678.3M  E  795.6M    BONNYVILLE           1657.0M                         
+    DEV (NC)                             HARDY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    MEG ENERGY CORP.                                                    11-33-076-05W4                  
+                                                                                                        
+    MEG AT11P HARDY 10-32-76-5           0499332   ALBERTA CROWN        569.6M                          
+    109/10-32-076-05W4/00  S  689.0M  E  769.7M    BONNYVILLE           1623.0M                         
+    DEV (NC)                             HARDY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    MEG ENERGY CORP.                                                    11-33-076-05W4                  
+                                                                                                        
+    MEG AT12I HARDY 10-32-76-5           0499333   ALBERTA CROWN        569.5M                          
+    110/10-32-076-05W4/00  S  687.6M  E  799.4M    BONNYVILLE           1678.0M                         
+    DEV (NC)                             HARDY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    MEG ENERGY CORP.                                                    11-33-076-05W4                  
+                                                                                                        
+    MEG AT12P HARDY 10-32-76-5           0499334   ALBERTA CROWN        569.5M                          
+    111/10-32-076-05W4/00  S  698.2M  E  773.5M    BONNYVILLE           1649.0M                         
+    DEV (NC)                             HARDY                          MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    MEG ENERGY CORP.                                                    11-33-076-05W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    TOURMALINE HZ WILD RIV 8-2-55-25       0498439   GROUND ELEVATION                                   
+    100/08-02-055-25W5/00                            1230.30                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0727.8 E 0696.7                                  
+
+    TOURMALINE HZ WILD RIV 15-2-55-25      0498440   GROUND ELEVATION                                   
+    100/15-02-055-25W5/00                            1230.30                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0732.3 E 0694.9                                  
+
+    PEYTO CHAMBERS 1-14-41-11              0499039   SURFACE CO-ORDINATES:                              
+    100/01-14-041-11W5/00                            S 0268.6 E 0018.1                                  
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    NEP 103 HZ LEDUC-WB 12-16-50-26        0498571   SURFACE LOCATION:                                  
+    104/12-16-050-26W4/00                            05-15-050-26W4                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

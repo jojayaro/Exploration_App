@@ -1,0 +1,238 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 25 January 2021                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    AVN 103 HZ PCOUPES 9-33-76-13        0499360   ALBERTA CROWN        756.4M                          
+    103/09-33-076-13W6/00  N  681.4M  W  367.0M    GRANDE PRAIRIE       4500.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ADVANTAGE OIL & GAS LTD.                                            08-05-077-13W6                  
+                                                                                                        
+    CVE B04P01-1 LEISMER 15-11-76-6      0499361   ALBERTA CROWN        571.9M                          
+    116/15-11-076-06W4/00  S  541.4M  W  194.9M    BONNYVILLE           1610.0M                         
+    DEV (NC)                             LEISMER                        MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 09-14-076-06W4                  
+                                                                                                        
+    HUSKY HZ MINEHEAD 3-30-49-18         0499362   ALBERTA CROWN        1058.5M                         
+    100/03-30-049-18W5/00  S  283.9M  E  320.7M    DRAYTON VALLEY       5120.0M                         
+    DEV (NC)                             MINEHEAD                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    HUSKY OIL OPERATIONS LIMITED                                        13-25-049-19W5                  
+                                                                                                        
+    HUSKY HZ MINEHEAD 1-25-49-19         0499363   ALBERTA CROWN        1058.5M                         
+    100/01-25-049-19W5/00  S  277.2M  E  307.3M    DRAYTON VALLEY       4666.0M                         
+    DEV (NC)                             MINEHEAD                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    HUSKY OIL OPERATIONS LIMITED                                        13-25-049-19W5                  
+                                                                                                        
+    HUSKY HZ MINEHEAD 13-35-49-19        0499364   ALBERTA CROWN        1059.1M                         
+    100/13-35-049-19W5/00  S  263.8M  E  280.5M    DRAYTON VALLEY       5341.0M                         
+    DEV (NC)                             MINEHEAD                       WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    HUSKY OIL OPERATIONS LIMITED                                        13-25-049-19W5                  
+                                                                                                        
+    TOURMALINE HZ KAKWA 4-35-61-5        0499365   ALBERTA CROWN        977.2M                          
+    100/04-35-061-05W6/00  N  437.6M  W  692.8M    GRANDE PRAIRIE       5497.0M                         
+    DEV (C)                              KAKWA                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                07-25-061-05W6                  
+                                                                                                        
+    TOURMALINE HZ 102 KAKWA 10-27-61-5   0499366   ALBERTA CROWN        977.2M                          
+    102/10-27-061-05W6/00  N  433.4M  W  690.3M    GRANDE PRAIRIE       5890.0M                         
+    DEV (C)                              KAKWA                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                07-25-061-05W6                  
+                                                                                                        
+    TOURMALINE HZ 102 KAKWA 16-22-61-5   0499367   ALBERTA CROWN        977.2M                          
+    102/16-22-061-05W6/00  N  429.3M  W  687.7M    GRANDE PRAIRIE       5761.0M                         
+    DEV (C)                              KAKWA                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                07-25-061-05W6                  
+                                                                                                        
+    CRESTWYND HZ JILES 12-4-63-21        0499368   ALBERTA CROWN        678.1M                          
+    100/12-04-063-21W4/00  S  383.6M  W  259.4M    ST. ALBERT           2700.0M                         
+    DEV (C)                              JILES                          CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESTWYND EXPLORATION LTD.                                          16-06-063-21W4                  
+                                                                                                        
+    CRESTWYND HZ JILES 13-4-63-21        0499369   ALBERTA CROWN        678.2M                          
+    100/13-04-063-21W4/00  S  375.9M  W  253.0M    ST. ALBERT           2700.0M                         
+    DEV (C)                              JILES                          CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESTWYND EXPLORATION LTD.                                          16-06-063-21W4                  
+                                                                                                        
+    CRESTWYND HZ MEANOOK 16-7-63-21      0499370   ALBERTA CROWN        678.1M                          
+    100/16-07-063-21W4/00  S  368.2M  W  246.6M    ST. ALBERT           2700.0M                         
+    DEV (C)                              UNDEFINED                      CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESTWYND EXPLORATION LTD.                                          16-06-063-21W4                  
+                                                                                                        
+    CRESTWYND HZ MEANOOK 15-7-63-21      0499371   ALBERTA CROWN        678.1M                          
+    100/15-07-063-21W4/00  S  360.5M  W  240.3M    ST. ALBERT           2700.0M                         
+    DEV (C)                              UNDEFINED                      CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESTWYND EXPLORATION LTD.                                          16-06-063-21W4                  
+                                                                                                        
+    CRESTWYND HZ MEANOOK 15-1-63-22      0499372   ALBERTA CROWN        677.9M                          
+    100/15-01-063-22W4/00  S  352.7M  W  233.9M    ST. ALBERT           2700.0M                         
+    DEV (C)                              MEANOOK                        CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESTWYND EXPLORATION LTD.                                          16-06-063-21W4                  
+                                                                                                        
+    CRESTWYND HZ MEANOOK 10-1-63-22      0499373   ALBERTA CROWN        677.8M                          
+    100/10-01-063-22W4/00  S  345.0M  W  227.5M    ST. ALBERT           2700.0M                         
+    DEV (C)                              MEANOOK                        CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESTWYND EXPLORATION LTD.                                          16-06-063-21W4                  
+                                                                                                        
+    CRESTWYND HZ JILES 13-4-63-21        0499374   ALBERTA CROWN        677.8M                          
+    102/13-04-063-21W4/00  S  337.5M  W  221.2M    ST. ALBERT           2700.0M                         
+    DEV (C)                              JILES                          CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESTWYND EXPLORATION LTD.                                          16-06-063-21W4                  
+                                                                                                        
+    CRESTWYND HZ MEANOOK 15-7-63-21      0499375   ALBERTA CROWN        677.8M                          
+    102/15-07-063-21W4/00  S  329.8M  W  214.8M    ST. ALBERT           2700.0M                         
+    DEV (C)                              UNDEFINED                      CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESTWYND EXPLORATION LTD.                                          16-06-063-21W4                  
+                                                                                                        
+    CRESTWYND HZ MEANOOK 10-1-63-22      0499376   ALBERTA CROWN        677.8M                          
+    102/10-01-063-22W4/00  S  322.1M  W  208.5M    ST. ALBERT           2700.0M                         
+    DEV (C)                              MEANOOK                        CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CRESTWYND EXPLORATION LTD.                                          16-06-063-21W4                  
+                                                                                                        
+    CVE B04P05-1 LEISMER 3-14-76-6       0499377   ALBERTA CROWN        571.8M                          
+    129/03-14-076-06W4/00  S  524.5M  W  231.1M    BONNYVILLE           1501.0M                         
+    DEV (NC)                             LEISMER                        MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 09-14-076-06W4                  
+                                                                                                        
+    TAC 13-35 HZ 103 PROVOST 15-35-34-8  0499378   ALBERTA CROWN        773.6M                          
+    103/15-35-034-08W4/00  S  150.9M  E   64.8M    WAINWRIGHT           1877.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          13-35-034-08W4                  
+                                                                                                        
+    TAC 13-35 HZ 102 PROVOST 13-34-34-8  0499379   ALBERTA CROWN        773.7M                          
+    102/13-34-034-08W4/00  S  159.6M  E   59.9M    WAINWRIGHT           2527.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          13-35-034-08W4                  
+                                                                                                        
+    TAC 13-35 HZ PROVOST 12-34-34-8      0499380   ALBERTA CROWN        773.5M                          
+    100/12-34-034-08W4/00  S  168.3M  E   55.0M    WAINWRIGHT           2405.0M                         
+    DEV (NC)                             PROVOST                        VIKING FM                       
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          13-35-034-08W4                  
+                                                                                                        
+    CNRL 12C SUGDEN 12-26-64-8           0499381   ALBERTA CROWN        596.4M                          
+    100/12-26-064-08W4/00  S  507.7M  W  494.2M    BONNYVILLE           792.0M                          
+    DEV (NC)                             SUGDEN                         MCMURRAY FM                     
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  10-27-064-08W4                  
+                                                                                                        
+    CNRL 10D SUGDEN 10-27-64-8           0499382   ALBERTA CROWN        596M                            
+    102/10-27-064-08W4/00  S  495.7M  W  498.2M    BONNYVILLE           549.0M                          
+    DEV (NC)                             SUGDEN                         MCMURRAY FM                     
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  10-27-064-08W4                  
+                                                                                                        
+    CNRL 11D SUGDEN 11-27-64-8           0499383   ALBERTA CROWN        597M                            
+    100/11-27-064-08W4/00  S  505.8M  W  541.2M    BONNYVILLE           686.0M                          
+    DEV (NC)                             SUGDEN                         MCMURRAY FM                     
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  10-27-064-08W4                  
+                                                                                                        
+    CVE B11P03-1 LEISMER 3-14-76-6       0499384   ALBERTA CROWN        568.7M                          
+    130/03-14-076-06W4/00  S  563.9M  W  423.0M    BONNYVILLE           1540.0M                         
+    DEV (NC)                             LEISMER                        MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 10-15-076-06W4                  
+                                                                                                        
+    CNRL 15C SUGDEN 15-27-64-8           0499385   ALBERTA CROWN        596.2M                          
+    100/15-27-064-08W4/00  S  495.8M  W  528.2M    BONNYVILLE           639.0M                          
+    DEV (NC)                             SUGDEN                         REX MBR                         
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  10-27-064-08W4                  
+                                                                                                        
+    CNRL 1B2 SUGDEN 1-34-64-8            0499386   ALBERTA CROWN        596.2M                          
+    104/01-34-064-08W4/00  S  495.8M  W  520.2M    BONNYVILLE           780.0M                          
+    DEV (NC)                             SUGDEN                         MCMURRAY FM                     
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  10-27-064-08W4                  
+                                                                                                        
+    CNRL 16D SUGDEN 16-27-64-8           0499387   ALBERTA CROWN        596M                            
+    100/16-27-064-08W4/00  S  495.8M  W  510.2M    BONNYVILLE           758.0M                          
+    DEV (NC)                             SUGDEN                         REX MBR                         
+    SLANT                                NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  10-27-064-08W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    PETRUS HZ FERRIER 1-17-38-8            0492796   PROJECTED DEPTH:                                   
+    100/01-17-038-08W5/00                            3911.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0079.4 W 0068.0                                  
+
+                                                     TARGET SUBSTANCE                                   
+                                                     Gas                                                
+
+    PETRUS HZ FERRIER 13-21-38-8           0492821   GROUND ELEVATION                                   
+    100/13-21-038-08W5/00                            1033.10                                            
+
+                                                     PROJECTED DEPTH:                                   
+                                                     3947.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0079.4 W 0058.0                                  
+
+                                                     TARGET SUBSTANCE                                   
+                                                     Gas                                                
+
+    TOURMALINE HZ LELAND 7-30-59-25        0498840   PROJECTED DEPTH:                                   
+    100/07-30-059-25W5/00                            5800.00                                            
+
+                                                     TERMINATING ZONE:                                  
+                                                     Spirit River Fm                                    
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CNRL DD7P CONKLIN 11-28-75-7           0403452   SURFACE LOCATION:                                  
+    111/11-28-075-07W4/00                            12-27-075-07W4                                     
+
+    KIWETINOHK HZ PEMBINA 11-9-44-3        0448356   WELL NAME:                                         
+    102/11-09-044-03W5/02                            KIWETINOHK 102 HZ PEMBINA 11-9-44-3                
+
+    KIWETINOHK 103 PEMBINA 6-28-42-3       0488962   WELL NAME:                                         
+    102/16-15-042-03W5/02                            KIWETINOHK 102 HZ PEMBINA 16-15-42-3               
+
+    KIWETINOHK 105 PEMBINA 15-31-42-3      0488965   WELL NAME:                                         
+    102/15-31-042-03W5/02                            KIWETINOHK 102 HZ PEMBINA 15-31-42-3               
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

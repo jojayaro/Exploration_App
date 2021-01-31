@@ -1,0 +1,34 @@
+Report Number: ST-49                                                                           Alberta Energy Regulator                                                                                    Page 1 of 1
+Run Date: 23 Jan 2021                                                                        DAILY DRILLING ACTIVITY LIST                                                                                             
+                                                                                For the Notification Period 22 Jan 2021 To 23 Jan 2021                                                                                
+
+      WELL ID                   WELL NAME              LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID              LICENSEE              NEW PROJECTED  ACTIVITY  
+                                                                BA ID               NAME              NUMBER                                                                                  TOTAL DEPTH     TYPE    
+------------------- ---------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ---------------------------------- ------------- -----------
+02/16-19-016-13W4/0 TXNE 16D-13 HZ BANTRY 16-19-16-13   0498886 A1TW   Bonanza Drilling Inc.               8 23 Jan 2021 04:00:00 PM Medicine Hat   A7NW  Torxen Energy Ltd.                               Drill To LD
+02/13-36-034-03W4/0 RHE 102 PROVOST 13-36-34-3          0496166 0GE9   Tempco Drilling Company Inc.        6 23 Jan 2021 12:30:00 AM Wainwright     A6W2  Rolling Hills Energy Ltd.                        Drill To LD
+02/01-34-035-09W4/0 KARVE 102 HZ PROVOST 1-34-35-9      0498643 0GE9   Tempco Drilling Company Inc.        8 22 Jan 2021 11:30:00 PM Wainwright     A7BT  Karve Energy Inc.                                Resumption 
+00/11-36-036-04W4/0 SURGE ENERGY HZ PROVOST 11-36-36-4  0498899 0Y52   Precision Drilling Corporation    145 22 Jan 2021 06:15:00 PM Wainwright     0YK4  Surge Energy Inc.                                Drill To LD
+02/04-28-044-10W5/0 TQN FERRIER 4-28-44-10              0499185 0Y52   Precision Drilling Corporation    231 23 Jan 2021 02:00:00 PM Red Deer       A2TG  TAQA North Ltd.                                  Drill To LD
+02/04-31-046-07W5/0 BONTERRA HZ 102 PEMBINA 4-31-46-7   0499249 A2EN   Ironhand Drilling Inc.              1 22 Jan 2021 03:30:00 PM Drayton Valley 0XZ4  Bonterra Energy Corp.                            Drill To LD
+00/04-16-048-25W4/0 NEP DD LEDUC-WB 4-16-48-25          0499139 A6EC   Twilight Drilling Ltd.              2 22 Jan 2021 10:15:00 PM St. Albert     A637  NEP Canada ULC                                   Drill To LD
+00/13-03-052-16W5/0 TOURMALINE HZ EDSON 13-3-52-16      0498509 A6PR   Nabors Drilling Canada Limited     16 23 Jan 2021 05:00:00 AM Drayton Valley A573  Tourmaline Oil Corp.                             Drill To LD
+02/13-34-061-26W4/0 RHE 100 WESTLOCK 13-34-61-26        0499196 A57H   Predator Drilling Inc.             27 23 Jan 2021 11:00:00 AM St. Albert     A6W2  Rolling Hills Energy Ltd.                        Set Surface
+02/09-22-064-05W6/0 7GEN HZ 102 KAKWA 9-22-64-5         0498555 A6PR   Nabors Drilling Canada Limited      5 23 Jan 2021 06:15:00 AM Grande Prairie A54C  Seven Generations Energy Ltd.                    Resumption 
+00/09-27-066-04W6/0 PARA HZ KARR 9-27-66-4              0498786 A5DR   Fox Drilling Inc.                   3 23 Jan 2021 04:00:00 PM Grande Prairie 0AW4  Paramount Resources Ltd.                         Drill To LD
+00/12-23-074-25W4/0 HWX MARTENH 12-23-74-25             0498853 A2CL   Komat Drilling Ltd.                 3 22 Jan 2021 12:00:00 AM St. Albert     A8DL  Headwater Exploration Inc.                       Set Surface
+00/01-35-074-25W4/0 HWX MARTENH 1-35-74-25              0498849 A2CL   Komat Drilling Ltd.                 3 23 Jan 2021 12:55:00 AM St. Albert     A8DL  Headwater Exploration Inc.                       Set Surface
+00/01-21-075-26W4/0 SPL 1-24 HZ MARTENH 1-21-75-26      0498538 0Y52   Precision Drilling Corporation    149 22 Jan 2021 07:30:00 PM St. Albert     A7GR  Spur Petroleum Ltd.                              Resumption 
+AB/10-28-076-05W4/0 CVE A10 HARDY 10-28-76-5            0498392 0Y52   Precision Drilling Corporation    254 23 Jan 2021 02:22:00 AM Bonnyville     A5D4  Cenovus Energy Inc.                              Drill To LD
+00/01-23-079-12W6/0 CNRL HZ GORD 1-23-79-12             0490752 A0KC   Horizon Drilling Inc.              48 23 Jan 2021 12:00:00 PM Grande Prairie 0HE9  Canadian Natural Resources Limited               Drill To LD
+AB/08-12-093-10W4/0 SYNCRUDE 123N01 8-12-93-10          0497131 0Y80   Boart Longyear Canada              47 23 Jan 2021 01:30:00 AM Bonnyville     0362  Syncrude Canada Ltd.                             Drill To LD
+AB/15-14-093-10W4/0 SYNCRUDE 077N01 15-14-93-10         0497065 0Y80   Boart Longyear Canada              41 22 Jan 2021 07:30:00 PM Bonnyville     0362  Syncrude Canada Ltd.                             Drill To LD
+
+                                                                      TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 12                                                                      
+                                                                      TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  =  0                                                                      
+                                                                      TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well =  3                                                                      
+                                                                      TOTAL  - Set Surface - Drilling to Set Surface Casing Only            =  3                                                                      
+
+                                                                                          TOTAL NUMBER OF WELLS LISTED = 18                                                                                           
+                                                                                                *** END OF REPORT ***                                                                                                 
+

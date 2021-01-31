@@ -1,0 +1,31 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 16 January 2021                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    LONGSHORE DD PROVOST 6-28-39-6       0499291   ALBERTA CROWN        694.6M                          
+    100/06-28-039-06W4/00  N  581.2M  E  525.0M    WAINWRIGHT           912.0M                          
+    OTH (NC)                             PROVOST                        LEDUC FM                        
+    DIRECTIONAL                          NEW       EVALUATION           MISCELLANEOUS                   
+    LONGSHORE RESOURCES LTD.                                            06-28-039-06W4                  
+                                                                                                        
+    LONGSHORE HZ 105 PROVOST 15-22-39-6  0499292   ALBERTA CROWN        691.2M                          
+    105/15-22-039-06W4/00  N  729.6M  E  707.0M    WAINWRIGHT           1860.0M                         
+    DEV (NC)                             PROVOST                        DINA MBR                        
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    LONGSHORE RESOURCES LTD.                                            06-22-039-06W4                  
+                                                                                                        
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,33 @@
+Report Number: ST-49                                                                            Alberta Energy Regulator                                                                                     Page 1 of 1
+Run Date: 26 Jan 2021                                                                         DAILY DRILLING ACTIVITY LIST                                                                                              
+                                                                                 For the Notification Period 25 Jan 2021 To 26 Jan 2021                                                                                 
+
+      WELL ID                   WELL NAME             LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                               BA ID               NAME              NUMBER                                                                                     TOTAL DEPTH     TYPE    
+------------------- --------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------------------- ------------- -----------
+00/15-29-033-03W5/0 TIMBERROCK HZ HARME 15-29-33-3     0499001 A6PR   Nabors Drilling Canada Limited      8 26 Jan 2021 01:56:00 AM Red Deer       A16J  TimberRock Energy Corp.                             Drill To LD
+00/13-07-035-07W4/0 TAC 2-12 HZ PROVOST 13-7-35-7      0498915 0GE9   Tempco Drilling Company Inc.        5 25 Jan 2021 11:45:00 PM Wainwright     A5TT  Tamarack Acquisition Corp.                          Drill To LD
+02/13-07-038-08W5/0 TQN FERRIER 13-7-38-8              0499041 A0KC   Horizon Drilling Inc.              23 26 Jan 2021 05:00:00 PM Red Deer       A2TG  TAQA North Ltd.                                     Drill To LD
+00/11-25-039-24W4/0 ENHANCEENERGY CLIVE 11-25-39-24    0498861 0ZG2   Excalibur Drilling Ltd.            14 26 Jan 2021 03:30:00 AM Red Deer       A216  Enhance Energy Inc.                                 Drill To LD
+00/04-30-040-09W5/0 TQN FERRIER 4-30-40-9              0499156 A0KC   Horizon Drilling Inc.              19 26 Jan 2021 04:30:00 AM Red Deer       A2TG  TAQA North Ltd.                                     Drill To LD
+00/13-12-047-10W5/0 INPLAY OIL HZ PEMBINA 13-12-47-10  0499274 A2EN   Ironhand Drilling Inc.              6 26 Jan 2021 02:48:00 PM Drayton Valley A6JK  InPlay Oil Corp.                                    Drill To LD
+00/16-30-048-12W5/0 WESTBRICK HZ BRAZR 16-30-48-12     0499086 A08C   Savanna Drilling Corp.            652 26 Jan 2021 12:00:00 AM Drayton Valley A5WB  Westbrick Energy Ltd.                               Drill To LD
+02/14-30-056-24W5/0 PEYTO WILD RIV 14-30-56-24         0498046 0Z41   Ensign Drilling Inc.             T401 25 Jan 2021 10:30:00 PM Drayton Valley 0YA2  Peyto Exploration & Development Corp.               Drill To LD
+00/12-05-061-18W5/0 TANGLE CREEK KAYBOBS 12-5-61-18    0498730 0Y52   Precision Drilling Corporation    391 25 Jan 2021 11:45:00 PM St. Albert     A5WA  Tangle Creek Energy Ltd.                            Drill To LD
+20/12-08-066-05W4/0 CNRL SC03 CAVERN LEMING 12-8-66-5  0499099 0Y52   Precision Drilling Corporation    183 26 Jan 2021 03:00:00 PM Bonnyville     0HE9  Canadian Natural Resources Limited                  Drill To LD
+02/04-16-072-08W6/0 CNRL 102 HZ WEMBLEY 4-16-72-8      0492101 0Z41   Ensign Drilling Inc.               44 26 Jan 2021 04:00:00 PM Grande Prairie 0HE9  Canadian Natural Resources Limited                  Drill To LD
+AB/05-20-076-05W4/0 CVE C5 HARDY 5-20-76-5             0498386 0Y52   Precision Drilling Corporation    254 26 Jan 2021 04:46:00 PM Bonnyville     A5D4  Cenovus Energy Inc.                                 Drill To LD
+02/04-12-077-05W4/0 MEG DE6P HARDY 4-12-77-5           0490955 0Y55   Akita Drilling Ltd.                25 26 Jan 2021 05:34:00 AM Bonnyville     0Z9C  MEG Energy Corp.                                    Resumption 
+AB/13-12-093-10W4/0 SYNCRUDE 107N01 13-12-93-10        0497114 0Y80   Boart Longyear Canada              41 26 Jan 2021 10:00:00 AM Bonnyville     0362  Syncrude Canada Ltd.                                Drill To LD
+AB/14-13-093-10W4/0 SYNCRUDE 075N01 14-13-93-10        0497063 0Y80   Boart Longyear Canada              47 26 Jan 2021 01:00:00 PM Bonnyville     0362  Syncrude Canada Ltd.                                Drill To LD
+AB/14-23-093-10W4/0 SYNCRUDE 063N01 14-23-93-10        0497174 0Y80   Boart Longyear Canada              47 25 Jan 2021 07:30:00 PM Bonnyville     0362  Syncrude Canada Ltd.                                Drill To LD
+00/03-31-094-05W4/0 SUNCOR DW23 FIREBAG 3-31-94-5      0498867 0Y52   Precision Drilling Corporation    117 26 Jan 2021 10:00:00 AM Bonnyville     0054  Suncor Energy Inc.                                  Drill To LD
+
+                                                                       TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 16                                                                       
+                                                                       TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  =  0                                                                       
+                                                                       TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well =  1                                                                       
+                                                                       TOTAL  - Set Surface - Drilling to Set Surface Casing Only            =  0                                                                       
+
+                                                                                           TOTAL NUMBER OF WELLS LISTED = 17                                                                                            
+                                                                                                 *** END OF REPORT ***                                                                                                  
+

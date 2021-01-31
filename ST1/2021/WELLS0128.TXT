@@ -1,0 +1,181 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 28 January 2021                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    TOURMALINE HZ EDSON 13-7-52-18       0499394   ALBERTA CROWN        959.3M                          
+    100/13-07-052-18W5/00  S  231.3M  W  721.8M    DRAYTON VALLEY       6000.0M                         
+    DEV (C)                              EDSON                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                15-31-051-18W5                  
+                                                                                                        
+    TOURMALINE HZ EDSON 15-7-52-18       0499395   ALBERTA CROWN        959.5M                          
+    100/15-07-052-18W5/00  S  228.0M  W  718.3M    DRAYTON VALLEY       5800.0M                         
+    DEV (C)                              EDSON                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                15-31-051-18W5                  
+                                                                                                        
+    CVE B11P10-1 LEISMER 6-14-76-6       0499396   ALBERTA CROWN        568.4M                          
+    122/06-14-076-06W4/00  S  500.3M  W  393.7M    BONNYVILLE           1540.0M                         
+    DEV (NC)                             LEISMER                        MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 09-15-076-06W4                  
+                                                                                                        
+    TOURMALINE HZ EDSON 15-33-50-18      0499397   ALBERTA CROWN        998.2M                          
+    100/15-33-050-18W5/00  S  149.8M  W   93.0M    DRAYTON VALLEY       5200.0M                         
+    DEV (C)                              EDSON                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                16-04-051-18W5                  
+                                                                                                        
+    TOURMALINE HZ EDSON 4-9-51-18        0499398   ALBERTA CROWN        998.4M                          
+    100/04-09-051-18W5/00  S  149.8M  W   97.9M    DRAYTON VALLEY       5100.0M                         
+    DEV (C)                              EDSON                          SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                16-04-051-18W5                  
+                                                                                                        
+    PEINC 02 HZ MARTENH 14-1-75-26       0499399   ALBERTA CROWN        759.4M                          
+    100/14-01-075-26W4/00  S  572.9M  E  371.3M    ST. ALBERT           2675.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PERPETUAL ENERGY INC.                                               12-35-074-26W4                  
+                                                                                                        
+    PEINC HZ MARTENH 15-1-75-26          0499400   ALBERTA CROWN        759.8M                          
+    100/15-01-075-26W4/00  S  583.2M  E  382.2M    ST. ALBERT           2670.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PERPETUAL ENERGY INC.                                               12-35-074-26W4                  
+                                                                                                        
+    PEINC HZ MARTENH 2-12-75-26          0499401   ALBERTA CROWN        760.1M                          
+    100/02-12-075-26W4/00  S  583.8M  E  361.0M    ST. ALBERT           2675.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PERPETUAL ENERGY INC.                                               12-35-074-26W4                  
+                                                                                                        
+    PEINC HZ MARTENH 1-12-75-26          0499402   ALBERTA CROWN        760.3M                          
+    100/01-12-075-26W4/00  S  594.1M  E  371.8M    ST. ALBERT           2675.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    PERPETUAL ENERGY INC.                                               12-35-074-26W4                  
+                                                                                                        
+    CNRL ET AL HZ KARR 13-12-66-4        0499403   ALBERTA CROWN        801M                            
+    100/13-12-066-04W6/00  S  197.6M  E  768.6M    GRANDE PRAIRIE       3640.0M                         
+    DEV (NC)                             KARR                           DUNVEGAN FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CANADIAN NATURAL RESOURCES LIMITED                                  14-01-066-04W6                  
+                                                                                                        
+    CNRL ET AL HZ KARR 14-12-66-4        0499404   ALBERTA CROWN        801M                            
+    100/14-12-066-04W6/00  S  190.0M  E  775.2M    GRANDE PRAIRIE       3332.0M                         
+    DEV (NC)                             KARR                           DUNVEGAN FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CANADIAN NATURAL RESOURCES LIMITED                                  14-01-066-04W6                  
+                                                                                                        
+    CNRL ET AL HZ KARR 15-12-66-4        0499405   ALBERTA CROWN        800.6M                          
+    100/15-12-066-04W6/00  S  182.5M  E  781.7M    GRANDE PRAIRIE       3340.0M                         
+    DEV (NC)                             KARR                           DUNVEGAN FM                     
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CANADIAN NATURAL RESOURCES LIMITED                                  14-01-066-04W6                  
+                                                                                                        
+    VEI HZ FERRIER 1-5-43-10             0499406   ALBERTA CROWN        1022.9M                         
+    102/01-05-043-10W5/00  N  211.7M  E  585.0M    RED DEER             4198.0M                         
+    DEV (NC)                             FERRIER                        NOTIKEWIN MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    VERMILION ENERGY INC.                                               03-08-043-10W5                  
+                                                                                                        
+    SPL 10-29 HZ 102 MARTENH 15-29-73-24 0499407   ALBERTA CROWN        640M                            
+    100/15-29-073-24W4/00  S  624.7M  W  651.8M    ST. ALBERT           2400.0M                         
+    DEV (NC)                             MARTEN HILLS                   CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    SPUR PETROLEUM LTD.                                                 10-29-073-24W4                  
+                                                                                                        
+    CNRL SW 17 - 16B BRINT 16-22-82-22   0499408   ALBERTA CROWN        619.5M                          
+    105/16-22-082-22W4/00  S  175.1M  W  341.2M    BONNYVILLE           1925.0M                         
+    DEV (NC)                             BRINTNELL                      WABISKAW MBR                    
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  16-15-082-22W4                  
+                                                                                                        
+    CNRL SW 17-4B BRINT 4-14-82-22       0499409   ALBERTA CROWN        619.5M                          
+    105/04-14-082-22W4/00  S  175.1M  W  333.7M    BONNYVILLE           1900.0M                         
+    DEV (NC)                             BRINTNELL                      WABISKAW MBR                    
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  16-15-082-22W4                  
+                                                                                                        
+    CNRL SW 17 - 13B BRINT 13-23-82-22   0499410   ALBERTA CROWN        619.5M                          
+    103/13-23-082-22W4/00  S  175.1M  W  326.2M    BONNYVILLE           2150.0M                         
+    DEV (NC)                             BRINTNELL                      WABISKAW MBR                    
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  16-15-082-22W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    ENTRADA 103 HZ WILLGR 6-33-42-6        0499211   SURFACE CO-ORDINATES:                              
+    103/06-33-042-06W5/00                            S 0189.7 E 0604.6                                  
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SPL 9-20 HZ 102 SMITH 14-22-73-24      0498411   UWI:                                               
+    02/14-22-073-24W4/5                              00/16-21-073-24W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 9-20 HZ SMITH 16-21-73-24                      
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     16-21-073-24W4                                     
+
+    SPL 9-20 HZ 102 SMITH 14-22-73-24      0498411   UWI:                                               
+    02/14-22-073-24W4/2                              00/13-22-073-24W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 9-20 HZ 102 SMITH 13-22-73-24                  
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     13-22-073-24W4                                     
+
+    SPL 9-20 HZ 102 SMITH 14-22-73-24      0498411   UWI:                                               
+    02/14-22-073-24W4/3                              00/13-22-073-24W4/3                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 9-20 HZ SMITH 13-22-73-24                      
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     13-22-073-24W4                                     
+
+    SPL 9-20 HZ 102 SMITH 14-22-73-24      0498411   UWI:                                               
+    02/14-22-073-24W4/4                              00/13-22-073-24W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 9-20 HZ SMITH 13-22-73-24                      
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     13-22-073-24W4                                     
+
+    SPL 9-20 HZ 102 SMITH 14-22-73-24      0498411   UWI:                                               
+    02/14-22-073-24W4/6                              00/13-22-073-24W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 9-20 HZ SMITH 13-22-73-24                      
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     13-22-073-24W4                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

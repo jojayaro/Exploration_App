@@ -1,0 +1,26 @@
+Report Number: ST-49                                                                        Alberta Energy Regulator                                                                                Page 1 of 1
+Run Date: 25 Jan 2021                                                                     DAILY DRILLING ACTIVITY LIST                                                                                         
+                                                                             For the Notification Period 24 Jan 2021 To 25 Jan 2021                                                                            
+
+      WELL ID                    WELL NAME               LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID         LICENSEE          NEW PROJECTED  ACTIVITY  
+                                                                  BA ID               NAME              NUMBER                                                                         TOTAL DEPTH     TYPE    
+------------------- ------------------------------------ -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------- ------------- -----------
+02/08-05-022-17W4/0 TXNE 13D-9 HZ COUNTESS 8-5-22-17      0497605 0Y52   Precision Drilling Corporation    239 25 Jan 2021 03:00:00 PM Midnapore      A7NW  Torxen Energy Ltd.                      Drill To LD
+00/01-18-028-19W4/0 NORTH 40 HZ WAYNE 1-18-28-19          0499242 A1TW   Bonanza Drilling Inc.               7 25 Jan 2021 10:30:00 AM Midnapore      A7E2  North 40 Resources Ltd.                 Drill To LD
+03/02-33-044-07W4/0 SURGE ENERGY HZ 103 WAINWR 2-33-44-7  0496425 A77K   Star Valley Drilling Ltd.         102 25 Jan 2021 05:21:00 PM Wainwright     0YK4  Surge Energy Inc.                       Drill To LD
+00/01-06-059-01W6/0 TOURMALINE HZ SMOKY 1-6-59-1          0498091 A6PR   Nabors Drilling Canada Limited     58 24 Jan 2021 04:30:00 PM Drayton Valley A573  Tourmaline Oil Corp.                    Resumption 
+00/02-06-066-04W6/0 PARA HZ KARR 2-6-66-4                 0498452 A5DR   Fox Drilling Inc.                   7 24 Jan 2021 09:36:00 PM Grande Prairie 0AW4  Paramount Resources Ltd.                Resumption 
+00/04-07-067-08W6/0 WHITECAP WAPITI 4-7-67-8              0498933 0Y52   Precision Drilling Corporation    403 24 Jan 2021 09:00:00 PM Grande Prairie A5BE  Whitecap Resources Inc.                 Drill To LD
+AD/09-25-076-06W4/0 CVE D9-25 D9 HARDY 9-25-76-6          0498405 A57H   Predator Drilling Inc.            171 24 Jan 2021 06:00:00 PM Bonnyville     A5D4  Cenovus Energy Inc.                     Drill To LD
+07/15-15-078-10W4/0 ATH L7I6 LEISMER 15-15-78-10          0498942 0Y55   Akita Drilling Ltd.                28 25 Jan 2021 04:00:00 AM Bonnyville     A28L  Athabasca Oil Corporation               Drill To LD
+AC/05-13-093-10W4/0 SYNCRUDE 086N01 5-13-93-10            0497084 0Y80   Boart Longyear Canada              47 24 Jan 2021 05:00:00 PM Bonnyville     0362  Syncrude Canada Ltd.                    Drill To LD
+AD/01-23-093-10W4/0 SYNCRUDE 073N01 1-23-93-10            0497184 0Y80   Boart Longyear Canada              41 25 Jan 2021 02:00:00 AM Bonnyville     0362  Syncrude Canada Ltd.                    Drill To LD
+
+                                                                   TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 8                                                                   
+                                                                   TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                   
+                                                                   TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 2                                                                   
+                                                                   TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 0                                                                   
+
+                                                                                       TOTAL NUMBER OF WELLS LISTED = 10                                                                                       
+                                                                                             *** END OF REPORT ***                                                                                             
+

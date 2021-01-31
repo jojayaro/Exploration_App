@@ -1,0 +1,33 @@
+Report Number: ST-49                                                                          Alberta Energy Regulator                                                                                   Page 1 of 1
+Run Date: 18 Jan 2021                                                                       DAILY DRILLING ACTIVITY LIST                                                                                            
+                                                                               For the Notification Period 17 Jan 2021 To 18 Jan 2021                                                                               
+
+      WELL ID                    WELL NAME               LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID            LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                                  BA ID               NAME              NUMBER                                                                              TOTAL DEPTH     TYPE    
+------------------- ------------------------------------ -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------------ ------------- -----------
+00/13-17-022-17W4/0 TXNE 13D-9 HZ COUNTESS 13-17-22-17    0497622 0Y52   Precision Drilling Corporation    239 18 Jan 2021 12:45:00 PM Midnapore      A7NW  Torxen Energy Ltd.                           Drill To LD
+00/12-10-051-16W5/0 CVE 100 HZ EDSON 12-10-51-16          0498506 0Z41   Ensign Drilling Inc.              557 17 Jan 2021 08:00:00 PM Drayton Valley A5D4  Cenovus Energy Inc.                          Drill To LD
+00/12-10-051-16W5/0 CVE 100 HZ EDSON 12-10-51-16          0498506 0Z41   Ensign Drilling Inc.              557 17 Jan 2021 08:00:00 PM Drayton Valley A5D4  Cenovus Energy Inc.                          Drill To LD
+00/03-05-063-05W6/0 OUC HZ KAKWA 3-5-63-5                 0498275 A6PR   Nabors Drilling Canada Limited     70 18 Jan 2021 04:30:00 AM Grande Prairie A2DE  ORLEN Upstream Canada Ltd.                   Drill To LD
+00/04-26-064-02W6/0 VELVET HZ KARR 4-26-64-2              0499042 A08C   Savanna Drilling Corp.            639 17 Jan 2021 11:30:00 PM Grande Prairie A5YK  Velvet Energy Ltd.                           Drill To LD
+00/09-04-075-25W4/0 DELTASTREAM MARTENH 9-4-75-25         0498833 A2CL   Komat Drilling Ltd.                 3 17 Jan 2021 11:30:00 PM St. Albert     A6YA  Deltastream Energy Corporation               Set Surface
+AB/05-28-076-05W4/0 CVE C5 HARDY 5-28-76-5                0498391 0Y52   Precision Drilling Corporation    171 17 Jan 2021 08:20:00 PM Bonnyville     A5D4  Cenovus Energy Inc.                          Drill To LD
+13/02-16-076-06W4/0 CVE G05P09 LEISMER 2-16-76-6          0499059 0Z41   Ensign Drilling Inc.              141 18 Jan 2021 07:21:00 AM Bonnyville     A5D4  Cenovus Energy Inc.                          Set Surface
+02/12-13-076-07W5/0 TAC 12-18 HZ 102 NIPISI 12-13-76-7    0499138 0Y52   Precision Drilling Corporation    152 18 Jan 2021 02:15:00 PM St. Albert     A5TT  Tamarack Acquisition Corp.                   Drill To LD
+11/04-29-077-05W4/0 MEG AH16P HARDY 4-29-77-5             0498953 0Y55   Akita Drilling Ltd.                27 17 Jan 2021 09:45:00 PM Bonnyville     0Z9C  MEG Energy Corp.                             Drill To LD
+13/04-29-077-05W4/0 MEG AH17P HARDY 4-29-77-5             0498955 0Y55   Akita Drilling Ltd.                27 18 Jan 2021 03:00:00 PM Bonnyville     0Z9C  MEG Energy Corp.                             Drill To LD
+02/16-14-079-09W6/0 LONGSHORE HZ 100 GORD 16-14-79-9      0499010 0Z41   Ensign Drilling Inc.             T420 18 Jan 2021 04:30:00 AM Grande Prairie A76W  Longshore Resources Ltd.                     Drill To LD
+AA/16-23-093-10W4/0 SYNCRUDE 29ROVCH194142L0 16-23-93-10  0493256 0Y80   Boart Longyear Canada              41 17 Jan 2021 10:00:00 PM Bonnyville     0362  Syncrude Canada Ltd.                         Drill To LD
+AB/10-24-093-10W4/0 SYNCRUDE 068N01 10-24-93-10           0497179 0Y80   Boart Longyear Canada              47 18 Jan 2021 01:30:00 PM Bonnyville     0362  Syncrude Canada Ltd.                         Drill To LD
+AB/08-34-093-10W4/0 SYNCRUDE 29ROVCH194301L01 8-34-93-10  0493340 0Y80   Boart Longyear Canada              47 18 Jan 2021 12:00:00 AM Bonnyville     0362  Syncrude Canada Ltd.                         Drill To LD
+02/06-15-095-06W4/0 SUNCOR P131P8 FIREBAG 6-15-95-6       0497860 A6PR   Nabors Drilling Canada Limited    102 18 Jan 2021 04:00:00 PM Bonnyville     0054  Suncor Energy Inc.                           Resumption 
+AB/01-19-095-06W4/0 SUNCOR FIREBAG 1-19-95-6              0498740 A1YG   Big Country Drilling Ltd.          18 18 Jan 2021 12:45:00 AM Bonnyville     0054  Suncor Energy Inc.                           Drill To LD
+
+                                                                     TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 14                                                                     
+                                                                     TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  =  0                                                                     
+                                                                     TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well =  1                                                                     
+                                                                     TOTAL  - Set Surface - Drilling to Set Surface Casing Only            =  2                                                                     
+
+                                                                                         TOTAL NUMBER OF WELLS LISTED = 17                                                                                          
+                                                                                               *** END OF REPORT ***                                                                                                
+

@@ -1,0 +1,100 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 22 January 2021                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    WESTBRICK HZ WILLGR 13-7-44-8        0499349   ALBERTA CROWN        924.4M                          
+    100/13-07-044-08W5/00  N    8.3M  E  158.3M    RED DEER             5200.0M                         
+    DEV (C)                              WILLESDEN GREEN                UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    WESTBRICK ENERGY LTD.                                               04-16-044-08W5                  
+                                                                                                        
+    ANEGADA HZ 13C WEMBLEY 13-18-72-8    0499350   ALBERTA CROWN        768M                            
+    100/13-18-072-08W6/00  S  210.1M  W  144.1M    GRANDE PRAIRIE       6750.0M                         
+    DEV (C)                              WEMBLEY                        CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ANEGADA OIL CORP.                                                   16-16-072-08W6                  
+                                                                                                        
+    ANEGADA HZ 12C WEMBLEY 12-18-72-8    0499351   ALBERTA CROWN        768M                            
+    102/12-18-072-08W6/00  S  225.1M  W  144.1M    GRANDE PRAIRIE       6750.0M                         
+    DEV (C)                              WEMBLEY                        CHARLIE LAKE FM                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ANEGADA OIL CORP.                                                   16-16-072-08W6                  
+                                                                                                        
+    ATH 102 HZ PLACID 4-18-60-23         0499352   ALBERTA CROWN        1084.3M                         
+    100/04-18-060-23W5/00  S  505.1M  E  316.7M    GRANDE PRAIRIE       5700.0M                         
+    DEV (NC)                             PLACID                         MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ATHABASCA OIL CORPORATION                                           12-24-060-24W5                  
+                                                                                                        
+    ATH 102 HZ PLACID 3-18-60-23         0499353   ALBERTA CROWN        1084.4M                         
+    102/03-18-060-23W5/00  S  514.9M  E  314.9M    GRANDE PRAIRIE       5900.0M                         
+    DEV (NC)                             PLACID                         MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ATHABASCA OIL CORPORATION                                           12-24-060-24W5                  
+                                                                                                        
+    ATH 102 HZ PLACID 2-18-60-23         0499354   ALBERTA CROWN        1083.9M                         
+    100/02-18-060-23W5/00  S  512.3M  E  356.1M    GRANDE PRAIRIE       6050.0M                         
+    DEV (NC)                             PLACID                         MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ATHABASCA OIL CORPORATION                                           12-24-060-24W5                  
+                                                                                                        
+    ATH HZ PLACID 2-18-60-23             0499355   ALBERTA CROWN        1083.9M                         
+    102/02-18-060-23W5/00  S  522.2M  E  354.2M    GRANDE PRAIRIE       6250.0M                         
+    DEV (NC)                             PLACID                         MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    ATHABASCA OIL CORPORATION                                           12-24-060-24W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    PEYTO WILD RIV 4-21-56-24              0497738   GROUND ELEVATION                                   
+    100/04-21-056-24W5/00                            1046.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0092.4 E 0401.9                                  
+
+                                                     SURFACE LOCATION:                                  
+                                                     04-28-056-24W5                                     
+
+    PEYTO WILD RIV 13-28-56-24             0497739   GROUND ELEVATION                                   
+    102/13-28-056-24W5/00                            1046.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0089.2 E 0405.6                                  
+
+    PEYTO WILD RIV 3-21-56-24              0499252   GROUND ELEVATION                                   
+    102/03-21-056-24W5/00                            1046.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0086.0 E 0409.2                                  
+
+                                                     SURFACE LOCATION:                                  
+                                                     03-28-056-24W5                                     
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    KIWETINOHK PEMBINA 13-2-42-4           0493722   WELL NAME:                                         
+    100/13-02-042-04W5/02                            KIWETINOHK HZ PEMBINA 13-2-42-4                    
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,31 @@
+Report Number: ST-49                                                                             Alberta Energy Regulator                                                                                     Page 1 of 1
+Run Date: 20 Jan 2021                                                                          DAILY DRILLING ACTIVITY LIST                                                                                              
+                                                                                  For the Notification Period 19 Jan 2021 To 20 Jan 2021                                                                                 
+
+      WELL ID                    WELL NAME               LICENCE  +---------------CONTRACTOR---------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID            LICENSEE            NEW PROJECTED  ACTIVITY  
+                                                                  BA ID                 NAME                 NUMBER                                                                              TOTAL DEPTH     TYPE    
+------------------- ------------------------------------ -------- ------ ----------------------------------- ------ ----------------------- -------------- ----- ------------------------------ ------------- -----------
+00/14-36-034-03W4/0 RHE 100 PROVOST 14-36-34-3            0492483 0GE9   Tempco Drilling Company Inc.             6 19 Jan 2021 08:30:00 PM Wainwright     A6W2  Rolling Hills Energy Ltd.                    Drill To LD
+02/15-32-036-03W4/0 SURGE ENERGY 102  PROVOST 15-32-36-3  0499243 A8AF   Hertz & Paluck Energy Services Inc.      1 19 Jan 2021 06:15:00 AM Wainwright     0YK4  Surge Energy Inc.                            Set Surface
+03/15-32-036-03W4/0 SURGE ENERGY 103 PROVOST 15-32-36-3   0499244 A8AF   Hertz & Paluck Energy Services Inc.      1 19 Jan 2021 06:30:00 PM Wainwright     0YK4  Surge Energy Inc.                            Set Surface
+00/02-29-042-10W5/0 TQN FERRIER 2-29-42-10                0499144 0Y52   Precision Drilling Corporation         225 19 Jan 2021 05:00:00 PM Red Deer       A2TG  TAQA North Ltd.                              Drill To LD
+02/02-32-043-08W5/0 OBE HZ 102 WILLGR 2-32-43-8           0499044 A6PR   Nabors Drilling Canada Limited          26 20 Jan 2021 01:10:00 PM Red Deer       0BP8  Obsidian Energy Ltd.                         Drill To LD
+00/01-33-044-07W4/0 SURGE ENERGY HZ WAINWR 1-33-44-7      0496423 A77K   Star Valley Drilling Ltd.              102 19 Jan 2021 08:30:00 AM Wainwright     0YK4  Surge Energy Inc.                            Drill To LD
+02/13-21-070-23W4/0 DELTASTREAM CANAL 13-21-70-23         0498994 A2CL   Komat Drilling Ltd.                      3 20 Jan 2021 11:00:00 AM St. Albert     A6YA  Deltastream Energy Corporation               Set Surface
+02/14-21-070-23W4/0 DELTASTREAM CANAL 14-21-70-23         0498995 A2CL   Komat Drilling Ltd.                      3 19 Jan 2021 06:00:00 PM St. Albert     A6YA  Deltastream Energy Corporation               Set Surface
+02/04-15-070-08W6/0 NUVISTA 102 HZ D ELM 4-15-70-8        0498628 A6PR   Nabors Drilling Canada Limited         79E 19 Jan 2021 08:00:00 PM Grande Prairie A0A7  NuVista Energy Ltd.                          Resumption 
+03/04-12-077-05W4/0 MEG DE7P HARDY 4-12-77-5              0490956 0Y55   Akita Drilling Ltd.                     25 20 Jan 2021 04:15:00 AM Bonnyville     0Z9C  MEG Energy Corp.                             Resumption 
+00/04-31-078-12W6/0 BIR 14-6 HZ PCOUPE 4-31-78-12         0499068 0Z41   Ensign Drilling Inc.                   137 20 Jan 2021 03:31:00 AM Grande Prairie A12R  Birchcliff Energy Ltd.                       Resumption 
+00/14-20-082-13W6/0 GLENOGLE HZ DOE 14-20-82-13           0496818 0Y52   Precision Drilling Corporation         182 20 Jan 2021 02:00:00 AM Grande Prairie A52E  Glenogle Energy Inc.                         Drill To LD
+AB/09-07-093-09W4/0 SYNCRUDE 114N01 9-7-93-9              0497121 0Y80   Boart Longyear Canada                   47 20 Jan 2021 02:00:00 PM Bonnyville     0362  Syncrude Canada Ltd.                         Drill To LD
+AB/12-07-093-09W4/0 SYNCRUDE 112N01 12-7-93-9             0497119 0Y80   Boart Longyear Canada                   47 19 Jan 2021 11:00:00 PM Bonnyville     0362  Syncrude Canada Ltd.                         Drill To LD
+AA/09-13-093-10W4/0 SYNCRUDE 085N01 9-13-93-10            0497083 0Y80   Boart Longyear Canada                   41 19 Jan 2021 10:00:00 PM Bonnyville     0362  Syncrude Canada Ltd.                         Drill To LD
+
+                                                                        TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 8                                                                        
+                                                                        TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                        
+                                                                        TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 3                                                                        
+                                                                        TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 4                                                                        
+
+                                                                                            TOTAL NUMBER OF WELLS LISTED = 15                                                                                            
+                                                                                                  *** END OF REPORT ***                                                                                                  
+

@@ -1,0 +1,106 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 26 January 2021                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    ECLIPSE HZ PEMBINA 16-3-50-5         0499388   ALBERTA CROWN        741.7M                          
+    100/16-03-050-05W5/00  N  659.5M  W  424.1M    DRAYTON VALLEY       4000.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ECLIPSE RESOURCES LTD.                                              07-34-049-05W5                  
+                                                                                                        
+    PFC 100 HZ HOOLE 14-33-79-25         0499389   FREEHOLD             561.4M                          
+    100/14-33-079-25W4/00  N   80.0M  W  785.0M    BONNYVILLE           1720.0M                         
+    DEV (NC)                             HOOLE                          WABISKAW MBR                    
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    PETROFRONTIER CORP.                                                 02-33-079-25W4                  
+                                                                                                        
+    PFC 102 HZ HOOLE 15-33-79-25         0499390   FREEHOLD             561.4M                          
+    102/15-33-079-25W4/00  N   80.0M  W  755.0M    BONNYVILLE           1720.0M                         
+    DEV (NC)                             HOOLE                          WABISKAW MBR                    
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE BITUMEN                   
+    PETROFRONTIER CORP.                                                 02-33-079-25W4                  
+                                                                                                        
+    CVE B11P05-1 LEISMER 6-14-76-6       0499391   ALBERTA CROWN        568.7M                          
+    121/06-14-076-06W4/00  S  545.6M  W  414.8M    BONNYVILLE           1495.0M                         
+    DEV (NC)                             LEISMER                        MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 10-15-076-06W4                  
+                                                                                                        
+    WELL LICENCES CANCELLED
+    -----------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.                                                     
+    --------------------                -----------                                                     
+
+    STRATEGIC 102 MARLOWE 12-18-122-22    0444463                                                       
+    102/12-18-122-22W5/00                                                                               
+
+    STRATEGIC MARLOWE 6-17-121-23         0478679                                                       
+    100/06-17-121-23W5/00                                                                               
+
+    CNRL WSW EMP03 KIRBY 11-28-74-9       0490560                                                       
+    1F5/11-28-074-09W4/00                                                                               
+
+    GAIN HZ WAPITI 4-27-67-8              0490979                                                       
+    100/04-27-067-08W6/00                                                                               
+
+    GAIN 102 HZ WAPITI 4-27-67-8          0490992                                                       
+    102/04-27-067-08W6/00                                                                               
+
+    GAIN HZ 102 PEMBINA 14-24-42-5        0491463                                                       
+    102/14-24-042-05W5/00                                                                               
+
+    GAIN HZ 102 PEMBINA 16-24-42-5        0491464                                                       
+    102/16-24-042-05W5/00                                                                               
+
+    ANEGADA HZ 12B WEMBLEY 12-11-72-9     0497614                                                       
+    100/12-11-072-09W6/00                                                                               
+
+    ANEGADA HZ 13B WEMBLEY 13-11-72-9     0497615                                                       
+    100/13-11-072-09W6/00                                                                               
+
+    ANEGADA HZ 15D VALHALLA 15-27-76-8    0498103                                                       
+    100/15-27-076-08W6/00                                                                               
+
+    ANEGADA HZ 16D VALHALLA 16-27-76-8    0498104                                                       
+    102/16-27-076-08W6/00                                                                               
+
+    ANEGADA HZ 9D VALHALLA 9-16-76-7      0498149                                                       
+    100/09-16-076-07W6/00                                                                               
+
+    ANEGADA HZ 16D VALHALLA 16-16-76-7    0498150                                                       
+    102/16-16-076-07W6/00                                                                               
+
+    CVE B4 KIRBY 4-3-76-6                 0498373                                                       
+    1AC/04-03-076-06W4/00                                                                               
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    IMP H92-H08 LEMING 1-9-66-4            0498224   UWI:                                               
+    05/01-09-066-04W4/2                              03/04-09-066-04W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     IMP H92-H08 LEMING 4-9-66-4                        
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     04-09-066-04W4                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

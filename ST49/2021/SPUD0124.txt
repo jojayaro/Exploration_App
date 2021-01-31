@@ -1,0 +1,25 @@
+Report Number: ST-49                                                                             Alberta Energy Regulator                                                                                     Page 1 of 1
+Run Date: 24 Jan 2021                                                                          DAILY DRILLING ACTIVITY LIST                                                                                              
+                                                                                  For the Notification Period 23 Jan 2021 To 24 Jan 2021                                                                                 
+
+      WELL ID                   WELL NAME              LICENCE  +------------CONTRACTOR-------------+  RIG        ACTIVITY DATE       FIELD CENTRE  BA ID               LICENSEE                NEW PROJECTED  ACTIVITY  
+                                                                BA ID               NAME              NUMBER                                                                                     TOTAL DEPTH     TYPE    
+------------------- ---------------------------------- -------- ------ ------------------------------ ------ ----------------------- -------------- ----- ------------------------------------- ------------- -----------
+00/09-10-049-25W4/0 NEP HZ LEDUC-WB 9-10-49-25          0499141 0Z41   Ensign Drilling Inc.               32 23 Jan 2021 10:45:00 PM St. Albert     A637  NEP Canada ULC                                      Drill To LD
+00/13-02-051-13W5/0 VEI HZ PEMBINA 13-2-51-13           0498921 A2EN   Ironhand Drilling Inc.              9 23 Jan 2021 06:45:00 PM Drayton Valley A6FW  Vermilion Energy Inc.                               Drill To LD
+00/02-22-055-22W5/0 PEYTO SUNDANCE 2-22-55-22           0499169 0Z41   Ensign Drilling Inc.              438 24 Jan 2021 07:29:00 AM Drayton Valley 0YA2  Peyto Exploration & Development Corp.               Drill To LD
+00/04-01-056-21W5/0 PEYTO SUNDANCE 4-1-56-21            0498802 0Z41   Ensign Drilling Inc.              432 24 Jan 2021 04:43:00 AM Drayton Valley 0YA2  Peyto Exploration & Development Corp.               Drill To LD
+04/04-01-072-09W6/0 OVV HZ 104 WEMBLEY 4-1-72-9         0498689 0Y52   Precision Drilling Corporation    534 24 Jan 2021 03:15:00 PM Grande Prairie 0026  Ovintiv Canada ULC                                  Drill To LD
+00/08-35-074-25W4/0 HWX MARTENH 8-35-74-25              0497524 A2CL   Komat Drilling Ltd.                 3 23 Jan 2021 07:00:00 PM St. Albert     A8DL  Headwater Exploration Inc.                          Set Surface
+03/12-25-076-07W5/0 TAC 13-26 HZ 102 NIPISI 12-25-76-7  0499149 0Y52   Precision Drilling Corporation    185 24 Jan 2021 10:30:00 AM St. Albert     A5TT  Tamarack Acquisition Corp.                          Drill To LD
+AC/14-29-093-09W4/0 SYNCRUDE 39N01 14-29-93-9           0497107 A1YG   Big Country Drilling Ltd.          10 24 Jan 2021 03:30:00 PM Bonnyville     0362  Syncrude Canada Ltd.                                Drill To LD
+AA/15-14-093-10W4/0 SYNCRUDE 074N01 15-14-93-10         0497062 0Y80   Boart Longyear Canada              41 24 Jan 2021 12:30:00 AM Bonnyville     0362  Syncrude Canada Ltd.                                Drill To LD
+
+                                                                        TOTAL  - Drill To LD - Drilling to Licensed Depth                     = 8                                                                        
+                                                                        TOTAL  - Re-entry    - Re-entry of an Abandoned Well                  = 0                                                                        
+                                                                        TOTAL  - Resumption  - Resumption of Drilling of a Non-abandoned Well = 0                                                                        
+                                                                        TOTAL  - Set Surface - Drilling to Set Surface Casing Only            = 1                                                                        
+
+                                                                                            TOTAL NUMBER OF WELLS LISTED = 9                                                                                             
+                                                                                                  *** END OF REPORT ***                                                                                                  
+

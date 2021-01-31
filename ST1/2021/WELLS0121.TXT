@@ -1,0 +1,340 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 21 January 2021                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    MEG AF2N HARDY 9-19-77-5             0483791   ALBERTA CROWN        564M                            
+    112/09-19-077-05W4/02  N  630.5M  E  317.8M    BONNYVILLE           1746.0M                         
+    DEV (NC)                             HARDY                          MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    MEG ENERGY CORP.                                                    05-19-077-05W4                  
+                                                                                                        
+    BIR 14-28 HZ PCOUPES 10-31-77-13     0499337   ALBERTA CROWN        853.1M                          
+    100/10-31-077-13W6/00  S   63.7M  E  403.6M    GRANDE PRAIRIE       4950.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              DOIG FM                         
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-28-077-13W6                  
+                                                                                                        
+    BIR 14-28 HZ PCOUPES 15-31-77-13     0499338   ALBERTA CROWN        853.4M                          
+    100/15-31-077-13W6/00  S   53.7M  E  403.6M    GRANDE PRAIRIE       5105.0M                         
+    DEV (NC)                             POUCE COUPE SOUTH              DOIG FM                         
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BIRCHCLIFF ENERGY LTD.                                              14-28-077-13W6                  
+                                                                                                        
+    LONGSHORE DD 102 PROVOST 6-28-39-6   0499339   ALBERTA CROWN        694.6M                          
+    102/06-28-039-06W4/00  N  581.2M  E  525.0M    WAINWRIGHT           912.0M                          
+    XPL (C)                              PROVOST                        LEDUC FM                        
+    DIRECTIONAL                          NEW       PRODUCTION           CRUDE OIL                       
+    LONGSHORE RESOURCES LTD.                                            06-28-039-06W4                  
+                                                                                                        
+    DANZIG NIPISI 13-26-76-8             0499340   ALBERTA CROWN        685.6M                          
+    100/13-26-076-08W5/00  S  394.0M  E  105.3M    ST. ALBERT           2500.0M                         
+    XPL (C)                              UNDEFINED                      CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    DANZIG RESOURCES LTD.                                               13-23-076-08W5                  
+                                                                                                        
+    DANZIG NIPISI 14-26-76-8             0499341   ALBERTA CROWN        685.9M                          
+    100/14-26-076-08W5/00  S  385.8M  E  111.0M    ST. ALBERT           2500.0M                         
+    XPL (C)                              UNDEFINED                      CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    DANZIG RESOURCES LTD.                                               13-23-076-08W5                  
+                                                                                                        
+    7GEN HZ KAKWA 16-3-64-6              0499342   ALBERTA CROWN        974.8M                          
+    100/16-03-064-06W6/00  N   77.2M  E  345.0M    GRANDE PRAIRIE       6300.0M                         
+    DEV (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       04-36-063-06W6                  
+                                                                                                        
+    7GEN HZ KAKWA 2-13-63-4              0499343   ALBERTA CROWN        876M                            
+    100/02-13-063-04W6/00  N  697.2M  E  681.1M    GRANDE PRAIRIE       6300.0M                         
+    DEV (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       06-23-063-04W6                  
+                                                                                                        
+    7GEN HZ KAKWA 7-13-63-4              0499344   ALBERTA CROWN        876.1M                          
+    100/07-13-063-04W6/00  N  696.9M  E  692.1M    GRANDE PRAIRIE       6300.0M                         
+    DEV (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       06-23-063-04W6                  
+                                                                                                        
+    7GEN HZ 102 KAKWA 7-13-63-4          0499345   ALBERTA CROWN        876.4M                          
+    102/07-13-063-04W6/00  N  696.5M  E  703.1M    GRANDE PRAIRIE       6300.0M                         
+    DEV (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       06-23-063-04W6                  
+                                                                                                        
+    7GEN HZ KAKWA 8-13-63-4              0499346   ALBERTA CROWN        876.9M                          
+    100/08-13-063-04W6/00  N  747.2M  E  682.6M    GRANDE PRAIRIE       6300.0M                         
+    DEV (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       06-23-063-04W6                  
+                                                                                                        
+    7GEN HZ 102 KAKWA 8-13-63-4          0499347   ALBERTA CROWN        877.7M                          
+    102/08-13-063-04W6/00  N  746.8M  E  693.6M    GRANDE PRAIRIE       6300.0M                         
+    DEV (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       06-23-063-04W6                  
+                                                                                                        
+    7GEN HZ 103 KAKWA 8-13-63-4          0499348   ALBERTA CROWN        878.7M                          
+    103/08-13-063-04W6/00  N  746.5M  E  704.6M    GRANDE PRAIRIE       6300.0M                         
+    DEV (C)                              KAKWA                          MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    SEVEN GENERATIONS ENERGY LTD.                                       06-23-063-04W6                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SUNCOR OO9IPB DOVER 13-9-93-12         0409698   AER CLASSIFICATION/CONFIDENTIAL STATUS             
+    110/13-09-093-12W4/02                            DSW (NC)                                           
+
+                                                     SCHEME:                                            
+                                                     8668FF                                             
+
+                                                     TARGET SUBSTANCE                                   
+                                                     Crude Bitumen                                      
+
+                                                     WELL TYPE:                                         
+                                                     Production (Scheme)                                
+
+    IMP OB-45 STEEPBK 7-15-94-7            0487939   UWI:                                               
+    AB/07-15-094-07W4/0                              08/07-15-094-07W4/0                                
+
+                                                     AER CLASSIFICATION/CONFIDENTIAL STATUS             
+                                                     OV (NC)                                            
+
+                                                     GROUND ELEVATION                                   
+                                                     520.50                                             
+
+                                                     PROJECTED DEPTH:                                   
+                                                     265.00                                             
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0640.7 W 0703.4                                  
+
+                                                     TARGET SUBSTANCE                                   
+                                                     Crude Oil                                          
+
+                                                     WELL TYPE:                                         
+                                                     Observation                                        
+
+    IMP OB-46 STEEPBK 7-15-94-7            0487940   UWI:                                               
+    AC/07-15-094-07W4/0                              06/07-15-094-07W4/0                                
+
+                                                     AER CLASSIFICATION/CONFIDENTIAL STATUS             
+                                                     OV (NC)                                            
+
+                                                     GROUND ELEVATION                                   
+                                                     520.40                                             
+
+                                                     PROJECTED DEPTH:                                   
+                                                     264.00                                             
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0518.7 W 0654.3                                  
+
+                                                     TARGET SUBSTANCE                                   
+                                                     Crude Oil                                          
+
+                                                     WELL TYPE:                                         
+                                                     Observation                                        
+
+    IMP OB-47 STEEPBK 7-15-94-7            0487941   UWI:                                               
+    AD/07-15-094-07W4/0                              07/07-15-094-07W4/0                                
+
+                                                     AER CLASSIFICATION/CONFIDENTIAL STATUS             
+                                                     OV (NC)                                            
+
+                                                     PROJECTED DEPTH:                                   
+                                                     261.00                                             
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0407.6 W 0609.2                                  
+
+                                                     TARGET SUBSTANCE                                   
+                                                     Crude Oil                                          
+
+                                                     WELL TYPE:                                         
+                                                     Observation                                        
+
+    IMP OB-48 STEEPBK 6-15-94-7            0487942   UWI:                                               
+    AA/06-15-094-07W4/0                              02/06-15-094-07W4/0                                
+
+                                                     AER CLASSIFICATION/CONFIDENTIAL STATUS             
+                                                     OV (NC)                                            
+
+                                                     PROJECTED DEPTH:                                   
+                                                     266.00                                             
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0584.5 E 0766.9                                  
+
+                                                     TARGET SUBSTANCE                                   
+                                                     Crude Oil                                          
+
+                                                     WELL TYPE:                                         
+                                                     Observation                                        
+
+    IMP OB-49 STEEPBK 7-15-94-7            0487943   UWI:                                               
+    AE/07-15-094-07W4/0                              05/07-15-094-07W4/0                                
+
+                                                     AER CLASSIFICATION/CONFIDENTIAL STATUS             
+                                                     OV (NC)                                            
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0462.5 W 0793.4                                  
+
+                                                     TARGET SUBSTANCE                                   
+                                                     Crude Oil                                          
+
+                                                     WELL TYPE:                                         
+                                                     Observation                                        
+
+    IMP OB-50 STEEPBK 2-15-94-7            0487944   UWI:                                               
+    AA/02-15-094-07W4/0                              02/02-15-094-07W4/0                                
+
+                                                     AER CLASSIFICATION/CONFIDENTIAL STATUS             
+                                                     OV (NC)                                            
+
+                                                     PROJECTED DEPTH:                                   
+                                                     263.00                                             
+
+                                                     REGULATION SECTION:                                
+                                                     2.020                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0351.5 W 0748.2                                  
+
+                                                     TARGET SUBSTANCE                                   
+                                                     Crude Oil                                          
+
+                                                     WELL TYPE:                                         
+                                                     Observation                                        
+
+    CNRL 19A78 RD MOORE 11-1-67-3          0497987   SURFACE CO-ORDINATES:                              
+    115/11-01-067-03W4/00                            N 0759.4 W 0315.3                                  
+
+    CNRL 20A78 RD MOORE 11-1-67-3          0497989   CATEGORY:                                          
+    117/11-01-067-03W4/00                            C280                                               
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0759.2 W 0322.7                                  
+
+    AVN 102 HZ PCOUPES 2-7-77-13           0499053   GROUND ELEVATION                                   
+    102/02-07-077-13W6/00                            756.60                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0671.4 W 0367.2                                  
+
+    MEG AT9I HARDY 10-32-76-5              0499327   AER CLASSIFICATION/CONFIDENTIAL STATUS             
+    104/10-32-076-05W4/00                            Dev (NC)                                           
+
+                                                     SCHEME:                                            
+                                                                                                        
+
+                                                     TARGET SUBSTANCE                                   
+                                                     Water                                              
+
+                                                     WELL TYPE:                                         
+                                                     Injection                                          
+
+    MEG AT10I HARDY 10-32-76-5             0499329   AER CLASSIFICATION/CONFIDENTIAL STATUS             
+    106/10-32-076-05W4/00                            Dev (NC)                                           
+
+                                                     SCHEME:                                            
+                                                                                                        
+
+                                                     TARGET SUBSTANCE                                   
+                                                     Water                                              
+
+                                                     WELL TYPE:                                         
+                                                     Injection                                          
+
+    MEG AT11I HARDY 10-32-76-5             0499331   AER CLASSIFICATION/CONFIDENTIAL STATUS             
+    108/10-32-076-05W4/00                            Dev (NC)                                           
+
+                                                     SCHEME:                                            
+                                                                                                        
+
+                                                     TARGET SUBSTANCE                                   
+                                                     Water                                              
+
+                                                     WELL TYPE:                                         
+                                                     Injection                                          
+
+    MEG AT12I HARDY 10-32-76-5             0499333   AER CLASSIFICATION/CONFIDENTIAL STATUS             
+    110/10-32-076-05W4/00                            Dev (NC)                                           
+
+                                                     SCHEME:                                            
+                                                                                                        
+
+                                                     TARGET SUBSTANCE                                   
+                                                     Water                                              
+
+                                                     WELL TYPE:                                         
+                                                     Injection                                          
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    SPL 15-35 HZ 103 MARTENH 16-26-73-25   0498569   UWI:                                               
+    03/16-26-073-25W4/0                              02/01-35-073-25W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-35 HZ 102 MARTENH 01-35-73-25               
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     01-35-073-25W4                                     
+
+    SPL 15-35 HZ 103 MARTENH 16-26-73-25   0498569   UWI:                                               
+    03/16-26-073-25W4/2                              03/08-35-073-25W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 15-35 HZ 103 MARTENH 8-35-73-25                
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     08-35-073-25W4                                     
+
+    SPL 12-32 HZ NIPISI 9-36-76-8          0498623   UWI:                                               
+    00/09-36-076-08W5/6                              00/16-36-076-08W5/6                                
+
+                                                     WELL NAME:                                         
+                                                     SPL 12-32 HZ NIPISI 16-36-76-8                     
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     16-36-076-08W5                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

@@ -1,0 +1,295 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 27 January 2021                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL RE 5C2 8HZ WILDMERE 5-30-48-5   0467576   ALBERTA CROWN        651.5M                          
+    102/05-30-048-05W4/02  S  342.0M  E  442.2M    WAINWRIGHT           1719.3M                       
+    REN (NC)                             WILDMERE                       GENERAL PETROLEUM MBR           
+    HORIZONTAL                           RESUMPTIONPRODUCTION           CRUDE OIL                       
+    CANADIAN NATURAL RESOURCES LIMITED                                  14-19-048-05W4                  
+                                                                                                        
+    JACOS W08 OB01 HANGSTN 12-13-84-11   0496322   ALBERTA CROWN        613.2M                          
+    100/12-13-084-11W4/00  S  734.1M  E   13.5M    BONNYVILLE           386.9M                        
+    OV (C)                               HANGINGSTONE                   MCMURRAY FM                     
+    VERTICAL                             RESUMPTIONOBSERVATION          NONE                            
+    JAPAN CANADA OIL SANDS LIMITED                                      12-13-084-11W4                  
+                                                                                                        
+    JACOS W07 OB07 HANGSTN 5-24-84-11    0496326   ALBERTA CROWN        592.5M                          
+    100/05-24-084-11W4/00  N  438.5M  W   11.9M    BONNYVILLE           405.0M                          
+    OV (C)                               HANGINGSTONE                   MCMURRAY FM                     
+    DIRECTIONAL                          RESUMPTIONOBSERVATION          NONE                            
+    JAPAN CANADA OIL SANDS LIMITED                                      08-23-084-11W4                  
+                                                                                                        
+    JACOS OV2 HANGSTN 11-24-84-11        0496328   ALBERTA CROWN        590M                            
+    100/11-24-084-11W4/00  S  799.9M  W  662.6M    BONNYVILLE           411.0M                          
+    OV (C)                               HANGINGSTONE                   MCMURRAY FM                     
+    DIRECTIONAL                          RESUMPTIONOBSERVATION          NONE                            
+    JAPAN CANADA OIL SANDS LIMITED                                      10-24-084-11W4                  
+                                                                                                        
+    BEC HZ FBANK 3-24-43-28              0499392   BOTH                 881.2M                          
+    104/03-24-043-28W4/00  S   85.3M  W  263.0M    RED DEER             5010.0M                         
+    DEV (NC)                             FERRYBANK                      UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BONAVISTA ENERGY CORPORATION                                        16-26-043-28W4                  
+                                                                                                        
+    BEC HZ FBANK 2-24-43-28              0499393   BOTH                 881M                            
+    102/02-24-043-28W4/00  S  105.3M  W  263.0M    RED DEER             5069.0M                         
+    DEV (NC)                             FERRYBANK                      UPPER MANNVILLE FM              
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BONAVISTA ENERGY CORPORATION                                        16-26-043-28W4                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    TOURMALINE HZ MINEHEAD 3-18-49-19      0497461   UWI:                                               
+    00/03-18-049-19W5/0                              00/11-18-049-19W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ MINEHEAD 11-18-49-19                 
+
+                                                     PROJECTED DEPTH:                                   
+                                                     6000.00                                            
+
+    YANGARRA HZ FERRIER 3-30-39-9          0499302   UWI:                                               
+    00/03-30-039-09W5/0                              02/03-30-039-08W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     YANGARRA HZ FERRIER 3-30-39-8                      
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    ACL 16-4-59-21 KAYBOBS 1-4-59-21       0410122   WELL NAME:                                         
+    100/01-04-059-21W5/00                            PARA KAYBOBS 1-4-59-21                             
+
+    ACL 16-4-59-21 KAYBOBS 1-4-59-21       0410122   WELL NAME:                                         
+    100/16-04-059-21W5/02                            PARA KAYBOBS 16-4-59-21                            
+
+    HUSKY 3HZ S1 WILDMERE 3-13-48-6        0496104   UWI:                                               
+    00/03-13-048-06W4/0                              00/04-13-048-06W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     HUSKY 3HZ S1 WILDMERE 4-13-48-6                    
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     04-13-048-06W4                                     
+
+    7GEN HZ KARR 13-5-65-5                 0496118   UWI:                                               
+    00/13-05-065-05W6/0                              05/04-08-065-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 105 KARR 4-8-65-5                          
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     04-08-065-05W6                                     
+
+    7GEN HZ 102 KARR 13-5-65-5             0496119   UWI:                                               
+    02/13-05-065-05W6/0                              06/04-08-065-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 106 KARR 4-8-65-5                          
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     04-08-065-05W6                                     
+
+    7GEN HZ 103 KARR 13-5-65-5             0496120   UWI:                                               
+    03/13-05-065-05W6/0                              02/12-08-065-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 102 KARR 12-8-65-5                         
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     12-08-065-05W6                                     
+
+    7GEN HZ KARR 4-8-65-5                  0496121   UWI:                                               
+    00/04-08-065-05W6/0                              00/12-08-065-05W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KARR 12-8-65-5                             
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     12-08-065-05W6                                     
+
+    RHE 100 PERRY 13-20-63-23              0497750   UWI:                                               
+    00/13-20-063-23W4/0                              00/12-19-063-23W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     RHE 100 PERRY 12-19-63-23                          
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     12-19-063-23W4                                     
+
+    TOURMALINE HZ LELAND 12-29-57-27       0498038   UWI:                                               
+    00/12-29-057-27W5/0                              00/09-25-057-27W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ LELAND 9-25-57-27                    
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     09-25-057-27W5                                     
+
+    7GEN HZ KAKWA 12-28-62-4               0498193   UWI:                                               
+    00/12-28-062-04W6/0                              05/10-28-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 105 KAKWA 10-28-62-4                       
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     10-28-062-04W6                                     
+
+    7GEN HZ KAKWA 11-28-62-4               0498195   UWI:                                               
+    00/11-28-062-04W6/0                              00/12-28-061-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 12-28-61-4                           
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     12-28-061-04W6                                     
+
+    7GEN HZ 102 KAKWA 11-28-62-4           0498196   UWI:                                               
+    02/11-28-062-04W6/0                              00/01-22-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 1-22-62-4                            
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     01-22-062-04W6                                     
+
+    7GEN HZ 102 KAKWA 11-28-62-4           0498196   UWI:                                               
+    02/11-28-062-04W6/2                              00/07-28-062-04W6/2                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 7-28-62-4                            
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     07-28-062-04W6                                     
+
+    7GEN HZ 103 KAKWA 11-28-62-4           0498197   UWI:                                               
+    03/11-28-062-04W6/0                              06/10-28-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 106 KAKWA 10-28-62-4                       
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     10-28-062-04W6                                     
+
+    7GEN HZ 103 KAKWA 11-28-62-4           0498197   UWI:                                               
+    03/11-28-062-04W6/2                              06/10-28-062-04W6/2                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 106 KAKWA 10-28-62-4                       
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     10-28-062-04W6                                     
+
+    7GEN HZ 102 KAKWA 16-28-62-4           0498203   UWI:                                               
+    02/16-28-062-04W6/0                              03/15-28-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 103 KAKWA 15-28-62-4                       
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     15-28-062-04W6                                     
+
+    IMP H92-H07 LEMING 8-9-66-4            0498223   UWI:                                               
+    00/08-09-066-04W4/2                              03/05-09-066-04W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     IMP H92-H07 LEMING 5-9-66-4                        
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     05-09-066-04W4                                     
+
+    MODERN HZ KAKWA 16-5-64-8              0498608   UWI:                                               
+    00/16-05-064-08W6/0                              00/14-06-064-08W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     MODERN KAKWA 14-06-64-8                            
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     14-06-064-08W6                                     
+
+    MODERN HZ KAKWA 16-5-64-8              0498608   UWI:                                               
+    00/16-05-064-08W6/2                              00/15-06-064-08W6/2                                
+
+                                                     WELL NAME:                                         
+                                                     MODERN HZ KAKWA 15-6-64-8                          
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     15-06-064-08W6                                     
+
+    RHE 102 PERRY 13-20-63-23              0498936   UWI:                                               
+    02/13-20-063-23W4/0                              02/12-19-063-23W4/0                                
+
+                                                     WELL NAME:                                         
+                                                     RHE 100 PERRY 12-19-63-23                          
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     12-19-063-23W4                                     
+
+    RHE 102 PERRY 13-20-63-23              0498936   UWI:                                               
+    02/13-20-063-23W4/2                              00/16-19-063-23W4/2                                
+
+                                                     WELL NAME:                                         
+                                                     RHE 100 PERRY 16-19-63-23                          
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     16-19-063-23W4                                     
+
+    RHE 102 PERRY 13-20-63-23              0498936   UWI:                                               
+    02/13-20-063-23W4/4                              02/12-20-063-23W4/4                                
+
+                                                     WELL NAME:                                         
+                                                     RHE 100 PERRY 12-20-63-23                          
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     12-20-063-23W4                                     
+
+    RHE 102 PERRY 13-20-63-23              0498936   UWI:                                               
+    02/13-20-063-23W4/5                              02/12-20-063-23W4/5                                
+
+                                                     WELL NAME:                                         
+                                                     RHE 100 PERRY 12-20-63-23                          
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     12-20-063-23W4                                     
+
+    RHE 102 PERRY 13-20-63-23              0498936   UWI:                                               
+    02/13-20-063-23W4/6                              02/12-20-063-23W4/6                                
+
+                                                     WELL NAME:                                         
+                                                     RHE 100 PERRY 12-20-63-23                          
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     12-20-063-23W4                                     
+
+    RHE 102 PERRY 13-20-63-23              0498936   UWI:                                               
+    02/13-20-063-23W4/7                              02/12-20-063-23W4/7                                
+
+                                                     WELL NAME:                                         
+                                                     RHE 100 PERRY 12-20-63-23                          
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     12-20-063-23W4                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

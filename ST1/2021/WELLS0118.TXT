@@ -1,0 +1,103 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 18 January 2021                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    CNRL G 7P RE KIRBY 16-28-73-7        0450797   ALBERTA CROWN        727.5M                          
+    103/16-28-073-07W4/02  S   51.5M  W  466.9M    BONNYVILLE           1946.0M                         
+    DEV (NC)                             KIRBY                          MCMURRAY FM                     
+    HORIZONTAL                           RESUMPTIONPRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CANADIAN NATURAL RESOURCES LIMITED                                  15-21-073-07W4                  
+                                                                                                        
+    TXNE 13D-35 HZ HUSSAR 9-27-25-21     0499293   FREEHOLD             929.7M                          
+    102/09-27-025-21W4/00  S  119.9M  E  253.8M    MIDNAPORE            3600.0M                         
+    DEV (NC)                             HUSSAR                         BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  13-35-025-21W4                  
+                                                                                                        
+    TXNE 13D-35 HZ HUSSAR 13-26-25-21    0499294   FREEHOLD             929.5M                          
+    100/13-26-025-21W4/00  S  119.9M  E  268.8M    MIDNAPORE            3300.0M                         
+    DEV (NC)                             HUSSAR                         BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  13-35-025-21W4                  
+                                                                                                        
+    CEQUENCE HZ SIMON 9-35-61-27         0499295   ALBERTA CROWN        1168.1M                         
+    100/09-35-061-27W5/00  N  156.1M  E  230.6M    GRANDE PRAIRIE       6500.0M                         
+    DEV (C)                              SIMONETTE                      MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CEQUENCE ENERGY LTD.                                                04-10-062-27W5                  
+                                                                                                        
+    CEQUENCE HZ SIMON 11-35-61-27        0499296   ALBERTA CROWN        1168.1M                         
+    100/11-35-061-27W5/00  N  150.1M  E  222.6M    GRANDE PRAIRIE       6500.0M                         
+    DEV (C)                              SIMONETTE                      MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CEQUENCE ENERGY LTD.                                                04-10-062-27W5                  
+                                                                                                        
+    CEQUENCE HZ SIMON 3-35-61-26         0499297   ALBERTA CROWN        1017.8M                         
+    100/03-35-061-26W5/00  N   72.9M  W  106.7M    GRANDE PRAIRIE       6200.0M                         
+    DEV (C)                              SIMONETTE                      MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CEQUENCE ENERGY LTD.                                                01-10-062-26W5                  
+                                                                                                        
+    CEQUENCE HZ SIMON 4-35-61-26         0499298   ALBERTA CROWN        1017.8M                         
+    100/04-35-061-26W5/00  N   64.4M  W  112.0M    GRANDE PRAIRIE       6200.0M                         
+    DEV (C)                              SIMONETTE                      MONTNEY FM                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    CEQUENCE ENERGY LTD.                                                01-10-062-26W5                  
+                                                                                                        
+    LONGSHORE HZ 102 PROVOST 12-23-39-6  0499299   ALBERTA CROWN        690.6M                          
+    102/12-23-039-06W4/00  N  749.6M  E  707.0M    WAINWRIGHT           1775.0M                         
+    DEV (NC)                             PROVOST                        DINA MBR                        
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    LONGSHORE RESOURCES LTD.                                            06-22-039-06W4                  
+                                                                                                        
+    TOURMALINE HZ COLUMBIA 1-1-44-15     0499300   ALBERTA CROWN        1143.8M                         
+    100/01-01-044-15W5/00  N  150.1M  W  122.3M    DRAYTON VALLEY       5000.0M                         
+    DEV (NC)                             COLUMBIA                       NOTIKEWIN MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    TOURMALINE OIL CORP.                                                01-12-044-15W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    PEYTO SUNDANCE 2-22-55-22              0499169   GROUND ELEVATION                                   
+    100/02-22-055-22W5/00                            929.90                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0168.1 W 0233.0                                  
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    ECA ECOG 5C-23 C7 SANDY 5-24-83-20     0405799   SURFACE LOCATION:                                  
+    102/05-24-083-20W4/00                            05-23-083-20W4                                     
+
+    PEYTO SUNDANCE 12-7-55-20              0497603   UWI:                                               
+    03/12-07-055-20W5/0                              00/09-12-055-21W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     PEYTO SUNDANCE 09-12-55-21                         
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     09-12-055-21W5                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 

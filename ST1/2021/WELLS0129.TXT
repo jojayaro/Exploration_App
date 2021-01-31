@@ -1,0 +1,181 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 29 January 2021                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   AER FIELD CENTRE     PROJECTED DEPTH                 
+    AER CLASSIFICATION      FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    PEYTO SUNDANCE 16-6-56-20            0499411   ALBERTA CROWN        1257.3M                         
+    100/16-06-056-20W5/00  N  660.0M  W  212.9M    DRAYTON VALLEY       4350.0M                         
+    DEV (NC)                             SUNDANCE                       NOTIKEWIN MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               08-01-056-21W5                  
+                                                                                                        
+    CVE B02W08-1 LEISMER 15-15-76-6      0499412   ALBERTA CROWN        566.5M                          
+    113/15-15-076-06W4/00  S  581.6M  W  276.8M    BONNYVILLE           1840.0M                         
+    DEV (NC)                             LEISMER                        MCMURRAY FM                     
+    HORIZONTAL                           NEW       PRODUCTION (SCHEME)  CRUDE BITUMEN                   
+    CENOVUS ENERGY INC.                                                 09-16-076-06W4                  
+                                                                                                        
+    TXNE 3A-30 HZ ALDSON 3-19-14-13      0499413   FREEHOLD             748.4M                          
+    100/03-19-014-13W4/00  N  180.5M  E  758.0M    MEDICINE HAT         2850.0M                         
+    DEV (NC)                             ALDERSON                       ELLERSLIE MBR                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  03-30-014-13W4                  
+                                                                                                        
+    CREW HZ SWIMMING 13-13-52-7          0499414   BOTH                 622.8M                          
+    100/13-13-052-07W4/00  S  229.9M  W  177.2M    WAINWRIGHT           2400.0M                         
+    DEV (C)                              SWIMMING                       REX MBR                         
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CREW ENERGY INC.                                                    16-11-052-07W4                  
+                                                                                                        
+    CREW HZ SWIMMING 15-14-52-7          0499415   ALBERTA CROWN        622.5M                          
+    100/15-14-052-07W4/00  S  214.9M  W  177.1M    WAINWRIGHT           2400.0M                         
+    DEV (C)                              SWIMMING                       REX MBR                         
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CREW ENERGY INC.                                                    16-11-052-07W4                  
+                                                                                                        
+    CREW HZ SWIMMING 9-12-52-7           0499416   ALBERTA CROWN        623.5M                          
+    100/09-12-052-07W4/00  S  259.9M  W  177.2M    WAINWRIGHT           2400.0M                         
+    DEV (C)                              SWIMMING                       REX MBR                         
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    CREW ENERGY INC.                                                    16-11-052-07W4                  
+                                                                                                        
+    WOODCOTE2 102 NIPISI 14-26-76-8      0499417   ALBERTA CROWN        685.4M                          
+    102/14-26-076-08W5/00  S  402.6M  E  117.6M    ST. ALBERT           2500.0M                         
+    XPL (C)                              UNDEFINED                      CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WOODCOTE PETROLEUM INC.                                             12-23-076-08W5                  
+                                                                                                        
+    TXNE 5C-33 HZ ALDSON 5-29-15-15      0499418   FREEHOLD             773M                            
+    100/05-29-015-15W4/00  N  725.7M  E   97.0M    MEDICINE HAT         3500.0M                         
+    DEV (NC)                             ALDERSON                       BASAL QUARTZ SD                 
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORXEN ENERGY LTD.                                                  05-33-015-15W4                  
+                                                                                                        
+    BAYTEX HZ FERRIER 8-7-43-11          0499419   ALBERTA CROWN        1130.1M                         
+    100/08-07-043-11W5/00  S  130.6M  E  628.2M    RED DEER             5800.0M                         
+    DEV (C)                              FERRIER                        FALHER MBR                      
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    BAYTEX ENERGY LTD.                                                  14-36-042-12W5                  
+                                                                                                        
+    WOODCOTE2 NIPISI 16-27-76-8          0499420   ALBERTA CROWN        685.5M                          
+    100/16-27-076-08W5/00  S  394.4M  E  123.3M    ST. ALBERT           2500.0M                         
+    XPL (C)                              UNDEFINED                      CLEARWATER FM                   
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    WOODCOTE PETROLEUM INC.                                             13-23-076-08W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    CNRL 20A77 RD MOORE 3-1-67-3           0497992   GROUND ELEVATION                                   
+    108/03-01-067-03W4/00                            654.80                                             
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     S 0241.9 W 1635.2                                  
+
+    WELL LICENCES UPDATED
+    ---------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    7GEN HZ 103 KAKWA 4-14-64-5            0338018   WELL NAME:                                         
+    100/04-14-064-05W6/03                            7GEN HZ KAKWA 4-14-64-5                            
+
+    7GEN HZ KAKWA 6-14-64-5                0338018   UWI:                                               
+    02/06-14-064-05W6/3                              00/04-14-064-05W6/3                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 4-14-64-5                            
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     04-14-064-05W6                                     
+
+    OBE HZ WILLGR 5-33-43-8                0497494   UWI:                                               
+    00/05-33-043-08W5/0                              02/12-33-043-08W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     OBE 102 HZ WILLGR 12-33-43-8                       
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     12-33-043-08W5                                     
+
+    TOURMALINE HZ LELAND 9-25-57-27        0498038   UWI:                                               
+    00/09-25-057-27W5/0                              00/09-25-057-01W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ SMOKY 9-25-57-1                      
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     09-25-057-01W6                                     
+
+    TOURMALINE HZ LELAND 12-29-57-27       0498038   UWI:                                               
+    00/12-29-057-27W5/0                              00/09-25-057-01W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     TOURMALINE HZ SMOKY 9-25-57-1                      
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     09-25-057-01W6                                     
+
+    7GEN HZ KAKWA 12-28-61-4               0498195   UWI:                                               
+    00/12-28-061-04W6/0                              03/12-28-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 103 KAKWA 12-28-62-4                       
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     12-28-062-04W6                                     
+
+    7GEN HZ KAKWA 11-28-62-4               0498195   UWI:                                               
+    00/11-28-062-04W6/0                              03/12-28-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 103 KAKWA 12-28-62-4                       
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     12-28-062-04W6                                     
+
+    7GEN HZ KAKWA 12-29-62-4               0498195   UWI:                                               
+    00/12-29-062-04W6/0                              03/12-28-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ 103 KAKWA 12-28-62-4                       
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     12-28-062-04W6                                     
+
+    7GEN HZ 106 KAKWA 10-28-62-4           0498197   UWI:                                               
+    06/10-28-062-04W6/0                              00/14-22-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 14-22-62-4                           
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     14-22-062-04W6                                     
+
+    7GEN HZ 103 KAKWA 11-28-62-4           0498197   UWI:                                               
+    03/11-28-062-04W6/0                              00/14-22-062-04W6/0                                
+
+                                                     WELL NAME:                                         
+                                                     7GEN HZ KAKWA 14-22-62-4                           
+
+                                                     BOTTOMHOLE LOCATION                                
+                                                     14-22-062-04W6                                     
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 
