@@ -1,11 +1,3 @@
-# Python scripts to parse data from AER ST1 and ST49 Reports
+# Parser written in Python for Alberta Energy Regulator ST1 and ST49 Reports
 
-## Update 22-08-2021
-All the data was moved to a MongoDB Database and now the script downloads the text files daily, parses them, and inserts the data into the database.
-
-App in the following link pulls the data directly from database to simplify the whole process.
-
-https://github.com/jojayaro/Exploration_Data_Container
-
-## Next Steps
-- ?
+This is my first coding project. I decided to take on this challenge since I was interested in ingesting this data every day automatically. The challenge was that the files are text files with some structure and I needed the data in tabular format. This is no longer maintained since I decided to take up on learning Rust. I will be finishing this project in Rust to make it a more complete solution that performs all the original tasks in a single artifact. Follow up on this [repo](https://github.com/jojayaro/aer_parser)
